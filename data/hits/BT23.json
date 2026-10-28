@@ -1,0 +1,146 @@
+[
+  {
+    "id": "443145",
+    "name": "Just Eat store 443145",
+    "uniqueName": "",
+    "address": "",
+    "postalCode": "",
+    "lat": null,
+    "lng": null,
+    "url": "",
+    "items": [
+      {
+        "name": "Christmas Chips",
+        "pricePence": 850
+      }
+    ],
+    "foundIn": [
+      "BT23"
+    ],
+    "located": false
+  },
+  {
+    "id": "197652",
+    "name": "J's Plaice",
+    "uniqueName": "js-plaice-comber",
+    "address": "43 South Street, Newtownards, BT23 4JT",
+    "postalCode": "BT23 4JT",
+    "lat": 54.591755,
+    "lng": -5.696792,
+    "url": "https://www.just-eat.co.uk/restaurants-js-plaice-comber/menu",
+    "items": [
+      {
+        "name": "Christmas Chips",
+        "pricePence": 1045
+      }
+    ],
+    "foundIn": [
+      "BT23"
+    ],
+    "located": true
+  },
+  {
+    "id": "114762",
+    "name": "Just Eat store 114762",
+    "uniqueName": "",
+    "address": "",
+    "postalCode": "",
+    "lat": null,
+    "lng": null,
+    "url": "",
+    "items": [
+      {
+        "name": "Christmas Chip",
+        "pricePence": 1195
+      },
+      {
+        "name": "Festive Chip",
+        "pricePence": 1195
+      }
+    ],
+    "foundIn": [
+      "BT23"
+    ],
+    "located": false
+  },
+  {
+    "id": "135191",
+    "name": "Just Eat store 135191",
+    "uniqueName": "",
+    "address": "",
+    "postalCode": "",
+    "lat": null,
+    "lng": null,
+    "url": "",
+    "items": [
+      {
+        "name": "Christmas Chip",
+        "pricePence": 1175
+      }
+    ],
+    "foundIn": [
+      "BT23"
+    ],
+    "located": false
+  },
+  {
+    "id": "226433",
+    "name": "The Ranch",
+    "uniqueName": "the-ranch-comber",
+    "address": "31 West Street, Newtownards, BT23 4EN",
+    "postalCode": "BT23 4EN",
+    "lat": 54.595091,
+    "lng": -5.699492,
+    "url": "https://www.just-eat.co.uk/restaurants-the-ranch-comber/menu",
+    "items": [
+      {
+        "name": "Xmas Chip",
+        "pricePence": 900
+      }
+    ],
+    "foundIn": [
+      "BT23"
+    ],
+    "located": true
+  },
+  {
+    "id": "446764",
+    "name": "Ards Fish & Chip Co",
+    "uniqueName": "ards-fish-and-chip-co-comber-bt23",
+    "address": "5-7 Old Cross St,, Newtownards, BT23 7NW",
+    "postalCode": "BT23 7NW",
+    "lat": 54.591472,
+    "lng": -5.69311,
+    "url": "https://www.just-eat.co.uk/restaurants-ards-fish-and-chip-co-comber-bt23/menu",
+    "items": [
+      {
+        "name": "Festive Chip",
+        "pricePence": 1095
+      }
+    ],
+    "foundIn": [
+      "BT23"
+    ],
+    "located": true
+  },
+  {
+    "id": "230626",
+    "name": "Just Eat store 230626",
+    "uniqueName": "",
+    "address": "",
+    "postalCode": "",
+    "lat": null,
+    "lng": null,
+    "url": "",
+    "items": [
+      {
+        "name": "Festive Chip",
+        "pricePence": 950
+      }
+    ],
+    "foundIn": [
+      "BT23"
+    ],
+    "located": false
+  }
+]

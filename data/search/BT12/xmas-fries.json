@@ -1,0 +1,31 @@
+{
+  "restaurants": [
+    {
+      "restaurantId": "163618",
+      "products": [
+        {
+          "fullName": "Xmas Loaded Fries",
+          "price": 1500
+        }
+      ]
+    },
+    {
+      "restaurantId": "303077",
+      "products": [
+        {
+          "fullName": "Xmas Chips",
+          "price": 1195
+        }
+      ]
+    },
+    {
+      "restaurantId": "63645",
+      "products": [
+        {
+          "fullName": "Fallone\u2019S Xmas Chips",
+          "price": 1495
+        }
+      ]
+    }
+  ]
+}

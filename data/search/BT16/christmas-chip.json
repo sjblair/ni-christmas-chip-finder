@@ -1,0 +1,48 @@
+{
+  "restaurants": [
+    {
+      "restaurantId": "443145",
+      "products": [
+        {
+          "fullName": "Christmas Chips",
+          "price": 850
+        }
+      ]
+    },
+    {
+      "restaurantId": "297410",
+      "products": [
+        {
+          "fullName": "Christmas Fries",
+          "price": 1500
+        }
+      ]
+    },
+    {
+      "restaurantId": "112089",
+      "products": [
+        {
+          "fullName": "Christmas Chip",
+          "price": 1295
+        }
+      ]
+    },
+    {
+      "restaurantId": "72732",
+      "products": [
+        {
+          "fullName": "Christmas Chip",
+          "price": 895
+        },
+        {
+          "fullName": "Christmas Chips",
+          "price": 1099
+        }
+      ]
+    },
+    {
+      "restaurantId": "438613",
+      "products": []
+    }
+  ]
+}

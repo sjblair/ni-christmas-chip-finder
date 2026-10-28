@@ -1,0 +1,22 @@
+[
+  {
+    "id": "270617",
+    "name": "Just Eat store 270617",
+    "uniqueName": "",
+    "address": "",
+    "postalCode": "",
+    "lat": null,
+    "lng": null,
+    "url": "",
+    "items": [
+      {
+        "name": "Festive Loaded Chips",
+        "pricePence": 1290
+      }
+    ],
+    "foundIn": [
+      "BT35"
+    ],
+    "located": false
+  }
+]

@@ -1,0 +1,77 @@
+{
+  "restaurants": [
+    {
+      "restaurantId": "122218",
+      "products": []
+    },
+    {
+      "restaurantId": "69453",
+      "products": []
+    },
+    {
+      "restaurantId": "69959",
+      "products": []
+    },
+    {
+      "restaurantId": "230781",
+      "products": [
+        {
+          "fullName": "Christmas Chips",
+          "price": 1100
+        },
+        {
+          "fullName": "Christmas Chips",
+          "price": 1100
+        }
+      ]
+    },
+    {
+      "restaurantId": "246993",
+      "products": [
+        {
+          "fullName": "Christmas Chips",
+          "price": 1100
+        },
+        {
+          "fullName": "Christmas Burger",
+          "price": 1095
+        }
+      ]
+    },
+    {
+      "restaurantId": "283219",
+      "products": [
+        {
+          "fullName": "Christmas Chip",
+          "price": 1000
+        }
+      ]
+    },
+    {
+      "restaurantId": "245207",
+      "products": [
+        {
+          "fullName": "Christmas Chip",
+          "price": 1359
+        }
+      ]
+    },
+    {
+      "restaurantId": "299470",
+      "products": [
+        {
+          "fullName": "New!! Christmas Chips \ud83c\udf84\ud83c\udf84\ud83c\udf81\ud83c\udf81",
+          "price": 1455
+        }
+      ]
+    },
+    {
+      "restaurantId": "438613",
+      "products": []
+    },
+    {
+      "restaurantId": "274726",
+      "products": []
+    }
+  ]
+}

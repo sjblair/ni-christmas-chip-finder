@@ -1,0 +1,13 @@
+{
+  "restaurants": [
+    {
+      "restaurantId": "230626",
+      "products": [
+        {
+          "fullName": "Festive Chip",
+          "price": 950
+        }
+      ]
+    }
+  ]
+}

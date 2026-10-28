@@ -1,0 +1,1262 @@
+{
+  "179716": {
+    "id": "179716",
+    "name": "Four Star Pizza (Dundonald)",
+    "uniqueName": "four-star-pizza-dundonald-dundonald",
+    "firstLine": "Unit 3, Hanwood Shopping Centre",
+    "city": "Dundonald",
+    "postalCode": "BT16 1DE",
+    "lng": -5.82454,
+    "lat": 54.58909
+  },
+  "225554": {
+    "id": "225554",
+    "name": "The Pizza Co. - Newtownards Road",
+    "uniqueName": "the-pizza-co-ballyrushboy-bt4",
+    "firstLine": "Unit 1 370-374 Upper Newtownards Road",
+    "city": "Belfast",
+    "postalCode": "BT4 3EY",
+    "lng": -5.86785,
+    "lat": 54.59534
+  },
+  "429675": {
+    "id": "429675",
+    "name": "Papa Johns - Newtownards Road",
+    "uniqueName": "papa-johns-pizza--newtownards-road-ballyrushboy",
+    "firstLine": "unit 3, Upper Newtownards Road",
+    "city": "Belfast",
+    "postalCode": "BT4 3JD",
+    "lng": -5.869958,
+    "lat": 54.595615
+  },
+  "223489": {
+    "id": "223489",
+    "name": "Food Joint",
+    "uniqueName": "food-joint-dundonald-bt16",
+    "firstLine": "736a Upper Newtownards Road\nDundonald",
+    "city": "Belfast",
+    "postalCode": "BT16 1RJ",
+    "lng": -5.805334,
+    "lat": 54.594713
+  },
+  "289198": {
+    "id": "289198",
+    "name": "The Shawarma",
+    "uniqueName": "the-shawarma-ballyrushboy-bt4",
+    "firstLine": "53 Holywood Road",
+    "city": "Belfast",
+    "postalCode": "BT4 3BA",
+    "lng": -5.886638,
+    "lat": 54.598161
+  },
+  "151458": {
+    "id": "151458",
+    "name": "McDonald's\u00ae - Dundonald F/s",
+    "uniqueName": "mcdonalds-dundonaldbelfast",
+    "firstLine": "919 Upper Newtownards Road",
+    "city": "Dundonald",
+    "postalCode": "BT16 1RQ",
+    "lng": -5.80881,
+    "lat": 54.5945
+  },
+  "93869": {
+    "id": "93869",
+    "name": "Valentino's",
+    "uniqueName": "valentinos-comber",
+    "firstLine": "Unit 3, 158 Donaghadee Road",
+    "city": "Newtownards",
+    "postalCode": "BT23 7QP",
+    "lng": -5.670761,
+    "lat": 54.606548
+  },
+  "228830": {
+    "id": "228830",
+    "name": "Apache pizza (Dundonald)",
+    "uniqueName": "apache-pizza-dundonald-dundonald",
+    "firstLine": "63 Comber Road\nDundonald",
+    "city": "Belfast",
+    "postalCode": "BT16 2AE",
+    "lng": -5.811238,
+    "lat": 54.592491
+  },
+  "38268": {
+    "id": "38268",
+    "name": "Chillies",
+    "uniqueName": "chillies-bt20",
+    "firstLine": "20 High Street",
+    "city": "Bangor",
+    "postalCode": "BT20 5AY",
+    "lng": -5.6668,
+    "lat": 54.663447
+  },
+  "202905": {
+    "id": "202905",
+    "name": "Trap Kebabs",
+    "uniqueName": "trap-kebabs-ballymagarry",
+    "firstLine": "Unit 18, Blackstaff Mill. 81 Springfield Road",
+    "city": "Belfast",
+    "postalCode": "BT12 7AE",
+    "lng": -5.95719,
+    "lat": 54.59796
+  },
+  "101786": {
+    "id": "101786",
+    "name": "Tim Hortons - Belfast Connswater",
+    "uniqueName": "timhortonsukconnswater-lisnasharragh",
+    "firstLine": "Pavillion Unit 2 Connswater Retail Park",
+    "city": "Belfast",
+    "postalCode": "BT5 5DL",
+    "lng": -5.893906,
+    "lat": 54.596876
+  },
+  "298891": {
+    "id": "298891",
+    "name": "KHAN'S",
+    "uniqueName": "khans-comber",
+    "firstLine": "28 South Street",
+    "city": "Newtownards",
+    "postalCode": "BT23 4JT",
+    "lng": -5.696462,
+    "lat": 54.591807
+  },
+  "229812": {
+    "id": "229812",
+    "name": "Alis Kebab and Pizza",
+    "uniqueName": "alis-kebab-and-pizza-ballymagarry",
+    "firstLine": "Unit 18a Blackstaff Complex, 81 Springfield Road",
+    "city": "Belfast",
+    "postalCode": "BT12 7AE",
+    "lng": -5.957137,
+    "lat": 54.59797
+  },
+  "203971": {
+    "id": "203971",
+    "name": "Paradise Pizza",
+    "uniqueName": "paradise-pizza-ballymagarry",
+    "firstLine": "Unit 18, Blackstaff Mill, 81 Springfield Road",
+    "city": "Belfast",
+    "postalCode": "BT12 7AE",
+    "lng": -5.956984,
+    "lat": 54.597608
+  },
+  "309011": {
+    "id": "309011",
+    "name": "The Pizza Co. - Knock Road",
+    "uniqueName": "the-pizza-co-lisnasharragh",
+    "firstLine": "Units 2&3,Knockgowan House,224-226 Knock Rd",
+    "city": "Belfast",
+    "postalCode": "BT5 6QD",
+    "lng": -5.872615,
+    "lat": 54.578032
+  },
+  "181671": {
+    "id": "181671",
+    "name": "Munchies Treats & Shakes",
+    "uniqueName": "munchies-treats-and-shakes-ballymagee",
+    "firstLine": "14 Gray's Hill",
+    "city": "Bangor",
+    "postalCode": "BT20 3BB",
+    "lng": -5.67222,
+    "lat": 54.662204
+  },
+  "255160": {
+    "id": "255160",
+    "name": "Kebab Express",
+    "uniqueName": "kebab-express-ballyrushboy",
+    "firstLine": "364A Newtownards Road",
+    "city": "Belfast",
+    "postalCode": "BT4 1HG",
+    "lng": -5.892989,
+    "lat": 54.598321
+  },
+  "219398": {
+    "id": "219398",
+    "name": "Suga Crush",
+    "uniqueName": "suga-crush-ballymagarry",
+    "firstLine": "Unit 18a Blackstaff Mill, 81 Springfield Road",
+    "city": "Belfast",
+    "postalCode": "BT12 7AE",
+    "lng": -5.956984,
+    "lat": 54.597608
+  },
+  "240928": {
+    "id": "240928",
+    "name": "Oliva Doner & Pizza Land",
+    "uniqueName": "oliva-doner--pizza-land-castlereagh",
+    "firstLine": "396 Woodstock Road",
+    "city": "Belfast",
+    "postalCode": "BT6 9DQ",
+    "lng": -5.9002,
+    "lat": 54.587525
+  },
+  "257013": {
+    "id": "257013",
+    "name": "Expresso Pizza & Kebabs",
+    "uniqueName": "expresso-pizza-and-kebabs-ballyrushboy-bt4",
+    "firstLine": "364A Newtownards Road",
+    "city": "Belfast",
+    "postalCode": "BT4 1HG",
+    "lng": -5.893068,
+    "lat": 54.598309
+  },
+  "53617": {
+    "id": "53617",
+    "name": "Kebab House Ballyhackmore",
+    "uniqueName": "kebab-house-ballyhackmore-ballyrushboy",
+    "firstLine": "211 Upper Newtownards Road",
+    "city": "Belfast",
+    "postalCode": "BT4 3JD",
+    "lng": -5.869695,
+    "lat": 54.595106
+  },
+  "427759": {
+    "id": "427759",
+    "name": "Turkish Kebab Pizza House",
+    "uniqueName": "turkish-kebab-pizza-house-lisnasharragh-bt5-2",
+    "firstLine": "346 Beersbridge Road",
+    "city": "Belfast",
+    "postalCode": "BT5 5DY",
+    "lng": -5.887353,
+    "lat": 54.593711
+  },
+  "443145": {
+    "id": "443145",
+    "name": "The Snack Shack- Bangor",
+    "uniqueName": "the-snack-shack-ballymagee",
+    "firstLine": "14 Gray's Hill",
+    "city": "Bangor",
+    "postalCode": "BT20 3BB",
+    "lng": -5.672979,
+    "lat": 54.661876
+  },
+  "115743": {
+    "id": "115743",
+    "name": "Subway - Dundonald",
+    "uniqueName": "subway-dundonald",
+    "firstLine": "Unit 1 734 Upper Newtownards Road Dundonald",
+    "city": "Belfast",
+    "postalCode": "BT16 1RJ",
+    "lng": -5.80524,
+    "lat": 54.594739
+  },
+  "264020": {
+    "id": "264020",
+    "name": "Belfast Breakfast Baps",
+    "uniqueName": "belfast-breakfast-baps-castlereagh",
+    "firstLine": "353 Woodstock Road",
+    "city": "Belfast",
+    "postalCode": "BT6 8PT",
+    "lng": -5.90102,
+    "lat": 54.588228
+  },
+  "190244": {
+    "id": "190244",
+    "name": "Pizza Crew - Ormeau Rd",
+    "uniqueName": "pizza-guyz-ballynafoy",
+    "firstLine": "463 Ormeau Road",
+    "city": "Belfast",
+    "postalCode": "BT7 3GR",
+    "lng": -5.916995,
+    "lat": 54.575146
+  },
+  "199846": {
+    "id": "199846",
+    "name": "Asda Superstore - Dundonald",
+    "uniqueName": "asda---dundonald-dundonald",
+    "firstLine": "1009 Upper Newtownards Road",
+    "city": "Dundonald",
+    "postalCode": "BT16 1RN",
+    "lng": -5.802061,
+    "lat": 54.593728
+  },
+  "428157": {
+    "id": "428157",
+    "name": "Mama Nimi Taste of Naija",
+    "uniqueName": "mama-nimi-low-wood",
+    "firstLine": "194 Duncairn Gardens",
+    "city": "Belfast",
+    "postalCode": "BT15 2GN",
+    "lng": -5.934281,
+    "lat": 54.613886
+  },
+  "446764": {
+    "id": "446764",
+    "name": "Ards Fish & Chip Co",
+    "uniqueName": "ards-fish-and-chip-co-comber-bt23",
+    "firstLine": "5-7 Old Cross St,",
+    "city": "Newtownards",
+    "postalCode": "BT23 7NW",
+    "lng": -5.69311,
+    "lat": 54.591472
+  },
+  "95527": {
+    "id": "95527",
+    "name": "John Dory's - Dundonald",
+    "uniqueName": "john-dorys--dundonald-dundonald",
+    "firstLine": "755 Upper Newtownards Road",
+    "city": "Dundonald",
+    "postalCode": "BT16 1LA",
+    "lng": -5.801835,
+    "lat": 54.595107
+  },
+  "269319": {
+    "id": "269319",
+    "name": "Mos Pizza (formerly Marios)",
+    "uniqueName": "mos-pizza-dundonald",
+    "firstLine": "5 Church Road\r\nCastlereagh",
+    "city": "Belfast",
+    "postalCode": "BT16 2LN",
+    "lng": -5.80454,
+    "lat": 54.594236
+  },
+  "431764": {
+    "id": "431764",
+    "name": "Turkish Kebab & Pizza House Dundonald",
+    "uniqueName": "turkish-kebab-and-pizza-house-dundonald-dundonald-bt16",
+    "firstLine": "993 Upper Newtownards Road\nDundonald",
+    "city": "Belfast",
+    "postalCode": "BT16 1RN",
+    "lng": -5.803518,
+    "lat": 54.594421
+  },
+  "117743": {
+    "id": "117743",
+    "name": "Cinnamon Restaurant (NEW)",
+    "uniqueName": "cinnamon-restaurantnew-dundonald",
+    "firstLine": "47 Comber Road Dundonald",
+    "city": "Belfast",
+    "postalCode": "BT16 2AA",
+    "lng": -5.812051,
+    "lat": 54.593048
+  },
+  "314211": {
+    "id": "314211",
+    "name": "Monsoon",
+    "uniqueName": "monsoon-dundonald-comber-road",
+    "firstLine": "37a Comber Road\nDundonald",
+    "city": "Belfast",
+    "postalCode": "BT16 2AA",
+    "lng": -5.812457,
+    "lat": 54.593242
+  },
+  "177467": {
+    "id": "177467",
+    "name": "Domino's - Belfast - East Point Entertainment",
+    "uniqueName": "dominosbelfasteastpointentertainment-dundonald",
+    "firstLine": "Ut 1a East Point, Entertainment Village, Dundonald",
+    "city": "Belfast",
+    "postalCode": "BT16 1YG",
+    "lng": -5.821286,
+    "lat": 54.589404
+  },
+  "168222": {
+    "id": "168222",
+    "name": "Tale of Spice",
+    "uniqueName": "tale-of-spice-new-dundonald",
+    "firstLine": "2B Omnipark Dundonald",
+    "city": "Belfast",
+    "postalCode": "BT16 1YG",
+    "lng": -5.821981,
+    "lat": 54.58938
+  },
+  "215978": {
+    "id": "215978",
+    "name": "Co-op - Gilnahirk",
+    "uniqueName": "co-op---gilnahirk-lisnasharragh",
+    "firstLine": "Kings Road",
+    "city": "Belfast",
+    "postalCode": "BT5 7EJ",
+    "lng": -5.846063,
+    "lat": 54.589219
+  },
+  "117508": {
+    "id": "117508",
+    "name": "Sugar Rays",
+    "uniqueName": "sugarrays-dundonald",
+    "firstLine": "Unit 8 eastpoint, Old Dundonald Road",
+    "city": "Dundonald",
+    "postalCode": "BT16 1XT",
+    "lng": -5.822697,
+    "lat": 54.588692
+  },
+  "300278": {
+    "id": "300278",
+    "name": "CHICK \u2018N\u2019 DIP from Domino\u2019s - Belfast - East Point",
+    "uniqueName": "chick-n-dip-from-dominos---belfast---east-point-dundonald",
+    "firstLine": "Dominos, Ut 1a East Point, Entertainment Village",
+    "city": "Belfast",
+    "postalCode": "BT16 1YG",
+    "lng": -5.822377,
+    "lat": 54.589339
+  },
+  "305692": {
+    "id": "305692",
+    "name": "Valley Hill Chinese",
+    "uniqueName": "valley-hill-chinese-ballyrushboy-bt4-1",
+    "firstLine": "477 Upper Newtownards Road",
+    "city": "Belfast",
+    "postalCode": "BT4 3LJ",
+    "lng": -5.85017,
+    "lat": 54.594261
+  },
+  "275349": {
+    "id": "275349",
+    "name": "The Yeti Cafe at Dundonald Ice Bowl",
+    "uniqueName": "the-yeti-cafe-at-dundonald-ice-bowl-dundonald",
+    "firstLine": "111 Old Dundonald Rd, Dundonald",
+    "city": "Belfast",
+    "postalCode": "BT16 1XT",
+    "lng": -5.81819,
+    "lat": 54.587134
+  },
+  "279491": {
+    "id": "279491",
+    "name": "Coffee Shack Dundonald",
+    "uniqueName": "coffee-shack-dundonald-dundonald",
+    "firstLine": "12 Comber Road",
+    "city": "Belfast",
+    "postalCode": "BT16 2RE",
+    "lng": -5.814854,
+    "lat": 54.594396
+  },
+  "72480": {
+    "id": "72480",
+    "name": "KFC Ballyhackmore",
+    "uniqueName": "kfc-ballyhackmore",
+    "firstLine": "327-329 Upper Newtownards Road",
+    "city": "Belfast",
+    "postalCode": "BT5 6HX",
+    "lng": -5.86314,
+    "lat": 54.594755
+  },
+  "424540": {
+    "id": "424540",
+    "name": "SuperValu - Kings Square",
+    "uniqueName": "supervalu-kings-square-lisnasharragh",
+    "firstLine": "13 Kings Square",
+    "city": "Belfast",
+    "postalCode": "BT5 7EA",
+    "lng": -5.844315,
+    "lat": 54.589769
+  },
+  "105543": {
+    "id": "105543",
+    "name": "Subway - Ballyhackamore",
+    "uniqueName": "subwayballyhackamore-ballyrushboy",
+    "firstLine": "276 Newtownards Road",
+    "city": "Belfast",
+    "postalCode": "BT4 3EU",
+    "lng": -5.872537,
+    "lat": 54.595614
+  },
+  "222653": {
+    "id": "222653",
+    "name": "Madisons Sandwich Co.",
+    "uniqueName": "madisons-sandwich-co-ballyrushboy",
+    "firstLine": "39A Holywood Road",
+    "city": "Belfast",
+    "postalCode": "BT4 3BA",
+    "lng": -5.887114,
+    "lat": 54.59809
+  },
+  "422733": {
+    "id": "422733",
+    "name": "Fish & Chicken House",
+    "uniqueName": "fish-and-chicken-house-ballyrushboy",
+    "firstLine": "346 Upper Newtownards Road",
+    "city": "Belfast",
+    "postalCode": "BT4 3EX",
+    "lng": -5.869036,
+    "lat": 54.5954
+  },
+  "217993": {
+    "id": "217993",
+    "name": "Ichiban Sushi Teppanyaki",
+    "uniqueName": "ichiban-sushi-teppanyaki-comber",
+    "firstLine": "25A High Street",
+    "city": "Newtownards",
+    "postalCode": "BT23 7HS",
+    "lng": -5.695992,
+    "lat": 54.592908
+  },
+  "5864": {
+    "id": "5864",
+    "name": "Akash Indian",
+    "uniqueName": "akash-indian",
+    "firstLine": "24 Mill Street",
+    "city": "Comber",
+    "postalCode": "BT23 5EQ",
+    "lng": -5.75168,
+    "lat": 54.551441
+  },
+  "185724": {
+    "id": "185724",
+    "name": "Pizza Express Pizza & Pasta - Belfast",
+    "uniqueName": "pizzaexpress-belfast-ballyhackamore-ballyrushboy",
+    "firstLine": "Unit 1,376-378 Upper Newtownards Rd,Ballyhackamore",
+    "city": "Belfast",
+    "postalCode": "BT4 3FB",
+    "lng": -5.867291,
+    "lat": 54.595313
+  },
+  "174216": {
+    "id": "174216",
+    "name": "Caff\u00e8 Nero - Ballyhackamore",
+    "uniqueName": "caffe-nero---ballyhackamore-ballyrushboy",
+    "firstLine": "Unit 2, 376/378 Upper Newtownards Road",
+    "city": "Belfast",
+    "postalCode": "BT4 3FB",
+    "lng": -5.86743,
+    "lat": 54.595345
+  },
+  "118590": {
+    "id": "118590",
+    "name": "No.36",
+    "uniqueName": "no36-ballyrushboy",
+    "firstLine": "36a Belmont Road",
+    "city": "Belfast",
+    "postalCode": "BT4 2AN",
+    "lng": -5.8761627,
+    "lat": 54.6005136
+  },
+  "247801": {
+    "id": "247801",
+    "name": "RAJPUT",
+    "uniqueName": "rajput---ballyrushboy",
+    "firstLine": "205 Upper Newtownards Road",
+    "city": "Belfast",
+    "postalCode": "BT4 3JD",
+    "lng": -5.869638,
+    "lat": 54.595059
+  },
+  "106654": {
+    "id": "106654",
+    "name": "Eastern Tandoori",
+    "uniqueName": "eastern-tandoori-new-comber",
+    "firstLine": "16a Castle Street",
+    "city": "Newtownards",
+    "postalCode": "BT23 7PA",
+    "lng": -5.691596,
+    "lat": 54.591548
+  },
+  "136555": {
+    "id": "136555",
+    "name": "Cargo Coffee",
+    "uniqueName": "cargocoffee-ballymagee",
+    "firstLine": "16 Belfast Road",
+    "city": "Bangor",
+    "postalCode": "BT20 3PX",
+    "lng": -5.678366,
+    "lat": 54.656366
+  },
+  "247237": {
+    "id": "247237",
+    "name": "Kanagawa Sushi and Ramen Ballyhackamore",
+    "uniqueName": "kanagawa-ballyhackamore-sushi-ramen-",
+    "firstLine": "239 Upper Newtownards Road",
+    "city": "Belfast",
+    "postalCode": "BT4 3JF",
+    "lng": -5.868124,
+    "lat": 54.59504
+  },
+  "192698": {
+    "id": "192698",
+    "name": "Sake Sushi & Asian Fusion",
+    "uniqueName": "sake-sushi-and-asian-fusion-ballyrushboy",
+    "firstLine": "2c Grampian Avenue",
+    "city": "Belfast",
+    "postalCode": "BT4 3AB",
+    "lng": -5.885923,
+    "lat": 54.598383
+  },
+  "150858": {
+    "id": "150858",
+    "name": "Tesco Cafe - Bangor",
+    "uniqueName": "tescocafe-bangorbt19",
+    "firstLine": "Killeen Avenue",
+    "city": "Bangor",
+    "postalCode": "BT19 1ND",
+    "lng": -5.697204,
+    "lat": 54.654508
+  },
+  "198662": {
+    "id": "198662",
+    "name": "Sakura Asian - Belfast",
+    "uniqueName": "sakura-asian-belfast",
+    "firstLine": "2C Grampian Avenue",
+    "city": "Belfast",
+    "postalCode": "BT4 3AB",
+    "lng": -5.885923,
+    "lat": 54.598383
+  },
+  "321922": {
+    "id": "321922",
+    "name": "Namaste India",
+    "uniqueName": "namaste-india-ballyrushboy-bt4-1",
+    "firstLine": "205-207 Upper Newtownards Road",
+    "city": "Belfast",
+    "postalCode": "BT4 3JD",
+    "lng": -5.869804,
+    "lat": 54.595166
+  },
+  "226433": {
+    "id": "226433",
+    "name": "The Ranch",
+    "uniqueName": "the-ranch-comber",
+    "firstLine": "31 West Street",
+    "city": "Newtownards",
+    "postalCode": "BT23 4EN",
+    "lng": -5.699492,
+    "lat": 54.595091
+  },
+  "219358": {
+    "id": "219358",
+    "name": "Ground Espresso Bar",
+    "uniqueName": "ground-expresso-bar-balloo",
+    "firstLine": "3 Toscana Retail Park",
+    "city": "Bangor",
+    "postalCode": "BT19 1FH",
+    "lng": -5.683078,
+    "lat": 54.645958
+  },
+  "435067": {
+    "id": "435067",
+    "name": "Home of Crispy Chicken",
+    "uniqueName": "home-of-crispy-chicken-ballyrushboy",
+    "firstLine": "346 Upper Newtownards Rd",
+    "city": "Belfast",
+    "postalCode": "BT4 3FB",
+    "lng": -5.869036,
+    "lat": 54.5954
+  },
+  "266562": {
+    "id": "266562",
+    "name": "Caff\u00e8 Nero - Belfast CS Lewis Square",
+    "uniqueName": "caffe-nero---belfast-cs-lewis-square-ballyrushboy",
+    "firstLine": "402 Newtownards Road",
+    "city": "Belfast",
+    "postalCode": "BT4 1HH",
+    "lng": -5.891375,
+    "lat": 54.5983
+  },
+  "207537": {
+    "id": "207537",
+    "name": "Caff\u00e8 Nero - Holywood",
+    "uniqueName": "caffe-nero---holywood-ballycultra",
+    "firstLine": "Unit 1, 70 Lesley Mews, Co Down, NI, Holywood",
+    "city": "Holywood",
+    "postalCode": "BT18 9AE",
+    "lng": -5.835227,
+    "lat": 54.641108
+  },
+  "311691": {
+    "id": "311691",
+    "name": "Tulsi Restaurant",
+    "uniqueName": "tulsi-restaurant-ballycultra-bt18-1",
+    "firstLine": "51 High Street",
+    "city": "Holywood",
+    "postalCode": "BT18 9AB",
+    "lng": -5.834185,
+    "lat": 54.642207
+  },
+  "322431": {
+    "id": "322431",
+    "name": "Burger Queen",
+    "uniqueName": "burger-queen--ballyrushboy",
+    "firstLine": "205-207 Upper Newtownards Road",
+    "city": "Belfast",
+    "postalCode": "BT4 3JD",
+    "lng": -5.869801,
+    "lat": 54.595121
+  },
+  "441774": {
+    "id": "441774",
+    "name": "Currys Lab",
+    "uniqueName": "ayat-spice-ballyrushboy-bt4",
+    "firstLine": "301 Holywood Road",
+    "city": "Belfast",
+    "postalCode": "BT4 2EX",
+    "lng": -5.87107,
+    "lat": 54.606169
+  },
+  "441585": {
+    "id": "441585",
+    "name": "Indian Cuisine",
+    "uniqueName": "indian-cuisine-ballyrushboy-bt4",
+    "firstLine": "301 Holywood Road",
+    "city": "Belfast",
+    "postalCode": "BT4 2EX",
+    "lng": -5.871292,
+    "lat": 54.605781
+  },
+  "438957": {
+    "id": "438957",
+    "name": "Caff\u00e8 Nero - Belfast Belmont Road",
+    "uniqueName": "caffe-nero---belfast-belmont-road-ballyrushboy-bt4",
+    "firstLine": "24-26 Belmont Rd",
+    "city": "Belfast",
+    "postalCode": "BT4 2AN",
+    "lng": -5.876198,
+    "lat": 54.60044
+  },
+  "226379": {
+    "id": "226379",
+    "name": "Total Vapour Cregagh Road",
+    "uniqueName": "total-vapour-cregagh-road-castlereagh",
+    "firstLine": "148 Cregagh Rd, Castlereagh, Belfast BT6 9ET, Unit",
+    "city": "Belfast",
+    "postalCode": "BT6 9ET",
+    "lng": -5.896507,
+    "lat": 54.578445
+  },
+  "314282": {
+    "id": "314282",
+    "name": "Brookies",
+    "uniqueName": "brookies-dundonald-bt16",
+    "firstLine": "1 Brooklands Road\nBelfast",
+    "city": "Belfast",
+    "postalCode": "BT16 2PD",
+    "lng": -5.7904134,
+    "lat": 54.5949157
+  },
+  "214790": {
+    "id": "214790",
+    "name": "Ziggicig- Dundonald",
+    "uniqueName": "ziggicig-dundonald",
+    "firstLine": "Unit 7\n756 Upper Newtownards Road\nDundonald",
+    "city": "Belfast",
+    "postalCode": "BT16 1LA",
+    "lng": -5.801091,
+    "lat": 54.595381
+  },
+  "128476": {
+    "id": "128476",
+    "name": "Ruby's Dundonald",
+    "uniqueName": "rubys-dundonald-dundonald",
+    "firstLine": "793 Upper Newtownards Road Dundonald",
+    "city": "Belfast",
+    "postalCode": "BT16 2RE",
+    "lng": -5.774182,
+    "lat": 54.594023
+  },
+  "251828": {
+    "id": "251828",
+    "name": "Mela Indian Cuisine",
+    "uniqueName": "mela-indian-cuisine-dundonald",
+    "firstLine": "985 Upper Newtownards Rd, Dundonald, Belfast",
+    "city": "Belfast",
+    "postalCode": "BT16 1RN",
+    "lng": -5.801456,
+    "lat": 54.594558
+  },
+  "128522": {
+    "id": "128522",
+    "name": "Binky\u2019s",
+    "uniqueName": "binkys-dundonald",
+    "firstLine": "Binky\u2019s, Unit 5, Eastpoint Entertainment Village",
+    "city": "Dundonald",
+    "postalCode": "BT16 1XT",
+    "lng": -5.823176,
+    "lat": 54.589169
+  },
+  "287002": {
+    "id": "287002",
+    "name": "Waka Asian Fusion Dundonald",
+    "uniqueName": "waka-asian-fusion-dundonald-dundonald",
+    "firstLine": "East Point Entertainment Village, Old Dundonald Rd",
+    "city": "Belfast",
+    "postalCode": "BT16 1XT",
+    "lng": -5.815671,
+    "lat": 54.587151
+  },
+  "302584": {
+    "id": "302584",
+    "name": "Bull & Bear Grill",
+    "uniqueName": "bull-and-bear-grill-belfast-",
+    "firstLine": "Unit 2a East Point Entertainment Village,",
+    "city": "Belfast",
+    "postalCode": "BT16 1YG",
+    "lng": -5.822126,
+    "lat": 54.589318
+  },
+  "208362": {
+    "id": "208362",
+    "name": "Artisan Woodfired Pizza",
+    "uniqueName": "artisan-woodfired-pizza-dundonald",
+    "firstLine": "793 Upper Newtownards Road",
+    "city": "Dundonald",
+    "postalCode": "BT16 2RE",
+    "lng": -5.815954,
+    "lat": 54.594624
+  },
+  "120964": {
+    "id": "120964",
+    "name": "Blue Chicago Grill",
+    "uniqueName": "bluechicagogrill-dundonald",
+    "firstLine": "Unit 7 Eastpoint Entertainment Village",
+    "city": "Belfast",
+    "postalCode": "BT16 1YG",
+    "lng": -5.822965,
+    "lat": 54.588721
+  },
+  "72937": {
+    "id": "72937",
+    "name": "Wagamama - Dundonald",
+    "uniqueName": "wagamama-dundonald",
+    "firstLine": "Unit 9, East Point Entertainment Village",
+    "city": "Dundonald, Belfast",
+    "postalCode": "BT16 1XT",
+    "lng": -5.822395,
+    "lat": 54.5887
+  },
+  "168061": {
+    "id": "168061",
+    "name": "McDonald's\u00ae - Newtownards",
+    "uniqueName": "mcdonaldsspringvaleindustrialpark-comber",
+    "firstLine": "5 Circular Road",
+    "city": "Newtownards",
+    "postalCode": "BT23 4EU",
+    "lng": -5.708077,
+    "lat": 54.592132
+  },
+  "196189": {
+    "id": "196189",
+    "name": "Asda Superstore - Newtownards",
+    "uniqueName": "asda-newtownards-comber",
+    "firstLine": "7 Circular Road Ards Shopping Centrew",
+    "city": "Newtownards",
+    "postalCode": "BT23 4EU",
+    "lng": -5.709554,
+    "lat": 54.592565
+  },
+  "112089": {
+    "id": "112089",
+    "name": "Treat Street",
+    "uniqueName": "treatstreetballyrushboy",
+    "firstLine": "Unit 6 Library Court, 402 Upper Newtownards Road",
+    "city": "Belfast",
+    "postalCode": "BT4 3GE",
+    "lng": -5.865838,
+    "lat": 54.595169
+  },
+  "177697": {
+    "id": "177697",
+    "name": "Starbucks - Newtownards",
+    "uniqueName": "starbucks--newtownards",
+    "firstLine": "Unit C1 - 3\nArds SC,\nCircular Road",
+    "city": "Newtownards",
+    "postalCode": "BT23 4EU",
+    "lng": -5.709942,
+    "lat": 54.59454
+  },
+  "170595": {
+    "id": "170595",
+    "name": "KFC Newtownards",
+    "uniqueName": "kfc-newtownards-comber",
+    "firstLine": "1 Belfast Road\r\nCorporation South\r\nNewtownards",
+    "city": "Down",
+    "postalCode": "BT23 4BJ",
+    "lng": -5.711116,
+    "lat": 54.591413
+  },
+  "228541": {
+    "id": "228541",
+    "name": "Starbucks Ards Drive Thru",
+    "uniqueName": "starbucks-ards-drive-thru-comber",
+    "firstLine": "1 Castlebawn Way",
+    "city": "Belfast",
+    "postalCode": "BT23 4DP",
+    "lng": -5.69378,
+    "lat": 54.586071
+  },
+  "72732": {
+    "id": "72732",
+    "name": "Arnold's",
+    "uniqueName": "arnolds-belfast",
+    "firstLine": "388 Upper Newtownards Road",
+    "city": "Belfast",
+    "postalCode": "BT4 3EY",
+    "lng": -5.866991,
+    "lat": 54.59529
+  },
+  "231441": {
+    "id": "231441",
+    "name": "Planet Spice",
+    "uniqueName": "planet-spice-ballyrushboy",
+    "firstLine": "303 Upper Newtownards Road",
+    "city": "Belfast",
+    "postalCode": "BT4 3JH",
+    "lng": -5.864399,
+    "lat": 54.594798
+  },
+  "172533": {
+    "id": "172533",
+    "name": "Burger King - Castlebawn",
+    "uniqueName": "burger-king-castlebawn-comber",
+    "firstLine": "1b Castlebawn Drive\r\nCorporation South",
+    "city": "Newtownards",
+    "postalCode": "BT23 4XE",
+    "lng": -5.692487,
+    "lat": 54.586587
+  },
+  "137380": {
+    "id": "137380",
+    "name": "Cafe Mauds",
+    "uniqueName": "cafemauds-ballyrushboy",
+    "firstLine": "310-322 Upper Newtownards Road",
+    "city": "Belfast",
+    "postalCode": "BT4 3EX",
+    "lng": -5.870242,
+    "lat": 54.595443
+  },
+  "192709": {
+    "id": "192709",
+    "name": "Del Piero\u2019s URBAN - Bangor",
+    "uniqueName": "del-pieros-urban--bangor-balloo",
+    "firstLine": "12a Balloo Avenue",
+    "city": "Bangor",
+    "postalCode": "BT19 7QT",
+    "lng": -5.670708,
+    "lat": 54.642356
+  },
+  "189911": {
+    "id": "189911",
+    "name": "Subway Ards Shopping Center",
+    "uniqueName": "subway-ards-shopping-center-comber",
+    "firstLine": "Ards, Circular Road, Corporation South",
+    "city": "Newtownards",
+    "postalCode": "BT23 4EU",
+    "lng": -5.71016075581897,
+    "lat": 54.5938587511263
+  },
+  "144285": {
+    "id": "144285",
+    "name": "Comber Tandoori",
+    "uniqueName": "comber-tandoori-comber",
+    "firstLine": "The Cooperage, 3a Killinchy Street",
+    "city": "Comber",
+    "postalCode": "BT23 5AP",
+    "lng": -5.744704,
+    "lat": 54.549029
+  },
+  "193570": {
+    "id": "193570",
+    "name": "Yummies Treats and Sweets",
+    "uniqueName": "yummies-treats-and-sweets-bangor",
+    "firstLine": "Unit 3 57 High Street",
+    "city": "Bangor",
+    "postalCode": "BT20 5BE",
+    "lng": -5.664777,
+    "lat": 54.663558
+  },
+  "204354": {
+    "id": "204354",
+    "name": "Tim Hortons - Castlebawn",
+    "uniqueName": "tim-hortons---castlebawn-comber",
+    "firstLine": "2 Castlebawn Drive, Corporation South",
+    "city": "Newtownards",
+    "postalCode": "BT23 4XE",
+    "lng": -5.693471,
+    "lat": 54.586587
+  },
+  "306082": {
+    "id": "306082",
+    "name": "Amaravathi",
+    "uniqueName": "amaravathi-ballyrushboy",
+    "firstLine": "23 Holywood Road",
+    "city": "Belfast",
+    "postalCode": "BT4 3BA",
+    "lng": -5.887644,
+    "lat": 54.597869
+  },
+  "167823": {
+    "id": "167823",
+    "name": "Sixty - Nine",
+    "uniqueName": "sixty---nine-ballymagarry",
+    "firstLine": "37 Belmont Road",
+    "city": "Belfast",
+    "postalCode": "BT4 2AA",
+    "lng": -5.876978,
+    "lat": 54.600333
+  },
+  "91091": {
+    "id": "91091",
+    "name": "Giuseppe\u2019s Italian Pizzeria",
+    "uniqueName": "giuseppes-italian-pizzeria-new-comber",
+    "firstLine": "33 Frances Street",
+    "city": "Newtownards",
+    "postalCode": "BT23 7DW",
+    "lng": -5.693409,
+    "lat": 54.593289
+  },
+  "421436": {
+    "id": "421436",
+    "name": "The Snack Factory",
+    "uniqueName": "the-snack-factory-ballymagee",
+    "firstLine": "Unit 3,The Plaza,57-59 High Street",
+    "city": "Bangor",
+    "postalCode": "BT20 5BE",
+    "lng": -5.664775,
+    "lat": 54.663657
+  },
+  "210915": {
+    "id": "210915",
+    "name": "Candy World",
+    "uniqueName": "candy-world-ballymagee",
+    "firstLine": "4 Railway Court",
+    "city": "Bangor (NIR)",
+    "postalCode": "BT20 3BU",
+    "lng": -5.671137,
+    "lat": 54.659225
+  },
+  "174454": {
+    "id": "174454",
+    "name": "Caff\u00e8 Nero - Newtownards",
+    "uniqueName": "caffeneronewtownards-comber",
+    "firstLine": "14-16 Conway Square\r\nCorporation North",
+    "city": "Newtownards",
+    "postalCode": "BT23 4DD",
+    "lng": -5.69571,
+    "lat": 54.593087
+  },
+  "223418": {
+    "id": "223418",
+    "name": "Iceland - NEWTOWNARDS",
+    "uniqueName": "iceland---newtownards-comber",
+    "firstLine": "8 Ards Shopping Centre, Circular Rd",
+    "city": "Newtownards",
+    "postalCode": "BT23 4EU",
+    "lng": -5.710798,
+    "lat": 54.593291
+  },
+  "430369": {
+    "id": "430369",
+    "name": "Desi King",
+    "uniqueName": "desi-king-lisnasharragh-bt5",
+    "firstLine": "192 Grand Parade",
+    "city": "Belfast",
+    "postalCode": "BT5 5PE",
+    "lng": -5.88099965767103,
+    "lat": 54.5912066927862
+  },
+  "245418": {
+    "id": "245418",
+    "name": "ZIGGICIG- NEWTOWNARDS",
+    "uniqueName": "ziggicig--newtownards-comber",
+    "firstLine": "9B Regent St",
+    "city": "NEWTOWNARDS",
+    "postalCode": "BT23 4AB",
+    "lng": -5.697797,
+    "lat": 54.5942
+  },
+  "220980": {
+    "id": "220980",
+    "name": "Boardwalk Social",
+    "uniqueName": "boardwalk-social-ballymagee",
+    "firstLine": "8 Quay Street",
+    "city": "Bangor",
+    "postalCode": "BT20 5ED",
+    "lng": -5.667096,
+    "lat": 54.6638
+  },
+  "243849": {
+    "id": "243849",
+    "name": "Starbucks - Bangor Sainsburys",
+    "uniqueName": "starbucks-bangor-sainsburys-balloo",
+    "firstLine": "10 Balloo Link Corporation",
+    "city": "Bangor",
+    "postalCode": "BT19 7HJ",
+    "lng": -5.67192,
+    "lat": 54.644216
+  },
+  "206365": {
+    "id": "206365",
+    "name": "Sandwich Emporium",
+    "uniqueName": "sandwich-emporium-balloo",
+    "firstLine": "12a Balloo Avenue",
+    "city": "Bangor",
+    "postalCode": "BT19 7QT",
+    "lng": -5.670708,
+    "lat": 54.642356
+  },
+  "118782": {
+    "id": "118782",
+    "name": "Binky\u2019s",
+    "uniqueName": "binkys-ballyrushboy",
+    "firstLine": "20-22 Belmont Road",
+    "city": "Belfast",
+    "postalCode": "BT4 2AN",
+    "lng": -5.877029,
+    "lat": 54.600551
+  },
+  "204431": {
+    "id": "204431",
+    "name": "Shakes & Smoothies",
+    "uniqueName": "shakes-smoothies-balloo",
+    "firstLine": "Kiosk 1, Bloomfield Shopping Centre.",
+    "city": "Bangor",
+    "postalCode": "BT19 7HB",
+    "lng": -5.657572,
+    "lat": 54.647583
+  },
+  "318375": {
+    "id": "318375",
+    "name": "Smyths Fish and Chips",
+    "uniqueName": "smyths-fish-and-chips-castlereagh-bt6",
+    "firstLine": "365 Woodstock Road",
+    "city": "Belfast",
+    "postalCode": "BT6 8PU",
+    "lng": -5.900856,
+    "lat": 54.587856
+  },
+  "316304": {
+    "id": "316304",
+    "name": "Superdrug - Bangor Bloomfield",
+    "uniqueName": "superdrug---bangor-bloomfield-balloo",
+    "firstLine": "Unit 16A, Bloomfield Shopping Centre",
+    "city": "Bangor",
+    "postalCode": "BT19 7HB",
+    "lng": -5.656623,
+    "lat": 54.647416
+  },
+  "438613": {
+    "id": "438613",
+    "name": "The Real McCoy",
+    "uniqueName": "the-real-mccoy-lisnasharragh-bt5-2",
+    "firstLine": "89 Bloomfield Road",
+    "city": "Belfast",
+    "postalCode": "BT5 5LS",
+    "lng": -5.882083,
+    "lat": 54.59172
+  },
+  "310245": {
+    "id": "310245",
+    "name": "Donburi Rice Bowls By Kamakura",
+    "uniqueName": "donburi-rice-bowls-by-kamakura-ballyrushboy-bt4",
+    "firstLine": "18 Holywood Rd",
+    "city": "Belfast",
+    "postalCode": "BT4 1NT",
+    "lng": -5.8878529,
+    "lat": 54.5981304
+  },
+  "261997": {
+    "id": "261997",
+    "name": "Spoon Street Ballyhackamore",
+    "uniqueName": "spoon-street-ballyhackamore-ballyrushboy",
+    "firstLine": "Ballyhackamore 261 Upper Newtownards Road",
+    "city": "Belfast",
+    "postalCode": "BT4 3JF",
+    "lng": -5.866716,
+    "lat": 54.594944
+  },
+  "273206": {
+    "id": "273206",
+    "name": "CeX - Newtownards",
+    "uniqueName": "cex---newtownards-comber",
+    "firstLine": "Unit B5, Ards Shopping Centre,",
+    "city": "Newtownards,",
+    "postalCode": "BT23 4EU",
+    "lng": -5.710359,
+    "lat": 54.592947
+  },
+  "273945": {
+    "id": "273945",
+    "name": "CeX - Bangor Bloomfield",
+    "uniqueName": "cex---bangor-bloomfield-balloo",
+    "firstLine": "Unit 43, Bloomfield Shopping Centre",
+    "city": "Bangor",
+    "postalCode": "BT19 7HB",
+    "lng": -5.655753,
+    "lat": 54.646561
+  },
+  "314386": {
+    "id": "314386",
+    "name": "Alex's",
+    "uniqueName": "alexs-ballyrushboy",
+    "firstLine": "388 Upper Newtownards Road",
+    "city": "Belfast",
+    "postalCode": "BT4 3EY",
+    "lng": -5.86715,
+    "lat": 54.595294
+  },
+  "155120": {
+    "id": "155120",
+    "name": "Vikings Fried Chicken",
+    "uniqueName": "vikings-fried-chicken-ballyrushboy",
+    "firstLine": "346 Upper Newtownards Road",
+    "city": "Belfast",
+    "postalCode": "BT4 3EX",
+    "lng": -5.869036,
+    "lat": 54.5954
+  },
+  "159472": {
+    "id": "159472",
+    "name": "Nugelato",
+    "uniqueName": "nugelatoballymagee",
+    "firstLine": "62 High Street",
+    "city": "Bangor",
+    "postalCode": "BT20 5AZ",
+    "lng": -5.66443,
+    "lat": 54.663436
+  },
+  "247018": {
+    "id": "247018",
+    "name": "Masala Curry Land",
+    "uniqueName": "masala-curry-land-castlereagh",
+    "firstLine": "396 Woodstock Road",
+    "city": "Belfast",
+    "postalCode": "BT6 9DQ",
+    "lng": -5.900053,
+    "lat": 54.587368
+  },
+  "274021": {
+    "id": "274021",
+    "name": "CeX - Bangor",
+    "uniqueName": "cex---bangor-ballymagee",
+    "firstLine": "82 Main Street",
+    "city": "Bangor",
+    "postalCode": "BT20 4AG",
+    "lng": -5.668678,
+    "lat": 54.66074
+  },
+  "274764": {
+    "id": "274764",
+    "name": "Fortune Cookie",
+    "uniqueName": "fortune-cookie-ballyrushboy",
+    "firstLine": "207 Newtownards Road",
+    "city": "Belfast",
+    "postalCode": "BT4 1AD",
+    "lng": -5.900947,
+    "lat": 54.599087
+  },
+  "293368": {
+    "id": "293368",
+    "name": "Cindy\u2019s",
+    "uniqueName": "cindys-ballymagee",
+    "firstLine": "84 High St, Bangor BT20 5BA, United Kingdom",
+    "city": "Bangor (NIR)",
+    "postalCode": "BT20 5BA",
+    "lng": -5.663437,
+    "lat": 54.663312
+  },
+  "315769": {
+    "id": "315769",
+    "name": "SeventyCo",
+    "uniqueName": "seventyco-ltd-ballyrushboy",
+    "firstLine": "37 Belmont Road",
+    "city": "Belfast",
+    "postalCode": "BT4 2AA",
+    "lng": -5.876978,
+    "lat": 54.600333
+  },
+  "437767": {
+    "id": "437767",
+    "name": "Sweetie Rush",
+    "uniqueName": "sweetie-rush-comber",
+    "firstLine": "32 Regent Street",
+    "city": "Newtownards",
+    "postalCode": "BT23 4BT",
+    "lng": -5.698695,
+    "lat": 54.594498
+  }
+}

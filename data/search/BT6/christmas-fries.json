@@ -1,0 +1,134 @@
+{
+  "restaurants": [
+    {
+      "restaurantId": "72732",
+      "products": [
+        {
+          "fullName": "Christmas Chips",
+          "price": 1099
+        },
+        {
+          "fullName": "Christmas Chip",
+          "price": 895
+        }
+      ]
+    },
+    {
+      "restaurantId": "297410",
+      "products": [
+        {
+          "fullName": "Christmas Fries",
+          "price": 1500
+        }
+      ]
+    },
+    {
+      "restaurantId": "139653",
+      "products": [
+        {
+          "fullName": "Festive Fries",
+          "price": 879
+        }
+      ]
+    },
+    {
+      "restaurantId": "322166",
+      "products": [
+        {
+          "fullName": "Christmas Chip",
+          "price": 1150
+        }
+      ]
+    },
+    {
+      "restaurantId": "207786",
+      "products": [
+        {
+          "fullName": "Christmas Supper",
+          "price": 1460
+        }
+      ]
+    },
+    {
+      "restaurantId": "297130",
+      "products": [
+        {
+          "fullName": "Christmas Chips",
+          "price": 1095
+        }
+      ]
+    },
+    {
+      "restaurantId": "299470",
+      "products": [
+        {
+          "fullName": "New!! Christmas Chips \ud83c\udf84\ud83c\udf84\ud83c\udf81\ud83c\udf81",
+          "price": 1455
+        }
+      ]
+    },
+    {
+      "restaurantId": "118824",
+      "products": [
+        {
+          "fullName": "Christmas Chip",
+          "price": 1195
+        }
+      ]
+    },
+    {
+      "restaurantId": "151033",
+      "products": [
+        {
+          "fullName": "Christmas Chip",
+          "price": 1200
+        }
+      ]
+    },
+    {
+      "restaurantId": "112089",
+      "products": [
+        {
+          "fullName": "Christmas Chip",
+          "price": 1295
+        }
+      ]
+    },
+    {
+      "restaurantId": "245207",
+      "products": [
+        {
+          "fullName": "Christmas Chip",
+          "price": 1359
+        }
+      ]
+    },
+    {
+      "restaurantId": "110685",
+      "products": [
+        {
+          "fullName": "Jumbo Christmas Chips",
+          "price": 999
+        }
+      ]
+    },
+    {
+      "restaurantId": "283219",
+      "products": [
+        {
+          "fullName": "Christmas Chip",
+          "price": 1000
+        }
+      ]
+    },
+    {
+      "restaurantId": "166665",
+      "products": [
+        {
+          "fullName": "Christmas Chip",
+          "price": 1200
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "restaurants": [
+    {
+      "restaurantId": "262085",
+      "products": [
+        {
+          "fullName": "Festive Fries Loaded",
+          "price": 1250
+        },
+        {
+          "fullName": "Veggie Festive Fries Loaded",
+          "price": 1250
+        }
+      ]
+    }
+  ]
+}

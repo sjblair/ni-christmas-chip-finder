@@ -1,0 +1,13 @@
+{
+  "restaurants": [
+    {
+      "restaurantId": "242613",
+      "products": [
+        {
+          "fullName": "Christmas Menu - Turkey & Ham Christmas Chip",
+          "price": 1345
+        }
+      ]
+    }
+  ]
+}

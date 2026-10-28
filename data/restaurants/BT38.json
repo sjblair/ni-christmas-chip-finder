@@ -1,0 +1,272 @@
+{
+  "130601": {
+    "id": "130601",
+    "name": "Star Subs Carrickfergus",
+    "uniqueName": "star-subs-carrickfergus-carrickfergus",
+    "firstLine": "Marine Highway",
+    "city": "Carrickfergus",
+    "postalCode": "BT38 7FG",
+    "lng": -5.805579,
+    "lat": 54.71489
+  },
+  "275497": {
+    "id": "275497",
+    "name": "Speedy Bites",
+    "uniqueName": "speedy-bites-carrickfergus",
+    "firstLine": "159 Larne Road",
+    "city": "Carrickfergus",
+    "postalCode": "BT38 7NL",
+    "lng": -5.773318,
+    "lat": 54.728618
+  },
+  "177469": {
+    "id": "177469",
+    "name": "Domino's - Carrickfergus",
+    "uniqueName": "dominos--carrickfergus",
+    "firstLine": "6 Woodburn Road",
+    "city": "Carrickfergus",
+    "postalCode": "BT38 8HQ",
+    "lng": -5.820438,
+    "lat": 54.718022
+  },
+  "55133": {
+    "id": "55133",
+    "name": "Four Star Pizza (Carrickfergus)",
+    "uniqueName": "fourstarpizza-carrickfergus",
+    "firstLine": "Marine Highway Unit 1",
+    "city": "Carrickfergus",
+    "postalCode": "BT38 7FG",
+    "lng": -5.805385,
+    "lat": 54.715258
+  },
+  "292397": {
+    "id": "292397",
+    "name": "Eastern Spice Indian Curry, Pizza & Kebab House",
+    "uniqueName": "eastern-spice-carrickfergus-bt38",
+    "firstLine": "27 North Street",
+    "city": "Carrickfergus",
+    "postalCode": "BT38 7AQ",
+    "lng": -5.807324,
+    "lat": 54.715309
+  },
+  "154944": {
+    "id": "154944",
+    "name": "Kebab Express Turkish Kebab & Pizza House",
+    "uniqueName": "kebab-express-turkish-kebab-pizza-house",
+    "firstLine": "21 North Street",
+    "city": "Carrickfergus",
+    "postalCode": "BT38 7AQ",
+    "lng": -5.807215,
+    "lat": 54.715404
+  },
+  "300252": {
+    "id": "300252",
+    "name": "CHICK \u2018N\u2019 DIP from Domino\u2019s - Carrickfergus",
+    "uniqueName": "chick-n-dip-from-dominos---carrickfergus-carrickfergus",
+    "firstLine": "Dominos, 6 Woodburn Road",
+    "city": "Carrickfergus",
+    "postalCode": "BT38 8HQ",
+    "lng": -5.820563,
+    "lat": 54.71811
+  },
+  "310970": {
+    "id": "310970",
+    "name": "Chunk N Cheese",
+    "uniqueName": "chunk-n-cheese-carrickfergus-",
+    "firstLine": "27 North Street",
+    "city": "Carrickfergus",
+    "postalCode": "BT38 7AQ",
+    "lng": -5.807349,
+    "lat": 54.71554
+  },
+  "200639": {
+    "id": "200639",
+    "name": "Creed Coffee",
+    "uniqueName": "creed-coffee-carrickfergus",
+    "firstLine": "Retail Unit 3, Marine Highway",
+    "city": "Carrickfergus",
+    "postalCode": "BT38 7FG",
+    "lng": -5.811387,
+    "lat": 54.713245
+  },
+  "116881": {
+    "id": "116881",
+    "name": "Castello Italia",
+    "uniqueName": "castello-italia-carrickfergus",
+    "firstLine": "28 Scotch Quarter",
+    "city": "Carrickfergus",
+    "postalCode": "BT38 7DP",
+    "lng": -5.800325,
+    "lat": 54.717768
+  },
+  "311734": {
+    "id": "311734",
+    "name": "Carrick  Kebab House",
+    "uniqueName": "carrick-takeaway-carrickfergus",
+    "firstLine": "81 Irish Quarter West",
+    "city": "Carrickfergus",
+    "postalCode": "BT38 8AR",
+    "lng": -5.81345,
+    "lat": 54.714736
+  },
+  "117243": {
+    "id": "117243",
+    "name": "The Friary Carrickfergus",
+    "uniqueName": "the-friary-carrickfergus",
+    "firstLine": "78 Prince Andrew Way",
+    "city": "Carrickfergus",
+    "postalCode": "BT38 7TU",
+    "lng": -5.798813,
+    "lat": 54.728884
+  },
+  "283275": {
+    "id": "283275",
+    "name": "The CHIP YARD Treats Carrickfergus",
+    "uniqueName": "the-chip-yard-treats-carrickfergus-carrickfergus",
+    "firstLine": "43a Victoria Road",
+    "city": "Carrickfergus",
+    "postalCode": "BT38 7JE",
+    "lng": -5.792081,
+    "lat": 54.723805
+  },
+  "157611": {
+    "id": "157611",
+    "name": "China Garden",
+    "uniqueName": "china-garden-carrickfergus",
+    "firstLine": "12 North Street",
+    "city": "Carrickfergus",
+    "postalCode": "BT38 7AQ",
+    "lng": -5.807273,
+    "lat": 54.715143
+  },
+  "247529": {
+    "id": "247529",
+    "name": "The Chip Yard Carrickfergus",
+    "uniqueName": "dillingers-carrickfergus-carrickfergus",
+    "firstLine": "43a Victoria Road",
+    "city": "Carrickfergus",
+    "postalCode": "BT38 7JE",
+    "lng": -5.792119,
+    "lat": 54.72383
+  },
+  "68672": {
+    "id": "68672",
+    "name": "The Chippy",
+    "uniqueName": "the-chippy-carrickfergus",
+    "firstLine": "59 Bridewell Drive",
+    "city": "Carrickfergus",
+    "postalCode": "BT38 8JN",
+    "lng": -5.813799,
+    "lat": 54.721852
+  },
+  "295695": {
+    "id": "295695",
+    "name": "Apache Pizza Carrickfergus",
+    "uniqueName": "apache-pizza-carrickfergus-carrickfergus",
+    "firstLine": "43a Victoria Road",
+    "city": "Carrickfergus",
+    "postalCode": "BT38 7JE",
+    "lng": -5.790633,
+    "lat": 54.722275
+  },
+  "224140": {
+    "id": "224140",
+    "name": "The Spice Merchant Carrickfergus",
+    "uniqueName": "the-spice-merchant-carrickfergus-carrickfergus",
+    "firstLine": "161 Larne Road",
+    "city": "Carrickfergus",
+    "postalCode": "BT38 7NN",
+    "lng": -5.773162,
+    "lat": 54.728686
+  },
+  "156059": {
+    "id": "156059",
+    "name": "JK's Pizza Carrickfergus",
+    "uniqueName": "jks-pizza-carrickfergus",
+    "firstLine": "81 Irish Quarter West",
+    "city": "Carrickfergus",
+    "postalCode": "BT38 8AR",
+    "lng": -5.81345,
+    "lat": 54.714736
+  },
+  "313008": {
+    "id": "313008",
+    "name": "Vorrei La Pizza",
+    "uniqueName": "vorrei-la-pizza-carrickfergus-bt38",
+    "firstLine": "8 Antrim St,",
+    "city": "Carrickfergus",
+    "postalCode": "BT38 7DG",
+    "lng": -5.805921,
+    "lat": 54.715759
+  },
+  "435900": {
+    "id": "435900",
+    "name": "Kebab Hut Ballycarry",
+    "uniqueName": "kebab-hut-ballycarry-carrickfergus",
+    "firstLine": "53 Main Street, Ballycarry",
+    "city": "Belfast",
+    "postalCode": "BT38 9HH",
+    "lng": -5.750971,
+    "lat": 54.772437
+  },
+  "168083": {
+    "id": "168083",
+    "name": "Moghul 4 in 1",
+    "uniqueName": "moghul-4-in-1-carrickfergus",
+    "firstLine": "43 Ellis Street",
+    "city": "Carrickfergus",
+    "postalCode": "BT38 8AY",
+    "lng": -5.816596,
+    "lat": 54.716256
+  },
+  "427809": {
+    "id": "427809",
+    "name": "Frank\u2019s BBQ",
+    "uniqueName": "franks-bbq-carrickfergus-bt38",
+    "firstLine": "61 Irish Quarter West",
+    "city": "Carrickfergus",
+    "postalCode": "BT38 8AT",
+    "lng": -5.812287,
+    "lat": 54.714795
+  },
+  "244901": {
+    "id": "244901",
+    "name": "Kanagawa Sushi and Ramen - (Carrickfergus)",
+    "uniqueName": "kanagawa-sushi-ramen",
+    "firstLine": "32-36 West Street",
+    "city": "Carrickfergus",
+    "postalCode": "BT38 7AR",
+    "lng": -5.809655,
+    "lat": 54.714419
+  },
+  "319181": {
+    "id": "319181",
+    "name": "Bento Donburi (Carrick) by Kanagawa",
+    "uniqueName": "bento-donburi-carrick-by-kanagawa-carrickfergus",
+    "firstLine": "32-36 West Street",
+    "city": "Carrickfergus",
+    "postalCode": "BT38 7AR",
+    "lng": -5.808919,
+    "lat": 54.714322
+  },
+  "317844": {
+    "id": "317844",
+    "name": "Grayzer's Backline BBQ",
+    "uniqueName": "grayzers-backline-bbq-carrickfergus",
+    "firstLine": "15 Lancasterian street",
+    "city": "Carrickfergus",
+    "postalCode": "BT38 7AB",
+    "lng": -5.806892,
+    "lat": 54.71584
+  },
+  "310750": {
+    "id": "310750",
+    "name": "Whitewell Kebab Pizzeria",
+    "uniqueName": "throne-pizza--house-takeaway-newtownabbey",
+    "firstLine": "250 Whitewell Road",
+    "city": "Belfast, Newtownabbey",
+    "postalCode": "BT36 7TL",
+    "lng": -5.933123,
+    "lat": 54.655864
+  }
+}

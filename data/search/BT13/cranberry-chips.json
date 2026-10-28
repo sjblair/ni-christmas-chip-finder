@@ -1,0 +1,25 @@
+{
+  "restaurants": [
+    {
+      "restaurantId": "72518",
+      "products": [
+        {
+          "fullName": "Regular Christmas Chips - With Cranberry",
+          "price": 999
+        },
+        {
+          "fullName": "Large Christmas Chips - No Cranberry",
+          "price": 1099
+        },
+        {
+          "fullName": "Large Christmas Chips - With Cranberry",
+          "price": 1099
+        },
+        {
+          "fullName": "Regular Christmas Chips - No Cranberry",
+          "price": 999
+        }
+      ]
+    }
+  ]
+}

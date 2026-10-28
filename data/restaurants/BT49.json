@@ -1,0 +1,122 @@
+{
+  "429583": {
+    "id": "429583",
+    "name": "Kebab Hut",
+    "uniqueName": "kebab-hut-artikelly-bt49-1",
+    "firstLine": "37 Catherine Street",
+    "city": "Limavady",
+    "postalCode": "BT49 9DA",
+    "lng": -6.952598,
+    "lat": 55.049969
+  },
+  "429077": {
+    "id": "429077",
+    "name": "Pizza Max (Limavady)",
+    "uniqueName": "pizza-max-limavady-artikelly-bt49",
+    "firstLine": "37 Catherine Street",
+    "city": "Limavady",
+    "postalCode": "BT49 9DA",
+    "lng": -6.952598,
+    "lat": 55.049969
+  },
+  "281548": {
+    "id": "281548",
+    "name": "Apache Pizza (Limavady)",
+    "uniqueName": "apache-pizza-artikelly",
+    "firstLine": "21 Catherine Street",
+    "city": "Limavady",
+    "postalCode": "BT49 9DA",
+    "lng": -6.952273,
+    "lat": 55.050094
+  },
+  "427383": {
+    "id": "427383",
+    "name": "Chicken Plaza",
+    "uniqueName": "chicken-plaza-artikelly",
+    "firstLine": "27 Main St",
+    "city": "Limavady",
+    "postalCode": "BT49 0EP",
+    "lng": -6.952234,
+    "lat": 55.051576
+  },
+  "68522": {
+    "id": "68522",
+    "name": "Kebab King",
+    "uniqueName": "kebab-king-bt49",
+    "firstLine": "82 Main Street",
+    "city": "Limavady",
+    "postalCode": "BT49 0ET",
+    "lng": -6.949059,
+    "lat": 55.053429
+  },
+  "85076": {
+    "id": "85076",
+    "name": "Bamboo Garden Express",
+    "uniqueName": "bamboo-garden-express-artikelly",
+    "firstLine": "167 Irish Green Street",
+    "city": "Limavady",
+    "postalCode": "BT49 9AR",
+    "lng": -6.949287,
+    "lat": 55.048342
+  },
+  "63865": {
+    "id": "63865",
+    "name": "Roe Chippy & Pizza",
+    "uniqueName": "roe-chippy-and-pizza-artikelly",
+    "firstLine": "145D Greystone Road",
+    "city": "Limavady",
+    "postalCode": "BT49 0PB",
+    "lng": -6.926953,
+    "lat": 55.050089
+  },
+  "81910": {
+    "id": "81910",
+    "name": "Moonlight",
+    "uniqueName": "moonlight-artikelly",
+    "firstLine": "50 Catherine Street",
+    "city": "Limavady",
+    "postalCode": "BT49 9DB",
+    "lng": -6.959612,
+    "lat": 55.048801
+  },
+  "426338": {
+    "id": "426338",
+    "name": "ALL FIRED UP",
+    "uniqueName": "all-fired-up-artikelly",
+    "firstLine": "Unit 8 Neptune road",
+    "city": "Limavady",
+    "postalCode": "BT49 9PZ",
+    "lng": -7.04132,
+    "lat": 55.043969
+  },
+  "32268": {
+    "id": "32268",
+    "name": "Darios",
+    "uniqueName": "dariosbt49",
+    "firstLine": "59 Main Street",
+    "city": "Ballykelly",
+    "postalCode": "BT49 9HS",
+    "lng": -7.017098,
+    "lat": 55.044706
+  },
+  "300125": {
+    "id": "300125",
+    "name": "CHICK \u2018N\u2019 DIP from Domino\u2019s - Limavady",
+    "uniqueName": "chick-n-dip-from-dominos---limavady-artikelly",
+    "firstLine": "Dominos, 19 Ballyquin Road",
+    "city": "Limavady",
+    "postalCode": "BT49 9EY",
+    "lng": -6.94038,
+    "lat": 55.037073
+  },
+  "259898": {
+    "id": "259898",
+    "name": "Sunflower Chinese Takeaway",
+    "uniqueName": "sunflower-chinese-takeaway-artikelly-bt49",
+    "firstLine": "4 Catherine St",
+    "city": "Limavady",
+    "postalCode": "BT49 9DB",
+    "lng": -6.950703,
+    "lat": 55.050375
+  }
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "288941",
+    "name": "Just Eat store 288941",
+    "uniqueName": "",
+    "address": "",
+    "postalCode": "",
+    "lat": null,
+    "lng": null,
+    "url": "",
+    "items": [
+      {
+        "name": "Christmas Chip - Small",
+        "pricePence": 650
+      },
+      {
+        "name": "Christmas Chip - Large",
+        "pricePence": 950
+      }
+    ],
+    "foundIn": [
+      "BT41"
+    ],
+    "located": false
+  }
+]

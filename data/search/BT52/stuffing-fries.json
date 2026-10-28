@@ -1,0 +1,22 @@
+{
+  "restaurants": [
+    {
+      "restaurantId": "290685",
+      "products": [
+        {
+          "fullName": "Chips, Chicken, Stuffing And Gravy",
+          "price": 1170
+        }
+      ]
+    },
+    {
+      "restaurantId": "436678",
+      "products": [
+        {
+          "fullName": "Chips, Chicken, Stuffing And Gravy",
+          "price": 1170
+        }
+      ]
+    }
+  ]
+}

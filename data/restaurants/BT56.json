@@ -1,0 +1,262 @@
+{
+  "241219": {
+    "id": "241219",
+    "name": "Apache Pizza (Portrush)",
+    "uniqueName": "apache-pizza-portrush-aghadowey",
+    "firstLine": "13a Main Street",
+    "city": "Portrush",
+    "postalCode": "BT56 8BL",
+    "lng": -6.652773,
+    "lat": 55.206302
+  },
+  "315454": {
+    "id": "315454",
+    "name": "Turkish Kebab & Pizza Place",
+    "uniqueName": "turkish-kebab-and-pizza-place-ballylintagh-bt52-1",
+    "firstLine": "48 Railway Road",
+    "city": "Coleraine and Suburbs",
+    "postalCode": "BT52 1PF",
+    "lng": -6.664294,
+    "lat": 55.133712
+  },
+  "429583": {
+    "id": "429583",
+    "name": "Kebab Hut",
+    "uniqueName": "kebab-hut-artikelly-bt49-1",
+    "firstLine": "37 Catherine Street",
+    "city": "Limavady",
+    "postalCode": "BT49 9DA",
+    "lng": -6.952598,
+    "lat": 55.049969
+  },
+  "429077": {
+    "id": "429077",
+    "name": "Pizza Max (Limavady)",
+    "uniqueName": "pizza-max-limavady-artikelly-bt49",
+    "firstLine": "37 Catherine Street",
+    "city": "Limavady",
+    "postalCode": "BT49 9DA",
+    "lng": -6.952598,
+    "lat": 55.049969
+  },
+  "92736": {
+    "id": "92736",
+    "name": "Gareth's Takeaway",
+    "uniqueName": "gareths-takeaway-ballylintagh",
+    "firstLine": "17 Bushmills Road",
+    "city": "Coleraine",
+    "postalCode": "BT52 2BN",
+    "lng": -6.662269,
+    "lat": 55.135762
+  },
+  "297894": {
+    "id": "297894",
+    "name": "Moksh Indian Restaurant",
+    "uniqueName": "moksh-indian-restaurant-coleraine",
+    "firstLine": "4 Riverside Park East, Coleraine",
+    "city": "Londonderry",
+    "postalCode": "BT51 3NA",
+    "lng": -6.674181,
+    "lat": 55.121853
+  },
+  "160686": {
+    "id": "160686",
+    "name": "Big O Cafe",
+    "uniqueName": "big-o-cafe-ballylintagh",
+    "firstLine": "19 New Row",
+    "city": "Coleraine",
+    "postalCode": "BT52 1AD",
+    "lng": -6.6700817,
+    "lat": 55.1310417
+  },
+  "54345": {
+    "id": "54345",
+    "name": "Indian Ocean",
+    "uniqueName": "indian-ocean-aghadowey",
+    "firstLine": "3 Dunluce Street",
+    "city": "Portrush",
+    "postalCode": "BT56 8DN",
+    "lng": -6.652035,
+    "lat": 55.203886
+  },
+  "183262": {
+    "id": "183262",
+    "name": "Domino's - Portrush",
+    "uniqueName": "dominos-portrush-aghadowey",
+    "firstLine": "27 Eglinton Street",
+    "city": "PORTRUSH",
+    "postalCode": "BT56 8DX",
+    "lng": -6.652375,
+    "lat": 55.20447
+  },
+  "300283": {
+    "id": "300283",
+    "name": "CHICK \u2018N\u2019 DIP from Domino\u2019s - Portrush",
+    "uniqueName": "chick-n-dip-from-dominos---portrush-aghadowey",
+    "firstLine": "Dominos, 27 Eglinton Street",
+    "city": "PORTRUSH",
+    "postalCode": "BT56 8DX",
+    "lng": -6.652436,
+    "lat": 55.204188
+  },
+  "264033": {
+    "id": "264033",
+    "name": "Saffron",
+    "uniqueName": "saffron-aghadowey",
+    "firstLine": "126 Main St Portrush BT56 8DA",
+    "city": "Portrush",
+    "postalCode": "BT56 8DA",
+    "lng": -6.656697,
+    "lat": 55.208275
+  },
+  "263824": {
+    "id": "263824",
+    "name": "Fly Boy Pizza and Wings",
+    "uniqueName": "fly-boy-pizza-and-wings-ballylintagh",
+    "firstLine": "42 Railway Road",
+    "city": "Coleraine",
+    "postalCode": "BT52 1PF",
+    "lng": -6.664524,
+    "lat": 55.133625
+  },
+  "164956": {
+    "id": "164956",
+    "name": "Malabar",
+    "uniqueName": "malabar-ballylintagh",
+    "firstLine": "44 Railway Road",
+    "city": "Coleraine",
+    "postalCode": "BT52 1PF",
+    "lng": -6.664915,
+    "lat": 55.133192
+  },
+  "70956": {
+    "id": "70956",
+    "name": "Fab Kebab",
+    "uniqueName": "fab-kebab-bt51",
+    "firstLine": "15 Waterside",
+    "city": "Coleraine",
+    "postalCode": "BT51 3DP",
+    "lng": -6.67651,
+    "lat": 55.131778
+  },
+  "316643": {
+    "id": "316643",
+    "name": "Four Star Pizza - Coleraine",
+    "uniqueName": "four-star-pizza---coleraine-ballylintagh",
+    "firstLine": "26B Railway Road,",
+    "city": "Coleraine",
+    "postalCode": "BT52 1PE",
+    "lng": -6.665322,
+    "lat": 55.132952
+  },
+  "290685": {
+    "id": "290685",
+    "name": "The Happy Haddock",
+    "uniqueName": "the-happy-haddock-ballylintagh",
+    "firstLine": "60 Railway Road",
+    "city": "Coleraine",
+    "postalCode": "BT52 1PF",
+    "lng": -6.664012,
+    "lat": 55.133888
+  },
+  "432748": {
+    "id": "432748",
+    "name": "Little Papas",
+    "uniqueName": "little-papas-ballylintagh-bt52",
+    "firstLine": "24A Beresford Court",
+    "city": "Coleraine",
+    "postalCode": "BT52 1SU",
+    "lng": -6.66909,
+    "lat": 55.128867
+  },
+  "278293": {
+    "id": "278293",
+    "name": "Smash n Bird",
+    "uniqueName": "smash-n-bird-aghadowey",
+    "firstLine": "57 Eglinton Street",
+    "city": "Portrush",
+    "postalCode": "BT56 8DZ",
+    "lng": -6.652813,
+    "lat": 55.202772
+  },
+  "125703": {
+    "id": "125703",
+    "name": "Bob and Berts - Coleraine",
+    "uniqueName": "bobandberts-coleraine",
+    "firstLine": "32A The Diamond",
+    "city": "Coleraine",
+    "postalCode": "BT52 1DP",
+    "lng": -6.670875,
+    "lat": 55.131898
+  },
+  "264056": {
+    "id": "264056",
+    "name": "Mister Wu",
+    "uniqueName": "mister-wu-ballylintagh-bt52",
+    "firstLine": "unit 1\n123 Millburn Road",
+    "city": "Coleraine",
+    "postalCode": "BT52 1QY",
+    "lng": -6.666246,
+    "lat": 55.138772
+  },
+  "319795": {
+    "id": "319795",
+    "name": "Pizza Max (Coleraine)",
+    "uniqueName": "pizza-max-coleraine-ballylintagh-bt52-1",
+    "firstLine": "15 Kingsgate Street",
+    "city": "Coleraine",
+    "postalCode": "BT52 1LB",
+    "lng": -6.667561,
+    "lat": 55.13173
+  },
+  "42440": {
+    "id": "42440",
+    "name": "Turf 'n' Surf",
+    "uniqueName": "turfandsurf-bt51",
+    "firstLine": "11 Waterside",
+    "city": "Colraine",
+    "postalCode": "BT51 3DP",
+    "lng": -6.67651,
+    "lat": 55.131778
+  },
+  "110303": {
+    "id": "110303",
+    "name": "The Prom Chippy",
+    "uniqueName": "the-prom-chippy-new-portstewart",
+    "firstLine": "31A The Promenade",
+    "city": "Portstewart",
+    "postalCode": "BT55 7AE",
+    "lng": -6.718389,
+    "lat": 55.18535
+  },
+  "291426": {
+    "id": "291426",
+    "name": "Taj Bites",
+    "uniqueName": "taj-bites-portstewart",
+    "firstLine": "85 The Promenade",
+    "city": "Portstewart",
+    "postalCode": "BT55 7AG",
+    "lng": -6.718639,
+    "lat": 55.183008
+  },
+  "436678": {
+    "id": "436678",
+    "name": "The Chip Inn",
+    "uniqueName": "the-chip-inn-coleraine",
+    "firstLine": "2 The Rope Walk",
+    "city": "Coleraine",
+    "postalCode": "BT51 3HA",
+    "lng": -6.679381,
+    "lat": 55.125383
+  },
+  "197225": {
+    "id": "197225",
+    "name": "Exquisitaly",
+    "uniqueName": "exquisitaly--ballylintagh",
+    "firstLine": "13 Bushmills Road",
+    "city": "Coleraine",
+    "postalCode": "BT52 2BN",
+    "lng": -6.662761,
+    "lat": 55.134967
+  }
+}

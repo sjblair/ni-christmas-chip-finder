@@ -1,0 +1,20 @@
+{
+  "restaurants": [
+    {
+      "restaurantId": "301067",
+      "products": []
+    },
+    {
+      "restaurantId": "264020",
+      "products": []
+    },
+    {
+      "restaurantId": "97643",
+      "products": []
+    },
+    {
+      "restaurantId": "118824",
+      "products": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "275497",
+    "name": "Speedy Bites",
+    "uniqueName": "speedy-bites-carrickfergus",
+    "address": "159 Larne Road, Carrickfergus, BT38 7NL",
+    "postalCode": "BT38 7NL",
+    "lat": 54.728618,
+    "lng": -5.773318,
+    "url": "https://www.just-eat.co.uk/restaurants-speedy-bites-carrickfergus/menu",
+    "items": [
+      {
+        "name": "Christmas Chips",
+        "pricePence": 1390
+      }
+    ],
+    "foundIn": [
+      "BT38"
+    ],
+    "located": true
+  },
+  {
+    "id": "151028",
+    "name": "Just Eat store 151028",
+    "uniqueName": "",
+    "address": "",
+    "postalCode": "",
+    "lat": null,
+    "lng": null,
+    "url": "",
+    "items": [
+      {
+        "name": "Christmas Chips",
+        "pricePence": 1050
+      }
+    ],
+    "foundIn": [
+      "BT38"
+    ],
+    "located": false
+  }
+]

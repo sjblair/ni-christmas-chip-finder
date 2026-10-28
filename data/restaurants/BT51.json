@@ -1,0 +1,72 @@
+{
+  "315454": {
+    "id": "315454",
+    "name": "Turkish Kebab & Pizza Place",
+    "uniqueName": "turkish-kebab-and-pizza-place-ballylintagh-bt52-1",
+    "firstLine": "48 Railway Road",
+    "city": "Coleraine and Suburbs",
+    "postalCode": "BT52 1PF",
+    "lng": -6.664294,
+    "lat": 55.133712
+  },
+  "429583": {
+    "id": "429583",
+    "name": "Kebab Hut",
+    "uniqueName": "kebab-hut-artikelly-bt49-1",
+    "firstLine": "37 Catherine Street",
+    "city": "Limavady",
+    "postalCode": "BT49 9DA",
+    "lng": -6.952598,
+    "lat": 55.049969
+  },
+  "429077": {
+    "id": "429077",
+    "name": "Pizza Max (Limavady)",
+    "uniqueName": "pizza-max-limavady-artikelly-bt49",
+    "firstLine": "37 Catherine Street",
+    "city": "Limavady",
+    "postalCode": "BT49 9DA",
+    "lng": -6.952598,
+    "lat": 55.049969
+  },
+  "160686": {
+    "id": "160686",
+    "name": "Big O Cafe",
+    "uniqueName": "big-o-cafe-ballylintagh",
+    "firstLine": "19 New Row",
+    "city": "Coleraine",
+    "postalCode": "BT52 1AD",
+    "lng": -6.6700817,
+    "lat": 55.1310417
+  },
+  "70956": {
+    "id": "70956",
+    "name": "Fab Kebab",
+    "uniqueName": "fab-kebab-bt51",
+    "firstLine": "15 Waterside",
+    "city": "Coleraine",
+    "postalCode": "BT51 3DP",
+    "lng": -6.67651,
+    "lat": 55.131778
+  },
+  "319795": {
+    "id": "319795",
+    "name": "Pizza Max (Coleraine)",
+    "uniqueName": "pizza-max-coleraine-ballylintagh-bt52-1",
+    "firstLine": "15 Kingsgate Street",
+    "city": "Coleraine",
+    "postalCode": "BT52 1LB",
+    "lng": -6.667561,
+    "lat": 55.13173
+  },
+  "436678": {
+    "id": "436678",
+    "name": "The Chip Inn",
+    "uniqueName": "the-chip-inn-coleraine",
+    "firstLine": "2 The Rope Walk",
+    "city": "Coleraine",
+    "postalCode": "BT51 3HA",
+    "lng": -6.679381,
+    "lat": 55.125383
+  }
+}

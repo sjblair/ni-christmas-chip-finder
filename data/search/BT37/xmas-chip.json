@@ -1,0 +1,30 @@
+{
+  "restaurants": [
+    {
+      "restaurantId": "132540",
+      "products": [
+        {
+          "fullName": "Xmass Chip",
+          "price": 1035
+        }
+      ]
+    },
+    {
+      "restaurantId": "46914",
+      "products": [
+        {
+          "fullName": "Festive Wrap (Chips, Xmas Mix And Gravy)",
+          "price": 995
+        }
+      ]
+    },
+    {
+      "restaurantId": "131434",
+      "products": []
+    },
+    {
+      "restaurantId": "23695",
+      "products": []
+    }
+  ]
+}

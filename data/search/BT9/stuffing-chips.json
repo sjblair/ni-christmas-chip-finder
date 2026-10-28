@@ -1,0 +1,22 @@
+{
+  "restaurants": [
+    {
+      "restaurantId": "301067",
+      "products": [
+        {
+          "fullName": "Loaded Chips - Chicken, Ham, Stuffing, Roast Sprouts,Sausage, Gravy",
+          "price": 1250
+        }
+      ]
+    },
+    {
+      "restaurantId": "210923",
+      "products": [
+        {
+          "fullName": "Christmas Burger, Homemade Turkey, Ham, Pork Stuffing, Lettuce, Tomato, Cranberry And Mayo In A Brioche Bap, Served With Side Of Gravy Chips.",
+          "price": 1150
+        }
+      ]
+    }
+  ]
+}

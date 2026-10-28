@@ -1,0 +1,22 @@
+{
+  "restaurants": [
+    {
+      "restaurantId": "139653",
+      "products": [
+        {
+          "fullName": "Festive Fries",
+          "price": 879
+        }
+      ]
+    },
+    {
+      "restaurantId": "139986",
+      "products": [
+        {
+          "fullName": "Pablos Festive Fries",
+          "price": 1250
+        }
+      ]
+    }
+  ]
+}

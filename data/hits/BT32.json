@@ -1,0 +1,26 @@
+[
+  {
+    "id": "262085",
+    "name": "Madisons Pizzeria",
+    "uniqueName": "madisons-pizzeria-annahilt",
+    "address": "Unit 3, 82 Scarva Street, Banbridge, BT32 3AD",
+    "postalCode": "BT32 3AD",
+    "lat": 54.349225,
+    "lng": -6.274878,
+    "url": "https://www.just-eat.co.uk/restaurants-madisons-pizzeria-annahilt/menu",
+    "items": [
+      {
+        "name": "Festive Fries Loaded",
+        "pricePence": 1250
+      },
+      {
+        "name": "Veggie Festive Fries Loaded",
+        "pricePence": 1250
+      }
+    ],
+    "foundIn": [
+      "BT32"
+    ],
+    "located": true
+  }
+]

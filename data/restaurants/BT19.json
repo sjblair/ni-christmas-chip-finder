@@ -1,0 +1,962 @@
+{
+  "269824": {
+    "id": "269824",
+    "name": "MY YUMM",
+    "uniqueName": "my-yumm-ballymagee",
+    "firstLine": "20 High Street",
+    "city": "Bangor",
+    "postalCode": "BT20 5AY",
+    "lng": -5.666803,
+    "lat": 54.663444
+  },
+  "444447": {
+    "id": "444447",
+    "name": "The Shawarma Bangor",
+    "uniqueName": "the-shawarma-bangor-ballymagee",
+    "firstLine": "31 High Street",
+    "city": "Bangor",
+    "postalCode": "BT20 5BG",
+    "lng": -5.666247,
+    "lat": 54.663676
+  },
+  "93869": {
+    "id": "93869",
+    "name": "Valentino's",
+    "uniqueName": "valentinos-comber",
+    "firstLine": "Unit 3, 158 Donaghadee Road",
+    "city": "Newtownards",
+    "postalCode": "BT23 7QP",
+    "lng": -5.670761,
+    "lat": 54.606548
+  },
+  "210823": {
+    "id": "210823",
+    "name": "Marciano\u2019s Plus",
+    "uniqueName": "marcianos-plus-ballymagee",
+    "firstLine": "9 Belfast Road",
+    "city": "Bangor",
+    "postalCode": "BT20 3PN",
+    "lng": -5.675965,
+    "lat": 54.656403
+  },
+  "432006": {
+    "id": "432006",
+    "name": "Fly Boy Pizza & Wings",
+    "uniqueName": "fly-boy-pizza-and-wings-ballymagee",
+    "firstLine": "61 High Street",
+    "city": "Bangor",
+    "postalCode": "BT20 5BE",
+    "lng": -5.664541,
+    "lat": 54.663699
+  },
+  "170830": {
+    "id": "170830",
+    "name": "Americans pizza",
+    "uniqueName": "americans-pizza-balloo",
+    "firstLine": "Unit 2, 104 Rathgael Road",
+    "city": "Bangor",
+    "postalCode": "BT19 1RS",
+    "lng": -5.694243,
+    "lat": 54.642229
+  },
+  "300279": {
+    "id": "300279",
+    "name": "CHICK \u2018N\u2019 DIP from Domino\u2019s - Bangor (NI)",
+    "uniqueName": "chick-n-dip-from-dominos---bangor-ni-ballymagee",
+    "firstLine": "Dominos, 96 Abbey Street",
+    "city": "BANGOR",
+    "postalCode": "BT20 4JB",
+    "lng": -5.674096,
+    "lat": 54.656958
+  },
+  "430270": {
+    "id": "430270",
+    "name": "Spice Island",
+    "uniqueName": "spice-island-ballymagee-bt20",
+    "firstLine": "8 High Street",
+    "city": "Bangor (NIR)",
+    "postalCode": "BT20 5AY",
+    "lng": -5.667034,
+    "lat": 54.663403
+  },
+  "425895": {
+    "id": "425895",
+    "name": "Taste of Middle East - Bangor",
+    "uniqueName": "taste-of-middle-east---bangor-ballymagee",
+    "firstLine": "12 Abbey Street",
+    "city": "Bangor",
+    "postalCode": "BT20 4JA",
+    "lng": -5.671938,
+    "lat": 54.65795
+  },
+  "181671": {
+    "id": "181671",
+    "name": "Munchies Treats & Shakes",
+    "uniqueName": "munchies-treats-and-shakes-ballymagee",
+    "firstLine": "14 Gray's Hill",
+    "city": "Bangor",
+    "postalCode": "BT20 3BB",
+    "lng": -5.67222,
+    "lat": 54.662204
+  },
+  "38268": {
+    "id": "38268",
+    "name": "Chillies",
+    "uniqueName": "chillies-bt20",
+    "firstLine": "20 High Street",
+    "city": "Bangor",
+    "postalCode": "BT20 5AY",
+    "lng": -5.6668,
+    "lat": 54.663447
+  },
+  "22681": {
+    "id": "22681",
+    "name": "Mario's Pizza & Grill",
+    "uniqueName": "mariospizzaandgrill-bt20",
+    "firstLine": "22 High Street",
+    "city": "Bangor",
+    "postalCode": "BT20 5AY",
+    "lng": -5.6668,
+    "lat": 54.663447
+  },
+  "443145": {
+    "id": "443145",
+    "name": "The Snack Shack- Bangor",
+    "uniqueName": "the-snack-shack-ballymagee",
+    "firstLine": "14 Gray's Hill",
+    "city": "Bangor",
+    "postalCode": "BT20 3BB",
+    "lng": -5.672979,
+    "lat": 54.661876
+  },
+  "441841": {
+    "id": "441841",
+    "name": "Apache Pizza - Bangor",
+    "uniqueName": "apache-pizza---bangor-ballymagee",
+    "firstLine": "53-53A High Street",
+    "city": "bangor",
+    "postalCode": "BT20 5BE",
+    "lng": -5.664996,
+    "lat": 54.663628
+  },
+  "298891": {
+    "id": "298891",
+    "name": "KHAN'S",
+    "uniqueName": "khans-comber",
+    "firstLine": "28 South Street",
+    "city": "Newtownards",
+    "postalCode": "BT23 4JT",
+    "lng": -5.696462,
+    "lat": 54.591807
+  },
+  "9423": {
+    "id": "9423",
+    "name": "Bokhara",
+    "uniqueName": "bokhara",
+    "firstLine": "2A King Street",
+    "city": "Bangor",
+    "postalCode": "BT20 3AH",
+    "lng": -5.669433,
+    "lat": 54.661601
+  },
+  "28392": {
+    "id": "28392",
+    "name": "Bangla",
+    "uniqueName": "bangla-bt20",
+    "firstLine": "115 Main Street",
+    "city": "Bangor",
+    "postalCode": "BT20 4AF",
+    "lng": -5.668543,
+    "lat": 54.660093
+  },
+  "15104": {
+    "id": "15104",
+    "name": "Hong Kong Chilli",
+    "uniqueName": "hong-kong-chilli",
+    "firstLine": "8 Duffern Avenue",
+    "city": "Bangor",
+    "postalCode": "BT20 3AA",
+    "lng": -5.670833,
+    "lat": 54.659606
+  },
+  "73681": {
+    "id": "73681",
+    "name": "Super Chippy Super Pizza",
+    "uniqueName": "super-chippy-super-pizza-balloo",
+    "firstLine": "Units 5-6 Rathgael Exchange, 104 Rathgael Road",
+    "city": "Bangor",
+    "postalCode": "BT19 1RS",
+    "lng": -5.693489,
+    "lat": 54.642731
+  },
+  "108604": {
+    "id": "108604",
+    "name": "Cafe Cod",
+    "uniqueName": "cafe-cod-ballymagee",
+    "firstLine": "5 Bridge Street",
+    "city": "Bangor",
+    "postalCode": "BT20 5AW",
+    "lng": -5.669342,
+    "lat": 54.663308
+  },
+  "446098": {
+    "id": "446098",
+    "name": "Boots - Bangor Bloomfield Shopping Centre",
+    "uniqueName": "boots---643---bangor-bloomfield-shopping-centre-balloo",
+    "firstLine": "Unit 30 Bloomfield Shopping Centre",
+    "city": "Bangor",
+    "postalCode": "BT19 7HB",
+    "lng": -5.656499,
+    "lat": 54.647485
+  },
+  "292472": {
+    "id": "292472",
+    "name": "Phat B Burger",
+    "uniqueName": "phat-b-burger-ballymagee-",
+    "firstLine": "9 High St Bangor BT20 5BG United Kingdom",
+    "city": "Bangor (NIR)",
+    "postalCode": "BT20 5BG",
+    "lng": -5.666689,
+    "lat": 54.663665
+  },
+  "263333": {
+    "id": "263333",
+    "name": "Fujima Asian Fusion",
+    "uniqueName": "fujima-asian-fusion-ballymagee",
+    "firstLine": "90 Abbey Street",
+    "city": "Bangor",
+    "postalCode": "BT20 4JB",
+    "lng": -5.673865,
+    "lat": 54.657039
+  },
+  "444699": {
+    "id": "444699",
+    "name": "Sushi King- Bangor",
+    "uniqueName": "sushi-king--bangor-ballymagee",
+    "firstLine": "68 Abbey Street",
+    "city": "Bangor",
+    "postalCode": "BT20 4JB",
+    "lng": -5.673129,
+    "lat": 54.657213
+  },
+  "90495": {
+    "id": "90495",
+    "name": "Star of Bengal",
+    "uniqueName": "star-of-bengal-new-ballymagee",
+    "firstLine": "108 Abbey Street",
+    "city": "Bangor",
+    "postalCode": "BT20 4JB",
+    "lng": -5.673464,
+    "lat": 54.656793
+  },
+  "195865": {
+    "id": "195865",
+    "name": "Domino's - Bangor - Ashbury",
+    "uniqueName": "dominos---bangor---ashbury-balloo",
+    "firstLine": "Unit 11, Ashbury Shopping Centre",
+    "city": "Bangor",
+    "postalCode": "BT19 6TH",
+    "lng": -5.635661,
+    "lat": 54.648244
+  },
+  "446764": {
+    "id": "446764",
+    "name": "Ards Fish & Chip Co",
+    "uniqueName": "ards-fish-and-chip-co-comber-bt23",
+    "firstLine": "5-7 Old Cross St,",
+    "city": "Newtownards",
+    "postalCode": "BT23 7NW",
+    "lng": -5.69311,
+    "lat": 54.591472
+  },
+  "73807": {
+    "id": "73807",
+    "name": "Bebe Adrianos Mexicanos",
+    "uniqueName": "bebe-adrianos-mexicanos-ballymagee",
+    "firstLine": "9-11 High Street",
+    "city": "Bangor",
+    "postalCode": "BT20 5BG",
+    "lng": -5.666242,
+    "lat": 54.663677
+  },
+  "300112": {
+    "id": "300112",
+    "name": "CHICK \u2018N\u2019 DIP from Domino\u2019s - Bangor - Ashbury",
+    "uniqueName": "chick-n-dip-from-dominos---bangor---ashbury-balloo",
+    "firstLine": "Dominos, Unit 11, Ashbury Shopping Centre",
+    "city": "Bangor",
+    "postalCode": "BT19 6TH",
+    "lng": -5.637247,
+    "lat": 54.648097
+  },
+  "291308": {
+    "id": "291308",
+    "name": "Waka Express Bangor",
+    "uniqueName": "waka-express-bangor-ballymagee",
+    "firstLine": "88 Groomsport Rd",
+    "city": "Bangor (NIR)",
+    "postalCode": "BT20 5NF",
+    "lng": -5.643676,
+    "lat": 54.663493
+  },
+  "431216": {
+    "id": "431216",
+    "name": "THE SPICE INN BANGOR",
+    "uniqueName": "the-spice-inn-bangor-ballymagee-bt20",
+    "firstLine": "6 Market Street",
+    "city": "Bangor",
+    "postalCode": "BT20 4SP",
+    "lng": -5.668468,
+    "lat": 54.659627
+  },
+  "441516": {
+    "id": "441516",
+    "name": "Hotstuff",
+    "uniqueName": "hotstuff-balloo",
+    "firstLine": "17 ashbury avenue",
+    "city": "Bangor",
+    "postalCode": "BT19 6TH",
+    "lng": -5.635735,
+    "lat": 54.648437
+  },
+  "314326": {
+    "id": "314326",
+    "name": "Bangor Curry House",
+    "uniqueName": "bangor-curry-house-ballymagee-bt20",
+    "firstLine": "80 Groomsport Road",
+    "city": "Bangor",
+    "postalCode": "BT20 5NF",
+    "lng": -5.643834,
+    "lat": 54.663377
+  },
+  "104887": {
+    "id": "104887",
+    "name": "Esperanto",
+    "uniqueName": "esperanto-boley-hill",
+    "firstLine": "26 New Street",
+    "city": "Donaghadee",
+    "postalCode": "BT21 0AG",
+    "lng": -5.535905,
+    "lat": 54.641934
+  },
+  "197652": {
+    "id": "197652",
+    "name": "J's Plaice",
+    "uniqueName": "js-plaice-comber",
+    "firstLine": "43 South Street",
+    "city": "Newtownards",
+    "postalCode": "BT23 4JT",
+    "lng": -5.696792,
+    "lat": 54.591755
+  },
+  "217993": {
+    "id": "217993",
+    "name": "Ichiban Sushi Teppanyaki",
+    "uniqueName": "ichiban-sushi-teppanyaki-comber",
+    "firstLine": "25A High Street",
+    "city": "Newtownards",
+    "postalCode": "BT23 7HS",
+    "lng": -5.695992,
+    "lat": 54.592908
+  },
+  "106654": {
+    "id": "106654",
+    "name": "Eastern Tandoori",
+    "uniqueName": "eastern-tandoori-new-comber",
+    "firstLine": "16a Castle Street",
+    "city": "Newtownards",
+    "postalCode": "BT23 7PA",
+    "lng": -5.691596,
+    "lat": 54.591548
+  },
+  "226433": {
+    "id": "226433",
+    "name": "The Ranch",
+    "uniqueName": "the-ranch-comber",
+    "firstLine": "31 West Street",
+    "city": "Newtownards",
+    "postalCode": "BT23 4EN",
+    "lng": -5.699492,
+    "lat": 54.595091
+  },
+  "264473": {
+    "id": "264473",
+    "name": "Sainsbury's - Bangor",
+    "uniqueName": "sainsburys---bangor-balloo",
+    "firstLine": "10 Balloo Link",
+    "city": "Bangor",
+    "postalCode": "BT19 7HJ",
+    "lng": -5.671557,
+    "lat": 54.644363
+  },
+  "111584": {
+    "id": "111584",
+    "name": "KFC Bangor County Down - South Circular Road",
+    "uniqueName": "kfc-bangorcountydown-southcircularroad",
+    "firstLine": "South Circular Road, Balloo Link",
+    "city": "Bangor",
+    "postalCode": "BT19 7HJ",
+    "lng": -5.669385,
+    "lat": 54.645756
+  },
+  "160932": {
+    "id": "160932",
+    "name": "McDonald's\u00ae - Bangor - Bloomfield Shopping Centre",
+    "uniqueName": "mcdonaldsbangorbloomfieldshoppingcentre-balloo",
+    "firstLine": "Bloomfield Shopping Centre",
+    "city": "Bangor",
+    "postalCode": "BT19 7HB",
+    "lng": -5.658544,
+    "lat": 54.647241
+  },
+  "192709": {
+    "id": "192709",
+    "name": "Del Piero\u2019s URBAN - Bangor",
+    "uniqueName": "del-pieros-urban--bangor-balloo",
+    "firstLine": "12a Balloo Avenue",
+    "city": "Bangor",
+    "postalCode": "BT19 7QT",
+    "lng": -5.670708,
+    "lat": 54.642356
+  },
+  "257341": {
+    "id": "257341",
+    "name": "Greggs - Bangor Toscana RP",
+    "uniqueName": "greggs---bangor-toscana-rp-balloo",
+    "firstLine": "U2C Toscana Retail Park",
+    "city": "Bangor",
+    "postalCode": "BT19 1FH",
+    "lng": -5.682935,
+    "lat": 54.645685
+  },
+  "146575": {
+    "id": "146575",
+    "name": "Burger King - Bangor Bloomfield",
+    "uniqueName": "burgerkingbangorbloomfield-balloo",
+    "firstLine": "Burger King South Circular Road",
+    "city": "Bangor",
+    "postalCode": "BT19 7HB",
+    "lng": -5.65715,
+    "lat": 54.647804
+  },
+  "118835": {
+    "id": "118835",
+    "name": "Blue Chicago Bangor",
+    "uniqueName": "blue-chicago-bangor-balloo",
+    "firstLine": "111 Bloomfield Road South",
+    "city": "Bangor",
+    "postalCode": "BT19 7HR",
+    "lng": -5.658496,
+    "lat": 54.645672
+  },
+  "206365": {
+    "id": "206365",
+    "name": "Sandwich Emporium",
+    "uniqueName": "sandwich-emporium-balloo",
+    "firstLine": "12a Balloo Avenue",
+    "city": "Bangor",
+    "postalCode": "BT19 7QT",
+    "lng": -5.670708,
+    "lat": 54.642356
+  },
+  "226561": {
+    "id": "226561",
+    "name": "Subway - Bloomfield",
+    "uniqueName": "subway---bloomfield-balloo",
+    "firstLine": "Unit 37c\nBloomfield Shopping Center",
+    "city": "Bangor",
+    "postalCode": "BT19 7HB",
+    "lng": -5.657513,
+    "lat": 54.647678
+  },
+  "168791": {
+    "id": "168791",
+    "name": "Tim Hortons - Bangor",
+    "uniqueName": "tim-hortons-uk-bangor-balloo",
+    "firstLine": "Bloomfield Shopping Centre",
+    "city": "Bangor",
+    "postalCode": "BT19 7HB",
+    "lng": -5.656777,
+    "lat": 54.648183
+  },
+  "243849": {
+    "id": "243849",
+    "name": "Starbucks - Bangor Sainsburys",
+    "uniqueName": "starbucks-bangor-sainsburys-balloo",
+    "firstLine": "10 Balloo Link Corporation",
+    "city": "Bangor",
+    "postalCode": "BT19 7HJ",
+    "lng": -5.67192,
+    "lat": 54.644216
+  },
+  "165398": {
+    "id": "165398",
+    "name": "Starbucks - Bloomfield DT",
+    "uniqueName": "starbucksbloomfielddt-balloo",
+    "firstLine": "Bloomfield Retail Park, South Circular Road,",
+    "city": "Bangor",
+    "postalCode": "BT19 7HB",
+    "lng": -5.656753,
+    "lat": 54.648392
+  },
+  "122879": {
+    "id": "122879",
+    "name": "Manna Pizza",
+    "uniqueName": "manna-pizza-balloo",
+    "firstLine": "19 Enterprise Road Balloo",
+    "city": "Bangor",
+    "postalCode": "BT19 7TA",
+    "lng": -5.673819,
+    "lat": 54.637265
+  },
+  "133290": {
+    "id": "133290",
+    "name": "Bilal's",
+    "uniqueName": "bilalsnew-balloo",
+    "firstLine": "104, Unit 2 Rathgael Road",
+    "city": "Bangor",
+    "postalCode": "BT19 1RS",
+    "lng": -5.693488,
+    "lat": 54.642734
+  },
+  "318358": {
+    "id": "318358",
+    "name": "Pizza Hut - Bangor",
+    "uniqueName": "pizza-hut---bangor-balloo",
+    "firstLine": "Unit 2d 3 Toscanna Retail Park",
+    "city": "Bangor",
+    "postalCode": "BT19 1FH",
+    "lng": -5.683435,
+    "lat": 54.645469
+  },
+  "85600": {
+    "id": "85600",
+    "name": "The Station Diner",
+    "uniqueName": "the-station-diner-new-ballymagee",
+    "firstLine": "42-44 Abbey Street",
+    "city": "Bangor",
+    "postalCode": "BT20 4JA",
+    "lng": -5.672577,
+    "lat": 54.65754
+  },
+  "123321": {
+    "id": "123321",
+    "name": "Auntie Anne\u2019s - Bangor",
+    "uniqueName": "auntieannes-bangor",
+    "firstLine": "Kiosk 2, South Circular Road",
+    "city": "Bangor",
+    "postalCode": "BT19 7HB",
+    "lng": -5.656671,
+    "lat": 54.647571
+  },
+  "298298": {
+    "id": "298298",
+    "name": "Bull & Bear Grill Bangor",
+    "uniqueName": "bull-and-bear-grill-bangor-balloo",
+    "firstLine": "4 South Circular Road",
+    "city": "Bangor",
+    "postalCode": "BT19 7HB",
+    "lng": -5.657911,
+    "lat": 54.646221
+  },
+  "311751": {
+    "id": "311751",
+    "name": "New Gaze",
+    "uniqueName": "new-gaze-balloo",
+    "firstLine": "70 Gransha Road",
+    "city": "Bangor",
+    "postalCode": "BT19 7PU",
+    "lng": -5.649143,
+    "lat": 54.647417
+  },
+  "319177": {
+    "id": "319177",
+    "name": "Colin's Hot Food",
+    "uniqueName": "colins-hot-food-ballymagee",
+    "firstLine": "1 Church Street",
+    "city": "Bangor",
+    "postalCode": "BT20 3HX",
+    "lng": -5.67605,
+    "lat": 54.655655
+  },
+  "204431": {
+    "id": "204431",
+    "name": "Shakes & Smoothies",
+    "uniqueName": "shakes-smoothies-balloo",
+    "firstLine": "Kiosk 1, Bloomfield Shopping Centre.",
+    "city": "Bangor",
+    "postalCode": "BT19 7HB",
+    "lng": -5.657572,
+    "lat": 54.647583
+  },
+  "435672": {
+    "id": "435672",
+    "name": "Iceland - Bangor FWH (NI)",
+    "uniqueName": "iceland---bangor-fwh-ni-balloo",
+    "firstLine": "Unit 1 Bloomfield Retail Park",
+    "city": "Bangor",
+    "postalCode": "BT19 7JD",
+    "lng": -5.659799,
+    "lat": 54.644269
+  },
+  "316304": {
+    "id": "316304",
+    "name": "Superdrug - Bangor Bloomfield",
+    "uniqueName": "superdrug---bangor-bloomfield-balloo",
+    "firstLine": "Unit 16A, Bloomfield Shopping Centre",
+    "city": "Bangor",
+    "postalCode": "BT19 7HB",
+    "lng": -5.656623,
+    "lat": 54.647416
+  },
+  "219358": {
+    "id": "219358",
+    "name": "Ground Espresso Bar",
+    "uniqueName": "ground-expresso-bar-balloo",
+    "firstLine": "3 Toscana Retail Park",
+    "city": "Bangor",
+    "postalCode": "BT19 1FH",
+    "lng": -5.683078,
+    "lat": 54.645958
+  },
+  "215960": {
+    "id": "215960",
+    "name": "Co-op - Ballyholme",
+    "uniqueName": "co-op---ballyholme-ballymagee",
+    "firstLine": "82-84 Groomsport Road",
+    "city": "Bangor",
+    "postalCode": "BT20 5NF",
+    "lng": -5.643874,
+    "lat": 54.663357
+  },
+  "76604": {
+    "id": "76604",
+    "name": "Yaks Nepalese & Indian Restaurant And Banquet",
+    "uniqueName": "yaks-nepalese-and-indian",
+    "firstLine": "48 Abbey Street",
+    "city": "Bangor",
+    "postalCode": "BT20 4JA",
+    "lng": -5.672146,
+    "lat": 54.65777
+  },
+  "136555": {
+    "id": "136555",
+    "name": "Cargo Coffee",
+    "uniqueName": "cargocoffee-ballymagee",
+    "firstLine": "16 Belfast Road",
+    "city": "Bangor",
+    "postalCode": "BT20 3PX",
+    "lng": -5.678366,
+    "lat": 54.656366
+  },
+  "192760": {
+    "id": "192760",
+    "name": "Asha Indian Takeaway",
+    "uniqueName": "asha-indian-takeaway-ballymagee",
+    "firstLine": "82 Belfast Road",
+    "city": "BANGOR",
+    "postalCode": "BT20 3NN",
+    "lng": -5.687965,
+    "lat": 54.655328
+  },
+  "128955": {
+    "id": "128955",
+    "name": "Greggs - Bangor, 70 Main St",
+    "uniqueName": "greggs-bangormainstr",
+    "firstLine": "70/72 Main Street",
+    "city": "Bangor",
+    "postalCode": "BT20 5AE",
+    "lng": -5.668053,
+    "lat": 54.661402
+  },
+  "124076": {
+    "id": "124076",
+    "name": "Subway Main St",
+    "uniqueName": "subwaymainstballymagee",
+    "firstLine": "Main Street",
+    "city": "Bangor",
+    "postalCode": "BT20 5AG",
+    "lng": -5.668114,
+    "lat": 54.661693
+  },
+  "273945": {
+    "id": "273945",
+    "name": "CeX - Bangor Bloomfield",
+    "uniqueName": "cex---bangor-bloomfield-balloo",
+    "firstLine": "Unit 43, Bloomfield Shopping Centre",
+    "city": "Bangor",
+    "postalCode": "BT19 7HB",
+    "lng": -5.655753,
+    "lat": 54.646561
+  },
+  "124062": {
+    "id": "124062",
+    "name": "Subway Springhill Retail Park",
+    "uniqueName": "subway-springhillretailpark-balloo",
+    "firstLine": "Springhill Retail Park",
+    "city": "Bangor",
+    "postalCode": "BT19 1ND",
+    "lng": -5.698634,
+    "lat": 54.654407
+  },
+  "221212": {
+    "id": "221212",
+    "name": "The Grand Social - Off Licence",
+    "uniqueName": "the-grand-social----off-licence-ballymagee",
+    "firstLine": "17-21 High Street",
+    "city": "Bangor",
+    "postalCode": "BT20 5BG",
+    "lng": -5.66641,
+    "lat": 54.663636
+  },
+  "210915": {
+    "id": "210915",
+    "name": "Candy World",
+    "uniqueName": "candy-world-ballymagee",
+    "firstLine": "4 Railway Court",
+    "city": "Bangor (NIR)",
+    "postalCode": "BT20 3BU",
+    "lng": -5.671137,
+    "lat": 54.659225
+  },
+  "224871": {
+    "id": "224871",
+    "name": "Green Chilli",
+    "uniqueName": "green-chilli-ballymagee-bt20",
+    "firstLine": "32 Dufferin Avenue",
+    "city": "Bangor",
+    "postalCode": "BT20 3AA",
+    "lng": -5.670836,
+    "lat": 54.659604
+  },
+  "122134": {
+    "id": "122134",
+    "name": "Millars Fish & Chips Bangor",
+    "uniqueName": "millars-fish-and-chips-bangor-ballymagee",
+    "firstLine": "117 High Street",
+    "city": "Bangor",
+    "postalCode": "BT20 5BD",
+    "lng": -5.662285,
+    "lat": 54.663435
+  },
+  "222016": {
+    "id": "222016",
+    "name": "Hi Street Hatch @ The Grand Social",
+    "uniqueName": "hi-street-hatch--the-grand-social-ballymagee",
+    "firstLine": "17-21 High Street",
+    "city": "Bangor",
+    "postalCode": "BT20 5BG",
+    "lng": -5.666389,
+    "lat": 54.663565
+  },
+  "193570": {
+    "id": "193570",
+    "name": "Yummies Treats and Sweets",
+    "uniqueName": "yummies-treats-and-sweets-bangor",
+    "firstLine": "Unit 3 57 High Street",
+    "city": "Bangor",
+    "postalCode": "BT20 5BE",
+    "lng": -5.664777,
+    "lat": 54.663558
+  },
+  "296509": {
+    "id": "296509",
+    "name": "Kalye",
+    "uniqueName": "kalye-ballymagee",
+    "firstLine": "6 Dufferin Avenue",
+    "city": "Bangor",
+    "postalCode": "BT20 3AA",
+    "lng": -5.670836,
+    "lat": 54.659604
+  },
+  "173823": {
+    "id": "173823",
+    "name": "Caff\u00e8 Nero - Bangor Northern Ireland",
+    "uniqueName": "caffe-nero-bangor-northern-ireland-ballymagee",
+    "firstLine": "40-42 Main Street, Co. Down",
+    "city": "Bangor",
+    "postalCode": "BT20 5AG",
+    "lng": -5.668118,
+    "lat": 54.66214
+  },
+  "293119": {
+    "id": "293119",
+    "name": "Deshi Bites",
+    "uniqueName": "deshi-bites-ballymagee-bt20",
+    "firstLine": "31 HIGH STREET,",
+    "city": "Bangor",
+    "postalCode": "BT20 5BG",
+    "lng": -5.66591,
+    "lat": 54.663666
+  },
+  "421436": {
+    "id": "421436",
+    "name": "The Snack Factory",
+    "uniqueName": "the-snack-factory-ballymagee",
+    "firstLine": "Unit 3,The Plaza,57-59 High Street",
+    "city": "Bangor",
+    "postalCode": "BT20 5BE",
+    "lng": -5.664775,
+    "lat": 54.663657
+  },
+  "150858": {
+    "id": "150858",
+    "name": "Tesco Cafe - Bangor",
+    "uniqueName": "tescocafe-bangorbt19",
+    "firstLine": "Killeen Avenue",
+    "city": "Bangor",
+    "postalCode": "BT19 1ND",
+    "lng": -5.697204,
+    "lat": 54.654508
+  },
+  "220980": {
+    "id": "220980",
+    "name": "Boardwalk Social",
+    "uniqueName": "boardwalk-social-ballymagee",
+    "firstLine": "8 Quay Street",
+    "city": "Bangor",
+    "postalCode": "BT20 5ED",
+    "lng": -5.667096,
+    "lat": 54.6638
+  },
+  "439014": {
+    "id": "439014",
+    "name": "Asda Express - Workington",
+    "uniqueName": "asda-express---workington-ballymagee",
+    "firstLine": "Dunmail Park",
+    "city": "Bangor",
+    "postalCode": "CA14 1NQ",
+    "lng": -5.667716,
+    "lat": 54.659958
+  },
+  "255611": {
+    "id": "255611",
+    "name": "Panda Tea",
+    "uniqueName": "panda-tea-ballymagee",
+    "firstLine": "12 Abbey Street",
+    "city": "Bangor",
+    "postalCode": "BT20 4JA",
+    "lng": -5.671924,
+    "lat": 54.657901
+  },
+  "274021": {
+    "id": "274021",
+    "name": "CeX - Bangor",
+    "uniqueName": "cex---bangor-ballymagee",
+    "firstLine": "82 Main Street",
+    "city": "Bangor",
+    "postalCode": "BT20 4AG",
+    "lng": -5.668678,
+    "lat": 54.66074
+  },
+  "141222": {
+    "id": "141222",
+    "name": "Grub Shack",
+    "uniqueName": "grubshack-ballymagee",
+    "firstLine": "3 Bridge Street",
+    "city": "Bangor",
+    "postalCode": "BT20 5AW",
+    "lng": -5.667426,
+    "lat": 54.663456
+  },
+  "293368": {
+    "id": "293368",
+    "name": "Cindy\u2019s",
+    "uniqueName": "cindys-ballymagee",
+    "firstLine": "84 High St, Bangor BT20 5BA, United Kingdom",
+    "city": "Bangor (NIR)",
+    "postalCode": "BT20 5BA",
+    "lng": -5.663437,
+    "lat": 54.663312
+  },
+  "159472": {
+    "id": "159472",
+    "name": "Nugelato",
+    "uniqueName": "nugelatoballymagee",
+    "firstLine": "62 High Street",
+    "city": "Bangor",
+    "postalCode": "BT20 5AZ",
+    "lng": -5.66443,
+    "lat": 54.663436
+  },
+  "189911": {
+    "id": "189911",
+    "name": "Subway Ards Shopping Center",
+    "uniqueName": "subway-ards-shopping-center-comber",
+    "firstLine": "Ards, Circular Road, Corporation South",
+    "city": "Newtownards",
+    "postalCode": "BT23 4EU",
+    "lng": -5.71016075581897,
+    "lat": 54.5938587511263
+  },
+  "91091": {
+    "id": "91091",
+    "name": "Giuseppe\u2019s Italian Pizzeria",
+    "uniqueName": "giuseppes-italian-pizzeria-new-comber",
+    "firstLine": "33 Frances Street",
+    "city": "Newtownards",
+    "postalCode": "BT23 7DW",
+    "lng": -5.693409,
+    "lat": 54.593289
+  },
+  "223418": {
+    "id": "223418",
+    "name": "Iceland - NEWTOWNARDS",
+    "uniqueName": "iceland---newtownards-comber",
+    "firstLine": "8 Ards Shopping Centre, Circular Rd",
+    "city": "Newtownards",
+    "postalCode": "BT23 4EU",
+    "lng": -5.710798,
+    "lat": 54.593291
+  },
+  "287266": {
+    "id": "287266",
+    "name": "Del Pieros URBAN Millisle",
+    "uniqueName": "del-pieros-urban-millisle-kircubbiin",
+    "firstLine": "Millisle Beach Caravan Park\n88 Ballywalter Road",
+    "city": "Newtownards",
+    "postalCode": "BT22 2HS",
+    "lng": -5.525443,
+    "lat": 54.600406
+  },
+  "245418": {
+    "id": "245418",
+    "name": "ZIGGICIG- NEWTOWNARDS",
+    "uniqueName": "ziggicig--newtownards-comber",
+    "firstLine": "9B Regent St",
+    "city": "NEWTOWNARDS",
+    "postalCode": "BT23 4AB",
+    "lng": -5.697797,
+    "lat": 54.5942
+  },
+  "314282": {
+    "id": "314282",
+    "name": "Brookies",
+    "uniqueName": "brookies-dundonald-bt16",
+    "firstLine": "1 Brooklands Road\nBelfast",
+    "city": "Belfast",
+    "postalCode": "BT16 2PD",
+    "lng": -5.7904134,
+    "lat": 54.5949157
+  },
+  "273206": {
+    "id": "273206",
+    "name": "CeX - Newtownards",
+    "uniqueName": "cex---newtownards-comber",
+    "firstLine": "Unit B5, Ards Shopping Centre,",
+    "city": "Newtownards,",
+    "postalCode": "BT23 4EU",
+    "lng": -5.710359,
+    "lat": 54.592947
+  },
+  "437767": {
+    "id": "437767",
+    "name": "Sweetie Rush",
+    "uniqueName": "sweetie-rush-comber",
+    "firstLine": "32 Regent Street",
+    "city": "Newtownards",
+    "postalCode": "BT23 4BT",
+    "lng": -5.698695,
+    "lat": 54.594498
+  }
+}

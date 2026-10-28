@@ -1,0 +1,26 @@
+[
+  {
+    "id": "156962",
+    "name": "Just Eat store 156962",
+    "uniqueName": "",
+    "address": "",
+    "postalCode": "",
+    "lat": null,
+    "lng": null,
+    "url": "",
+    "items": [
+      {
+        "name": "Festive Fries",
+        "pricePence": 995
+      },
+      {
+        "name": "Chip Gravy Stuffing",
+        "pricePence": 430
+      }
+    ],
+    "foundIn": [
+      "BT79"
+    ],
+    "located": false
+  }
+]

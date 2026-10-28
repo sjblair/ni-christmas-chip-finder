@@ -1,0 +1,36 @@
+{
+  "restaurants": [
+    {
+      "restaurantId": "193547",
+      "products": []
+    },
+    {
+      "restaurantId": "181636",
+      "products": []
+    },
+    {
+      "restaurantId": "264020",
+      "products": []
+    },
+    {
+      "restaurantId": "446519",
+      "products": []
+    },
+    {
+      "restaurantId": "97643",
+      "products": []
+    },
+    {
+      "restaurantId": "299433",
+      "products": []
+    },
+    {
+      "restaurantId": "302963",
+      "products": []
+    },
+    {
+      "restaurantId": "277214",
+      "products": []
+    }
+  ]
+}

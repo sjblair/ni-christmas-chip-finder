@@ -1,0 +1,21 @@
+{
+  "restaurants": [
+    {
+      "restaurantId": "156962",
+      "products": [
+        {
+          "fullName": "Chip Gravy Stuffing",
+          "price": 430
+        },
+        {
+          "fullName": "Chip, Pea, Gravy & Stuffing",
+          "price": 650
+        },
+        {
+          "fullName": "Chicken, Chip, Pea, Gravy & Stuffing",
+          "price": 750
+        }
+      ]
+    }
+  ]
+}

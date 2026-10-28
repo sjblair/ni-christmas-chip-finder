@@ -1,0 +1,31 @@
+{
+  "restaurants": [
+    {
+      "restaurantId": "236027",
+      "products": [
+        {
+          "fullName": "Turkey & Ham Sunday Roast Loaded Fries",
+          "price": 850
+        }
+      ]
+    },
+    {
+      "restaurantId": "242613",
+      "products": [
+        {
+          "fullName": "Christmas Menu - Turkey & Ham Christmas Chip",
+          "price": 1345
+        }
+      ]
+    },
+    {
+      "restaurantId": "232598",
+      "products": [
+        {
+          "fullName": "Turkey Ham Stuffing On Chips",
+          "price": 1400
+        }
+      ]
+    }
+  ]
+}

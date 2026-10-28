@@ -1,0 +1,22 @@
+{
+  "restaurants": [
+    {
+      "restaurantId": "72732",
+      "products": [
+        {
+          "fullName": "Gravy Chips With Stuffing",
+          "price": 575
+        }
+      ]
+    },
+    {
+      "restaurantId": "301067",
+      "products": [
+        {
+          "fullName": "Loaded Chips - Chicken, Ham, Stuffing, Roast Sprouts,Sausage, Gravy",
+          "price": 1250
+        }
+      ]
+    }
+  ]
+}

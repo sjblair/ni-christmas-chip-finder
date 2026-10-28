@@ -1,0 +1,17 @@
+{
+  "restaurants": [
+    {
+      "restaurantId": "104575",
+      "products": [
+        {
+          "fullName": "Festive  Fries",
+          "price": 900
+        }
+      ]
+    },
+    {
+      "restaurantId": "55827",
+      "products": []
+    }
+  ]
+}

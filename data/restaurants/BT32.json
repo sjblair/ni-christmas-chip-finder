@@ -1,0 +1,132 @@
+{
+  "77216": {
+    "id": "77216",
+    "name": "Apache Pizza (Banbridge)",
+    "uniqueName": "apache-pizza-banbridge-annahilt",
+    "firstLine": "80 Newry Street",
+    "city": "Banbridge",
+    "postalCode": "BT32 3HA",
+    "lng": -6.270339,
+    "lat": 54.347585
+  },
+  "438623": {
+    "id": "438623",
+    "name": "Piri Piri taste lurgan",
+    "uniqueName": "piri-piri-taste-lurgan-limy-silverwood",
+    "firstLine": "7 Flush Place Lurgan",
+    "city": "Craigavon",
+    "postalCode": "BT66 7DT",
+    "lng": -6.322827,
+    "lat": 54.457019
+  },
+  "444540": {
+    "id": "444540",
+    "name": "Smash Pro Max",
+    "uniqueName": "smash-pro-max-annahilt",
+    "firstLine": "36 Bridge Street",
+    "city": "Banbridge",
+    "postalCode": "BT32 3JS",
+    "lng": -6.26949,
+    "lat": 54.350093
+  },
+  "183240": {
+    "id": "183240",
+    "name": "Domino's - Banbridge",
+    "uniqueName": "dominos-banbridge-annahilt",
+    "firstLine": "55 Newry Street",
+    "city": "BANBRIDGE",
+    "postalCode": "BT32 3EA",
+    "lng": -6.271315,
+    "lat": 54.347614
+  },
+  "300119": {
+    "id": "300119",
+    "name": "CHICK \u2018N\u2019 DIP from Domino\u2019s - Banbridge",
+    "uniqueName": "chick-n-dip-from-dominos---banbridge-annahilt",
+    "firstLine": "Dominos, 55 Newry Street",
+    "city": "BANBRIDGE",
+    "postalCode": "BT32 3EA",
+    "lng": -6.271315,
+    "lat": 54.347614
+  },
+  "431605": {
+    "id": "431605",
+    "name": "Monsoon Indian Takeaway",
+    "uniqueName": "monsoon-indian-takeaway-annahilt-bt32-3",
+    "firstLine": "36 Bridge Street",
+    "city": "Banbridge",
+    "postalCode": "BT32 3JS",
+    "lng": -6.269888,
+    "lat": 54.349489
+  },
+  "54763": {
+    "id": "54763",
+    "name": "Friar Tucks",
+    "uniqueName": "friar-tucks-annahilt",
+    "firstLine": "57 Bridge Street",
+    "city": "County Dow",
+    "postalCode": "BT32 3JL",
+    "lng": -6.268923,
+    "lat": 54.349708
+  },
+  "233125": {
+    "id": "233125",
+    "name": "Off Licence at Centra A1",
+    "uniqueName": "deli-at-centra-a1-annahilt",
+    "firstLine": "24 Halfway Road",
+    "city": "Banbridge",
+    "postalCode": "BT32 4ET",
+    "lng": -6.217684,
+    "lat": 54.367678
+  },
+  "288946": {
+    "id": "288946",
+    "name": "New Magic Takeaway",
+    "uniqueName": "new-magic-takeaway-annahilt",
+    "firstLine": "91 Newry Street",
+    "city": "Banbridge",
+    "postalCode": "BT32 3EF",
+    "lng": -6.271724,
+    "lat": 54.346834
+  },
+  "320799": {
+    "id": "320799",
+    "name": "Just like Mamas",
+    "uniqueName": "just-like-mamas-waringsford-bt25-1",
+    "firstLine": "10 Bridge Street",
+    "city": "Dromore",
+    "postalCode": "BT25 1AN",
+    "lng": -6.149678,
+    "lat": 54.414196
+  },
+  "262085": {
+    "id": "262085",
+    "name": "Madisons Pizzeria",
+    "uniqueName": "madisons-pizzeria-annahilt",
+    "firstLine": "Unit 3, 82 Scarva Street",
+    "city": "Banbridge",
+    "postalCode": "BT32 3AD",
+    "lng": -6.274878,
+    "lat": 54.349225
+  },
+  "224711": {
+    "id": "224711",
+    "name": "Centra A1",
+    "uniqueName": "centra-a1-annahilt",
+    "firstLine": "24 Halfway Road",
+    "city": "Banbridge",
+    "postalCode": "BT32 4ET",
+    "lng": -6.217742,
+    "lat": 54.368638
+  },
+  "92403": {
+    "id": "92403",
+    "name": "Captain Cooks",
+    "uniqueName": "captain-cooks-new-annahilt",
+    "firstLine": "17 Castlewellan Road",
+    "city": "Banbridge",
+    "postalCode": "BT32 4AX",
+    "lng": -6.266492,
+    "lat": 54.350377
+  }
+}

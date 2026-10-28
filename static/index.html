@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Christmas Chip Finder</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="snow" aria-hidden="true"></div>
+  <header>
+    <div>
+      <p class="eyebrow">Northern Ireland</p>
+      <h1>Christmas Chip Finder</h1>
+    </div>
+    <a class="nav-link" href="analytics.html">Merry Chip Maths</a>
+  </header>
+  <div class="lights" aria-hidden="true"></div>
+  <main>
+    <section class="panel" aria-label="Filters">
+      <div class="filters">
+        <div class="field">
+          <label for="postcode">Postcode</label>
+          <input id="postcode" type="search" placeholder="BT1" autocomplete="off">
+        </div>
+        <div class="field">
+          <label for="store-name">Shop Name</label>
+          <input id="store-name" type="search" placeholder="Chippy" autocomplete="off">
+        </div>
+        <div class="field">
+          <label for="item-name">Item Name</label>
+          <input id="item-name" type="search" placeholder="Christmas Chip" autocomplete="off">
+        </div>
+      </div>
+      <div class="list-head">
+        <h2>Shops</h2>
+        <span id="count"></span>
+      </div>
+      <ul id="list"></ul>
+    </section>
+    <section class="map-wrap" aria-label="Map">
+      <div id="map"></div>
+    </section>
+  </main>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

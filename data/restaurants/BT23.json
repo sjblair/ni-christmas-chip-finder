@@ -1,0 +1,182 @@
+{
+  "298891": {
+    "id": "298891",
+    "name": "KHAN'S",
+    "uniqueName": "khans-comber",
+    "firstLine": "28 South Street",
+    "city": "Newtownards",
+    "postalCode": "BT23 4JT",
+    "lng": -5.696462,
+    "lat": 54.591807
+  },
+  "93869": {
+    "id": "93869",
+    "name": "Valentino's",
+    "uniqueName": "valentinos-comber",
+    "firstLine": "Unit 3, 158 Donaghadee Road",
+    "city": "Newtownards",
+    "postalCode": "BT23 7QP",
+    "lng": -5.670761,
+    "lat": 54.606548
+  },
+  "33236": {
+    "id": "33236",
+    "name": "Purple Onion Pizza & Kebab House",
+    "uniqueName": "purpleonion-bt23",
+    "firstLine": "6a Castle Street, Newtownards",
+    "city": "Northern Ireland",
+    "postalCode": "BT23 7PA",
+    "lng": -5.691772,
+    "lat": 54.591816
+  },
+  "309376": {
+    "id": "309376",
+    "name": "Domino's - Comber",
+    "uniqueName": "dominos---comber-comber",
+    "firstLine": "61 Castle Street",
+    "city": "Comber",
+    "postalCode": "BT23 5DY",
+    "lng": -5.747308,
+    "lat": 54.551187
+  },
+  "446764": {
+    "id": "446764",
+    "name": "Ards Fish & Chip Co",
+    "uniqueName": "ards-fish-and-chip-co-comber-bt23",
+    "firstLine": "5-7 Old Cross St,",
+    "city": "Newtownards",
+    "postalCode": "BT23 7NW",
+    "lng": -5.69311,
+    "lat": 54.591472
+  },
+  "5864": {
+    "id": "5864",
+    "name": "Akash Indian",
+    "uniqueName": "akash-indian",
+    "firstLine": "24 Mill Street",
+    "city": "Comber",
+    "postalCode": "BT23 5EQ",
+    "lng": -5.75168,
+    "lat": 54.551441
+  },
+  "309374": {
+    "id": "309374",
+    "name": "CHICK 'N' DIP from Domino's - Comber",
+    "uniqueName": "chick-n-dip-from-dominos---comber-comber",
+    "firstLine": "61 Castle Street",
+    "city": "Comber",
+    "postalCode": "BT23 5DY",
+    "lng": -5.747308,
+    "lat": 54.551187
+  },
+  "197652": {
+    "id": "197652",
+    "name": "J's Plaice",
+    "uniqueName": "js-plaice-comber",
+    "firstLine": "43 South Street",
+    "city": "Newtownards",
+    "postalCode": "BT23 4JT",
+    "lng": -5.696792,
+    "lat": 54.591755
+  },
+  "217993": {
+    "id": "217993",
+    "name": "Ichiban Sushi Teppanyaki",
+    "uniqueName": "ichiban-sushi-teppanyaki-comber",
+    "firstLine": "25A High Street",
+    "city": "Newtownards",
+    "postalCode": "BT23 7HS",
+    "lng": -5.695992,
+    "lat": 54.592908
+  },
+  "106654": {
+    "id": "106654",
+    "name": "Eastern Tandoori",
+    "uniqueName": "eastern-tandoori-new-comber",
+    "firstLine": "16a Castle Street",
+    "city": "Newtownards",
+    "postalCode": "BT23 7PA",
+    "lng": -5.691596,
+    "lat": 54.591548
+  },
+  "226433": {
+    "id": "226433",
+    "name": "The Ranch",
+    "uniqueName": "the-ranch-comber",
+    "firstLine": "31 West Street",
+    "city": "Newtownards",
+    "postalCode": "BT23 4EN",
+    "lng": -5.699492,
+    "lat": 54.595091
+  },
+  "144285": {
+    "id": "144285",
+    "name": "Comber Tandoori",
+    "uniqueName": "comber-tandoori-comber",
+    "firstLine": "The Cooperage, 3a Killinchy Street",
+    "city": "Comber",
+    "postalCode": "BT23 5AP",
+    "lng": -5.744704,
+    "lat": 54.549029
+  },
+  "424230": {
+    "id": "424230",
+    "name": "The Ganges",
+    "uniqueName": "the-ganges-comber-bt23",
+    "firstLine": "69 Court Street",
+    "city": "Newtownards",
+    "postalCode": "BT23 7NX",
+    "lng": -5.694451,
+    "lat": 54.591282
+  },
+  "310683": {
+    "id": "310683",
+    "name": "Legends Pizza & Kebab House Saintfield",
+    "uniqueName": "legends-pizza-and-kebab-house-saintfield-ballynahinch",
+    "firstLine": "Ground floor 1 Main Street, Saintfield",
+    "city": "Ballynahinch",
+    "postalCode": "BT24 7AA",
+    "lng": -5.830869,
+    "lat": 54.460624
+  },
+  "128476": {
+    "id": "128476",
+    "name": "Ruby's Dundonald",
+    "uniqueName": "rubys-dundonald-dundonald",
+    "firstLine": "793 Upper Newtownards Road Dundonald",
+    "city": "Belfast",
+    "postalCode": "BT16 2RE",
+    "lng": -5.774182,
+    "lat": 54.594023
+  },
+  "91091": {
+    "id": "91091",
+    "name": "Giuseppe\u2019s Italian Pizzeria",
+    "uniqueName": "giuseppes-italian-pizzeria-new-comber",
+    "firstLine": "33 Frances Street",
+    "city": "Newtownards",
+    "postalCode": "BT23 7DW",
+    "lng": -5.693409,
+    "lat": 54.593289
+  },
+  "247018": {
+    "id": "247018",
+    "name": "Masala Curry Land",
+    "uniqueName": "masala-curry-land-castlereagh",
+    "firstLine": "396 Woodstock Road",
+    "city": "Belfast",
+    "postalCode": "BT6 9DQ",
+    "lng": -5.900053,
+    "lat": 54.587368
+  },
+  "437767": {
+    "id": "437767",
+    "name": "Sweetie Rush",
+    "uniqueName": "sweetie-rush-comber",
+    "firstLine": "32 Regent Street",
+    "city": "Newtownards",
+    "postalCode": "BT23 4BT",
+    "lng": -5.698695,
+    "lat": 54.594498
+  }
+}

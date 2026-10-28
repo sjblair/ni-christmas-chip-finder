@@ -1,0 +1,13 @@
+{
+  "restaurants": [
+    {
+      "restaurantId": "163618",
+      "products": [
+        {
+          "fullName": "Xmas Loaded Fries",
+          "price": 1500
+        }
+      ]
+    }
+  ]
+}

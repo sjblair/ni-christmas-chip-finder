@@ -1,0 +1,70 @@
+[
+  {
+    "id": "53841",
+    "name": "Just Eat store 53841",
+    "uniqueName": "",
+    "address": "",
+    "postalCode": "",
+    "lat": null,
+    "lng": null,
+    "url": "",
+    "items": [
+      {
+        "name": "Christmas Chip",
+        "pricePence": 1495
+      }
+    ],
+    "foundIn": [
+      "BT43"
+    ],
+    "located": false
+  },
+  {
+    "id": "243954",
+    "name": "Just Eat store 243954",
+    "uniqueName": "",
+    "address": "",
+    "postalCode": "",
+    "lat": null,
+    "lng": null,
+    "url": "",
+    "items": [
+      {
+        "name": "Christmas Chips",
+        "pricePence": 999
+      }
+    ],
+    "foundIn": [
+      "BT43"
+    ],
+    "located": false
+  },
+  {
+    "id": "163651",
+    "name": "Just Eat store 163651",
+    "uniqueName": "",
+    "address": "",
+    "postalCode": "",
+    "lat": null,
+    "lng": null,
+    "url": "",
+    "items": [
+      {
+        "name": "Chicken, Stuffing Chips And Gravy",
+        "pricePence": 995
+      },
+      {
+        "name": "Chips, Stuffing &Amp; Gravy",
+        "pricePence": 695
+      },
+      {
+        "name": "Chips, Stuffing And Gravy",
+        "pricePence": 695
+      }
+    ],
+    "foundIn": [
+      "BT43"
+    ],
+    "located": false
+  }
+]

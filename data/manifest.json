@@ -1,0 +1,804 @@
+{
+  "postcodes": [
+    {
+      "code": "BT1",
+      "area": "Belfast",
+      "lat": 54.599779833333315,
+      "lng": -5.9285096693989,
+      "status": "ok",
+      "searchedAt": "2026-10-27T23:02:17.969618+00:00",
+      "error": null,
+      "lastSuccessfulRun": "2026-10-27T23:02:17.969618+00:00"
+    },
+    {
+      "code": "BT2",
+      "area": "Belfast",
+      "lat": 54.59379605555554,
+      "lng": -5.930491277777775,
+      "status": "ok",
+      "searchedAt": "2026-10-27T23:03:20.664183+00:00",
+      "error": null,
+      "lastSuccessfulRun": "2026-10-27T23:03:20.664183+00:00"
+    },
+    {
+      "code": "BT3",
+      "area": "Belfast",
+      "lat": 54.61697308139537,
+      "lng": -5.903983104651164,
+      "status": "ok",
+      "searchedAt": "2026-10-27T23:04:23.221976+00:00",
+      "error": null,
+      "lastSuccessfulRun": "2026-10-27T23:04:23.221976+00:00"
+    },
+    {
+      "code": "BT4",
+      "area": "Belfast",
+      "lat": 54.6026119110764,
+      "lng": -5.869964012480492,
+      "status": "ok",
+      "searchedAt": "2026-10-27T23:06:28.899690+00:00",
+      "error": null,
+      "lastSuccessfulRun": "2026-10-27T23:06:28.899690+00:00"
+    },
+    {
+      "code": "BT5",
+      "area": "Belfast",
+      "lat": 54.589129464285705,
+      "lng": -5.871090651190481,
+      "status": "ok",
+      "searchedAt": "2026-10-27T23:05:26.147337+00:00",
+      "error": null,
+      "lastSuccessfulRun": "2026-10-27T23:05:26.147337+00:00"
+    },
+    {
+      "code": "BT6",
+      "area": "Belfast",
+      "lat": 54.580009801431146,
+      "lng": -5.897947286225406,
+      "status": "ok",
+      "searchedAt": "2026-10-27T23:07:31.632881+00:00",
+      "error": null,
+      "lastSuccessfulRun": "2026-10-27T23:07:31.632881+00:00"
+    },
+    {
+      "code": "BT7",
+      "area": "Belfast",
+      "lat": 54.58211969132657,
+      "lng": -5.924562015306122,
+      "status": "ok",
+      "searchedAt": "2026-10-27T23:08:34.256332+00:00",
+      "error": null,
+      "lastSuccessfulRun": "2026-10-27T23:08:34.256332+00:00"
+    },
+    {
+      "code": "BT8",
+      "area": "Belfast",
+      "lat": 54.5399667726574,
+      "lng": -5.905853622119816,
+      "status": "ok",
+      "searchedAt": "2026-10-27T23:09:36.681363+00:00",
+      "error": null,
+      "lastSuccessfulRun": "2026-10-27T23:09:36.681363+00:00"
+    },
+    {
+      "code": "BT9",
+      "area": "Belfast",
+      "lat": 54.57213746258498,
+      "lng": -5.94996957482993,
+      "status": "ok",
+      "searchedAt": "2026-10-27T23:10:39.481555+00:00",
+      "error": null,
+      "lastSuccessfulRun": "2026-10-27T23:10:39.481555+00:00"
+    },
+    {
+      "code": "BT10",
+      "area": "Belfast",
+      "lat": 54.5595327511961,
+      "lng": -5.985493961722491,
+      "status": "ok",
+      "searchedAt": "2026-10-27T23:11:42.602632+00:00",
+      "error": null,
+      "lastSuccessfulRun": "2026-10-27T23:11:42.602632+00:00"
+    },
+    {
+      "code": "BT11",
+      "area": "Belfast",
+      "lat": 54.576395495780574,
+      "lng": -5.998086706751061,
+      "status": "ok",
+      "searchedAt": "2026-10-27T23:12:45.272823+00:00",
+      "error": null,
+      "lastSuccessfulRun": "2026-10-27T23:12:45.272823+00:00"
+    },
+    {
+      "code": "BT12",
+      "area": "Belfast",
+      "lat": 54.59291460697304,
+      "lng": -5.958637218700474,
+      "status": "ok",
+      "searchedAt": "2026-10-27T23:13:49.159010+00:00",
+      "error": null,
+      "lastSuccessfulRun": "2026-10-27T23:13:49.159010+00:00"
+    },
+    {
+      "code": "BT13",
+      "area": "Belfast",
+      "lat": 54.605818777777785,
+      "lng": -5.959342455026455,
+      "status": "ok",
+      "searchedAt": "2026-10-27T23:14:52.647260+00:00",
+      "error": null,
+      "lastSuccessfulRun": "2026-10-27T23:14:52.647260+00:00"
+    },
+    {
+      "code": "BT14",
+      "area": "Antrim and Newtownabbey",
+      "lat": 54.62142111496058,
+      "lng": -5.962605094488184,
+      "status": "ok",
+      "searchedAt": "2026-10-27T23:15:55.142956+00:00",
+      "error": null,
+      "lastSuccessfulRun": "2026-10-27T23:15:55.142956+00:00"
+    },
+    {
+      "code": "BT15",
+      "area": "Belfast",
+      "lat": 54.623413123577244,
+      "lng": -5.931993681300812,
+      "status": "ok",
+      "searchedAt": "2026-10-27T23:16:58.463845+00:00",
+      "error": null,
+      "lastSuccessfulRun": "2026-10-27T23:16:58.463845+00:00"
+    },
+    {
+      "code": "BT16",
+      "area": "Ards and North Down",
+      "lat": 54.59043142079204,
+      "lng": -5.797021235148513,
+      "status": "ok",
+      "searchedAt": "2026-10-27T23:18:00.894882+00:00",
+      "error": null,
+      "lastSuccessfulRun": "2026-10-27T23:18:00.894882+00:00"
+    },
+    {
+      "code": "BT17",
+      "area": "Belfast",
+      "lat": 54.55356503690684,
+      "lng": -6.0201353286467505,
+      "status": "ok",
+      "searchedAt": "2026-10-27T23:19:03.554009+00:00",
+      "error": null,
+      "lastSuccessfulRun": "2026-10-27T23:19:03.554009+00:00"
+    },
+    {
+      "code": "BT18",
+      "area": "Ards and North Down",
+      "lat": 54.641317645244214,
+      "lng": -5.82187445758355,
+      "status": "ok",
+      "searchedAt": "2026-10-27T23:20:06.543996+00:00",
+      "error": null,
+      "lastSuccessfulRun": "2026-10-27T23:20:06.543996+00:00"
+    },
+    {
+      "code": "BT19",
+      "area": "Ards and North Down",
+      "lat": 54.65132880365292,
+      "lng": -5.667369190639268,
+      "status": "ok",
+      "searchedAt": "2026-10-27T23:21:09.468088+00:00",
+      "error": null,
+      "lastSuccessfulRun": "2026-10-27T23:21:09.468088+00:00"
+    },
+    {
+      "code": "BT20",
+      "area": "Ards and North Down",
+      "lat": 54.65845442835821,
+      "lng": -5.665654876119403,
+      "status": "ok",
+      "searchedAt": "2026-10-27T23:22:13.641145+00:00",
+      "error": null,
+      "lastSuccessfulRun": "2026-10-27T23:22:13.641145+00:00"
+    },
+    {
+      "code": "BT21",
+      "area": "Ards and North Down",
+      "lat": 54.64036509426223,
+      "lng": -5.547778868852465,
+      "status": "ok",
+      "searchedAt": "2026-10-27T23:23:16.648839+00:00",
+      "error": null,
+      "lastSuccessfulRun": "2026-10-27T23:23:16.648839+00:00"
+    },
+    {
+      "code": "BT22",
+      "area": "Ards and North Down",
+      "lat": 54.50245715265863,
+      "lng": -5.514890118353345,
+      "status": "ok",
+      "searchedAt": "2026-10-27T23:24:16.512040+00:00",
+      "error": null,
+      "lastSuccessfulRun": "2026-10-27T23:24:16.512040+00:00"
+    },
+    {
+      "code": "BT23",
+      "area": "Ards and North Down",
+      "lat": 54.56443669726022,
+      "lng": -5.715192884931518,
+      "status": "ok",
+      "searchedAt": "2026-10-27T23:25:22.830628+00:00",
+      "error": null,
+      "lastSuccessfulRun": "2026-10-27T23:25:22.830628+00:00"
+    },
+    {
+      "code": "BT24",
+      "area": "Ards and North Down",
+      "lat": 54.417203962075845,
+      "lng": -5.871602287425151,
+      "status": "ok",
+      "searchedAt": "2026-10-27T23:26:25.015738+00:00",
+      "error": null,
+      "lastSuccessfulRun": "2026-10-27T23:26:25.015738+00:00"
+    },
+    {
+      "code": "BT25",
+      "area": "Armagh City, Banbridge and Craigavon",
+      "lat": 54.395966322799104,
+      "lng": -6.112910507900677,
+      "status": "ok",
+      "searchedAt": "2026-10-27T23:27:25.935439+00:00",
+      "error": null,
+      "lastSuccessfulRun": "2026-10-27T23:27:25.935439+00:00"
+    },
+    {
+      "code": "BT26",
+      "area": "Lisburn and Castlereagh",
+      "lat": 54.45432805223882,
+      "lng": -6.065049649253731,
+      "status": "ok",
+      "searchedAt": "2026-10-27T23:28:31.573978+00:00",
+      "error": null,
+      "lastSuccessfulRun": "2026-10-27T23:28:31.573978+00:00"
+    },
+    {
+      "code": "BT27",
+      "area": "Lisburn and Castlereagh",
+      "lat": 54.50918030240553,
+      "lng": -6.023694536082479,
+      "status": "ok",
+      "searchedAt": "2026-10-27T23:29:35.402882+00:00",
+      "error": null,
+      "lastSuccessfulRun": "2026-10-27T23:29:35.402882+00:00"
+    },
+    {
+      "code": "BT28",
+      "area": "Lisburn and Castlereagh",
+      "lat": 54.5229032956097,
+      "lng": -6.08658917365854,
+      "status": "ok",
+      "searchedAt": "2026-10-27T23:30:38.801107+00:00",
+      "error": null,
+      "lastSuccessfulRun": "2026-10-27T23:30:38.801107+00:00"
+    },
+    {
+      "code": "BT29",
+      "area": "Antrim and Newtownabbey",
+      "lat": 54.62049020478718,
+      "lng": -6.197004877659577,
+      "status": "ok",
+      "searchedAt": "2026-10-27T23:31:43.621560+00:00",
+      "error": null,
+      "lastSuccessfulRun": "2026-10-27T23:31:43.621560+00:00"
+    },
+    {
+      "code": "BT30",
+      "area": "Ards and North Down",
+      "lat": 54.33513227702095,
+      "lng": -5.702238029064482,
+      "status": "ok",
+      "searchedAt": "2026-10-27T23:32:44.077625+00:00",
+      "error": null,
+      "lastSuccessfulRun": "2026-10-27T23:32:44.077625+00:00"
+    },
+    {
+      "code": "BT31",
+      "area": "Armagh City, Banbridge and Craigavon",
+      "lat": 54.27675851890036,
+      "lng": -5.968493037800689,
+      "status": "ok",
+      "searchedAt": "2026-10-27T23:33:46.256230+00:00",
+      "error": null,
+      "lastSuccessfulRun": "2026-10-27T23:33:46.256230+00:00"
+    },
+    {
+      "code": "BT32",
+      "area": "Armagh City, Banbridge and Craigavon",
+      "lat": 54.335469460674226,
+      "lng": -6.2455554775280815,
+      "status": "ok",
+      "searchedAt": "2026-10-27T23:34:53.425904+00:00",
+      "error": null,
+      "lastSuccessfulRun": "2026-10-27T23:34:53.425904+00:00"
+    },
+    {
+      "code": "BT33",
+      "area": "Newry, Mourne and Down",
+      "lat": 54.22333430990417,
+      "lng": -5.891128185303515,
+      "status": "ok",
+      "searchedAt": "2026-10-27T23:36:03.627267+00:00",
+      "error": null,
+      "lastSuccessfulRun": "2026-10-27T23:36:03.627267+00:00"
+    },
+    {
+      "code": "BT34",
+      "area": "Armagh City, Banbridge and Craigavon",
+      "lat": 54.15266504890947,
+      "lng": -6.176164453403837,
+      "status": "ok",
+      "searchedAt": "2026-10-27T23:37:08.797567+00:00",
+      "error": null,
+      "lastSuccessfulRun": "2026-10-27T23:37:08.797567+00:00"
+    },
+    {
+      "code": "BT35",
+      "area": "Armagh City, Banbridge and Craigavon",
+      "lat": 54.162026066508325,
+      "lng": -6.441210003167074,
+      "status": "ok",
+      "searchedAt": "2026-10-27T23:38:15.462367+00:00",
+      "error": null,
+      "lastSuccessfulRun": "2026-10-27T23:38:15.462367+00:00"
+    },
+    {
+      "code": "BT36",
+      "area": "Antrim and Newtownabbey",
+      "lat": 54.67660134538542,
+      "lng": -5.956520190294957,
+      "status": "ok",
+      "searchedAt": "2026-10-27T23:39:27.119462+00:00",
+      "error": null,
+      "lastSuccessfulRun": "2026-10-27T23:39:27.119462+00:00"
+    },
+    {
+      "code": "BT37",
+      "area": "Antrim and Newtownabbey",
+      "lat": 54.677523295798295,
+      "lng": -5.908223208403359,
+      "status": "ok",
+      "searchedAt": "2026-10-27T23:40:36.493459+00:00",
+      "error": null,
+      "lastSuccessfulRun": "2026-10-27T23:40:36.493459+00:00"
+    },
+    {
+      "code": "BT38",
+      "area": "Antrim and Newtownabbey",
+      "lat": 54.72863421837847,
+      "lng": -5.801819450810809,
+      "status": "ok",
+      "searchedAt": "2026-10-27T23:41:51.196024+00:00",
+      "error": null,
+      "lastSuccessfulRun": "2026-10-27T23:41:51.196024+00:00"
+    },
+    {
+      "code": "BT39",
+      "area": "Antrim and Newtownabbey",
+      "lat": 54.745300274015776,
+      "lng": -6.018003541732281,
+      "status": "ok",
+      "searchedAt": "2026-10-27T23:43:00.946803+00:00",
+      "error": null,
+      "lastSuccessfulRun": "2026-10-27T23:43:00.946803+00:00"
+    },
+    {
+      "code": "BT40",
+      "area": "Mid and East Antrim",
+      "lat": 54.84582843032798,
+      "lng": -5.823821595628414,
+      "status": "ok",
+      "searchedAt": "2026-10-27T23:44:15.127176+00:00",
+      "error": null,
+      "lastSuccessfulRun": "2026-10-27T23:44:15.127176+00:00"
+    },
+    {
+      "code": "BT41",
+      "area": "Antrim and Newtownabbey",
+      "lat": 54.732105675803474,
+      "lng": -6.255963404536858,
+      "status": "ok",
+      "searchedAt": "2026-10-27T23:45:30.356459+00:00",
+      "error": null,
+      "lastSuccessfulRun": "2026-10-27T23:45:30.356459+00:00"
+    },
+    {
+      "code": "BT42",
+      "area": "Antrim and Newtownabbey",
+      "lat": 54.854603236842145,
+      "lng": -6.275794315789475,
+      "status": "ok",
+      "searchedAt": "2026-10-27T23:46:42.761405+00:00",
+      "error": null,
+      "lastSuccessfulRun": "2026-10-27T23:46:42.761405+00:00"
+    },
+    {
+      "code": "BT43",
+      "area": "Mid and East Antrim",
+      "lat": 54.89124002763381,
+      "lng": -6.265766383419688,
+      "status": "ok",
+      "searchedAt": "2026-10-27T23:47:57.771397+00:00",
+      "error": null,
+      "lastSuccessfulRun": "2026-10-27T23:47:57.771397+00:00"
+    },
+    {
+      "code": "BT44",
+      "area": "Causeway Coast and Glens",
+      "lat": 54.97205679538904,
+      "lng": -6.288680597982715,
+      "status": "ok",
+      "searchedAt": "2026-10-27T23:49:09.244772+00:00",
+      "error": null,
+      "lastSuccessfulRun": "2026-10-27T23:49:09.244772+00:00"
+    },
+    {
+      "code": "BT45",
+      "area": "Mid Ulster",
+      "lat": 54.75991469705886,
+      "lng": -6.638863001960787,
+      "status": "ok",
+      "searchedAt": "2026-10-27T23:50:25.625964+00:00",
+      "error": null,
+      "lastSuccessfulRun": "2026-10-27T23:50:25.625964+00:00"
+    },
+    {
+      "code": "BT46",
+      "area": "Causeway Coast and Glens",
+      "lat": 54.86521295312497,
+      "lng": -6.663704134375,
+      "status": "ok",
+      "searchedAt": "2026-10-27T23:51:47.033178+00:00",
+      "error": null,
+      "lastSuccessfulRun": "2026-10-27T23:51:47.033178+00:00"
+    },
+    {
+      "code": "BT47",
+      "area": "Causeway Coast and Glens",
+      "lat": 54.97410392209738,
+      "lng": -7.213907874157297,
+      "status": "ok",
+      "searchedAt": "2026-10-27T23:53:05.175300+00:00",
+      "error": null,
+      "lastSuccessfulRun": "2026-10-27T23:53:05.175300+00:00"
+    },
+    {
+      "code": "BT48",
+      "area": "Derry City and Strabane",
+      "lat": 55.01039583584583,
+      "lng": -7.327847121440518,
+      "status": "ok",
+      "searchedAt": "2026-10-27T23:54:32.338857+00:00",
+      "error": null,
+      "lastSuccessfulRun": "2026-10-27T23:54:32.338857+00:00"
+    },
+    {
+      "code": "BT49",
+      "area": "Causeway Coast and Glens",
+      "lat": 55.04709273170733,
+      "lng": -6.951003310975618,
+      "status": "ok",
+      "searchedAt": "2026-10-27T23:55:50.204617+00:00",
+      "error": null,
+      "lastSuccessfulRun": "2026-10-27T23:55:50.204617+00:00"
+    },
+    {
+      "code": "BT51",
+      "area": "Causeway Coast and Glens",
+      "lat": 55.06033550183602,
+      "lng": -6.682304367197059,
+      "status": "ok",
+      "searchedAt": "2026-10-27T23:57:16.297779+00:00",
+      "error": null,
+      "lastSuccessfulRun": "2026-10-27T23:57:16.297779+00:00"
+    },
+    {
+      "code": "BT52",
+      "area": "Causeway Coast and Glens",
+      "lat": 55.13447910615718,
+      "lng": -6.655291205944797,
+      "status": "ok",
+      "searchedAt": "2026-10-27T23:58:40.931031+00:00",
+      "error": null,
+      "lastSuccessfulRun": "2026-10-27T23:58:40.931031+00:00"
+    },
+    {
+      "code": "BT53",
+      "area": "Causeway Coast and Glens",
+      "lat": 55.085394302356036,
+      "lng": -6.4753334240837805,
+      "status": "ok",
+      "searchedAt": "2026-10-28T00:00:18.994428+00:00",
+      "error": null,
+      "lastSuccessfulRun": "2026-10-28T00:00:18.994428+00:00"
+    },
+    {
+      "code": "BT54",
+      "area": "Causeway Coast and Glens",
+      "lat": 55.204350967032944,
+      "lng": -6.256849688644687,
+      "status": "ok",
+      "searchedAt": "2026-10-28T00:01:50.343239+00:00",
+      "error": null,
+      "lastSuccessfulRun": "2026-10-28T00:01:50.343239+00:00"
+    },
+    {
+      "code": "BT55",
+      "area": "Causeway Coast and Glens",
+      "lat": 55.17911161093248,
+      "lng": -6.710215797427655,
+      "status": "ok",
+      "searchedAt": "2026-10-28T00:03:59.402025+00:00",
+      "error": null,
+      "lastSuccessfulRun": "2026-10-28T00:03:59.402025+00:00"
+    },
+    {
+      "code": "BT56",
+      "area": "Causeway Coast and Glens",
+      "lat": 55.197620916666665,
+      "lng": -6.650335266666661,
+      "status": "ok",
+      "searchedAt": "2026-10-28T00:06:42.129313+00:00",
+      "error": null,
+      "lastSuccessfulRun": "2026-10-28T00:06:42.129313+00:00"
+    },
+    {
+      "code": "BT57",
+      "area": "Causeway Coast and Glens",
+      "lat": 55.20349719780219,
+      "lng": -6.518004307692309,
+      "status": "ok",
+      "searchedAt": "2026-10-28T00:08:36.288860+00:00",
+      "error": null,
+      "lastSuccessfulRun": "2026-10-28T00:08:36.288860+00:00"
+    },
+    {
+      "code": "BT60",
+      "area": "Armagh City, Banbridge and Craigavon",
+      "lat": 54.29252245130895,
+      "lng": -6.64882435706806,
+      "status": "ok",
+      "searchedAt": "2026-10-28T00:11:04.384028+00:00",
+      "error": null,
+      "lastSuccessfulRun": "2026-10-28T00:11:04.384028+00:00"
+    },
+    {
+      "code": "BT61",
+      "area": "Armagh City, Banbridge and Craigavon",
+      "lat": 54.36890817270795,
+      "lng": -6.622381155650317,
+      "status": "ok",
+      "searchedAt": "2026-10-28T00:12:30.941590+00:00",
+      "error": null,
+      "lastSuccessfulRun": "2026-10-28T00:12:30.941590+00:00"
+    },
+    {
+      "code": "BT62",
+      "area": "Armagh City, Banbridge and Craigavon",
+      "lat": 54.412032997395876,
+      "lng": -6.466294889322921,
+      "status": "ok",
+      "searchedAt": "2026-10-28T00:14:18.647582+00:00",
+      "error": null,
+      "lastSuccessfulRun": "2026-10-28T00:14:18.647582+00:00"
+    },
+    {
+      "code": "BT63",
+      "area": "Armagh City, Banbridge and Craigavon",
+      "lat": 54.407913968503934,
+      "lng": -6.39104047440945,
+      "status": "ok",
+      "searchedAt": "2026-10-28T00:15:51.220221+00:00",
+      "error": null,
+      "lastSuccessfulRun": "2026-10-28T00:15:51.220221+00:00"
+    },
+    {
+      "code": "BT64",
+      "area": "Armagh City, Banbridge and Craigavon",
+      "lat": 54.448994903614405,
+      "lng": -6.390244710843369,
+      "status": "ok",
+      "searchedAt": "2026-10-28T00:17:57.144348+00:00",
+      "error": null,
+      "lastSuccessfulRun": "2026-10-28T00:17:57.144348+00:00"
+    },
+    {
+      "code": "BT65",
+      "area": "Armagh City, Banbridge and Craigavon",
+      "lat": 54.44494537037037,
+      "lng": -6.365974833333336,
+      "status": "ok",
+      "searchedAt": "2026-10-28T00:20:22.729046+00:00",
+      "error": null,
+      "lastSuccessfulRun": "2026-10-28T00:20:22.729046+00:00"
+    },
+    {
+      "code": "BT66",
+      "area": "Armagh City, Banbridge and Craigavon",
+      "lat": 54.454960984615376,
+      "lng": -6.332730911538458,
+      "status": "ok",
+      "searchedAt": "2026-10-28T00:23:33.058836+00:00",
+      "error": null,
+      "lastSuccessfulRun": "2026-10-28T00:23:33.058836+00:00"
+    },
+    {
+      "code": "BT67",
+      "area": "Armagh City, Banbridge and Craigavon",
+      "lat": 54.48659276181106,
+      "lng": -6.267365903543308,
+      "status": "ok",
+      "searchedAt": "2026-10-28T00:26:47.392733+00:00",
+      "error": null,
+      "lastSuccessfulRun": "2026-10-28T00:26:47.392733+00:00"
+    },
+    {
+      "code": "BT68",
+      "area": "Mid Ulster",
+      "lat": 54.365090759999994,
+      "lng": -6.84851746,
+      "status": "ok",
+      "searchedAt": "2026-10-28T00:27:47.094876+00:00",
+      "error": null,
+      "lastSuccessfulRun": "2026-10-28T00:27:47.094876+00:00"
+    },
+    {
+      "code": "BT69",
+      "area": "Mid Ulster",
+      "lat": 54.41996796703297,
+      "lng": -6.951094879120879,
+      "status": "ok",
+      "searchedAt": "2026-10-28T00:28:47.376179+00:00",
+      "error": null,
+      "lastSuccessfulRun": "2026-10-28T00:28:47.376179+00:00"
+    },
+    {
+      "code": "BT70",
+      "area": "Fermanagh and Omagh",
+      "lat": 54.514167469953726,
+      "lng": -6.8864375130970705,
+      "status": "ok",
+      "searchedAt": "2026-10-28T00:29:47.613805+00:00",
+      "error": null,
+      "lastSuccessfulRun": "2026-10-28T00:29:47.613805+00:00"
+    },
+    {
+      "code": "BT71",
+      "area": "Armagh City, Banbridge and Craigavon",
+      "lat": 54.51305449112983,
+      "lng": -6.704691321195141,
+      "status": "ok",
+      "searchedAt": "2026-10-28T00:30:47.620404+00:00",
+      "error": null,
+      "lastSuccessfulRun": "2026-10-28T00:30:47.620404+00:00"
+    },
+    {
+      "code": "BT74",
+      "area": "Fermanagh and Omagh",
+      "lat": 54.3449673528628,
+      "lng": -7.665096121171773,
+      "status": "ok",
+      "searchedAt": "2026-10-28T00:31:47.890549+00:00",
+      "error": null,
+      "lastSuccessfulRun": "2026-10-28T00:31:47.890549+00:00"
+    },
+    {
+      "code": "BT75",
+      "area": "Fermanagh and Omagh",
+      "lat": 54.373531529411785,
+      "lng": -7.317478669117646,
+      "status": "ok",
+      "searchedAt": "2026-10-28T00:32:48.120668+00:00",
+      "error": null,
+      "lastSuccessfulRun": "2026-10-28T00:32:48.120668+00:00"
+    },
+    {
+      "code": "BT76",
+      "area": "Fermanagh and Omagh",
+      "lat": 54.41986972000001,
+      "lng": -7.192286040000001,
+      "status": "ok",
+      "searchedAt": "2026-10-28T00:33:48.327234+00:00",
+      "error": null,
+      "lastSuccessfulRun": "2026-10-28T00:33:48.327234+00:00"
+    },
+    {
+      "code": "BT77",
+      "area": "Mid Ulster",
+      "lat": 54.42892350000001,
+      "lng": -7.118312240000002,
+      "status": "ok",
+      "searchedAt": "2026-10-28T00:34:48.555309+00:00",
+      "error": null,
+      "lastSuccessfulRun": "2026-10-28T00:34:48.555309+00:00"
+    },
+    {
+      "code": "BT78",
+      "area": "Derry City and Strabane",
+      "lat": 54.57034305694566,
+      "lng": -7.375920628127704,
+      "status": "ok",
+      "searchedAt": "2026-10-28T00:35:51.739473+00:00",
+      "error": null,
+      "lastSuccessfulRun": "2026-10-28T00:35:51.739473+00:00"
+    },
+    {
+      "code": "BT79",
+      "area": "Derry City and Strabane",
+      "lat": 54.62315799572649,
+      "lng": -7.20091230128207,
+      "status": "ok",
+      "searchedAt": "2026-10-28T00:36:53.914008+00:00",
+      "error": null,
+      "lastSuccessfulRun": "2026-10-28T00:36:53.914008+00:00"
+    },
+    {
+      "code": "BT80",
+      "area": "Mid Ulster",
+      "lat": 54.64639383880593,
+      "lng": -6.745192956716418,
+      "status": "ok",
+      "searchedAt": "2026-10-28T00:37:54.001045+00:00",
+      "error": null,
+      "lastSuccessfulRun": "2026-10-28T00:37:54.001045+00:00"
+    },
+    {
+      "code": "BT81",
+      "area": "Derry City and Strabane",
+      "lat": 54.69596045945946,
+      "lng": -7.610804625000002,
+      "status": "ok",
+      "searchedAt": "2026-10-28T00:38:54.214050+00:00",
+      "error": null,
+      "lastSuccessfulRun": "2026-10-28T00:38:54.214050+00:00"
+    },
+    {
+      "code": "BT82",
+      "area": "Derry City and Strabane",
+      "lat": 54.826401734922854,
+      "lng": -7.430331363253856,
+      "status": "ok",
+      "searchedAt": "2026-10-28T00:39:54.995476+00:00",
+      "error": null,
+      "lastSuccessfulRun": "2026-10-28T00:39:54.995476+00:00"
+    },
+    {
+      "code": "BT92",
+      "area": "Fermanagh and Omagh",
+      "lat": 54.22450013050187,
+      "lng": -7.4677986571428505,
+      "status": "ok",
+      "searchedAt": "2026-10-28T00:40:55.346582+00:00",
+      "error": null,
+      "lastSuccessfulRun": "2026-10-28T00:40:55.346582+00:00"
+    },
+    {
+      "code": "BT93",
+      "area": "Fermanagh and Omagh",
+      "lat": 54.46829218632081,
+      "lng": -7.825532504716972,
+      "status": "ok",
+      "searchedAt": "2026-10-28T00:41:55.638954+00:00",
+      "error": null,
+      "lastSuccessfulRun": "2026-10-28T00:41:55.638954+00:00"
+    },
+    {
+      "code": "BT94",
+      "area": "Fermanagh and Omagh",
+      "lat": 54.37634989655171,
+      "lng": -7.533991234705237,
+      "status": "ok",
+      "searchedAt": "2026-10-28T00:42:55.900862+00:00",
+      "error": null,
+      "lastSuccessfulRun": "2026-10-28T00:42:55.900862+00:00"
+    }
+  ]
+}

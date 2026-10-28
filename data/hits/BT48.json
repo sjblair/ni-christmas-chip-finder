@@ -1,0 +1,106 @@
+[
+  {
+    "id": "246712",
+    "name": "McMullan Foods @ Avenue 17",
+    "uniqueName": "mcmullan-foods--avenue-17-edenballymore",
+    "address": "17 Rosemount Avenue, Londonderry, BT48 0HQ",
+    "postalCode": "BT48 0HQ",
+    "lat": 55.004724,
+    "lng": -7.331876,
+    "url": "https://www.just-eat.co.uk/restaurants-mcmullan-foods--avenue-17-edenballymore/menu",
+    "items": [
+      {
+        "name": "Festive Chips Meal Deal",
+        "pricePence": 1195
+      },
+      {
+        "name": "Large Chips, Gravy & Stuffing",
+        "pricePence": 515
+      }
+    ],
+    "foundIn": [
+      "BT48"
+    ],
+    "located": true
+  },
+  {
+    "id": "439791",
+    "name": "Urban Fuel",
+    "uniqueName": "urban-fuel-edenballymore",
+    "address": "Strand Road Derry/Londonderry,, Londonderry, BT48 7PX",
+    "postalCode": "BT48 7PX",
+    "lat": 55.000073,
+    "lng": -7.321789,
+    "url": "https://www.just-eat.co.uk/restaurants-urban-fuel-edenballymore/menu",
+    "items": [
+      {
+        "name": "Festive Fries",
+        "pricePence": 750
+      }
+    ],
+    "foundIn": [
+      "BT48"
+    ],
+    "located": true
+  },
+  {
+    "id": "305767",
+    "name": "Golden Chippy",
+    "uniqueName": "golden-chippy-edenballymore",
+    "address": "146a Bishop Street, Derry, BT48 6UJ",
+    "postalCode": "BT48 6UJ",
+    "lat": 54.990912,
+    "lng": -7.327731,
+    "url": "https://www.just-eat.co.uk/restaurants-golden-chippy-edenballymore/menu",
+    "items": [
+      {
+        "name": "Stuffing Gravy Chips",
+        "pricePence": 550
+      }
+    ],
+    "foundIn": [
+      "BT48"
+    ],
+    "located": true
+  },
+  {
+    "id": "314255",
+    "name": "Golden King Kebab",
+    "uniqueName": "golden-takeaway-edenballymore",
+    "address": "146a Bishop Street, Derry, BT48 6UJ",
+    "postalCode": "BT48 6UJ",
+    "lat": 54.990735,
+    "lng": -7.32852,
+    "url": "https://www.just-eat.co.uk/restaurants-golden-takeaway-edenballymore/menu",
+    "items": [
+      {
+        "name": "Stuffing Gravy Chips",
+        "pricePence": 600
+      }
+    ],
+    "foundIn": [
+      "BT48"
+    ],
+    "located": true
+  },
+  {
+    "id": "317661",
+    "name": "Top Pizza Kebabs",
+    "uniqueName": "top-comamoney",
+    "address": "5 Chapel Road, Londonderry, BT47 2AN",
+    "postalCode": "BT47 2AN",
+    "lat": 54.9926,
+    "lng": -7.310116,
+    "url": "https://www.just-eat.co.uk/restaurants-top-comamoney/menu",
+    "items": [
+      {
+        "name": "Stuffing Gravy Chips",
+        "pricePence": 500
+      }
+    ],
+    "foundIn": [
+      "BT48"
+    ],
+    "located": true
+  }
+]

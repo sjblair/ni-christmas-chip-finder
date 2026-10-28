@@ -1,0 +1,242 @@
+{
+  "243814": {
+    "id": "243814",
+    "name": "Kebab Night",
+    "uniqueName": "kebab-night-silverwood-bt66",
+    "firstLine": "14 Church Place\nLurgan",
+    "city": "Craigavon",
+    "postalCode": "BT66 6EY",
+    "lng": -6.335319,
+    "lat": 54.463822
+  },
+  "439056": {
+    "id": "439056",
+    "name": "Kyles Kebab",
+    "uniqueName": "kyles-kebab-silverwood-bt66-1",
+    "firstLine": "33 William Street,Lurgan",
+    "city": "Craigavon",
+    "postalCode": "BT66 6JA",
+    "lng": -6.335686,
+    "lat": 54.46483
+  },
+  "322252": {
+    "id": "322252",
+    "name": "Turkish Kebab And Pizzeria  Moira",
+    "uniqueName": "turkish-kebab-and-pizzaria-moira-aghalee",
+    "firstLine": "95 Main Street,Moira",
+    "city": "Craigavon",
+    "postalCode": "BT67 0LH",
+    "lng": -6.223923,
+    "lat": 54.481825
+  },
+  "438623": {
+    "id": "438623",
+    "name": "Piri Piri taste lurgan",
+    "uniqueName": "piri-piri-taste-lurgan-limy-silverwood",
+    "firstLine": "7 Flush Place Lurgan",
+    "city": "Craigavon",
+    "postalCode": "BT66 7DT",
+    "lng": -6.322827,
+    "lat": 54.457019
+  },
+  "308926": {
+    "id": "308926",
+    "name": "Amigos",
+    "uniqueName": "amigos-silverwood",
+    "firstLine": "31 William Street",
+    "city": "Craigavon",
+    "postalCode": "BT66 6JA",
+    "lng": -6.335488,
+    "lat": 54.46475
+  },
+  "160887": {
+    "id": "160887",
+    "name": "Apache Pizza (Lurgan)",
+    "uniqueName": "apache-pizza-lurgan-silverwood-bt66",
+    "firstLine": "35A Church Place, Craigavon",
+    "city": "Lurgan",
+    "postalCode": "BT66 6EU",
+    "lng": -6.335183,
+    "lat": 54.462692
+  },
+  "315864": {
+    "id": "315864",
+    "name": "The sugar shack",
+    "uniqueName": "thr-sugar-shack-silverwood",
+    "firstLine": "50 Union Street Lurgan",
+    "city": "Craigavon",
+    "postalCode": "BT66 8EB",
+    "lng": -6.332809,
+    "lat": 54.460013
+  },
+  "233610": {
+    "id": "233610",
+    "name": "Paolo's Pizza - Lurgan",
+    "uniqueName": "paolos-pizza---lurgan-silverwood",
+    "firstLine": "31d High Street\nLurgan",
+    "city": "Craigavon",
+    "postalCode": "BT66 8AH",
+    "lng": -6.328726,
+    "lat": 54.460386
+  },
+  "261520": {
+    "id": "261520",
+    "name": "Skinny\u2019s Pizza and Kebab House",
+    "uniqueName": "skinny-kebab-house-silverwood",
+    "firstLine": "2a Mourne Road",
+    "city": "Craigavon",
+    "postalCode": "BT66 8JA",
+    "lng": -6.329905,
+    "lat": 54.455391
+  },
+  "249446": {
+    "id": "249446",
+    "name": "Domino's - Moira",
+    "uniqueName": "dominos---moira-aghalee",
+    "firstLine": "Glenavy Road",
+    "city": "Craigavon",
+    "postalCode": "BT67 0JW",
+    "lng": -6.209971,
+    "lat": 54.497268
+  },
+  "300115": {
+    "id": "300115",
+    "name": "CHICK \u2018N\u2019 DIP from Domino\u2019s - Moira",
+    "uniqueName": "chick-n-dip-from-dominos---moira-aghalee",
+    "firstLine": "Dominos, 1 Glenavy Road",
+    "city": "Craigavon",
+    "postalCode": "BT67 0JW",
+    "lng": -6.209918,
+    "lat": 54.495128
+  },
+  "436437": {
+    "id": "436437",
+    "name": "The Snack Shack",
+    "uniqueName": "the-snack-shack-silverwood",
+    "firstLine": "50 Union Street Lurgan",
+    "city": "Craigavon",
+    "postalCode": "BT66 8EB",
+    "lng": -6.332795,
+    "lat": 54.460059
+  },
+  "280496": {
+    "id": "280496",
+    "name": "Tjs Pizza And Kebab Takeaway",
+    "uniqueName": "tjs-pizza-and-kebab-takeaway-silverwood-bt66",
+    "firstLine": "9 Union Street\nLurgan",
+    "city": "Craigavon",
+    "postalCode": "BT66 8DY",
+    "lng": -6.331023,
+    "lat": 54.460977
+  },
+  "229885": {
+    "id": "229885",
+    "name": "Moira Pizzeria",
+    "uniqueName": "moira-pizzeria-aghalee-bt67",
+    "firstLine": "42 Main Street",
+    "city": "Craigavon",
+    "postalCode": "BT67 0LQ",
+    "lng": -6.226576,
+    "lat": 54.480792
+  },
+  "204600": {
+    "id": "204600",
+    "name": "Monte Carlo",
+    "uniqueName": "monte-carlo-aghalee-bt67",
+    "firstLine": "251 Lough Road",
+    "city": "Craigavon",
+    "postalCode": "BT66 6NQ",
+    "lng": -6.353956,
+    "lat": 54.48237
+  },
+  "268034": {
+    "id": "268034",
+    "name": "Love pizza",
+    "uniqueName": "love-pizza-aghalee",
+    "firstLine": "251 Lough Road\nLurgan",
+    "city": "Craigavon",
+    "postalCode": "BT66 6NQ",
+    "lng": -6.353956,
+    "lat": 54.48237
+  },
+  "210100": {
+    "id": "210100",
+    "name": "Frankies",
+    "uniqueName": "frankies-aghalee",
+    "firstLine": "251a Lough Road",
+    "city": "Craigavon",
+    "postalCode": "BT66 6NQ",
+    "lng": -6.353956,
+    "lat": 54.48237
+  },
+  "205729": {
+    "id": "205729",
+    "name": "Kebab King*",
+    "uniqueName": "kebab-king-silverwood-bt66-1",
+    "firstLine": "60 Church Place",
+    "city": "Craigavon",
+    "postalCode": "BT66 6HD",
+    "lng": -6.334133,
+    "lat": 54.463928
+  },
+  "167829": {
+    "id": "167829",
+    "name": "Barn Brunch & BBQ",
+    "uniqueName": "barn-brunch-and-bbq-silverwood",
+    "firstLine": "2D Mourne Road",
+    "city": "Lurgan",
+    "postalCode": "BT66 8JA",
+    "lng": -6.329852,
+    "lat": 54.454556
+  },
+  "225101": {
+    "id": "225101",
+    "name": "Bada-Bing Lurgan",
+    "uniqueName": "bada-bing-lurgan-silverwood",
+    "firstLine": "20 Edward Street",
+    "city": "Lurgan",
+    "postalCode": "BT66 6DB",
+    "lng": -6.33719,
+    "lat": 54.46295
+  },
+  "275695": {
+    "id": "275695",
+    "name": "Funky Eats",
+    "uniqueName": "funky-eats-aghalee",
+    "firstLine": "14-16 Main Street, Moira",
+    "city": "Craigavon",
+    "postalCode": "BT67 0LE",
+    "lng": -6.231005,
+    "lat": 54.479586
+  },
+  "243486": {
+    "id": "243486",
+    "name": "Flavours of the East",
+    "uniqueName": "flavours-of-the-east-silverwood",
+    "firstLine": "60 Church Place\nLurgan",
+    "city": "Craigavon",
+    "postalCode": "BT66 6HD",
+    "lng": -6.334186,
+    "lat": 54.46385
+  },
+  "288437": {
+    "id": "288437",
+    "name": "TGK Pizza Palace",
+    "uniqueName": "tgk-pizza-palace-silverwood",
+    "firstLine": "60 Church Place",
+    "city": "Craigavon",
+    "postalCode": "BT66 6HD",
+    "lng": -6.334194,
+    "lat": 54.463859
+  },
+  "303242": {
+    "id": "303242",
+    "name": "Moon Gelato",
+    "uniqueName": "moon-gelato-aghalee",
+    "firstLine": "87 Main Street,Moira",
+    "city": "Craigavon",
+    "postalCode": "BT67 0LH",
+    "lng": -6.224618,
+    "lat": 54.481473
+  }
+}

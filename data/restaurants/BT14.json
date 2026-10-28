@@ -1,0 +1,942 @@
+{
+  "309009": {
+    "id": "309009",
+    "name": "The Pizza Co. - Ardoyne Road",
+    "uniqueName": "the-pizza-co-ballysillan-lower-bt14",
+    "firstLine": "5 Ardoyne Road",
+    "city": "Belfast",
+    "postalCode": "BT14 7HX",
+    "lng": -5.965514,
+    "lat": 54.614438
+  },
+  "59804": {
+    "id": "59804",
+    "name": "Love Pizza",
+    "uniqueName": "love-pizza-low-wood",
+    "firstLine": "142 Cavehill Road",
+    "city": "Belfast",
+    "postalCode": "BT15 5BU",
+    "lng": -5.946594,
+    "lat": 54.630875
+  },
+  "122218": {
+    "id": "122218",
+    "name": "Monte Carlo",
+    "uniqueName": "monte-carlo-low-wood",
+    "firstLine": "140 Cavehill Road",
+    "city": "Belfast",
+    "postalCode": "BT15 5BU",
+    "lng": -5.946621,
+    "lat": 54.631004
+  },
+  "440378": {
+    "id": "440378",
+    "name": "Vero Pizza",
+    "uniqueName": "vero-pizza-ballysillan-lower",
+    "firstLine": "889 Crumlin Rd",
+    "city": "Belfast",
+    "postalCode": "BT14 8AB",
+    "lng": -5.975839,
+    "lat": 54.623361
+  },
+  "280309": {
+    "id": "280309",
+    "name": "Tasty Point",
+    "uniqueName": "tasty-point-newtownabbey",
+    "firstLine": "792 Shore Road Belfast",
+    "city": "Newtownabbey",
+    "postalCode": "BT36 7DG",
+    "lng": -5.921757,
+    "lat": 54.644157
+  },
+  "443542": {
+    "id": "443542",
+    "name": "Depot Pizza",
+    "uniqueName": "depot-pizza-ballynafoy",
+    "firstLine": "33-35 Bradbury Place",
+    "city": "Belfast",
+    "postalCode": "BT7 1RR",
+    "lng": -5.935115,
+    "lat": 54.588789
+  },
+  "433049": {
+    "id": "433049",
+    "name": "MCBOB KEBAB LTD",
+    "uniqueName": "mcbob-kebab-ltd-ballymagarry",
+    "firstLine": "109 Ebor Street, Tates Avenue",
+    "city": "Belfast",
+    "postalCode": "BT12 6NQ",
+    "lng": -5.955672,
+    "lat": 54.584993
+  },
+  "179894": {
+    "id": "179894",
+    "name": "Pizza Palace",
+    "uniqueName": "pizza-palace-ballysillan-lower",
+    "firstLine": "325 Ballysillan Road",
+    "city": "Belfast",
+    "postalCode": "BT14 6RE",
+    "lng": -5.963731,
+    "lat": 54.628947
+  },
+  "135581": {
+    "id": "135581",
+    "name": "Rocco\u2019s Pizza & Treats",
+    "uniqueName": "roccos-pizza-and-treats-low-wood",
+    "firstLine": "227 Antrim Road",
+    "city": "Belfast",
+    "postalCode": "BT15 2GY",
+    "lng": -5.936672,
+    "lat": 54.61501
+  },
+  "440270": {
+    "id": "440270",
+    "name": "Turkish Kebab and Pizza House Springfield",
+    "uniqueName": "turkish-kebab-and-pizza-house-springfield-ballymagarry-bt12",
+    "firstLine": "148 Springfield Road",
+    "city": "Belfast",
+    "postalCode": "BT12 7DA",
+    "lng": -5.959373,
+    "lat": 54.59905
+  },
+  "135840": {
+    "id": "135840",
+    "name": "Rocco\u2019s Sweet Treats",
+    "uniqueName": "roccos-sweet-treats-low-wood",
+    "firstLine": "229 Antrim Road",
+    "city": "Belfast",
+    "postalCode": "BT15 2GY",
+    "lng": -5.936672,
+    "lat": 54.61501
+  },
+  "242417": {
+    "id": "242417",
+    "name": "Jomilas - West",
+    "uniqueName": "jomilas-ballymagarry",
+    "firstLine": "203 Falls Road",
+    "city": "Belfast",
+    "postalCode": "BT12 7LQ",
+    "lng": -5.960833,
+    "lat": 54.592653
+  },
+  "174032": {
+    "id": "174032",
+    "name": "Build A Burger",
+    "uniqueName": "build-a-burger-low-wood",
+    "firstLine": "142 Cavehill Road",
+    "city": "Belfast",
+    "postalCode": "BT15 5BU",
+    "lng": -5.946594,
+    "lat": 54.630875
+  },
+  "110738": {
+    "id": "110738",
+    "name": "Mama's Kitchen",
+    "uniqueName": "mamas-kitchen-new-low-wood",
+    "firstLine": "51 Shore Road",
+    "city": "Belfast",
+    "postalCode": "BT15 3PG",
+    "lng": -5.922587,
+    "lat": 54.623561
+  },
+  "154899": {
+    "id": "154899",
+    "name": "Bodrum Kebab House",
+    "uniqueName": "bodrum-kebab-house-flax-centre",
+    "firstLine": "68 Ballygomartin Road",
+    "city": "Belfast",
+    "postalCode": "BT13 3NE",
+    "lng": -5.971548,
+    "lat": 54.609334
+  },
+  "440974": {
+    "id": "440974",
+    "name": "Depot Fast Food",
+    "uniqueName": "depot-fast-food-ballynafoy",
+    "firstLine": "33-35 Bradbury Place",
+    "city": "Belfast",
+    "postalCode": "BT7 1RT",
+    "lng": -5.934788,
+    "lat": 54.589366
+  },
+  "92233": {
+    "id": "92233",
+    "name": "Roccos",
+    "uniqueName": "roccos-ballymagarry",
+    "firstLine": "447 Falls Road",
+    "city": "Belfast",
+    "postalCode": "BT12 6DD",
+    "lng": -5.969669,
+    "lat": 54.58957
+  },
+  "69959": {
+    "id": "69959",
+    "name": "Monte Carlo",
+    "uniqueName": "monte-carlo-bt9",
+    "firstLine": "147 Lower Lisburn Road",
+    "city": "Belfast",
+    "postalCode": "BT9 7AG",
+    "lng": -5.944053,
+    "lat": 54.583939
+  },
+  "233247": {
+    "id": "233247",
+    "name": "Frankies",
+    "uniqueName": "frankies-low-wood",
+    "firstLine": "140 Cavehill Road",
+    "city": "Belfast",
+    "postalCode": "BT15 5BU",
+    "lng": -5.946631,
+    "lat": 54.630964
+  },
+  "287531": {
+    "id": "287531",
+    "name": "Morellis",
+    "uniqueName": "morellis-ballynafoy",
+    "firstLine": "189 Ormeau Road",
+    "city": "Belfast",
+    "postalCode": "BT7 1SQ",
+    "lng": -5.9227638,
+    "lat": 54.5841619
+  },
+  "128319": {
+    "id": "128319",
+    "name": "Rocco\u2019s Treats & Shakes",
+    "uniqueName": "roccos-treats-and-shakes-belfast",
+    "firstLine": "447A Falls Road",
+    "city": "Belfast",
+    "postalCode": "BT12 6DD",
+    "lng": -5.968101,
+    "lat": 54.590255
+  },
+  "87414": {
+    "id": "87414",
+    "name": "Love Treats & Shakes",
+    "uniqueName": "love-treat-and-shakes-ballynafoy",
+    "firstLine": "187 Ormeau Road",
+    "city": "Belfast",
+    "postalCode": "BT7 1SQ",
+    "lng": -5.922763,
+    "lat": 54.584161
+  },
+  "255160": {
+    "id": "255160",
+    "name": "Kebab Express",
+    "uniqueName": "kebab-express-ballyrushboy",
+    "firstLine": "364A Newtownards Road",
+    "city": "Belfast",
+    "postalCode": "BT4 1HG",
+    "lng": -5.892989,
+    "lat": 54.598321
+  },
+  "441466": {
+    "id": "441466",
+    "name": "Four Star Pizza",
+    "uniqueName": "four-star-pizza-north-belfast-low-wood",
+    "firstLine": "158a Cavehill Road",
+    "city": "Belfast",
+    "postalCode": "BT15 5EX",
+    "lng": -5.947639,
+    "lat": 54.632024
+  },
+  "131489": {
+    "id": "131489",
+    "name": "Love Pizza",
+    "uniqueName": "love-pizza-andersonstown",
+    "firstLine": "89C Glen Road",
+    "city": "Belfast",
+    "postalCode": "BT11 8BD",
+    "lng": -5.986189,
+    "lat": 54.583939
+  },
+  "248439": {
+    "id": "248439",
+    "name": "Sanis Kebab and Pizza",
+    "uniqueName": "sanis-kebab-and-pizza-ballysillan-lower-bt14",
+    "firstLine": "241 Crumlin Road",
+    "city": "Belfast",
+    "postalCode": "BT14 7DY",
+    "lng": -5.95095,
+    "lat": 54.610534
+  },
+  "240928": {
+    "id": "240928",
+    "name": "Oliva Doner & Pizza Land",
+    "uniqueName": "oliva-doner--pizza-land-castlereagh",
+    "firstLine": "396 Woodstock Road",
+    "city": "Belfast",
+    "postalCode": "BT6 9DQ",
+    "lng": -5.9002,
+    "lat": 54.587525
+  },
+  "279431": {
+    "id": "279431",
+    "name": "Raffo\u2019s Pizza & Ice Cream",
+    "uniqueName": "raffos-pizza-and-ice-cream-ballymagarry-bt12-4",
+    "firstLine": "794 Springfield Road",
+    "city": "Belfast",
+    "postalCode": "BT12 7JD",
+    "lng": -5.987592,
+    "lat": 54.594337
+  },
+  "83467": {
+    "id": "83467",
+    "name": "Love Pizza",
+    "uniqueName": "love-pizza-ballynafoy",
+    "firstLine": "166 Ormeau Road",
+    "city": "Belfast",
+    "postalCode": "BT7 2ED",
+    "lng": -5.922356,
+    "lat": 54.584424
+  },
+  "203971": {
+    "id": "203971",
+    "name": "Paradise Pizza",
+    "uniqueName": "paradise-pizza-ballymagarry",
+    "firstLine": "Unit 18, Blackstaff Mill, 81 Springfield Road",
+    "city": "Belfast",
+    "postalCode": "BT12 7AE",
+    "lng": -5.956984,
+    "lat": 54.597608
+  },
+  "202905": {
+    "id": "202905",
+    "name": "Trap Kebabs",
+    "uniqueName": "trap-kebabs-ballymagarry",
+    "firstLine": "Unit 18, Blackstaff Mill. 81 Springfield Road",
+    "city": "Belfast",
+    "postalCode": "BT12 7AE",
+    "lng": -5.95719,
+    "lat": 54.59796
+  },
+  "129750": {
+    "id": "129750",
+    "name": "Pizza Crew - Antrim Rd",
+    "uniqueName": "pizzaguyz-low-wood",
+    "firstLine": "297 Antrim Road",
+    "city": "Belfast",
+    "postalCode": "BT15 2HF",
+    "lng": -5.938,
+    "lat": 54.61752
+  },
+  "160849": {
+    "id": "160849",
+    "name": "Shalimar Kebab",
+    "uniqueName": "shalimar-kebab-new-flax-centre",
+    "firstLine": "241 Shankill Road",
+    "city": "Belfast",
+    "postalCode": "BT13 1FR",
+    "lng": -5.95099,
+    "lat": 54.60428
+  },
+  "279335": {
+    "id": "279335",
+    "name": "Raffo's Kebab & Grill",
+    "uniqueName": "raffos-kebab-and-grill-ballymagarry-bt12",
+    "firstLine": "794 Springfield Road",
+    "city": "Belfast",
+    "postalCode": "BT12 7JD",
+    "lng": -5.987592,
+    "lat": 54.594337
+  },
+  "229812": {
+    "id": "229812",
+    "name": "Alis Kebab and Pizza",
+    "uniqueName": "alis-kebab-and-pizza-ballymagarry",
+    "firstLine": "Unit 18a Blackstaff Complex, 81 Springfield Road",
+    "city": "Belfast",
+    "postalCode": "BT12 7AE",
+    "lng": -5.957137,
+    "lat": 54.59797
+  },
+  "219398": {
+    "id": "219398",
+    "name": "Suga Crush",
+    "uniqueName": "suga-crush-ballymagarry",
+    "firstLine": "Unit 18a Blackstaff Mill, 81 Springfield Road",
+    "city": "Belfast",
+    "postalCode": "BT12 7AE",
+    "lng": -5.956984,
+    "lat": 54.597608
+  },
+  "124725": {
+    "id": "124725",
+    "name": "Curry 'n' Kebab House",
+    "uniqueName": "curry-n-kebab-house-new-ballysillan-lower",
+    "firstLine": "288 Cliftonville Road",
+    "city": "Belfast",
+    "postalCode": "BT14 6LE",
+    "lng": -5.9537134,
+    "lat": 54.6207844
+  },
+  "246993": {
+    "id": "246993",
+    "name": "Kebab Master",
+    "uniqueName": "kebab-master-ballysillan-lower",
+    "firstLine": "901 Crumlin Road",
+    "city": "Belfast",
+    "postalCode": "BT14 8AB",
+    "lng": -5.975885,
+    "lat": 54.623301
+  },
+  "304293": {
+    "id": "304293",
+    "name": "Big John's Traditional Fish & Chips",
+    "uniqueName": "big-johns-traditional-fish-and-chips-flax-centre-bt13-1",
+    "firstLine": "313 Shankill Road",
+    "city": "Belfast",
+    "postalCode": "BT13 1FT",
+    "lng": -5.953832,
+    "lat": 54.604534
+  },
+  "322362": {
+    "id": "322362",
+    "name": "Fishbook Pizzabook",
+    "uniqueName": "fishbook-pizzabook-ballysillan-lower-bt14",
+    "firstLine": "Unit 10 Ligoniel Road",
+    "city": "Belfast",
+    "postalCode": "BT14 8BX",
+    "lng": -5.976469,
+    "lat": 54.623629
+  },
+  "428157": {
+    "id": "428157",
+    "name": "Mama Nimi Taste of Naija",
+    "uniqueName": "mama-nimi-low-wood",
+    "firstLine": "194 Duncairn Gardens",
+    "city": "Belfast",
+    "postalCode": "BT15 2GN",
+    "lng": -5.934281,
+    "lat": 54.613886
+  },
+  "202040": {
+    "id": "202040",
+    "name": "Woodvale Wines",
+    "uniqueName": "woodvale-wines-flax-centre",
+    "firstLine": "48 Woodvale Road",
+    "city": "Belfast",
+    "postalCode": "BT13 3BT",
+    "lng": -5.961625,
+    "lat": 54.606795
+  },
+  "321323": {
+    "id": "321323",
+    "name": "SIZZLE 26",
+    "uniqueName": "sizzle-26-newtownabbey",
+    "firstLine": "162a Antrim Road,Glengormley",
+    "city": "Newtownabbey",
+    "postalCode": "BT36 7QZ",
+    "lng": -5.950002,
+    "lat": 54.665695
+  },
+  "230781": {
+    "id": "230781",
+    "name": "Brothers Fish and Chips",
+    "uniqueName": "brothers-fish-and-chips-ballysillan-lower-bt14",
+    "firstLine": "901 Crumlin Road",
+    "city": "Belfast",
+    "postalCode": "BT14 8AB",
+    "lng": -5.975885,
+    "lat": 54.623301
+  },
+  "309132": {
+    "id": "309132",
+    "name": "SPAR Ligoniel",
+    "uniqueName": "spar-ligoniel-ballysillan-lower",
+    "firstLine": "1 Weavershill Square",
+    "city": "Belfast",
+    "postalCode": "BT14 8PW",
+    "lng": -5.985041,
+    "lat": 54.627088
+  },
+  "250234": {
+    "id": "250234",
+    "name": "Co-op - Old Park Road",
+    "uniqueName": "co-op---old-park-road-ballysillan-lower",
+    "firstLine": "523-525 Old Park Road",
+    "city": "Belfast",
+    "postalCode": "BT14 6QU",
+    "lng": -5.956309,
+    "lat": 54.622278
+  },
+  "266948": {
+    "id": "266948",
+    "name": "Breakfast Bar @ The Chip Co (Crumlin Road)",
+    "uniqueName": "breakfast-bar--the-chip-co-ballysillan-lower",
+    "firstLine": "21 Ardoyne Road",
+    "city": "Belfast",
+    "postalCode": "BT14 7HX",
+    "lng": -5.965642,
+    "lat": 54.6148
+  },
+  "270670": {
+    "id": "270670",
+    "name": "Mr Snak",
+    "uniqueName": "mr-snak-flax-centre",
+    "firstLine": "62 Woodvale Road",
+    "city": "Belfast",
+    "postalCode": "BT13 3BT",
+    "lng": -5.961699,
+    "lat": 54.6067
+  },
+  "112525": {
+    "id": "112525",
+    "name": "Sweet Treats & Party Favours",
+    "uniqueName": "sweet-treats-and-party-favours-ballymagarry",
+    "firstLine": "218c Springfield Road",
+    "city": "Belfast",
+    "postalCode": "BT12 7DR",
+    "lng": -5.963195,
+    "lat": 54.599948
+  },
+  "289701": {
+    "id": "289701",
+    "name": "Crumlin China",
+    "uniqueName": "crumlin-china-ballysillan-lower",
+    "firstLine": "237-239 Crumlin Road",
+    "city": "Belfast",
+    "postalCode": "BT14 7DY",
+    "lng": -5.950945,
+    "lat": 54.610566
+  },
+  "121309": {
+    "id": "121309",
+    "name": "Beatties Fish Bar",
+    "uniqueName": "beatties-fish-bar-new-flax-centre",
+    "firstLine": "220 Shankill Road",
+    "city": "Belfast",
+    "postalCode": "BT13 2BJ",
+    "lng": -5.950179,
+    "lat": 54.604035
+  },
+  "197886": {
+    "id": "197886",
+    "name": "Oh My Pizza",
+    "uniqueName": "ohmy-pizza-ballysillan-lower",
+    "firstLine": "101 Alliance Avenue",
+    "city": "Belfast",
+    "postalCode": "BT14 7NT",
+    "lng": -5.960245,
+    "lat": 54.618742
+  },
+  "264379": {
+    "id": "264379",
+    "name": "Flax EUROSPAR",
+    "uniqueName": "flax-eurospar-ballysillan-lower",
+    "firstLine": "60 Ardoyne Ave, Belfast BT14 7DA, United Kingdom",
+    "city": "Belfast",
+    "postalCode": "BT14 7DA",
+    "lng": -5.955034,
+    "lat": 54.614795
+  },
+  "244322": {
+    "id": "244322",
+    "name": "The New Curry House",
+    "uniqueName": "the-new-curry-house-ballymagarry",
+    "firstLine": "188 Falls Road",
+    "city": "Belfast",
+    "postalCode": "BT12 6AG",
+    "lng": -5.959718,
+    "lat": 54.592775
+  },
+  "159458": {
+    "id": "159458",
+    "name": "Centra Moneen",
+    "uniqueName": "centramoneen-andersonstown",
+    "firstLine": "339 Finaghy Road North",
+    "city": "Belfast",
+    "postalCode": "BT11 9EH",
+    "lng": -5.9954375,
+    "lat": 54.5728125
+  },
+  "320779": {
+    "id": "320779",
+    "name": "McEvoy's Tearooms",
+    "uniqueName": "mcevoys-tearooms-flax-centre",
+    "firstLine": "26 Woodvale Road",
+    "city": "Belfast",
+    "postalCode": "BT13 3BS",
+    "lng": -5.96081,
+    "lat": 54.606336
+  },
+  "254495": {
+    "id": "254495",
+    "name": "The Wine Company Cgees",
+    "uniqueName": "the-wine-company-cgees-ballymagarry",
+    "firstLine": "47 Springfield Road",
+    "city": "Belfast",
+    "postalCode": "BT12 7AB",
+    "lng": -5.957047,
+    "lat": 54.596642
+  },
+  "216689": {
+    "id": "216689",
+    "name": "Fitzy's Grill",
+    "uniqueName": "fitzys-grill-ballysillan-lower",
+    "firstLine": "148 Ligoniel Road",
+    "city": "Belfast",
+    "postalCode": "BT14 8DT",
+    "lng": -5.985815,
+    "lat": 54.627047
+  },
+  "218810": {
+    "id": "218810",
+    "name": "New Fortune",
+    "uniqueName": "new-fortune-ballysillan-lower",
+    "firstLine": "3 Ardoyne Road",
+    "city": "Belfast",
+    "postalCode": "BT14 7HX",
+    "lng": -5.965468,
+    "lat": 54.6144
+  },
+  "59056": {
+    "id": "59056",
+    "name": "Oh My Cod",
+    "uniqueName": "oh-my-cod-ballysillan-lower",
+    "firstLine": "101 Aillance Avenue",
+    "city": "Belfast",
+    "postalCode": "BT14 7NT",
+    "lng": -5.961509,
+    "lat": 54.618494
+  },
+  "203119": {
+    "id": "203119",
+    "name": "Iceland - Ballysillan",
+    "uniqueName": "iceland---ballysillan-ballysillan-lower",
+    "firstLine": "Ballysillan Rd",
+    "city": "Ballysillan",
+    "postalCode": "BT14 7QQ",
+    "lng": -5.968892,
+    "lat": 54.623264
+  },
+  "243355": {
+    "id": "243355",
+    "name": "Silver House",
+    "uniqueName": "silver-house-flax-centre",
+    "firstLine": "185 West Circular Road",
+    "city": "Belfast",
+    "postalCode": "BT13 3QF",
+    "lng": -5.973308,
+    "lat": 54.607302
+  },
+  "267016": {
+    "id": "267016",
+    "name": "Moyola",
+    "uniqueName": "moyola-ballysillan-lower-bt14",
+    "firstLine": "427 Ballysillan Road",
+    "city": "Belfast",
+    "postalCode": "BT14 6RE",
+    "lng": -5.960714,
+    "lat": 54.630877
+  },
+  "218203": {
+    "id": "218203",
+    "name": "Belfast Burger",
+    "uniqueName": "belfast-burger-ballysillan-lower",
+    "firstLine": "889 Crumlin Road",
+    "city": "Belfast",
+    "postalCode": "BT14 8AB",
+    "lng": -5.976105,
+    "lat": 54.623041
+  },
+  "425995": {
+    "id": "425995",
+    "name": "Morning Star Takeaway",
+    "uniqueName": "morning-star-takeaway-low-wood-bt15",
+    "firstLine": "144 Cavehill Road",
+    "city": "Belfast",
+    "postalCode": "BT15 5BU",
+    "lng": -5.946729,
+    "lat": 54.631011
+  },
+  "212382": {
+    "id": "212382",
+    "name": "Starbucks Hillview DT",
+    "uniqueName": "starbucks-hillview-dt-ballysillan-lower",
+    "firstLine": "Hillview Retail Park 326 Crumlin Road",
+    "city": "Belfast",
+    "postalCode": "BT14 7EN",
+    "lng": -5.955647,
+    "lat": 54.611366
+  },
+  "150422": {
+    "id": "150422",
+    "name": "The Burger Club",
+    "uniqueName": "the-burger-club-ballysillan-lower",
+    "firstLine": "164 Cliftonville Road",
+    "city": "Belfast",
+    "postalCode": "BT14 6LA",
+    "lng": -5.94676,
+    "lat": 54.615804
+  },
+  "23697": {
+    "id": "23697",
+    "name": "Mannys",
+    "uniqueName": "Mannys-BT15",
+    "firstLine": "241 Antrim Road",
+    "city": "Belfast",
+    "postalCode": "BT15 2GZ",
+    "lng": -5.937703,
+    "lat": 54.616519
+  },
+  "64768": {
+    "id": "64768",
+    "name": "Peppers Indian Cuisine & Takeaway",
+    "uniqueName": "peppers-indian-cuisine-ballysillan-lower",
+    "firstLine": "179 Crumlin Road",
+    "city": "Belfast",
+    "postalCode": "BT14 7AA",
+    "lng": -5.947742,
+    "lat": 54.609924
+  },
+  "155191": {
+    "id": "155191",
+    "name": "Joses Deli - Hillview",
+    "uniqueName": "joses-deli-ballysillan-lower",
+    "firstLine": "Unit 1-7, Hillview Enterprise Park, 3 Hillview Rd",
+    "city": "Belfast",
+    "postalCode": "BT14 7BT",
+    "lng": -5.948573,
+    "lat": 54.612166
+  },
+  "53037": {
+    "id": "53037",
+    "name": "India Gate",
+    "uniqueName": "india-gate-belfast",
+    "firstLine": "Albany House ,73-75 Great Victoria Street",
+    "city": "County Antrim",
+    "postalCode": "BT2 7AF",
+    "lng": -5.934624,
+    "lat": 54.59235
+  },
+  "222162": {
+    "id": "222162",
+    "name": "The Radhuni Indian Restaurant & Takeaway",
+    "uniqueName": "radhuni-indian-restaurant-newtownabbey",
+    "firstLine": "16B Carnmoney Road\nGlengormley",
+    "city": "Newtownabbey",
+    "postalCode": "BT36 6HN",
+    "lng": -5.957659,
+    "lat": 54.671693
+  },
+  "246265": {
+    "id": "246265",
+    "name": "Shaheen Tandoori",
+    "uniqueName": "shaheen-tandoori-newtownabbey-bt36",
+    "firstLine": "250 Whitewell Road",
+    "city": "Newtownabbey",
+    "postalCode": "BT36 7NH",
+    "lng": -5.934077,
+    "lat": 54.656078
+  },
+  "425910": {
+    "id": "425910",
+    "name": "Dessert Ville",
+    "uniqueName": "dessert-ville-ballysillan-lower-bt14-2",
+    "firstLine": "174 Cliftonville Road",
+    "city": "Belfast",
+    "postalCode": "BT14 6LB",
+    "lng": -5.948606,
+    "lat": 54.618258
+  },
+  "311653": {
+    "id": "311653",
+    "name": "Pizzapules",
+    "uniqueName": "pizzapules-ballymagarry",
+    "firstLine": "218B Springfield Road",
+    "city": "Belfast",
+    "postalCode": "BT12 7DR",
+    "lng": -5.96151,
+    "lat": 54.600569
+  },
+  "121131": {
+    "id": "121131",
+    "name": "Ravenous",
+    "uniqueName": "ravenous-ballymagarry",
+    "firstLine": "117 Falls Rd",
+    "city": "Belfast",
+    "postalCode": "BT12 6AB",
+    "lng": -5.955299,
+    "lat": 54.595695
+  },
+  "318375": {
+    "id": "318375",
+    "name": "Smyths Fish and Chips",
+    "uniqueName": "smyths-fish-and-chips-castlereagh-bt6",
+    "firstLine": "365 Woodstock Road",
+    "city": "Belfast",
+    "postalCode": "BT6 8PU",
+    "lng": -5.900856,
+    "lat": 54.587856
+  },
+  "201638": {
+    "id": "201638",
+    "name": "TUCKERS",
+    "uniqueName": "tuckers-flax-centre",
+    "firstLine": "72 Ainsworth Avenue",
+    "city": "Belfast",
+    "postalCode": "BT13 3EP",
+    "lng": -5.960839,
+    "lat": 54.604466
+  },
+  "277214": {
+    "id": "277214",
+    "name": "Sunday Lunch at Wrap it Up Deli",
+    "uniqueName": "sunday-lunch-at-wrap-it-up-deli-ballysillan-lower",
+    "firstLine": "161 Oldpark Road",
+    "city": "Belfast",
+    "postalCode": "BT14 6QP",
+    "lng": -5.948032,
+    "lat": 54.613775
+  },
+  "261576": {
+    "id": "261576",
+    "name": "Sanis Fish & Chips",
+    "uniqueName": "sanis-fish-and-chips-ballysillan-lower",
+    "firstLine": "241 Crumlin Road",
+    "city": "Belfast",
+    "postalCode": "BT14 7DY",
+    "lng": -5.95095,
+    "lat": 54.610534
+  },
+  "438613": {
+    "id": "438613",
+    "name": "The Real McCoy",
+    "uniqueName": "the-real-mccoy-lisnasharragh-bt5-2",
+    "firstLine": "89 Bloomfield Road",
+    "city": "Belfast",
+    "postalCode": "BT5 5LS",
+    "lng": -5.882083,
+    "lat": 54.59172
+  },
+  "236532": {
+    "id": "236532",
+    "name": "The Moyola",
+    "uniqueName": "the-moyola-low-wood",
+    "firstLine": "1 Limestone Road",
+    "city": "Belfast",
+    "postalCode": "BT15 3AA",
+    "lng": -5.924576,
+    "lat": 54.614179
+  },
+  "291123": {
+    "id": "291123",
+    "name": "Kebabish Delights",
+    "uniqueName": "kebabish-delights-low-wood",
+    "firstLine": "503 Antrim Road",
+    "city": "Belfast",
+    "postalCode": "BT15 3BP",
+    "lng": -5.937814,
+    "lat": 54.622953
+  },
+  "431885": {
+    "id": "431885",
+    "name": "Seafood City",
+    "uniqueName": "paella-sea-ballymagarry",
+    "firstLine": "1414D Blackstaff Mill\r\n81 Springfield Road",
+    "city": "Belfast",
+    "postalCode": "BT12 7AE",
+    "lng": -5.957876,
+    "lat": 54.597315
+  },
+  "282521": {
+    "id": "282521",
+    "name": "Turkish Kebab House",
+    "uniqueName": "turkish-kebab-house-flax-centre-bt13-1",
+    "firstLine": "199 Shankill Road",
+    "city": "Belfast",
+    "postalCode": "BT13 1FP",
+    "lng": -5.948762,
+    "lat": 54.604192
+  },
+  "293258": {
+    "id": "293258",
+    "name": "Xiis Restaurant",
+    "uniqueName": "xiis-restaurant-ballynafoy",
+    "firstLine": "143a University St",
+    "city": "Belfast",
+    "postalCode": "BT7 1HP",
+    "lng": -5.925842,
+    "lat": 54.586047
+  },
+  "426636": {
+    "id": "426636",
+    "name": "That Slaps",
+    "uniqueName": "thats-slap-newtownabbey",
+    "firstLine": "10 Glebe Manor,Glengormley",
+    "city": "Newtownabbey",
+    "postalCode": "BT36 6HF",
+    "lng": -5.945603,
+    "lat": 54.676016
+  },
+  "283219": {
+    "id": "283219",
+    "name": "Code15 Pizza",
+    "uniqueName": "code15-pizza-low-wood",
+    "firstLine": "15 Garmoyle Street",
+    "city": "Belfast",
+    "postalCode": "BT15 1DY",
+    "lng": -5.920763,
+    "lat": 54.60844
+  },
+  "120233": {
+    "id": "120233",
+    "name": "Buenos",
+    "uniqueName": "buenos-ballymurphy",
+    "firstLine": "147 Lisburn Road",
+    "city": "Belfast",
+    "postalCode": "BT9 7AG",
+    "lng": -5.94487,
+    "lat": 54.58347
+  },
+  "243029": {
+    "id": "243029",
+    "name": "Gracie's Deli",
+    "uniqueName": "gracies-deli-newtownabbey",
+    "firstLine": "90-92 Ballyclare Road",
+    "city": "Newtownabbey",
+    "postalCode": "BT36 5HN",
+    "lng": -5.961893,
+    "lat": 54.677711
+  },
+  "247018": {
+    "id": "247018",
+    "name": "Masala Curry Land",
+    "uniqueName": "masala-curry-land-castlereagh",
+    "firstLine": "396 Woodstock Road",
+    "city": "Belfast",
+    "postalCode": "BT6 9DQ",
+    "lng": -5.900053,
+    "lat": 54.587368
+  },
+  "274726": {
+    "id": "274726",
+    "name": "Gucci Chip",
+    "uniqueName": "gucci-chip-ballymurphy",
+    "firstLine": "Unit 3 133 Lisburn Road",
+    "city": "Belfast",
+    "postalCode": "BT9 7AG",
+    "lng": -5.94409,
+    "lat": 54.583858
+  },
+  "302963": {
+    "id": "302963",
+    "name": "Joses To Go at Spar Twin Spires",
+    "uniqueName": "joses-to-go-flax-centre",
+    "firstLine": "17- 21 Northumberland street twin spires complex",
+    "city": "United Kingdom",
+    "postalCode": "BT13 2JF",
+    "lng": -5.947116,
+    "lat": 54.602278
+  },
+  "322076": {
+    "id": "322076",
+    "name": "Code 15 Treats and Desserts",
+    "uniqueName": "code-15-treats-and-desserts-low-wood",
+    "firstLine": "15 Garmoyle Street",
+    "city": "Belfast",
+    "postalCode": "BT15 1DY",
+    "lng": -5.920802,
+    "lat": 54.60846
+  }
+}

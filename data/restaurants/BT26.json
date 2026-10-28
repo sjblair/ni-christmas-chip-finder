@@ -1,0 +1,362 @@
+{
+  "157492": {
+    "id": "157492",
+    "name": "McDonald's\u00ae - Sprucefield F/s",
+    "uniqueName": "mcdonaldssprucefieldfs-duneight",
+    "firstLine": "1 Hillsborough Old Road",
+    "city": "Lisburn",
+    "postalCode": "BT27 5QE",
+    "lng": -6.060877,
+    "lat": 54.492101
+  },
+  "440590": {
+    "id": "440590",
+    "name": "Apache Pizza Dromore",
+    "uniqueName": "apache-pizza-dromore-waringsford",
+    "firstLine": "7 Princes Street",
+    "city": "Dromore",
+    "postalCode": "BT25 1AY",
+    "lng": -6.148318,
+    "lat": 54.415038
+  },
+  "101701": {
+    "id": "101701",
+    "name": "Apache Pizza (Lisburn)",
+    "uniqueName": "apache-pizzabt28",
+    "firstLine": "1A Mercer Street,83 Sloan Street",
+    "city": "Lisburn",
+    "postalCode": "BT27 5AJ",
+    "lng": -6.03353,
+    "lat": 54.509342
+  },
+  "438623": {
+    "id": "438623",
+    "name": "Piri Piri taste lurgan",
+    "uniqueName": "piri-piri-taste-lurgan-limy-silverwood",
+    "firstLine": "7 Flush Place Lurgan",
+    "city": "Craigavon",
+    "postalCode": "BT66 7DT",
+    "lng": -6.322827,
+    "lat": 54.457019
+  },
+  "255779": {
+    "id": "255779",
+    "name": "Pizza Crew - Lisburn",
+    "uniqueName": "pizza-crew-formerly-pizza-guyz-ballynadolly",
+    "firstLine": "53-57 Bachelors Walk",
+    "city": "Lisburn",
+    "postalCode": "BT28 1XN",
+    "lng": -6.047561,
+    "lat": 54.512721
+  },
+  "153399": {
+    "id": "153399",
+    "name": "Castle 12",
+    "uniqueName": "castle-12-duneight",
+    "firstLine": "12 Castle Street",
+    "city": "Lisburn",
+    "postalCode": "BT27 4XD",
+    "lng": -6.041928,
+    "lat": 54.511822
+  },
+  "215982": {
+    "id": "215982",
+    "name": "Co-op - Hillsborough - Lisburn Street",
+    "uniqueName": "co-op-hillsborough---lisburn-street-large-prk",
+    "firstLine": "8 Lisburn Street",
+    "city": "Hillsborough",
+    "postalCode": "BT26 6AB",
+    "lng": -6.083218,
+    "lat": 54.463183
+  },
+  "72486": {
+    "id": "72486",
+    "name": "KFC Lisburn",
+    "uniqueName": "kfc-lisburn",
+    "firstLine": "Lisburn Omniplex Centre,Grosvenor Road",
+    "city": "Lisburn",
+    "postalCode": "BT28 1LP",
+    "lng": -6.050808,
+    "lat": 54.50767
+  },
+  "424553": {
+    "id": "424553",
+    "name": "Centra Culcavey",
+    "uniqueName": "centra-culcavy-large-prk",
+    "firstLine": "61 Culcavey Rd, Hillsborough",
+    "city": "Hillsborough",
+    "postalCode": "BT26 6JD",
+    "lng": -6.084773,
+    "lat": 54.468059
+  },
+  "215970": {
+    "id": "215970",
+    "name": "Co-op - Longstone",
+    "uniqueName": "co-op---longstone-ballynadolly",
+    "firstLine": "164 Longstone Street",
+    "city": "Lisburn",
+    "postalCode": "BT28 1TT",
+    "lng": -6.0590582,
+    "lat": 54.5096173
+  },
+  "264509": {
+    "id": "264509",
+    "name": "Sainsbury's - Sprucefield",
+    "uniqueName": "sainsburys---sprucefield-duneight",
+    "firstLine": "5 Sprucefield Park",
+    "city": "Lisburn",
+    "postalCode": "BT27 5UQ",
+    "lng": -6.06698,
+    "lat": 54.49019
+  },
+  "105002": {
+    "id": "105002",
+    "name": "Subway - Lisburn Omniplex",
+    "uniqueName": "subway-lisburnomniplexballynadolly",
+    "firstLine": "Lisburn Leisure Park, Governors Road",
+    "city": "Lisburn",
+    "postalCode": "BT28 1LP",
+    "lng": -6.050669,
+    "lat": 54.506991
+  },
+  "151854": {
+    "id": "151854",
+    "name": "Subway - 1 Mercer St",
+    "uniqueName": "subway1mercerst-duneight",
+    "firstLine": "1 Mercer Street",
+    "city": "Lisburn",
+    "postalCode": "BT27 5AJ",
+    "lng": -6.033008,
+    "lat": 54.50881
+  },
+  "256664": {
+    "id": "256664",
+    "name": "Slim Chickens - Sprucefield",
+    "uniqueName": "slim-chickens---sprucefield-duneight",
+    "firstLine": "Unit 1, Hillsborough Road",
+    "city": "Lisburn",
+    "postalCode": "BT27 5UJ",
+    "lng": -6.0631392,
+    "lat": 54.492156
+  },
+  "163618": {
+    "id": "163618",
+    "name": "CREMA TO GO",
+    "uniqueName": "cremato-go-lisburn",
+    "firstLine": "46-48 Market Square",
+    "city": "Lisburn",
+    "postalCode": "BT28 1AG",
+    "lng": -6.045306,
+    "lat": 54.511288
+  },
+  "53448": {
+    "id": "53448",
+    "name": "Poyraz Turkish Kebab",
+    "uniqueName": "poyraz-turkish-kebab-waringsford",
+    "firstLine": "8 Bridge Street",
+    "city": "Dromore",
+    "postalCode": "BT25 1AN",
+    "lng": -6.14969,
+    "lat": 54.414068
+  },
+  "154076": {
+    "id": "154076",
+    "name": "Taylor's Ice Cream- Sloan St",
+    "uniqueName": "taylorsicecream-duneight",
+    "firstLine": "27 Sloan Street",
+    "city": "Lisburn",
+    "postalCode": "BT27 5AG",
+    "lng": -6.036366,
+    "lat": 54.509516
+  },
+  "155203": {
+    "id": "155203",
+    "name": "Centra Longstone Street",
+    "uniqueName": "centralongstonestreet-ballynadolly",
+    "firstLine": "150 Longstone Street",
+    "city": "Lisburn",
+    "postalCode": "BT28 1TT",
+    "lng": -6.05818,
+    "lat": 54.509536
+  },
+  "236326": {
+    "id": "236326",
+    "name": "On a Roll",
+    "uniqueName": "on-a-roll-duneight",
+    "firstLine": "68 Hillsborough Old Road",
+    "city": "Lisburn",
+    "postalCode": "BT27 5EW",
+    "lng": -6.038899,
+    "lat": 54.505192
+  },
+  "126693": {
+    "id": "126693",
+    "name": "Hot Mix Indian Restaurant",
+    "uniqueName": "hot-mix-indian-restaurant-new-ballynadolly",
+    "firstLine": "71-73 Bachelors Walk",
+    "city": "Lisburn",
+    "postalCode": "BT28 1XN",
+    "lng": -6.046936,
+    "lat": 54.512344
+  },
+  "127653": {
+    "id": "127653",
+    "name": "Gulistan of Bengal",
+    "uniqueName": "gulistan-of-bengal-ballynadolly",
+    "firstLine": "13 Bachelors Walk",
+    "city": "Lisburn",
+    "postalCode": "BT28 1XJ",
+    "lng": -6.045178,
+    "lat": 54.513635
+  },
+  "422768": {
+    "id": "422768",
+    "name": "Centra Lisburn Deli",
+    "uniqueName": "centra-lisburn-deli-duneight",
+    "firstLine": "2 Ballynahinch Road",
+    "city": "Lisburn",
+    "postalCode": "BT27 5EY",
+    "lng": -6.037523,
+    "lat": 54.507254
+  },
+  "152345": {
+    "id": "152345",
+    "name": "Jeffers Home Bakery",
+    "uniqueName": "jeffershomebakery-ballynadolly",
+    "firstLine": "20 Market Square North",
+    "city": "Lisburn",
+    "postalCode": "BT28 1AG",
+    "lng": -6.0439,
+    "lat": 54.5114
+  },
+  "316311": {
+    "id": "316311",
+    "name": "Superdrug - Lisburn",
+    "uniqueName": "superdrug---lisburn-ballynadolly",
+    "firstLine": "45-47 Bow Street Lisburn",
+    "city": "County Antrim",
+    "postalCode": "BT28 1BN",
+    "lng": -6.046835,
+    "lat": 54.511217
+  },
+  "273279": {
+    "id": "273279",
+    "name": "CeX - Lisburn",
+    "uniqueName": "cex---lisburn-ballynadolly",
+    "firstLine": "7-9 Bow Street",
+    "city": "Lisburn",
+    "postalCode": "BT28 1BJ",
+    "lng": -6.045403,
+    "lat": 54.510832
+  },
+  "262282": {
+    "id": "262282",
+    "name": "Little Del Toro Cafe",
+    "uniqueName": "little-del-toro-cafe-large-prk",
+    "firstLine": "20 Main Street\nRoyal Hillsborough",
+    "city": "Hillsborough",
+    "postalCode": "BT26 6AE",
+    "lng": -6.083852,
+    "lat": 54.461739
+  },
+  "320799": {
+    "id": "320799",
+    "name": "Just like Mamas",
+    "uniqueName": "just-like-mamas-waringsford-bt25-1",
+    "firstLine": "10 Bridge Street",
+    "city": "Dromore",
+    "postalCode": "BT25 1AN",
+    "lng": -6.149678,
+    "lat": 54.414196
+  },
+  "278145": {
+    "id": "278145",
+    "name": "Starbucks Sprucefield DT",
+    "uniqueName": "starbucks-sprucefield-dt-duneight",
+    "firstLine": "10 Sprucefield Park",
+    "city": "Lisburn",
+    "postalCode": "BT27 5UQ",
+    "lng": -6.06294024755804,
+    "lat": 54.4916668073013
+  },
+  "223383": {
+    "id": "223383",
+    "name": "Iceland - LISBURN",
+    "uniqueName": "iceland---lisburn-ballynadolly",
+    "firstLine": "71-73 Bow St",
+    "city": "Lisburn",
+    "postalCode": "BT28 1BJ",
+    "lng": -6.048163,
+    "lat": 54.511472
+  },
+  "155228": {
+    "id": "155228",
+    "name": "Centra Ballynahinch Road",
+    "uniqueName": "centra-ballynahinchroadduneight",
+    "firstLine": "2 Ballynahinch Road",
+    "city": "Lisburn",
+    "postalCode": "BT27 5EY",
+    "lng": -6.037578,
+    "lat": 54.507294
+  },
+  "294573": {
+    "id": "294573",
+    "name": "YO! sushi counter - (Lisburn Bentrim Road Tesco)",
+    "uniqueName": "yo-sushi-counter---lisburn-bentrim-road-ballynadolly",
+    "firstLine": "Tesco superstore, Bentrim road",
+    "city": "Lisburn",
+    "postalCode": "BT28 2GB",
+    "lng": -6.055339,
+    "lat": 54.514511
+  },
+  "114072": {
+    "id": "114072",
+    "name": "Gilly G's",
+    "uniqueName": "gilly-gs-ballynadolly",
+    "firstLine": "3 Haslems Lane",
+    "city": "Lisburn",
+    "postalCode": "BT28 1TW",
+    "lng": -6.046715,
+    "lat": 54.510844
+  },
+  "253012": {
+    "id": "253012",
+    "name": "Sushi Gourmet - Sprucefield",
+    "uniqueName": "sushi-gourmet---sprucefield-duneight-bt27",
+    "firstLine": "Sainsbury's, 5 Sprucefield Park",
+    "city": "Lisburn",
+    "postalCode": "BT27 5UQ",
+    "lng": -6.066995,
+    "lat": 54.490116
+  },
+  "125702": {
+    "id": "125702",
+    "name": "Bob and Berts - Lisburn",
+    "uniqueName": "bobandberts-lisburn",
+    "firstLine": "31-33 Bow Street",
+    "city": "Lisburn",
+    "postalCode": "BT28 1BJ",
+    "lng": -6.046227,
+    "lat": 54.511091
+  },
+  "211230": {
+    "id": "211230",
+    "name": "Ground Espresso Bar",
+    "uniqueName": "ground-espresso-bar-ballynadolly",
+    "firstLine": "1 Lagan Bank Road, LaganBank Retail Park",
+    "city": "Lisburn",
+    "postalCode": "BT28 1XZ",
+    "lng": -6.04093,
+    "lat": 54.509279
+  },
+  "284155": {
+    "id": "284155",
+    "name": "Sugar",
+    "uniqueName": "sugar-ballynahinch",
+    "firstLine": "47 High Street",
+    "city": "Ballynahinch",
+    "postalCode": "BT24 8AB",
+    "lng": -5.897578,
+    "lat": 54.401172
+  }
+}

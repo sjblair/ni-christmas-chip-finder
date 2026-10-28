@@ -1,0 +1,35 @@
+{
+  "restaurants": [
+    {
+      "restaurantId": "220168",
+      "products": [
+        {
+          "fullName": "Chips With Sage Onion Stuffing And Gravy",
+          "price": 750
+        }
+      ]
+    },
+    {
+      "restaurantId": "119090",
+      "products": [
+        {
+          "fullName": "Chip Stuffing Gravy / Curry / Super",
+          "price": 750
+        },
+        {
+          "fullName": "Chip Stuffing Chicken (Plain) Gravy / Curry / Supe",
+          "price": 950
+        }
+      ]
+    },
+    {
+      "restaurantId": "210923",
+      "products": [
+        {
+          "fullName": "Christmas Burger, Homemade Turkey, Ham, Pork Stuffing, Lettuce, Tomato, Cranberry And Mayo In A Brioche Bap, Served With Side Of Gravy Chips.",
+          "price": 1150
+        }
+      ]
+    }
+  ]
+}

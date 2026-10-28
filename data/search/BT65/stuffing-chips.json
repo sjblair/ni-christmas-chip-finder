@@ -1,0 +1,22 @@
+{
+  "restaurants": [
+    {
+      "restaurantId": "164693",
+      "products": [
+        {
+          "fullName": "Chips, Peas, Stuffing & Gravy",
+          "price": 910
+        }
+      ]
+    },
+    {
+      "restaurantId": "236027",
+      "products": [
+        {
+          "fullName": "Chip, Peas, Onion, Gravy, Stuffing - Large",
+          "price": 625
+        }
+      ]
+    }
+  ]
+}

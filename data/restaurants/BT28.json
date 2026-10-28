@@ -1,0 +1,62 @@
+{
+  "229885": {
+    "id": "229885",
+    "name": "Moira Pizzeria",
+    "uniqueName": "moira-pizzeria-aghalee-bt67",
+    "firstLine": "42 Main Street",
+    "city": "Craigavon",
+    "postalCode": "BT67 0LQ",
+    "lng": -6.226576,
+    "lat": 54.480792
+  },
+  "438623": {
+    "id": "438623",
+    "name": "Piri Piri taste lurgan",
+    "uniqueName": "piri-piri-taste-lurgan-limy-silverwood",
+    "firstLine": "7 Flush Place Lurgan",
+    "city": "Craigavon",
+    "postalCode": "BT66 7DT",
+    "lng": -6.322827,
+    "lat": 54.457019
+  },
+  "322252": {
+    "id": "322252",
+    "name": "Turkish Kebab And Pizzeria  Moira",
+    "uniqueName": "turkish-kebab-and-pizzaria-moira-aghalee",
+    "firstLine": "95 Main Street,Moira",
+    "city": "Craigavon",
+    "postalCode": "BT67 0LH",
+    "lng": -6.223923,
+    "lat": 54.481825
+  },
+  "249446": {
+    "id": "249446",
+    "name": "Domino's - Moira",
+    "uniqueName": "dominos---moira-aghalee",
+    "firstLine": "Glenavy Road",
+    "city": "Craigavon",
+    "postalCode": "BT67 0JW",
+    "lng": -6.209971,
+    "lat": 54.497268
+  },
+  "300115": {
+    "id": "300115",
+    "name": "CHICK \u2018N\u2019 DIP from Domino\u2019s - Moira",
+    "uniqueName": "chick-n-dip-from-dominos---moira-aghalee",
+    "firstLine": "Dominos, 1 Glenavy Road",
+    "city": "Craigavon",
+    "postalCode": "BT67 0JW",
+    "lng": -6.209918,
+    "lat": 54.495128
+  },
+  "279205": {
+    "id": "279205",
+    "name": "Lock\u2019d In",
+    "uniqueName": "lockd-in-aghalee",
+    "firstLine": "21 Maghaberry Road, Moira",
+    "city": "Craigavon",
+    "postalCode": "BT67 0JF",
+    "lng": -6.184418,
+    "lat": 54.506653
+  }
+}

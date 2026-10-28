@@ -1,0 +1,1152 @@
+{
+  "310928": {
+    "id": "310928",
+    "name": "Charcoal Grill House",
+    "uniqueName": "charcoal-grill-house-edenballymore-bt48-1",
+    "firstLine": "10 William Street\nDerry",
+    "city": "Londonderry",
+    "postalCode": "BT48 6ES",
+    "lng": -7.32218,
+    "lat": 54.997534
+  },
+  "128895": {
+    "id": "128895",
+    "name": "HARDIEE'Z",
+    "uniqueName": "hardieez-edenballymore",
+    "firstLine": "6 William Street",
+    "city": "Londonderry",
+    "postalCode": "BT48 6ES",
+    "lng": -7.32204,
+    "lat": 54.997554
+  },
+  "208457": {
+    "id": "208457",
+    "name": "Papa Noora",
+    "uniqueName": "papa-noora-comamoney",
+    "firstLine": "Unit 1a Tullyally Drumahoe",
+    "city": "Derry",
+    "postalCode": "BT47 3QR",
+    "lng": 7.284045,
+    "lat": 54.977437
+  },
+  "305596": {
+    "id": "305596",
+    "name": "Gaza Restaurant",
+    "uniqueName": "gaza-restaurant-edenballymore",
+    "firstLine": "8 Sackville Street",
+    "city": "Londonderry",
+    "postalCode": "BT48 7BQ",
+    "lng": -7.322555,
+    "lat": 54.998797
+  },
+  "220477": {
+    "id": "220477",
+    "name": "Big Bites Fish and Chips",
+    "uniqueName": "big-bites-fish-and-chips-edenballymore",
+    "firstLine": "103 Strand Road",
+    "city": "Londonderry",
+    "postalCode": "BT48 7NU",
+    "lng": -7.320621,
+    "lat": 55.006681
+  },
+  "175647": {
+    "id": "175647",
+    "name": "Domino's - Derry - Londonderry - Strand Road",
+    "uniqueName": "dominos-derry-londonderry-cityside-edenballymore",
+    "firstLine": "124 Strand Road, Derry",
+    "city": "Derry",
+    "postalCode": "BT48 7PB",
+    "lng": -7.319314,
+    "lat": 55.007324
+  },
+  "204548": {
+    "id": "204548",
+    "name": "Kebab Hut",
+    "uniqueName": "kebab-hut-edenballymore-bt48",
+    "firstLine": "3 Racecourse Road",
+    "city": "Londonderry",
+    "postalCode": "BT48 7RB",
+    "lng": -7.321183,
+    "lat": 55.016495
+  },
+  "300287": {
+    "id": "300287",
+    "name": "CHICK \u2018N\u2019 DIP from Domino\u2019s - Derry  - Cityside",
+    "uniqueName": "chick-n-dip-from-dominos---derry----cityside-edenballymore",
+    "firstLine": "Dominos, 124 Strand Road, Derry",
+    "city": "Derry",
+    "postalCode": "BT48 7PB",
+    "lng": -7.319376,
+    "lat": 55.007701
+  },
+  "174557": {
+    "id": "174557",
+    "name": "Pizza Max Derry & Fast Food (Londonderry)",
+    "uniqueName": "pizza-max-and-fast-food-edenballymore",
+    "firstLine": "43a Strand Road",
+    "city": "Londonderry",
+    "postalCode": "BT48 7BL",
+    "lng": -7.321803,
+    "lat": 55.000041
+  },
+  "303125": {
+    "id": "303125",
+    "name": "Puff n Stuff",
+    "uniqueName": "puff-n-stuff-edenballymore",
+    "firstLine": "4 William Street",
+    "city": "Londonderry",
+    "postalCode": "BT48 6ES",
+    "lng": -7.321983,
+    "lat": 54.997589
+  },
+  "218569": {
+    "id": "218569",
+    "name": "Nite Star",
+    "uniqueName": "nite-star-edenballymore-bt48",
+    "firstLine": "8 Waterloo Place",
+    "city": "Londonderry",
+    "postalCode": "BT48 6BU",
+    "lng": -7.321776,
+    "lat": 54.998057
+  },
+  "425496": {
+    "id": "425496",
+    "name": "Kebab house",
+    "uniqueName": "kebab-house-edenballymore",
+    "firstLine": "2 Union Hall Place",
+    "city": "Londonderry",
+    "postalCode": "BT48 6LU",
+    "lng": -7.320069,
+    "lat": 54.99703
+  },
+  "83485": {
+    "id": "83485",
+    "name": "Apache Pizza (Cityside)",
+    "uniqueName": "apache-pizza-edenballymore",
+    "firstLine": "12 Waterloo Place",
+    "city": "Londonderry",
+    "postalCode": "BT48 6BU",
+    "lng": -7.321187,
+    "lat": 54.997978
+  },
+  "44743": {
+    "id": "44743",
+    "name": "Rockets Fast Food",
+    "uniqueName": "rocketsfastfood-bt48",
+    "firstLine": "52-54 Waterloo Street",
+    "city": "Londonderry",
+    "postalCode": "BT48 6HF",
+    "lng": -7.321736,
+    "lat": 54.997193
+  },
+  "247602": {
+    "id": "247602",
+    "name": "Pals Pizza",
+    "uniqueName": "pals-pizza-edenballymore",
+    "firstLine": "3 Racecourse Road",
+    "city": "Londonderry",
+    "postalCode": "BT48 7RB",
+    "lng": -7.321183,
+    "lat": 55.016495
+  },
+  "217383": {
+    "id": "217383",
+    "name": "Guru Fast Food Takeaway",
+    "uniqueName": "guru-fast-food-takeaway-comamoney",
+    "firstLine": "55 Clooney Terrace",
+    "city": "Londonderry",
+    "postalCode": "BT47 6AP",
+    "lng": -7.309862,
+    "lat": 54.996146
+  },
+  "433308": {
+    "id": "433308",
+    "name": "Moughal House",
+    "uniqueName": "moughal-house-edenballymore",
+    "firstLine": "2 Union Hall Place\r\nLondonderry",
+    "city": "Londonderry",
+    "postalCode": "BT48 6LU",
+    "lng": -7.320428,
+    "lat": 54.997167
+  },
+  "439351": {
+    "id": "439351",
+    "name": "The Kebab House",
+    "uniqueName": "the-kebab-house-edenballymore-bt48",
+    "firstLine": "42 Shipquay Street",
+    "city": "Londonderry",
+    "postalCode": "BT48 6DW",
+    "lng": -7.320556,
+    "lat": 54.996438
+  },
+  "440425": {
+    "id": "440425",
+    "name": "Mughals Kebab House Derry Express",
+    "uniqueName": "mughals-kebab-house-derry-express-edenballymore-bt48-1",
+    "firstLine": "42 Shipquay Street",
+    "city": "Londonderry",
+    "postalCode": "BT48 6DW",
+    "lng": -7.320556,
+    "lat": 54.996438
+  },
+  "429583": {
+    "id": "429583",
+    "name": "Kebab Hut",
+    "uniqueName": "kebab-hut-artikelly-bt49-1",
+    "firstLine": "37 Catherine Street",
+    "city": "Limavady",
+    "postalCode": "BT49 9DA",
+    "lng": -6.952598,
+    "lat": 55.049969
+  },
+  "429077": {
+    "id": "429077",
+    "name": "Pizza Max (Limavady)",
+    "uniqueName": "pizza-max-limavady-artikelly-bt49",
+    "firstLine": "37 Catherine Street",
+    "city": "Limavady",
+    "postalCode": "BT49 9DA",
+    "lng": -6.952598,
+    "lat": 55.049969
+  },
+  "201451": {
+    "id": "201451",
+    "name": "Hungry Jazz",
+    "uniqueName": "hungry-jazz-comamoney",
+    "firstLine": "Unit 1a Tullyally Drumahoe",
+    "city": "Derry",
+    "postalCode": "BT47 3QR",
+    "lng": 7.284045,
+    "lat": 54.977437
+  },
+  "287396": {
+    "id": "287396",
+    "name": "Moksh Indian Restaurant",
+    "uniqueName": "moksh-indian-restaurant-comamoney-bt47",
+    "firstLine": "162 Spencer Rd,",
+    "city": "Londonderry",
+    "postalCode": "BT47 6AH",
+    "lng": -7.310534,
+    "lat": 54.992855
+  },
+  "320985": {
+    "id": "320985",
+    "name": "Cloisters Cafe",
+    "uniqueName": "cloisters-cafe-edenballymore",
+    "firstLine": "59-61 Longtower St, Londonderry BT48 6QQ",
+    "city": "Londonderry",
+    "postalCode": "BT48 6QQ",
+    "lng": -7.327373,
+    "lat": 54.99284
+  },
+  "92373": {
+    "id": "92373",
+    "name": "Wheelers",
+    "uniqueName": "wheelers-edenballymore",
+    "firstLine": "155 Strand Road",
+    "city": "Londonderry",
+    "postalCode": "BT48 7PR",
+    "lng": -7.317926,
+    "lat": 55.010381
+  },
+  "264523": {
+    "id": "264523",
+    "name": "Sainsbury's - Strand Rd",
+    "uniqueName": "sainsburys---strand-rd-edenballymore",
+    "firstLine": "150 Strand Road",
+    "city": "Londonderry",
+    "postalCode": "BT48 7TL",
+    "lng": -7.31544,
+    "lat": 55.01057
+  },
+  "279430": {
+    "id": "279430",
+    "name": "Yum cakes",
+    "uniqueName": "yum-cakes-edenballymore-bt48-1",
+    "firstLine": "Unit 14 Richmond Centre, Ferryquay Street",
+    "city": "Derry",
+    "postalCode": "BT48 6PE",
+    "lng": -7.3209551,
+    "lat": 54.9953238
+  },
+  "424545": {
+    "id": "424545",
+    "name": "SuperValu Strand Road",
+    "uniqueName": "supervalu-strand-road-edenballymore",
+    "firstLine": "147 Strand Road",
+    "city": "Londonderry",
+    "postalCode": "BT48 7PW",
+    "lng": -7.318081,
+    "lat": 55.010106
+  },
+  "318515": {
+    "id": "318515",
+    "name": "Kennedy's",
+    "uniqueName": "kennedys-edenballymore-bt48",
+    "firstLine": "2 Ballynagard Road",
+    "city": "Londonderry",
+    "postalCode": "BT48 8JJ",
+    "lng": -7.276189,
+    "lat": 55.04237
+  },
+  "99289": {
+    "id": "99289",
+    "name": "KFC Londonderry - Lesley Retail Park",
+    "uniqueName": "kfclesleyretailpark-edenballymore",
+    "firstLine": "Strand Road",
+    "city": "Londonderry",
+    "postalCode": "BT48 7PB",
+    "lng": -7.316989,
+    "lat": 55.008954
+  },
+  "127229": {
+    "id": "127229",
+    "name": "McDonald's\u00ae - Londonderry - Strand Rd",
+    "uniqueName": "mcdonalds-londonderrystrandrd",
+    "firstLine": "200 Strand Road",
+    "city": "Londonderry",
+    "postalCode": "BT48 7PU",
+    "lng": -7.314712,
+    "lat": 55.011137
+  },
+  "424546": {
+    "id": "424546",
+    "name": "SuperValu Greenhaw",
+    "uniqueName": "supervalu-greenhaw-edenballymore",
+    "firstLine": "15 Greenhaw Road",
+    "city": "Londonderry",
+    "postalCode": "BT48 7RZ",
+    "lng": -7.31194,
+    "lat": 55.022903
+  },
+  "246712": {
+    "id": "246712",
+    "name": "McMullan Foods @ Avenue 17",
+    "uniqueName": "mcmullan-foods--avenue-17-edenballymore",
+    "firstLine": "17 Rosemount Avenue",
+    "city": "Londonderry",
+    "postalCode": "BT48 0HQ",
+    "lng": -7.331876,
+    "lat": 55.004724
+  },
+  "275369": {
+    "id": "275369",
+    "name": "Pyke 'N' Pommes (POD)",
+    "uniqueName": "pyke-n-pommes-pod-edenballymore",
+    "firstLine": "N124, Strand Rd, Londonderry BT48 7NS, United King",
+    "city": "Londonderry",
+    "postalCode": "BT48 7NS",
+    "lng": -7.318701,
+    "lat": 55.007167
+  },
+  "153803": {
+    "id": "153803",
+    "name": "Matts Take Aways",
+    "uniqueName": "matts-take-aways-edenballymore",
+    "firstLine": "132 Beechwood Avenue",
+    "city": "Londonderry",
+    "postalCode": "BT48 9LT",
+    "lng": -7.338863,
+    "lat": 54.999789
+  },
+  "125955": {
+    "id": "125955",
+    "name": "McDonald's\u00ae - Foyleside Shopping Centre",
+    "uniqueName": "mcdonalds-foylesideshoppingcentre-edenballymore",
+    "firstLine": "Foyleside Shopping Centre",
+    "city": "Londonderry",
+    "postalCode": "BT48 6XY",
+    "lng": -7.3194,
+    "lat": 54.99454
+  },
+  "421527": {
+    "id": "421527",
+    "name": "Pi Pizza- Clipper Quay",
+    "uniqueName": "pi-pizza-clipper-quay-edenballymore",
+    "firstLine": "100-114\r\nClipper Quay",
+    "city": "Londonderry",
+    "postalCode": "BT48 7NR",
+    "lng": -7.320014,
+    "lat": 55.006424
+  },
+  "71630": {
+    "id": "71630",
+    "name": "The Collon Takeaway",
+    "uniqueName": "the-collon-takeaway-edenballymore",
+    "firstLine": "22B Buncrana Road",
+    "city": "Derry",
+    "postalCode": "BT48 8AB",
+    "lng": -7.323802,
+    "lat": 55.016454
+  },
+  "54570": {
+    "id": "54570",
+    "name": "Butties Takeaway",
+    "uniqueName": "butties-takeaway-edenballymore",
+    "firstLine": "130 Northland Road",
+    "city": "Londonderry",
+    "postalCode": "BT48 0LX",
+    "lng": -7.341314,
+    "lat": 55.01911
+  },
+  "194097": {
+    "id": "194097",
+    "name": "Danano Forno",
+    "uniqueName": "danano-forno-edenballymore-bt48",
+    "firstLine": "4 lower Clarendon street",
+    "city": "Derry",
+    "postalCode": "BT48 7AH",
+    "lng": -7.321508,
+    "lat": 55.000885
+  },
+  "186611": {
+    "id": "186611",
+    "name": "Base One",
+    "uniqueName": "base-one-edenballymore",
+    "firstLine": "18a Springtown Road",
+    "city": "Derry",
+    "postalCode": "BT48 0GG",
+    "lng": -7.332041,
+    "lat": 55.017324
+  },
+  "31896": {
+    "id": "31896",
+    "name": "Barrs Takeaway & Pizzeria",
+    "uniqueName": "barrstakeaway-bt48",
+    "firstLine": "112B Beechwood Avenue",
+    "city": "Derry",
+    "postalCode": "BT48 9LS",
+    "lng": -7.337202,
+    "lat": 54.999263
+  },
+  "285678": {
+    "id": "285678",
+    "name": "Greggs - Foyleside Shopping Centre",
+    "uniqueName": "greggs---foyleside-shopping-centre-edenballymore",
+    "firstLine": "12A Foyleside Shopping Centre",
+    "city": "Derry",
+    "postalCode": "BT48 6XY",
+    "lng": -7.3188372,
+    "lat": 54.9950546
+  },
+  "318058": {
+    "id": "318058",
+    "name": "Sherpa Indian & Nepalese",
+    "uniqueName": "sherpa-indian-and-nepalese-edenballymore-bt48",
+    "firstLine": "2 Clarendon Street",
+    "city": "Londonderry",
+    "postalCode": "BT48 7ES",
+    "lng": -7.322561,
+    "lat": 55.000929
+  },
+  "433140": {
+    "id": "433140",
+    "name": "Bella Mia",
+    "uniqueName": "bella-mia-edenballymore-bt48-1",
+    "firstLine": "2-4 Lower Clarendon Street",
+    "city": "Derry",
+    "postalCode": "BT48 7AH",
+    "lng": -7.321564,
+    "lat": 55.000929
+  },
+  "70736": {
+    "id": "70736",
+    "name": "Subway\u00ae - Derry",
+    "uniqueName": "subway-derry-",
+    "firstLine": "Unit 1, Davinci Complex, Culmore Road",
+    "city": "Derry",
+    "postalCode": "BT48 8JB",
+    "lng": -7.312903,
+    "lat": 55.014548
+  },
+  "191740": {
+    "id": "191740",
+    "name": "Sundae Scoops",
+    "uniqueName": "sundae-scoops-edenballymore",
+    "firstLine": "2 Garden City",
+    "city": "Londonderry",
+    "postalCode": "BT48 7SN",
+    "lng": -7.310915,
+    "lat": 55.0161
+  },
+  "439791": {
+    "id": "439791",
+    "name": "Urban Fuel",
+    "uniqueName": "urban-fuel-edenballymore",
+    "firstLine": "Strand Road Derry/Londonderry,",
+    "city": "Londonderry",
+    "postalCode": "BT48 7PX",
+    "lng": -7.321789,
+    "lat": 55.000073
+  },
+  "174581": {
+    "id": "174581",
+    "name": "Caff\u00e8 Nero - Londonderry Richmond Centre",
+    "uniqueName": "caffe-nero-londonderry-richmond-centre-edenballymore",
+    "firstLine": "Unit 5, Richmond Shopping centre, The Diamond",
+    "city": "Londonderry",
+    "postalCode": "BT48 6PE",
+    "lng": -7.3201614,
+    "lat": 54.9957631
+  },
+  "431891": {
+    "id": "431891",
+    "name": "Delhi Heights",
+    "uniqueName": "delhi-heights-comamoney",
+    "firstLine": "49 Clooney Terrace\r\nDerry",
+    "city": "Londonderry",
+    "postalCode": "BT47 6AP",
+    "lng": -7.309956,
+    "lat": 54.995969
+  },
+  "322173": {
+    "id": "322173",
+    "name": "Babylon",
+    "uniqueName": "babylon-edenballymore",
+    "firstLine": "2A Newmarket Street",
+    "city": "Londonderry",
+    "postalCode": "BT48 6EG",
+    "lng": -7.319756,
+    "lat": 54.995583
+  },
+  "48782": {
+    "id": "48782",
+    "name": "Four Star Pizza (Cityside)",
+    "uniqueName": "fourstarpizza-bt48",
+    "firstLine": "19 Culmore Road",
+    "city": "Derry",
+    "postalCode": "BT48 8JB",
+    "lng": -7.307548,
+    "lat": 55.021671
+  },
+  "75310": {
+    "id": "75310",
+    "name": "Siam Thai",
+    "uniqueName": "siam-thai-edenballymore",
+    "firstLine": "12A Shipquay Street",
+    "city": "Londonderry",
+    "postalCode": "BT48 6DN",
+    "lng": -7.321177,
+    "lat": 54.996425
+  },
+  "424277": {
+    "id": "424277",
+    "name": "The Coffee Tree",
+    "uniqueName": "the-coffee-tree-edenballymore-bt48",
+    "firstLine": "49 Strand Road",
+    "city": "Londonderry",
+    "postalCode": "BT48 7BN",
+    "lng": -7.322278,
+    "lat": 55.000515
+  },
+  "11602": {
+    "id": "11602",
+    "name": "Barrs Traditional Takeaway",
+    "uniqueName": "barrstraditionaltakeaway",
+    "firstLine": "176 Lecky Road",
+    "city": "Londonderry",
+    "postalCode": "BT48 6NP",
+    "lng": -7.333675,
+    "lat": 54.989944
+  },
+  "305767": {
+    "id": "305767",
+    "name": "Golden Chippy",
+    "uniqueName": "golden-chippy-edenballymore",
+    "firstLine": "146a Bishop Street",
+    "city": "Derry",
+    "postalCode": "BT48 6UJ",
+    "lng": -7.327731,
+    "lat": 54.990912
+  },
+  "157421": {
+    "id": "157421",
+    "name": "The Sandwich Co",
+    "uniqueName": "thesandwichco-edenballymore",
+    "firstLine": "6 Bishop Street Within",
+    "city": "Londonderry",
+    "postalCode": "BT48 6PL",
+    "lng": -7.322442,
+    "lat": 54.99525
+  },
+  "151052": {
+    "id": "151052",
+    "name": "Joe Jacksons",
+    "uniqueName": "joejacksons-edenballymore",
+    "firstLine": "15A Ferryquay Street",
+    "city": "Londonderry",
+    "postalCode": "BT48 6JA",
+    "lng": -7.321168,
+    "lat": 54.995037
+  },
+  "38483": {
+    "id": "38483",
+    "name": "The Fortune House",
+    "uniqueName": "thefortunehouse-bt48",
+    "firstLine": "Unit 1A, Lenamore Road",
+    "city": "County Derry",
+    "postalCode": "BT48 8NA",
+    "lng": -7.315714,
+    "lat": 55.031197
+  },
+  "267052": {
+    "id": "267052",
+    "name": "Good Years Chinese & European Takeaway",
+    "uniqueName": "good-years-chinese-and-european-takeaway-comamoney",
+    "firstLine": "1 Rossdowney Park",
+    "city": "Londonderry",
+    "postalCode": "BT47 5NR",
+    "lng": -7.301977,
+    "lat": 54.994151
+  },
+  "310659": {
+    "id": "310659",
+    "name": "Gaza Waffle-",
+    "uniqueName": "gaza-desserts-edenballymore",
+    "firstLine": "8 Sackville Street",
+    "city": "Londonderry",
+    "postalCode": "BT48 7BQ",
+    "lng": -7.32255,
+    "lat": 54.998755
+  },
+  "187102": {
+    "id": "187102",
+    "name": "Subway - Whitehouse",
+    "uniqueName": "subway-whitehouse-edenballymore",
+    "firstLine": "65 Buncrana Road\nWhite House",
+    "city": "Londonderry",
+    "postalCode": "BT48 8LB",
+    "lng": -7.348544,
+    "lat": 55.028809
+  },
+  "257659": {
+    "id": "257659",
+    "name": "Sinnsro Cafe",
+    "uniqueName": "sinnsro-cafe-comamoney",
+    "firstLine": "90 Spencer Road",
+    "city": "Londonderry",
+    "postalCode": "BT47 6AG",
+    "lng": -7.312164,
+    "lat": 54.990861
+  },
+  "318979": {
+    "id": "318979",
+    "name": "Salumeria Mariuccia",
+    "uniqueName": "salumeria-mariuccia-edenballymore",
+    "firstLine": "28 the diamond",
+    "city": "Derry",
+    "postalCode": "BT48 6HP",
+    "lng": -7.321997,
+    "lat": 54.995208
+  },
+  "39804": {
+    "id": "39804",
+    "name": "Lemongrass",
+    "uniqueName": "lemongrass-bt47",
+    "firstLine": "6 Strule Gardens",
+    "city": "Derry",
+    "postalCode": "BT47 2HP",
+    "lng": -7.30194,
+    "lat": 54.990793
+  },
+  "245431": {
+    "id": "245431",
+    "name": "ZIGGICIG- LONDONDERRY",
+    "uniqueName": "ziggicig--londonderry-edenballymore",
+    "firstLine": "PORTION OF GROUND FLOOR, 10B CARLISLE ROAD",
+    "city": "LONDONDERRY",
+    "postalCode": "BT48 8JJ",
+    "lng": -7.320069,
+    "lat": 54.994078
+  },
+  "316306": {
+    "id": "316306",
+    "name": "Superdrug - Derry Londonderry Ferryquay St",
+    "uniqueName": "superdrug---derry-londonderry-ferryquay-st-edenballymore",
+    "firstLine": "30-32 Ferryquay Street",
+    "city": "Londonderry",
+    "postalCode": "BT48 6JD",
+    "lng": -7.32063,
+    "lat": 54.995025
+  },
+  "422352": {
+    "id": "422352",
+    "name": "Nine Lives Coffee",
+    "uniqueName": "nine-lives-coffee-comamoney",
+    "firstLine": "Springtown industrial estate, 6 Springtown drive",
+    "city": "Derry/LondonDerry",
+    "postalCode": "BT48 0LY",
+    "lng": -7.332082,
+    "lat": 55.018267
+  },
+  "126716": {
+    "id": "126716",
+    "name": "McDonald's\u00ae - Londonderry",
+    "uniqueName": "mcdonalds-londonderry",
+    "firstLine": "8 Crescent Link Retail Park",
+    "city": "Londonderry",
+    "postalCode": "BT47 6SA",
+    "lng": -7.274632,
+    "lat": 54.998986
+  },
+  "188213": {
+    "id": "188213",
+    "name": "Red Barrel Street Food",
+    "uniqueName": "red-barrel-street-food-edenballymore",
+    "firstLine": "Unit M15A Northside Village",
+    "city": "London Derry",
+    "postalCode": "BT48 8NN",
+    "lng": -7.316237,
+    "lat": 55.028233
+  },
+  "284224": {
+    "id": "284224",
+    "name": "Menas Woodfired Pizzas",
+    "uniqueName": "menas-woodfired-pizzas-comamoney-bt47-1",
+    "firstLine": "119 Spencer Road",
+    "city": "Londonderry",
+    "postalCode": "BT47 6AE",
+    "lng": -7.312053,
+    "lat": 54.991478
+  },
+  "273009": {
+    "id": "273009",
+    "name": "CeX - Derry",
+    "uniqueName": "cex---derry-edenballymore",
+    "firstLine": "25-27 Ferryquay Street",
+    "city": "Londonderry",
+    "postalCode": "BT48 6JB",
+    "lng": -7.320594,
+    "lat": 54.994761
+  },
+  "314255": {
+    "id": "314255",
+    "name": "Golden King Kebab",
+    "uniqueName": "golden-takeaway-edenballymore",
+    "firstLine": "146a Bishop Street",
+    "city": "Derry",
+    "postalCode": "BT48 6UJ",
+    "lng": -7.32852,
+    "lat": 54.990735
+  },
+  "269119": {
+    "id": "269119",
+    "name": "Subway Lisnagelvin",
+    "uniqueName": "subway-lisnagelvin-comamoney-bt47",
+    "firstLine": "Unit 5 Subway lisnagelvin6 Lisnagelvin Road",
+    "city": "Londonderry",
+    "postalCode": "BT47 6DF",
+    "lng": -7.295957,
+    "lat": 54.989231
+  },
+  "440405": {
+    "id": "440405",
+    "name": "Delights",
+    "uniqueName": "delights-comamoney",
+    "firstLine": "49 Clooney Terrace",
+    "city": "Londonderry",
+    "postalCode": "BT47 6AP",
+    "lng": -7.309891,
+    "lat": 54.995688
+  },
+  "250258": {
+    "id": "250258",
+    "name": "City Chippie",
+    "uniqueName": "city-chippie-edenballymore",
+    "firstLine": "146 Bishop Street",
+    "city": "Londonderry",
+    "postalCode": "BT48 6UJ",
+    "lng": -7.32777,
+    "lat": 54.990831
+  },
+  "173870": {
+    "id": "173870",
+    "name": "Caff\u00e8 Nero - Londonderry Crescent Link",
+    "uniqueName": "caffe-nero-londonderry-crescent-link-comamoney",
+    "firstLine": "Unit 2, Crescent Link Retail Park",
+    "city": "Londonderry",
+    "postalCode": "BT47 6SA",
+    "lng": -7.274942,
+    "lat": 54.998029
+  },
+  "225003": {
+    "id": "225003",
+    "name": "Subway - Crescent Link",
+    "uniqueName": "subway---londonderry-comamoney",
+    "firstLine": "Unit 7a Crescent Link Retail Park",
+    "city": "Londonderry",
+    "postalCode": "BT47 6SA",
+    "lng": -7.274087,
+    "lat": 54.998861
+  },
+  "236040": {
+    "id": "236040",
+    "name": "Zora Foods",
+    "uniqueName": "zora-foods-edenballymore-bt48",
+    "firstLine": "109 Strand Road",
+    "city": "Londonderry",
+    "postalCode": "BT48 7NU",
+    "lng": -7.320532,
+    "lat": 55.006698
+  },
+  "424543": {
+    "id": "424543",
+    "name": "Centra Buncrana Road",
+    "uniqueName": "centra-buncrana-road-edenballymore",
+    "firstLine": "50 Buncrana Road Ballymagrorty",
+    "city": "Londonderry",
+    "postalCode": "BT48 8LB",
+    "lng": -7.345336,
+    "lat": 55.026348
+  },
+  "109260": {
+    "id": "109260",
+    "name": "Gas Stop",
+    "uniqueName": "gas-stop-edenballymore",
+    "firstLine": "173 Strand Road",
+    "city": "Londonderry",
+    "postalCode": "BT48 7PU",
+    "lng": -7.315811,
+    "lat": 55.011179
+  },
+  "223333": {
+    "id": "223333",
+    "name": "Iceland - BUNCRANA ROAD",
+    "uniqueName": "iceland---buncrana-road-edenballymore",
+    "firstLine": "22B Buncrana Rd",
+    "city": "Londonderry",
+    "postalCode": "BT48 8AB",
+    "lng": -7.3256,
+    "lat": 55.017146
+  },
+  "228220": {
+    "id": "228220",
+    "name": "Turkish Kebab And Pizzeria",
+    "uniqueName": "turkish-kebab-and-pizzeria-edenballymore-bt48",
+    "firstLine": "1a Marlborough Terrace",
+    "city": "Londonderry",
+    "postalCode": "BT48 9AT",
+    "lng": -7.329921,
+    "lat": 54.999782
+  },
+  "93632": {
+    "id": "93632",
+    "name": "Rainbow Chinese Takeaway",
+    "uniqueName": "rainbowchinesetakeaway-edenballymore",
+    "firstLine": "1 Springtown Road",
+    "city": "Londonderry",
+    "postalCode": "BT48 0LY",
+    "lng": -7.331904,
+    "lat": 55.016657
+  },
+  "200994": {
+    "id": "200994",
+    "name": "Mama Masala",
+    "uniqueName": "mama-masala-edenballymore",
+    "firstLine": "24A Queens Quay\nDerry",
+    "city": "Londonderry",
+    "postalCode": "BT48 7AS",
+    "lng": -7.321735,
+    "lat": 55.002058
+  },
+  "245222": {
+    "id": "245222",
+    "name": "Roccos",
+    "uniqueName": "roccos-edenballymore",
+    "firstLine": "6 Rosemount Avenue",
+    "city": "Londonderry",
+    "postalCode": "BT48 0HL",
+    "lng": -7.331471,
+    "lat": 55.004612
+  },
+  "203133": {
+    "id": "203133",
+    "name": "Iceland - Foyleside",
+    "uniqueName": "iceland---foyleside-edenballymore",
+    "firstLine": "Units B4/B5 Level 1",
+    "city": "Foyleside Shopping Centre",
+    "postalCode": "BT48 6XY",
+    "lng": -7.317422,
+    "lat": 54.995154
+  },
+  "151816": {
+    "id": "151816",
+    "name": "Claude's Cafe",
+    "uniqueName": "claudescafe-edenballymore",
+    "firstLine": "4 Shipquay Street",
+    "city": "Londonderry",
+    "postalCode": "BT48 6DN",
+    "lng": -7.321767,
+    "lat": 54.995958
+  },
+  "38021": {
+    "id": "38021",
+    "name": "Brendan's Of Laburnum Terrace",
+    "uniqueName": "brendans-bt48",
+    "firstLine": "15 Laburum Terrace",
+    "city": "Derry",
+    "postalCode": "BT48 9EN",
+    "lng": -7.331517,
+    "lat": 54.998145
+  },
+  "270992": {
+    "id": "270992",
+    "name": "Smash N Bird",
+    "uniqueName": "smash-n-birdcomamoney",
+    "firstLine": "38 Clooney Terrace",
+    "city": "Londonderry",
+    "postalCode": "BT47 6AP",
+    "lng": -7.310066,
+    "lat": 54.995188
+  },
+  "211702": {
+    "id": "211702",
+    "name": "The Scullery",
+    "uniqueName": "the-scullery-edenballymore",
+    "firstLine": "48 Waterloo Street",
+    "city": "Londonderry",
+    "postalCode": "BT48 6HF",
+    "lng": -7.321544,
+    "lat": 54.997479
+  },
+  "313551": {
+    "id": "313551",
+    "name": "Madame Pho Derry",
+    "uniqueName": "madame-pho-derry-edenballymore-bt48",
+    "firstLine": "5 Bishop Street",
+    "city": "Londonderry",
+    "postalCode": "BT48 6PW",
+    "lng": -7.322574,
+    "lat": 54.994996
+  },
+  "137652": {
+    "id": "137652",
+    "name": "Tasty Reel",
+    "uniqueName": "tasty-reel-new-edenballymore",
+    "firstLine": "Creggan Country Park, 196 Westway",
+    "city": "Londonderry",
+    "postalCode": "BT48 9NU",
+    "lng": -7.346638,
+    "lat": 54.999464
+  },
+  "170763": {
+    "id": "170763",
+    "name": "Starbucks - Richmond SC",
+    "uniqueName": "starbucks-richmond-sc-edenballymore",
+    "firstLine": "Ferryquay Street\nRichmond Shopping Centre",
+    "city": "Derry",
+    "postalCode": "BT48 6QP",
+    "lng": -7.321611,
+    "lat": 54.995456
+  },
+  "253016": {
+    "id": "253016",
+    "name": "Sushi Gourmet - Strand Road",
+    "uniqueName": "sushi-gourmet---strand-road-edenballymore-bt48-1",
+    "firstLine": "Sainsbury's, 150 Strand Road, Pennyburn",
+    "city": "Londonderry",
+    "postalCode": "BT48 7TL",
+    "lng": -7.315439,
+    "lat": 55.010466
+  },
+  "292247": {
+    "id": "292247",
+    "name": "Jacket Potato Bar",
+    "uniqueName": "jacket-potato-bar-edenballymore",
+    "firstLine": "Orchard Business Park, Pennyburn Industrial Estate",
+    "city": "Londonderry",
+    "postalCode": "BT48 0LU",
+    "lng": -7.325024,
+    "lat": 55.014143
+  },
+  "230382": {
+    "id": "230382",
+    "name": "Coupe by The Dirty Souls",
+    "uniqueName": "coupe-by-the-dirty-souls-edenballymore",
+    "firstLine": "10 Shipquay Street",
+    "city": "Londonderry",
+    "postalCode": "BT48 6DN",
+    "lng": -7.321395,
+    "lat": 54.99628
+  },
+  "318076": {
+    "id": "318076",
+    "name": "Umi Foyleside",
+    "uniqueName": "umi-foyleside-edenballymore",
+    "firstLine": "Orchard Street",
+    "city": "Londonderry",
+    "postalCode": "BT48 6AT",
+    "lng": -7.317539,
+    "lat": 54.994896
+  },
+  "262135": {
+    "id": "262135",
+    "name": "The Kebab House~",
+    "uniqueName": "the-kebab-house-edenballymore",
+    "firstLine": "42 Shipquay Street",
+    "city": "Londonderry",
+    "postalCode": "BT48 6DW",
+    "lng": -7.320556,
+    "lat": 54.996438
+  },
+  "83086": {
+    "id": "83086",
+    "name": "Rainbow Bridge",
+    "uniqueName": "rainbow-bridge-new-comamoney",
+    "firstLine": "39 Clooney Terrace",
+    "city": "Londonderry",
+    "postalCode": "BT47 6AP",
+    "lng": -7.310065,
+    "lat": 54.995247
+  },
+  "54353": {
+    "id": "54353",
+    "name": "Little Italy",
+    "uniqueName": "little-italy-edenballymore",
+    "firstLine": "Unit 68A Racecourse Road",
+    "city": "Derry",
+    "postalCode": "BT48 8DS",
+    "lng": -7.315252,
+    "lat": 55.024643
+  },
+  "437519": {
+    "id": "437519",
+    "name": "Medina Grill",
+    "uniqueName": "medina-supermarket-and-spicy-food-edenballymore",
+    "firstLine": "59 Strand Road, Londonderrybt487bn",
+    "city": "Derry/Londonderry",
+    "postalCode": "BT48 7BN",
+    "lng": -7.322421,
+    "lat": 55.000551
+  },
+  "208654": {
+    "id": "208654",
+    "name": "Sandys African food Hub",
+    "uniqueName": "sandys-african-food-hub-comamoney",
+    "firstLine": "169-171 Spencer Road",
+    "city": "Londonderry",
+    "postalCode": "BT47 6AH",
+    "lng": -7.310382,
+    "lat": 54.992938
+  },
+  "158375": {
+    "id": "158375",
+    "name": "The Sandwich Co Spencer Road",
+    "uniqueName": "thesandwichcospencerroad-comamoney",
+    "firstLine": "33 Spencer Road",
+    "city": "Londonderry",
+    "postalCode": "BT47 6AA",
+    "lng": -7.314134,
+    "lat": 54.98958
+  },
+  "202219": {
+    "id": "202219",
+    "name": "HEYBOBA - Foyleside",
+    "uniqueName": "hey-boba-foyleside-edenballymore",
+    "firstLine": "Level 4,Unit 4A,19 Orchard Street,Foyleside Centre",
+    "city": "Londonderry",
+    "postalCode": "BT48 6XY",
+    "lng": -7.319384,
+    "lat": 54.994667
+  },
+  "228959": {
+    "id": "228959",
+    "name": "HillBillys Fried Chicken",
+    "uniqueName": "hillbillys-fried-chicken-edenballymore-bt48-1",
+    "firstLine": "2 Strand Road",
+    "city": "Londonderry",
+    "postalCode": "BT48 7AB",
+    "lng": -7.321628,
+    "lat": 54.999222
+  },
+  "306199": {
+    "id": "306199",
+    "name": "Pizza Shed",
+    "uniqueName": "pizza-shed-edenballymore-bt48",
+    "firstLine": "33a Waterloo Street",
+    "city": "Londonderry",
+    "postalCode": "BT48 6HB",
+    "lng": -7.322483,
+    "lat": 54.99699
+  },
+  "106069": {
+    "id": "106069",
+    "name": "Great Fortune",
+    "uniqueName": "great-fortune-new-edenballymore",
+    "firstLine": "17 William Street",
+    "city": "Londonderry",
+    "postalCode": "BT48 6EP",
+    "lng": -7.322778,
+    "lat": 54.997992
+  },
+  "164025": {
+    "id": "164025",
+    "name": "Starbucks\u00ae - Londonderry Foyleside SC",
+    "uniqueName": "starbuckslondonderryfoylesidesc-edenballymore",
+    "firstLine": "Unit M14, Foyleside SC, 4-M5 Orchard St",
+    "city": "Derry",
+    "postalCode": "BT48 6XY",
+    "lng": -7.319167,
+    "lat": 54.994722
+  },
+  "285485": {
+    "id": "285485",
+    "name": "Jan's Scran",
+    "uniqueName": "jans-scran-artikelly",
+    "firstLine": "Bay Road Business Park, Bay Road",
+    "city": "Londonderry",
+    "postalCode": "BT48 7SH",
+    "lng": -7.303526,
+    "lat": 55.015284
+  },
+  "164039": {
+    "id": "164039",
+    "name": "Starbucks\u00ae - Crescent Link",
+    "uniqueName": "starbuckscrescentlink-comamoney",
+    "firstLine": "Starbucks Coffee, 17 Crescent Link",
+    "city": "Derry",
+    "postalCode": "BT47 5FX",
+    "lng": -7.274189,
+    "lat": 54.998957
+  },
+  "258754": {
+    "id": "258754",
+    "name": "Bright's Takeaway",
+    "uniqueName": "brights-takeaway-comamoney",
+    "firstLine": "5 Chapel Road",
+    "city": "Londonderry",
+    "postalCode": "BT47 2AN",
+    "lng": -7.310098,
+    "lat": 54.993317
+  },
+  "317661": {
+    "id": "317661",
+    "name": "Top Pizza Kebabs",
+    "uniqueName": "top-comamoney",
+    "firstLine": "5 Chapel Road",
+    "city": "Londonderry",
+    "postalCode": "BT47 2AN",
+    "lng": -7.310116,
+    "lat": 54.9926
+  },
+  "157677": {
+    "id": "157677",
+    "name": "The Sandwich Co Lisnagelvin",
+    "uniqueName": "thesandwichco-lisnagelvincomamoney",
+    "firstLine": "Unit 3 Lisnagelvin Shopping Centre",
+    "city": "Londonderry",
+    "postalCode": "BT47 6DF",
+    "lng": -7.29642341005938,
+    "lat": 54.9896081363204
+  },
+  "428692": {
+    "id": "428692",
+    "name": "Stax Coffee Shop",
+    "uniqueName": "stax-coffee-shop-edenballymore",
+    "firstLine": "Unit 4, 2 Ballynagard Road",
+    "city": "Londonderry",
+    "postalCode": "BT48 8JJ",
+    "lng": -7.276189,
+    "lat": 55.04237
+  }
+}

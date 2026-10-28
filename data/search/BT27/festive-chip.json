@@ -1,0 +1,70 @@
+{
+  "restaurants": [
+    {
+      "restaurantId": "288982",
+      "products": [
+        {
+          "fullName": "Festive Chip",
+          "price": 895
+        }
+      ]
+    },
+    {
+      "restaurantId": "302916",
+      "products": [
+        {
+          "fullName": "Festive Chip",
+          "price": 895
+        }
+      ]
+    },
+    {
+      "restaurantId": "236394",
+      "products": [
+        {
+          "fullName": "Festive Fries",
+          "price": 1450
+        }
+      ]
+    },
+    {
+      "restaurantId": "139653",
+      "products": [
+        {
+          "fullName": "Festive Fries",
+          "price": 879
+        }
+      ]
+    },
+    {
+      "restaurantId": "220168",
+      "products": []
+    },
+    {
+      "restaurantId": "176765",
+      "products": [
+        {
+          "fullName": "Festive Chip",
+          "price": 850
+        }
+      ]
+    },
+    {
+      "restaurantId": "139986",
+      "products": [
+        {
+          "fullName": "Pablos Festive Fries",
+          "price": 1250
+        }
+      ]
+    },
+    {
+      "restaurantId": "301472",
+      "products": []
+    },
+    {
+      "restaurantId": "103897",
+      "products": []
+    }
+  ]
+}

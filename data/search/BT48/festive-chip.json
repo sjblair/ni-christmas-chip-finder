@@ -1,0 +1,30 @@
+{
+  "restaurants": [
+    {
+      "restaurantId": "246712",
+      "products": [
+        {
+          "fullName": "Festive Chips Meal Deal",
+          "price": 1195
+        },
+        {
+          "fullName": "Large Chips, Gravy & Stuffing",
+          "price": 515
+        }
+      ]
+    },
+    {
+      "restaurantId": "439791",
+      "products": [
+        {
+          "fullName": "Festive Fries",
+          "price": 750
+        }
+      ]
+    },
+    {
+      "restaurantId": "305767",
+      "products": []
+    }
+  ]
+}

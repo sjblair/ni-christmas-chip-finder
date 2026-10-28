@@ -1,0 +1,21 @@
+{
+  "restaurants": [
+    {
+      "restaurantId": "30057",
+      "products": [
+        {
+          "fullName": "Xmas Chip",
+          "price": 930
+        }
+      ]
+    },
+    {
+      "restaurantId": "67958",
+      "products": []
+    },
+    {
+      "restaurantId": "314386",
+      "products": []
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "restaurants": [
+    {
+      "restaurantId": "446764",
+      "products": [
+        {
+          "fullName": "Festive Chip",
+          "price": 1095
+        }
+      ]
+    },
+    {
+      "restaurantId": "230626",
+      "products": [
+        {
+          "fullName": "Festive Chip",
+          "price": 950
+        }
+      ]
+    },
+    {
+      "restaurantId": "114762",
+      "products": [
+        {
+          "fullName": "Festive Chip",
+          "price": 1195
+        },
+        {
+          "fullName": "Christmas Chip",
+          "price": 1195
+        },
+        {
+          "fullName": "Christmas Wrap With Chips",
+          "price": 1195
+        }
+      ]
+    },
+    {
+      "restaurantId": "143870",
+      "products": [
+        {
+          "fullName": "The Original Festive Superchip!",
+          "price": 1250
+        },
+        {
+          "fullName": "Festive Superchip!",
+          "price": 1250
+        }
+      ]
+    }
+  ]
+}

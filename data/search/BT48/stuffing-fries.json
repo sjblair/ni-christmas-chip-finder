@@ -1,0 +1,62 @@
+{
+  "restaurants": [
+    {
+      "restaurantId": "71630",
+      "products": [
+        {
+          "fullName": "Chicken Stuffing Box",
+          "price": 1000
+        }
+      ]
+    },
+    {
+      "restaurantId": "246712",
+      "products": [
+        {
+          "fullName": "Large Chips, Gravy & Stuffing",
+          "price": 515
+        }
+      ]
+    },
+    {
+      "restaurantId": "305767",
+      "products": [
+        {
+          "fullName": "Stuffing Gravy Chips",
+          "price": 550
+        }
+      ]
+    },
+    {
+      "restaurantId": "314255",
+      "products": [
+        {
+          "fullName": "Stuffing Gravy Chips",
+          "price": 600
+        }
+      ]
+    },
+    {
+      "restaurantId": "109260",
+      "products": [
+        {
+          "fullName": "Chicken Stuffing Box - Lg Poly Box",
+          "price": 900
+        },
+        {
+          "fullName": "Chicken Stuffing Box - Reg Poly Box",
+          "price": 750
+        }
+      ]
+    },
+    {
+      "restaurantId": "317661",
+      "products": [
+        {
+          "fullName": "Stuffing Gravy Chips",
+          "price": 500
+        }
+      ]
+    }
+  ]
+}

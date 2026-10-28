@@ -1,0 +1,17 @@
+{
+  "restaurants": [
+    {
+      "restaurantId": "242613",
+      "products": [
+        {
+          "fullName": "Christmas Menu - Festive Panini",
+          "price": 1345
+        },
+        {
+          "fullName": "Christmas Menu - 10\u201d Festive Pizza",
+          "price": 1345
+        }
+      ]
+    }
+  ]
+}

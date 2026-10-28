@@ -1,0 +1,62 @@
+[
+  {
+    "id": "104575",
+    "name": "Just Eat store 104575",
+    "uniqueName": "",
+    "address": "",
+    "postalCode": "",
+    "lat": null,
+    "lng": null,
+    "url": "",
+    "items": [
+      {
+        "name": "Festive  Fries",
+        "pricePence": 900
+      }
+    ],
+    "foundIn": [
+      "BT67"
+    ],
+    "located": false
+  },
+  {
+    "id": "436437",
+    "name": "The Snack Shack",
+    "uniqueName": "the-snack-shack-silverwood",
+    "address": "50 Union Street Lurgan, Craigavon, BT66 8EB",
+    "postalCode": "BT66 8EB",
+    "lat": 54.460059,
+    "lng": -6.332795,
+    "url": "https://www.just-eat.co.uk/restaurants-the-snack-shack-silverwood/menu",
+    "items": [
+      {
+        "name": "Christmas Chips",
+        "pricePence": 850
+      }
+    ],
+    "foundIn": [
+      "BT67"
+    ],
+    "located": true
+  },
+  {
+    "id": "236027",
+    "name": "Just Eat store 236027",
+    "uniqueName": "",
+    "address": "",
+    "postalCode": "",
+    "lat": null,
+    "lng": null,
+    "url": "",
+    "items": [
+      {
+        "name": "Christmas Loaded Fries",
+        "pricePence": 850
+      }
+    ],
+    "foundIn": [
+      "BT67"
+    ],
+    "located": false
+  }
+]

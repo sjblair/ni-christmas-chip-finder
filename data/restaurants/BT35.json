@@ -1,0 +1,52 @@
+{
+  "314324": {
+    "id": "314324",
+    "name": "Grill & Chill",
+    "uniqueName": "transylvanina-newry-bt34-1",
+    "firstLine": "12b Upper Water Street",
+    "city": "Newry",
+    "postalCode": "BT34 1DJ",
+    "lng": -6.33635,
+    "lat": 54.176641
+  },
+  "101204": {
+    "id": "101204",
+    "name": "The Kebab House",
+    "uniqueName": "the-kebab-house-gawleys-gate",
+    "firstLine": "13 Sugar Island",
+    "city": "Newry",
+    "postalCode": "BT35 6HT",
+    "lng": -6.337459,
+    "lat": 54.178342
+  },
+  "297535": {
+    "id": "297535",
+    "name": "Pizza Max",
+    "uniqueName": "pizza-max-newry-bt34",
+    "firstLine": "22 Upper Water Street",
+    "city": "Newry",
+    "postalCode": "BT34 1DJ",
+    "lng": -6.33639,
+    "lat": 54.177013
+  },
+  "431133": {
+    "id": "431133",
+    "name": "Kebab Point",
+    "uniqueName": "kebab-point-newry",
+    "firstLine": "22 Upper Water St",
+    "city": "Newry",
+    "postalCode": "BT34 1DJ",
+    "lng": -6.33639,
+    "lat": 54.177013
+  },
+  "434528": {
+    "id": "434528",
+    "name": "YoYo Kebabs",
+    "uniqueName": "yoyo-kebabs-newry-bt34",
+    "firstLine": "2 The Mall",
+    "city": "Newry",
+    "postalCode": "BT34 1BX",
+    "lng": -6.337978,
+    "lat": 54.177057
+  }
+}

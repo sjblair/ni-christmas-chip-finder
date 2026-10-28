@@ -1,0 +1,82 @@
+[
+  {
+    "id": "290685",
+    "name": "The Happy Haddock",
+    "uniqueName": "the-happy-haddock-ballylintagh",
+    "address": "60 Railway Road, Coleraine, BT52 1PF",
+    "postalCode": "BT52 1PF",
+    "lat": 55.133888,
+    "lng": -6.664012,
+    "url": "https://www.just-eat.co.uk/restaurants-the-happy-haddock-ballylintagh/menu",
+    "items": [
+      {
+        "name": "Christmas Chip",
+        "pricePence": 1404
+      }
+    ],
+    "foundIn": [
+      "BT52"
+    ],
+    "located": true
+  },
+  {
+    "id": "436678",
+    "name": "The Chip Inn",
+    "uniqueName": "the-chip-inn-coleraine",
+    "address": "2 The Rope Walk, Coleraine, BT51 3HA",
+    "postalCode": "BT51 3HA",
+    "lat": 55.125383,
+    "lng": -6.679381,
+    "url": "https://www.just-eat.co.uk/restaurants-the-chip-inn-coleraine/menu",
+    "items": [
+      {
+        "name": "Christmas Chip",
+        "pricePence": 1404
+      }
+    ],
+    "foundIn": [
+      "BT52"
+    ],
+    "located": true
+  },
+  {
+    "id": "42440",
+    "name": "Turf 'n' Surf",
+    "uniqueName": "turfandsurf-bt51",
+    "address": "11 Waterside, Colraine, BT51 3DP",
+    "postalCode": "BT51 3DP",
+    "lat": 55.131778,
+    "lng": -6.67651,
+    "url": "https://www.just-eat.co.uk/restaurants-turfandsurf-bt51/menu",
+    "items": [
+      {
+        "name": "Christmas Chip",
+        "pricePence": 1095
+      }
+    ],
+    "foundIn": [
+      "BT52"
+    ],
+    "located": true
+  },
+  {
+    "id": "110303",
+    "name": "Just Eat store 110303",
+    "uniqueName": "",
+    "address": "",
+    "postalCode": "",
+    "lat": null,
+    "lng": null,
+    "url": "",
+    "items": [
+      {
+        "name": "Christmas Loaded Chips",
+        "pricePence": 1090
+      }
+    ],
+    "foundIn": [
+      "BT52"
+    ],
+    "located": false
+  }
+]

@@ -1,0 +1,42 @@
+{
+  "230008": {
+    "id": "230008",
+    "name": "Pizza Max (Omagh)",
+    "uniqueName": "pizza-max-omagh-mountfield",
+    "firstLine": "1 Mountjoy Road",
+    "city": "Omagh",
+    "postalCode": "BT79 7AA",
+    "lng": -7.301651,
+    "lat": 54.601179
+  },
+  "430775": {
+    "id": "430775",
+    "name": "Drizzle",
+    "uniqueName": "drizzle-mountfield",
+    "firstLine": "59 Market St",
+    "city": "Omagh",
+    "postalCode": "BT79 0AA",
+    "lng": -7.296758,
+    "lat": 54.6004
+  },
+  "87203": {
+    "id": "87203",
+    "name": "Papa G's Pizza",
+    "uniqueName": "papa-gs-pizza-omagh",
+    "firstLine": "48A Brookmount Road",
+    "city": "Omagh",
+    "postalCode": "BT78 5HY",
+    "lng": -7.317604,
+    "lat": 54.600444
+  },
+  "181481": {
+    "id": "181481",
+    "name": "Amigo Pizza",
+    "uniqueName": "apache-pizza-omagh-omagh-bt78",
+    "firstLine": "39 John Street",
+    "city": "Omagh",
+    "postalCode": "BT78 1DN",
+    "lng": -7.306086,
+    "lat": 54.599388
+  }
+}

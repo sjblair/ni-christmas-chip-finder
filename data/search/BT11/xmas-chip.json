@@ -1,0 +1,43 @@
+{
+  "restaurants": [
+    {
+      "restaurantId": "303077",
+      "products": [
+        {
+          "fullName": "Xmas Chips",
+          "price": 1195
+        }
+      ]
+    },
+    {
+      "restaurantId": "163618",
+      "products": [
+        {
+          "fullName": "Xmas Loaded Fries",
+          "price": 1500
+        }
+      ]
+    },
+    {
+      "restaurantId": "272225",
+      "products": []
+    },
+    {
+      "restaurantId": "87932",
+      "products": []
+    },
+    {
+      "restaurantId": "194765",
+      "products": [
+        {
+          "fullName": "Xmas Fries",
+          "price": 900
+        }
+      ]
+    },
+    {
+      "restaurantId": "114526",
+      "products": []
+    }
+  ]
+}

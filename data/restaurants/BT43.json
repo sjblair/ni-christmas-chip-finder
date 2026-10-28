@@ -1,0 +1,42 @@
+{
+  "269563": {
+    "id": "269563",
+    "name": "Domino's - Ballymena - Herbison Square",
+    "uniqueName": "dominos---ballymena---herbison-square-rathkenny",
+    "firstLine": "3 Herbison Square",
+    "city": "Ballymena",
+    "postalCode": "BT43 6HS",
+    "lng": -6.270458,
+    "lat": 54.877071
+  },
+  "300131": {
+    "id": "300131",
+    "name": "CHICK \u2018N\u2019 DIP from Domino\u2019s - Ballymena - Herbison",
+    "uniqueName": "chick-n-dip-from-dominos---ballymena---herbison-rathkenny",
+    "firstLine": "Dominos, 3 Herbison Square",
+    "city": "Ballymena",
+    "postalCode": "BT43 6HS",
+    "lng": -6.270459,
+    "lat": 54.877037
+  },
+  "300175": {
+    "id": "300175",
+    "name": "CHICK \u2018N\u2019 DIP from Domino\u2019s - Ballymena",
+    "uniqueName": "chick-n-dip-from-dominos---ballymena-rathkenny",
+    "firstLine": "Dominos, 1 Smithfield Place",
+    "city": "BALLYMENA",
+    "postalCode": "BT43 5HB",
+    "lng": -6.280839,
+    "lat": 54.865363
+  },
+  "280902": {
+    "id": "280902",
+    "name": "Turkish Kebab & Pizza House",
+    "uniqueName": "turkish-kebab-and-pizza-house-crebilly-bt42",
+    "firstLine": "78C Main StreetCullybackey",
+    "city": "Ballymena",
+    "postalCode": "BT42 1BW",
+    "lng": -6.353395,
+    "lat": 54.887661
+  }
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "63865",
+    "name": "Roe Chippy & Pizza",
+    "uniqueName": "roe-chippy-and-pizza-artikelly",
+    "address": "145D Greystone Road, Limavady, BT49 0PB",
+    "postalCode": "BT49 0PB",
+    "lat": 55.050089,
+    "lng": -6.926953,
+    "url": "https://www.just-eat.co.uk/restaurants-roe-chippy-and-pizza-artikelly/menu",
+    "items": [
+      {
+        "name": "Stuffing, Chips, Peas & Gravy",
+        "pricePence": 850
+      }
+    ],
+    "foundIn": [
+      "BT49"
+    ],
+    "located": true
+  }
+]

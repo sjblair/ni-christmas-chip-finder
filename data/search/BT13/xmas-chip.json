@@ -1,0 +1,38 @@
+{
+  "restaurants": [
+    {
+      "restaurantId": "303077",
+      "products": [
+        {
+          "fullName": "Xmas Chips",
+          "price": 1195
+        }
+      ]
+    },
+    {
+      "restaurantId": "72518",
+      "products": []
+    },
+    {
+      "restaurantId": "272225",
+      "products": []
+    },
+    {
+      "restaurantId": "63645",
+      "products": [
+        {
+          "fullName": "Fallone\u2019S Xmas Chips",
+          "price": 1495
+        }
+      ]
+    },
+    {
+      "restaurantId": "261576",
+      "products": []
+    },
+    {
+      "restaurantId": "59056",
+      "products": []
+    }
+  ]
+}

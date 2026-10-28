@@ -1,0 +1,52 @@
+{
+  "restaurants": [
+    {
+      "restaurantId": "319865",
+      "products": []
+    },
+    {
+      "restaurantId": "181636",
+      "products": []
+    },
+    {
+      "restaurantId": "212102",
+      "products": []
+    },
+    {
+      "restaurantId": "264020",
+      "products": []
+    },
+    {
+      "restaurantId": "299433",
+      "products": []
+    },
+    {
+      "restaurantId": "302963",
+      "products": []
+    },
+    {
+      "restaurantId": "129568",
+      "products": []
+    },
+    {
+      "restaurantId": "97643",
+      "products": []
+    },
+    {
+      "restaurantId": "277214",
+      "products": []
+    },
+    {
+      "restaurantId": "446519",
+      "products": []
+    },
+    {
+      "restaurantId": "118824",
+      "products": []
+    },
+    {
+      "restaurantId": "262282",
+      "products": []
+    }
+  ]
+}

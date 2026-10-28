@@ -1,0 +1,13 @@
+{
+  "restaurants": [
+    {
+      "restaurantId": "87203",
+      "products": [
+        {
+          "fullName": "Chip, Stuffing And Gravy",
+          "price": 700
+        }
+      ]
+    }
+  ]
+}

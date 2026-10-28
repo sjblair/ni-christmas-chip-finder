@@ -1,0 +1,17 @@
+{
+  "restaurants": [
+    {
+      "restaurantId": "288941",
+      "products": [
+        {
+          "fullName": "Christmas Chip - Large",
+          "price": 950
+        },
+        {
+          "fullName": "Christmas Chip - Small",
+          "price": 650
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "restaurants": [
+    {
+      "restaurantId": "139653",
+      "products": [
+        {
+          "fullName": "Festive Fries",
+          "price": 879
+        }
+      ]
+    },
+    {
+      "restaurantId": "139986",
+      "products": [
+        {
+          "fullName": "Pablos Festive Fries",
+          "price": 1250
+        }
+      ]
+    },
+    {
+      "restaurantId": "139710",
+      "products": [
+        {
+          "fullName": "Festive Chip",
+          "price": 600
+        },
+        {
+          "fullName": "Festive Chip (Large)",
+          "price": 1000
+        }
+      ]
+    }
+  ]
+}

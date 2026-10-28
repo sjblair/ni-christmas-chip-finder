@@ -1,0 +1,70 @@
+[
+  {
+    "id": "53841",
+    "name": "Eatsville Fish & Chips Ltd",
+    "uniqueName": "eatsville-and-bhop-crebilly",
+    "address": "28 Queen Street, Ballymena, BT42 2BD",
+    "postalCode": "BT42 2BD",
+    "lat": 54.859918,
+    "lng": -6.27778,
+    "url": "https://www.just-eat.co.uk/restaurants-eatsville-and-bhop-crebilly/menu",
+    "items": [
+      {
+        "name": "Christmas Chip",
+        "pricePence": 1495
+      }
+    ],
+    "foundIn": [
+      "BT42"
+    ],
+    "located": true
+  },
+  {
+    "id": "243954",
+    "name": "Just Eat store 243954",
+    "uniqueName": "",
+    "address": "",
+    "postalCode": "",
+    "lat": null,
+    "lng": null,
+    "url": "",
+    "items": [
+      {
+        "name": "Christmas Chips",
+        "pricePence": 999
+      }
+    ],
+    "foundIn": [
+      "BT42"
+    ],
+    "located": false
+  },
+  {
+    "id": "163651",
+    "name": "The Hungry House",
+    "uniqueName": "the-hungry-house-rathkenny",
+    "address": "3 Dunclug Neighbourhood Centre, Ballymena, BT43 6SA",
+    "postalCode": "BT43 6SA",
+    "lat": 54.880736,
+    "lng": -6.27898,
+    "url": "https://www.just-eat.co.uk/restaurants-the-hungry-house-rathkenny/menu",
+    "items": [
+      {
+        "name": "Chicken, Stuffing Chips And Gravy",
+        "pricePence": 995
+      },
+      {
+        "name": "Chips, Stuffing &Amp; Gravy",
+        "pricePence": 695
+      },
+      {
+        "name": "Chips, Stuffing And Gravy",
+        "pricePence": 695
+      }
+    ],
+    "foundIn": [
+      "BT42"
+    ],
+    "located": true
+  }
+]

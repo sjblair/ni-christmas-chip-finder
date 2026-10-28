@@ -1,0 +1,47 @@
+{
+  "restaurants": [
+    {
+      "restaurantId": "46914",
+      "products": [
+        {
+          "fullName": "Gravy Stuffing Chip",
+          "price": 685
+        },
+        {
+          "fullName": "Chicken Gravy Stuffing Chips",
+          "price": 685
+        },
+        {
+          "fullName": "Roast On Chips (Sf Chicken Slices, Ham, Stuffing And Gravy)",
+          "price": 1190
+        },
+        {
+          "fullName": "Legendary Southern Fried Chicken Burgers - Lauras Legendary Burger Special ( Topped With Stuffing, Grated Cheese Ane Chicken Gravy)",
+          "price": 700
+        }
+      ]
+    },
+    {
+      "restaurantId": "159506",
+      "products": [
+        {
+          "fullName": "Christmas Chip - With Stuffing",
+          "price": 1195
+        },
+        {
+          "fullName": "Christmas Chip - Without Stuffing",
+          "price": 1195
+        }
+      ]
+    },
+    {
+      "restaurantId": "243029",
+      "products": [
+        {
+          "fullName": "Christmas Chips With Turkey/Ham/Stuffing And Cocktail Sausages Smothered In Gravy",
+          "price": 995
+        }
+      ]
+    }
+  ]
+}

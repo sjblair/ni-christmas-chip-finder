@@ -1,0 +1,91 @@
+{
+  "restaurants": [
+    {
+      "restaurantId": "288982",
+      "products": [
+        {
+          "fullName": "Festive Chip",
+          "price": 895
+        }
+      ]
+    },
+    {
+      "restaurantId": "302916",
+      "products": [
+        {
+          "fullName": "Festive Chip",
+          "price": 895
+        }
+      ]
+    },
+    {
+      "restaurantId": "153399",
+      "products": [
+        {
+          "fullName": "Christmas Chip",
+          "price": 895
+        }
+      ]
+    },
+    {
+      "restaurantId": "267967",
+      "products": []
+    },
+    {
+      "restaurantId": "119090",
+      "products": [
+        {
+          "fullName": "Christmas Chip",
+          "price": 1150
+        }
+      ]
+    },
+    {
+      "restaurantId": "153611",
+      "products": [
+        {
+          "fullName": "Christmas Chip With Gravy",
+          "price": 1300
+        },
+        {
+          "fullName": "Christmas Chip With Pepper Sauce",
+          "price": 1300
+        }
+      ]
+    },
+    {
+      "restaurantId": "114072",
+      "products": [
+        {
+          "fullName": "Christmas Chip",
+          "price": 750
+        },
+        {
+          "fullName": "Christmas Chip",
+          "price": 750
+        }
+      ]
+    },
+    {
+      "restaurantId": "166665",
+      "products": [
+        {
+          "fullName": "Christmas Chip",
+          "price": 1200
+        }
+      ]
+    },
+    {
+      "restaurantId": "103897",
+      "products": []
+    },
+    {
+      "restaurantId": "301472",
+      "products": []
+    },
+    {
+      "restaurantId": "165036",
+      "products": []
+    }
+  ]
+}

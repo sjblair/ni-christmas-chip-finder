@@ -1,0 +1,13 @@
+{
+  "restaurants": [
+    {
+      "restaurantId": "270617",
+      "products": [
+        {
+          "fullName": "Festive Loaded Chips",
+          "price": 1290
+        }
+      ]
+    }
+  ]
+}

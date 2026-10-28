@@ -1,0 +1,22 @@
+{
+  "restaurants": [
+    {
+      "restaurantId": "164693",
+      "products": [
+        {
+          "fullName": "Chips, Peas, Stuffing & Gravy",
+          "price": 910
+        }
+      ]
+    },
+    {
+      "restaurantId": "232598",
+      "products": [
+        {
+          "fullName": "Turkey Ham Stuffing On Chips",
+          "price": 1400
+        }
+      ]
+    }
+  ]
+}

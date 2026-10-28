@@ -1,0 +1,382 @@
+{
+  "224746": {
+    "id": "224746",
+    "name": "Bada-Bing Portadown",
+    "uniqueName": "bada-bing-portadown-ballynaghty",
+    "firstLine": "42 West Street\nPortadown",
+    "city": "Craigavon",
+    "postalCode": "BT62 3JQ",
+    "lng": -6.448099,
+    "lat": 54.421949
+  },
+  "280496": {
+    "id": "280496",
+    "name": "Tjs Pizza And Kebab Takeaway",
+    "uniqueName": "tjs-pizza-and-kebab-takeaway-silverwood-bt66",
+    "firstLine": "9 Union Street\nLurgan",
+    "city": "Craigavon",
+    "postalCode": "BT66 8DY",
+    "lng": -6.331023,
+    "lat": 54.460977
+  },
+  "243814": {
+    "id": "243814",
+    "name": "Kebab Night",
+    "uniqueName": "kebab-night-silverwood-bt66",
+    "firstLine": "14 Church Place\nLurgan",
+    "city": "Craigavon",
+    "postalCode": "BT66 6EY",
+    "lng": -6.335319,
+    "lat": 54.463822
+  },
+  "428315": {
+    "id": "428315",
+    "name": "Spice House Portadown",
+    "uniqueName": "spice-house-portadown-ballynaghty",
+    "firstLine": "12 Thomas Street",
+    "city": "Portadown",
+    "postalCode": "BT62 3NP",
+    "lng": -6.443316,
+    "lat": 54.422326
+  },
+  "181790": {
+    "id": "181790",
+    "name": "BIG BITE'S",
+    "uniqueName": "big-bites-ballynaghty",
+    "firstLine": "40a West Street\nPortadown",
+    "city": "Craigavon",
+    "postalCode": "BT62 3JQ",
+    "lng": -6.448104,
+    "lat": 54.421958
+  },
+  "439056": {
+    "id": "439056",
+    "name": "Kyles Kebab",
+    "uniqueName": "kyles-kebab-silverwood-bt66-1",
+    "firstLine": "33 William Street,Lurgan",
+    "city": "Craigavon",
+    "postalCode": "BT66 6JA",
+    "lng": -6.335686,
+    "lat": 54.46483
+  },
+  "272428": {
+    "id": "272428",
+    "name": "Cleopatra\u2019s Pizza & Kebabs",
+    "uniqueName": "cleopatras-pizza--kebabs-ballynaghty",
+    "firstLine": "44 Meadow Lane\nPortadown",
+    "city": "Craigavon",
+    "postalCode": "BT62 3NJ",
+    "lng": -6.440591,
+    "lat": 54.422531
+  },
+  "228310": {
+    "id": "228310",
+    "name": "Burger-Bing Portadown",
+    "uniqueName": "burger-bing-portadown-ballynaghty",
+    "firstLine": "42 West Street\nPortadown",
+    "city": "Craigavon",
+    "postalCode": "BT62 3JQ",
+    "lng": -6.448099,
+    "lat": 54.421949
+  },
+  "275246": {
+    "id": "275246",
+    "name": "Smash Pros",
+    "uniqueName": "smash-pros-drumgask",
+    "firstLine": "Unit 5 Moyraverty Meadows\nMoyraverty",
+    "city": "Craigavon",
+    "postalCode": "BT65 5HX",
+    "lng": -6.363434,
+    "lat": 54.438074
+  },
+  "242613": {
+    "id": "242613",
+    "name": "Danny's Chippy",
+    "uniqueName": "dannys-chippy-ballynaghty",
+    "firstLine": "160 Park Road\nPortadown",
+    "city": "Craigavon",
+    "postalCode": "BT62 1BH",
+    "lng": -6.44741,
+    "lat": 54.424313
+  },
+  "22649": {
+    "id": "22649",
+    "name": "Chilli Masala",
+    "uniqueName": "chillimasala-bt63",
+    "firstLine": "14 Dunbarton Street",
+    "city": "Gilford",
+    "postalCode": "BT63 6HJ",
+    "lng": -6.360406,
+    "lat": 54.374023
+  },
+  "106962": {
+    "id": "106962",
+    "name": "Apache Pizza (Portadown)",
+    "uniqueName": "apache-pizza-portadown-new-ballynaghty",
+    "firstLine": "21D High Street",
+    "city": "Portadown",
+    "postalCode": "BT62 1HZ",
+    "lng": -6.44299,
+    "lat": 54.422896
+  },
+  "320480": {
+    "id": "320480",
+    "name": "New Yum Yum",
+    "uniqueName": "new-yum-yum-ballynaghty-bt62",
+    "firstLine": "Unit 2 Annagh Business Centre\r\nTandragee Road",
+    "city": "Portadown",
+    "postalCode": "BT62 3BQ",
+    "lng": -6.443709,
+    "lat": 54.415481
+  },
+  "160887": {
+    "id": "160887",
+    "name": "Apache Pizza (Lurgan)",
+    "uniqueName": "apache-pizza-lurgan-silverwood-bt66",
+    "firstLine": "35A Church Place, Craigavon",
+    "city": "Lurgan",
+    "postalCode": "BT66 6EU",
+    "lng": -6.335183,
+    "lat": 54.462692
+  },
+  "315864": {
+    "id": "315864",
+    "name": "The sugar shack",
+    "uniqueName": "thr-sugar-shack-silverwood",
+    "firstLine": "50 Union Street Lurgan",
+    "city": "Craigavon",
+    "postalCode": "BT66 8EB",
+    "lng": -6.332809,
+    "lat": 54.460013
+  },
+  "288946": {
+    "id": "288946",
+    "name": "New Magic Takeaway",
+    "uniqueName": "new-magic-takeaway-annahilt",
+    "firstLine": "91 Newry Street",
+    "city": "Banbridge",
+    "postalCode": "BT32 3EF",
+    "lng": -6.271724,
+    "lat": 54.346834
+  },
+  "233610": {
+    "id": "233610",
+    "name": "Paolo's Pizza - Lurgan",
+    "uniqueName": "paolos-pizza---lurgan-silverwood",
+    "firstLine": "31d High Street\nLurgan",
+    "city": "Craigavon",
+    "postalCode": "BT66 8AH",
+    "lng": -6.328726,
+    "lat": 54.460386
+  },
+  "261520": {
+    "id": "261520",
+    "name": "Skinny\u2019s Pizza and Kebab House",
+    "uniqueName": "skinny-kebab-house-silverwood",
+    "firstLine": "2a Mourne Road",
+    "city": "Craigavon",
+    "postalCode": "BT66 8JA",
+    "lng": -6.329905,
+    "lat": 54.455391
+  },
+  "309018": {
+    "id": "309018",
+    "name": "Pizza Hub",
+    "uniqueName": "pizza-hub-ballymacanallen",
+    "firstLine": "4 DRUMNASCAMPH ROAD",
+    "city": "GILFORD",
+    "postalCode": "BT63 6DU",
+    "lng": -6.308288,
+    "lat": 54.380065
+  },
+  "146034": {
+    "id": "146034",
+    "name": "Hot and Tasty",
+    "uniqueName": "hot-and-tasty-silverwood",
+    "firstLine": "33 Flush Place",
+    "city": "Lurgan",
+    "postalCode": "BT66 7DT",
+    "lng": -6.322884,
+    "lat": 54.456789
+  },
+  "77216": {
+    "id": "77216",
+    "name": "Apache Pizza (Banbridge)",
+    "uniqueName": "apache-pizza-banbridge-annahilt",
+    "firstLine": "80 Newry Street",
+    "city": "Banbridge",
+    "postalCode": "BT32 3HA",
+    "lng": -6.270339,
+    "lat": 54.347585
+  },
+  "233125": {
+    "id": "233125",
+    "name": "Off Licence at Centra A1",
+    "uniqueName": "deli-at-centra-a1-annahilt",
+    "firstLine": "24 Halfway Road",
+    "city": "Banbridge",
+    "postalCode": "BT32 4ET",
+    "lng": -6.217684,
+    "lat": 54.367678
+  },
+  "438623": {
+    "id": "438623",
+    "name": "Piri Piri taste lurgan",
+    "uniqueName": "piri-piri-taste-lurgan-limy-silverwood",
+    "firstLine": "7 Flush Place Lurgan",
+    "city": "Craigavon",
+    "postalCode": "BT66 7DT",
+    "lng": -6.322827,
+    "lat": 54.457019
+  },
+  "431605": {
+    "id": "431605",
+    "name": "Monsoon Indian Takeaway",
+    "uniqueName": "monsoon-indian-takeaway-annahilt-bt32-3",
+    "firstLine": "36 Bridge Street",
+    "city": "Banbridge",
+    "postalCode": "BT32 3JS",
+    "lng": -6.269888,
+    "lat": 54.349489
+  },
+  "438866": {
+    "id": "438866",
+    "name": "Yummy House",
+    "uniqueName": "yummy-house-silverwood-bt66",
+    "firstLine": "55 Main Street",
+    "city": "Craigavon",
+    "postalCode": "BT66 7QH",
+    "lng": -6.299318,
+    "lat": 54.434258
+  },
+  "441892": {
+    "id": "441892",
+    "name": "Tandragee Kebabs & Indian Takeaway",
+    "uniqueName": "tandragee-kebabs-and-indian-takeaway-ballynaghty-bt62-1",
+    "firstLine": "78 Market Street",
+    "city": "Tandragee",
+    "postalCode": "BT62 2BW",
+    "lng": -6.412946,
+    "lat": 54.353307
+  },
+  "436437": {
+    "id": "436437",
+    "name": "The Snack Shack",
+    "uniqueName": "the-snack-shack-silverwood",
+    "firstLine": "50 Union Street Lurgan",
+    "city": "Craigavon",
+    "postalCode": "BT66 8EB",
+    "lng": -6.332795,
+    "lat": 54.460059
+  },
+  "444540": {
+    "id": "444540",
+    "name": "Smash Pro Max",
+    "uniqueName": "smash-pro-max-annahilt",
+    "firstLine": "36 Bridge Street",
+    "city": "Banbridge",
+    "postalCode": "BT32 3JS",
+    "lng": -6.26949,
+    "lat": 54.350093
+  },
+  "191380": {
+    "id": "191380",
+    "name": "Turkish Kebab And Pizza House Portadown",
+    "uniqueName": "turkish-kebab-and-pizza-house-portadown-ballynaghty-bt62",
+    "firstLine": "22-23 Market Street\nPortadown",
+    "city": "Craigavon",
+    "postalCode": "BT62 3LD",
+    "lng": -6.444628,
+    "lat": 54.422702
+  },
+  "216087": {
+    "id": "216087",
+    "name": "Ali's King Kebab",
+    "uniqueName": "alis-king-kebab-drumgask-bt65-1",
+    "firstLine": "Unit 5 Moyraverty Center\nMoyraverty Meadows",
+    "city": "Craigavon",
+    "postalCode": "BT65 5HX",
+    "lng": -6.363562,
+    "lat": 54.438111
+  },
+  "224711": {
+    "id": "224711",
+    "name": "Centra A1",
+    "uniqueName": "centra-a1-annahilt",
+    "firstLine": "24 Halfway Road",
+    "city": "Banbridge",
+    "postalCode": "BT32 4ET",
+    "lng": -6.217742,
+    "lat": 54.368638
+  },
+  "167829": {
+    "id": "167829",
+    "name": "Barn Brunch & BBQ",
+    "uniqueName": "barn-brunch-and-bbq-silverwood",
+    "firstLine": "2D Mourne Road",
+    "city": "Lurgan",
+    "postalCode": "BT66 8JA",
+    "lng": -6.329852,
+    "lat": 54.454556
+  },
+  "225101": {
+    "id": "225101",
+    "name": "Bada-Bing Lurgan",
+    "uniqueName": "bada-bing-lurgan-silverwood",
+    "firstLine": "20 Edward Street",
+    "city": "Lurgan",
+    "postalCode": "BT66 6DB",
+    "lng": -6.33719,
+    "lat": 54.46295
+  },
+  "267552": {
+    "id": "267552",
+    "name": "JPs Chippy Portadown",
+    "uniqueName": "jps-chippy-portadown-ballymacanallen",
+    "firstLine": "19 Carrickblacker Rd, Portadown,",
+    "city": "Craigavon",
+    "postalCode": "BT63 5AU",
+    "lng": -6.433772,
+    "lat": 54.426554
+  },
+  "300463": {
+    "id": "300463",
+    "name": "Pistachio Portadown",
+    "uniqueName": "pistachio-portadown-ballymacanallen",
+    "firstLine": "98 Granville Road Portadown",
+    "city": "Craigavon",
+    "postalCode": "BT63 5DW",
+    "lng": -6.419012,
+    "lat": 54.423398
+  },
+  "243486": {
+    "id": "243486",
+    "name": "Flavours of the East",
+    "uniqueName": "flavours-of-the-east-silverwood",
+    "firstLine": "60 Church Place\nLurgan",
+    "city": "Craigavon",
+    "postalCode": "BT66 6HD",
+    "lng": -6.334186,
+    "lat": 54.46385
+  },
+  "275006": {
+    "id": "275006",
+    "name": "Churrasqueira BomBom",
+    "uniqueName": "churrasqueira-bombom-ballynaghty",
+    "firstLine": "56 Church Street\nPortadown",
+    "city": "Craigavon",
+    "postalCode": "BT62 3LN",
+    "lng": -6.446022,
+    "lat": 54.420547
+  },
+  "288437": {
+    "id": "288437",
+    "name": "TGK Pizza Palace",
+    "uniqueName": "tgk-pizza-palace-silverwood",
+    "firstLine": "60 Church Place",
+    "city": "Craigavon",
+    "postalCode": "BT66 6HD",
+    "lng": -6.334194,
+    "lat": 54.463859
+  }
+}

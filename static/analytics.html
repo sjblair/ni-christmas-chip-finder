@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Merry Chip Maths</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body class="stats-page">
+  <div class="snow" aria-hidden="true"></div>
+  <header>
+    <div>
+      <p class="eyebrow">Northern Ireland</p>
+      <h1>Merry Chip Maths</h1>
+    </div>
+    <a class="nav-link" href="index.html">The Map</a>
+  </header>
+  <div class="lights" aria-hidden="true"></div>
+  <main>
+    <p class="lede" id="lede">Prices from the current data. This is a chippy, not a study.</p>
+    <div class="charts">
+      <section class="chart" aria-labelledby="spread-title">
+        <h2 id="spread-title">What does a Christmas chip cost?</h2>
+        <p class="aside" id="spread-aside"></p>
+        <div class="hist" id="spread"></div>
+      </section>
+      <div class="pair">
+        <section class="chart" aria-labelledby="dear-title">
+          <h2 id="dear-title">Dearest Areas</h2>
+          <p class="aside">Average price where the shop's own address is in that postcode.</p>
+          <div id="dearest"></div>
+        </section>
+        <section class="chart" aria-labelledby="cheap-title">
+          <h2 id="cheap-title">Cheapest Areas</h2>
+          <p class="aside">Same rule, other end of the table. Shops with no postcode on the address are left out.</p>
+          <div id="cheapest"></div>
+        </section>
+      </div>
+      <div class="pair">
+        <section class="chart" aria-labelledby="name-title">
+          <h2 id="name-title">What do they call it?</h2>
+          <p class="aside" id="name-aside"></p>
+          <div id="naming"></div>
+        </section>
+        <section class="chart" aria-labelledby="emoji-title">
+          <h2 id="emoji-title">The Emoji Surcharge</h2>
+          <p class="aside" id="emoji-aside"></p>
+          <div id="emoji"></div>
+        </section>
+      </div>
+      <div class="pair">
+        <section class="chart" aria-labelledby="large-title">
+          <h2 id="large-title">Go large?</h2>
+          <p class="aside" id="large-aside"></p>
+          <div id="large"></div>
+        </section>
+        <section class="chart" aria-labelledby="debate-title">
+          <h2 id="debate-title">The Great Chip or Fries Debate</h2>
+          <p class="aside" id="debate-aside"></p>
+          <div id="debate"></div>
+        </section>
+      </div>
+      <div class="pair">
+        <section class="chart" aria-labelledby="commit-title">
+          <h2 id="commit-title">One dish, or a festive commitment?</h2>
+          <p class="aside" id="commit-aside"></p>
+          <div id="commitment"></div>
+        </section>
+        <section class="chart" aria-labelledby="essay-title">
+          <h2 id="essay-title">The Menu Item That Would Not Stop</h2>
+          <p class="aside">Longest festive name in the data, and what they charged for the essay.</p>
+          <p class="quote" id="essay"></p>
+        </section>
+      </div>
+    </div>
+  </main>
+  <script src="analytics.js"></script>
+</body>
+</html>

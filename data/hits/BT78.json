@@ -1,0 +1,26 @@
+[
+  {
+    "id": "87203",
+    "name": "Papa G's Pizza",
+    "uniqueName": "papa-gs-pizza-omagh",
+    "address": "48A Brookmount Road, Omagh, BT78 5HY",
+    "postalCode": "BT78 5HY",
+    "lat": 54.600444,
+    "lng": -7.317604,
+    "url": "https://www.just-eat.co.uk/restaurants-papa-gs-pizza-omagh/menu",
+    "items": [
+      {
+        "name": "Christmas Chips",
+        "pricePence": 1080
+      },
+      {
+        "name": "Chip, Stuffing And Gravy",
+        "pricePence": 700
+      }
+    ],
+    "foundIn": [
+      "BT78"
+    ],
+    "located": true
+  }
+]

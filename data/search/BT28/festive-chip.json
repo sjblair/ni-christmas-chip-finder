@@ -1,0 +1,48 @@
+{
+  "restaurants": [
+    {
+      "restaurantId": "288982",
+      "products": [
+        {
+          "fullName": "Festive Chip",
+          "price": 895
+        }
+      ]
+    },
+    {
+      "restaurantId": "302916",
+      "products": [
+        {
+          "fullName": "Festive Chip",
+          "price": 895
+        }
+      ]
+    },
+    {
+      "restaurantId": "236394",
+      "products": [
+        {
+          "fullName": "Festive Fries",
+          "price": 1450
+        }
+      ]
+    },
+    {
+      "restaurantId": "176765",
+      "products": [
+        {
+          "fullName": "Festive Chip",
+          "price": 850
+        }
+      ]
+    },
+    {
+      "restaurantId": "103897",
+      "products": []
+    },
+    {
+      "restaurantId": "301472",
+      "products": []
+    }
+  ]
+}

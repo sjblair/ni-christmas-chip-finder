@@ -1,0 +1,82 @@
+{
+  "183226": {
+    "id": "183226",
+    "name": "Domino's - Antrim",
+    "uniqueName": "dominos-antrim-randalstown",
+    "firstLine": "66-70 Church Street",
+    "city": "ANTRIM",
+    "postalCode": "BT41 4BA",
+    "lng": -6.214867,
+    "lat": 54.713573
+  },
+  "300241": {
+    "id": "300241",
+    "name": "CHICK \u2018N\u2019 DIP from Domino\u2019s - Antrim",
+    "uniqueName": "chick-n-dip-from-dominos---antrim-randalstown",
+    "firstLine": "Dominos, 66-70 Church Street",
+    "city": "ANTRIM",
+    "postalCode": "BT41 4BA",
+    "lng": -6.214867,
+    "lat": 54.713573
+  },
+  "109043": {
+    "id": "109043",
+    "name": "Munal Tandoori Restaurant",
+    "uniqueName": "munal-tandoori-restaurant-randalstown",
+    "firstLine": "88 Church Street",
+    "city": "Antrim",
+    "postalCode": "BT41 4BA",
+    "lng": -6.21636,
+    "lat": 54.713437
+  },
+  "261153": {
+    "id": "261153",
+    "name": "T Kebabs & Pizza",
+    "uniqueName": "t-kebabs-and-pizza-randalstown",
+    "firstLine": "19b Fountain Street",
+    "city": "Antrim",
+    "postalCode": "BT41 4BB",
+    "lng": -6.212043,
+    "lat": 54.713624
+  },
+  "32179": {
+    "id": "32179",
+    "name": "Istanbull Kebab House",
+    "uniqueName": "istanbulkebabhouse-bt41",
+    "firstLine": "31 Main Street Randalstown",
+    "city": "Co Antrim",
+    "postalCode": "BT41 3AB",
+    "lng": -6.319536,
+    "lat": 54.749702
+  },
+  "89722": {
+    "id": "89722",
+    "name": "Masala Fusion Indian Restaurant",
+    "uniqueName": "masala-fusion-indian-restaurant-randalstown",
+    "firstLine": "12 Market Square",
+    "city": "Antrim",
+    "postalCode": "BT41 4AW",
+    "lng": -6.220734,
+    "lat": 54.714719
+  },
+  "439341": {
+    "id": "439341",
+    "name": "Aura Authentic Indian Food",
+    "uniqueName": "aura-authentic-indian-food-randalstown",
+    "firstLine": "21-23 Main Street",
+    "city": "Antrim",
+    "postalCode": "BT41 3AB",
+    "lng": -6.318989,
+    "lat": 54.749856
+  },
+  "259341": {
+    "id": "259341",
+    "name": "Kebab At The Door",
+    "uniqueName": "kebab-at-the-door-randalstown",
+    "firstLine": "88 Church Street",
+    "city": "Antrim",
+    "postalCode": "BT41 4BA",
+    "lng": -6.213657,
+    "lat": 54.713479
+  }
+}

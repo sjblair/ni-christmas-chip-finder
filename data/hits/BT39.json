@@ -1,0 +1,62 @@
+[
+  {
+    "id": "51401",
+    "name": "New Mossley Chippy",
+    "uniqueName": "new--mossley-chippy-newtownabbey",
+    "address": "Unit 2-3 New Mossley Centre, Ballyearl Drive, Newtownabbey, BT36 5BZ",
+    "postalCode": "BT36 5BZ",
+    "lat": 54.691365,
+    "lng": -5.961978,
+    "url": "https://www.just-eat.co.uk/restaurants-new--mossley-chippy-newtownabbey/menu",
+    "items": [
+      {
+        "name": "Christmas Chip",
+        "pricePence": 1150
+      }
+    ],
+    "foundIn": [
+      "BT39"
+    ],
+    "located": true
+  },
+  {
+    "id": "194693",
+    "name": "Knags Hot Food Deli",
+    "uniqueName": "knags-hot-food-deli-newtownabbey",
+    "address": "373 -375 Antrim Road\nGlengormley, Newtownabbey, BT36 5EB",
+    "postalCode": "BT36 5EB",
+    "lat": 54.6736,
+    "lng": -5.961867,
+    "url": "https://www.just-eat.co.uk/restaurants-knags-hot-food-deli-newtownabbey/menu",
+    "items": [
+      {
+        "name": "Christmas Chips",
+        "pricePence": 1350
+      }
+    ],
+    "foundIn": [
+      "BT39"
+    ],
+    "located": true
+  },
+  {
+    "id": "295254",
+    "name": "Caf\u00e9 Roo",
+    "uniqueName": "cafe-roo-doagh",
+    "address": "66 Main Street, Ballyclare, BT39 9AA",
+    "postalCode": "BT39 9AA",
+    "lat": 54.751867,
+    "lng": -6.000082,
+    "url": "https://www.just-eat.co.uk/restaurants-cafe-roo-doagh/menu",
+    "items": [
+      {
+        "name": "Christmas Chip",
+        "pricePence": 1345
+      }
+    ],
+    "foundIn": [
+      "BT39"
+    ],
+    "located": true
+  }
+]
