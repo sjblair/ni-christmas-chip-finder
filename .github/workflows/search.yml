@@ -1,0 +1,50 @@
+name: Update search data
+
+on:
+  schedule:
+    # 06:00 UTC every other day. GitHub cron has no exact 48 hour interval.
+    - cron: "0 6 */2 * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  search:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - uses: browser-actions/setup-firefox@v1
+        with:
+          firefox-version: latest
+
+      - name: Search Just Eat
+        env:
+          MOZ_DISABLE_CONTENT_SANDBOX: "1"
+        run: python3 scrape.py
+
+      - name: Upload run status
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: run-status
+          path: data/run-status.json
+          if-no-files-found: ignore
+
+      - name: Commit updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add static/results.json data/manifest.json data/hits data/outcodes.json data/run-status.json
+          if git diff --cached --quiet; then
+            echo "No data changes"
+            exit 0
+          fi
+          git commit -m "Update festive chip search results"
+          git push
