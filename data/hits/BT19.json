@@ -1,5 +1,25 @@
 [
   {
+    "id": "85600",
+    "name": "The Station Diner",
+    "uniqueName": "the-station-diner-new-ballymagee",
+    "address": "42-44 Abbey Street, Bangor, BT20 4JA",
+    "postalCode": "BT20 4JA",
+    "lat": 54.65754,
+    "lng": -5.672577,
+    "url": "https://www.just-eat.co.uk/restaurants-the-station-diner-new-ballymagee/menu",
+    "items": [
+      {
+        "name": "Christmas Chip",
+        "pricePence": 1000
+      }
+    ],
+    "foundIn": [
+      "BT19"
+    ],
+    "located": true
+  },
+  {
     "id": "319177",
     "name": "Colin's Hot Food",
     "uniqueName": "colins-hot-food-ballymagee",

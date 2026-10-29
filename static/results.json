@@ -358,6 +358,26 @@
       "located": true
     },
     {
+      "id": "22368",
+      "name": "Cafollas",
+      "uniqueName": "cafollas-bt61",
+      "address": "33-35 Lower English Street, Armagh, BT61 7LJ",
+      "postalCode": "BT61 7LJ",
+      "lat": 54.35142,
+      "lng": -6.655582,
+      "url": "https://www.just-eat.co.uk/restaurants-cafollas-bt61/menu",
+      "items": [
+        {
+          "name": "Christmas Chips",
+          "pricePence": 900
+        }
+      ],
+      "foundIn": [
+        "BT61"
+      ],
+      "located": true
+    },
+    {
       "id": "295254",
       "name": "Caf\u00e9 Roo",
       "uniqueName": "cafe-roo-doagh",
@@ -419,6 +439,22 @@
         }
       ],
       "foundIn": [
+        "BT1",
+        "BT2",
+        "BT4",
+        "BT5",
+        "BT6",
+        "BT7",
+        "BT8",
+        "BT9",
+        "BT10",
+        "BT11",
+        "BT12",
+        "BT13",
+        "BT14",
+        "BT15",
+        "BT17",
+        "BT27",
         "BT37"
       ],
       "located": true
@@ -457,6 +493,41 @@
         "BT27",
         "BT36",
         "BT37"
+      ],
+      "located": true
+    },
+    {
+      "id": "422768",
+      "name": "Centra Lisburn Deli",
+      "uniqueName": "centra-lisburn-deli-duneight",
+      "address": "2 Ballynahinch Road, Lisburn, BT27 5EY",
+      "postalCode": "BT27 5EY",
+      "lat": 54.507254,
+      "lng": -6.037523,
+      "url": "https://www.just-eat.co.uk/restaurants-centra-lisburn-deli-duneight/menu",
+      "items": [
+        {
+          "name": "Festive Fries (Large)",
+          "pricePence": 1030
+        },
+        {
+          "name": "Festive Fries (Small)",
+          "pricePence": 905
+        }
+      ],
+      "foundIn": [
+        "BT1",
+        "BT2",
+        "BT8",
+        "BT9",
+        "BT10",
+        "BT11",
+        "BT12",
+        "BT13",
+        "BT17",
+        "BT26",
+        "BT27",
+        "BT28"
       ],
       "located": true
     },
@@ -1672,6 +1743,61 @@
       "located": true
     },
     {
+      "id": "59056",
+      "name": "Oh My Cod",
+      "uniqueName": "oh-my-cod-ballysillan-lower",
+      "address": "101 Aillance Avenue, Belfast, BT14 7NT",
+      "postalCode": "BT14 7NT",
+      "lat": 54.618494,
+      "lng": -5.961509,
+      "url": "https://www.just-eat.co.uk/restaurants-oh-my-cod-ballysillan-lower/menu",
+      "items": [
+        {
+          "name": "The Xmas Chip",
+          "pricePence": 1199
+        },
+        {
+          "name": "Xmas Chip Wrap",
+          "pricePence": 1144
+        }
+      ],
+      "foundIn": [
+        "BT1",
+        "BT12",
+        "BT13",
+        "BT14",
+        "BT15"
+      ],
+      "located": true
+    },
+    {
+      "id": "197886",
+      "name": "Oh My Pizza",
+      "uniqueName": "ohmy-pizza-ballysillan-lower",
+      "address": "101 Alliance Avenue, Belfast, BT14 7NT",
+      "postalCode": "BT14 7NT",
+      "lat": 54.618742,
+      "lng": -5.960245,
+      "url": "https://www.just-eat.co.uk/restaurants-ohmy-pizza-ballysillan-lower/menu",
+      "items": [
+        {
+          "name": "The Xmas Chip",
+          "pricePence": 1199
+        },
+        {
+          "name": "Xmas Chip Wrap",
+          "pricePence": 1144
+        }
+      ],
+      "foundIn": [
+        "BT12",
+        "BT13",
+        "BT14",
+        "BT15"
+      ],
+      "located": true
+    },
+    {
       "id": "139986",
       "name": "Pablos",
       "uniqueName": "pablos-belfast",
@@ -1833,6 +1959,10 @@
         {
           "name": "Christmas Chip",
           "pricePence": 1500
+        },
+        {
+          "name": "Gravy Stuffing Chip",
+          "pricePence": 750
         }
       ],
       "foundIn": [
@@ -2445,6 +2575,27 @@
       "located": true
     },
     {
+      "id": "85600",
+      "name": "The Station Diner",
+      "uniqueName": "the-station-diner-new-ballymagee",
+      "address": "42-44 Abbey Street, Bangor, BT20 4JA",
+      "postalCode": "BT20 4JA",
+      "lat": 54.65754,
+      "lng": -5.672577,
+      "url": "https://www.just-eat.co.uk/restaurants-the-station-diner-new-ballymagee/menu",
+      "items": [
+        {
+          "name": "Christmas Chip",
+          "pricePence": 1000
+        }
+      ],
+      "foundIn": [
+        "BT19",
+        "BT20"
+      ],
+      "located": true
+    },
+    {
       "id": "129568",
       "name": "The Wee Cafe",
       "uniqueName": "the-wee-cafe-flax-centre",
@@ -2599,6 +2750,31 @@
       ],
       "foundIn": [
         "BT48"
+      ],
+      "located": true
+    },
+    {
+      "id": "123958",
+      "name": "Zizzi - Belfast Victoria Square",
+      "uniqueName": "zizzi-belfast-victoriasquare",
+      "address": "Victoria Square Shopping Centre Victoria Square, Belfast, BT1 4QG",
+      "postalCode": "BT1 4QG",
+      "lat": 54.598536,
+      "lng": -5.924795,
+      "url": "https://www.just-eat.co.uk/restaurants-zizzi-belfast-victoriasquare/menu",
+      "items": [
+        {
+          "name": "FESTIVE SPECIAL\u2744\ufe0f Roasties Rustica",
+          "pricePence": 1795
+        }
+      ],
+      "foundIn": [
+        "BT1",
+        "BT2",
+        "BT7",
+        "BT12",
+        "BT13",
+        "BT15"
       ],
       "located": true
     }

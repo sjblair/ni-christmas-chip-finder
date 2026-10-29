@@ -1,17 +1,17 @@
 {
-  "startedAt": "2026-10-29T10:27:32.869650+00:00",
-  "finishedAt": "2026-10-29T11:50:34.796359+00:00",
-  "durationSeconds": 4981.9,
-  "duration": "1h 23m 1s",
+  "startedAt": "2026-10-29T12:15:26.484518+00:00",
+  "finishedAt": "2026-10-29T13:38:44.807128+00:00",
+  "durationSeconds": 4998.3,
+  "duration": "1h 23m 18s",
   "completed": true,
   "stoppedReason": null,
   "postcodeCount": 80,
   "searched": 80,
   "succeeded": 80,
   "failed": 0,
-  "stores": 105,
-  "locatedStores": 95,
-  "matchesFound": 507,
+  "stores": 111,
+  "locatedStores": 101,
+  "matchesFound": 553,
   "queries": [
     "christmas chip",
     "christmas fries",
@@ -44,20 +44,20 @@
       "code": "BT1",
       "status": "ok",
       "previousStatus": "ok",
-      "matches": 27,
-      "seconds": 115.1,
+      "matches": 31,
+      "seconds": 68.3,
       "error": null,
-      "lastSuccessfulRun": "2026-10-29T10:29:27.980690+00:00",
+      "lastSuccessfulRun": "2026-10-29T12:16:34.751674+00:00",
       "previousStoresKept": false
     },
     {
       "code": "BT2",
       "status": "ok",
       "previousStatus": "ok",
-      "matches": 25,
-      "seconds": 62.8,
+      "matches": 28,
+      "seconds": 62.6,
       "error": null,
-      "lastSuccessfulRun": "2026-10-29T10:30:30.790714+00:00",
+      "lastSuccessfulRun": "2026-10-29T12:17:37.340444+00:00",
       "previousStoresKept": false
     },
     {
@@ -65,129 +65,129 @@
       "status": "ok",
       "previousStatus": "ok",
       "matches": 7,
-      "seconds": 62.2,
+      "seconds": 63.6,
       "error": null,
-      "lastSuccessfulRun": "2026-10-29T10:31:33.028777+00:00",
+      "lastSuccessfulRun": "2026-10-29T12:18:40.971957+00:00",
       "previousStoresKept": false
     },
     {
       "code": "BT5",
       "status": "ok",
       "previousStatus": "ok",
-      "matches": 15,
-      "seconds": 62.8,
+      "matches": 16,
+      "seconds": 64.0,
       "error": null,
-      "lastSuccessfulRun": "2026-10-29T10:32:35.858623+00:00",
+      "lastSuccessfulRun": "2026-10-29T12:19:44.922919+00:00",
       "previousStoresKept": false
     },
     {
       "code": "BT4",
       "status": "ok",
       "previousStatus": "ok",
-      "matches": 18,
-      "seconds": 63.0,
+      "matches": 19,
+      "seconds": 62.5,
       "error": null,
-      "lastSuccessfulRun": "2026-10-29T10:33:38.861381+00:00",
+      "lastSuccessfulRun": "2026-10-29T12:20:47.447015+00:00",
       "previousStoresKept": false
     },
     {
       "code": "BT6",
       "status": "ok",
       "previousStatus": "ok",
-      "matches": 17,
-      "seconds": 62.6,
+      "matches": 18,
+      "seconds": 63.4,
       "error": null,
-      "lastSuccessfulRun": "2026-10-29T10:34:41.430287+00:00",
+      "lastSuccessfulRun": "2026-10-29T12:21:50.887890+00:00",
       "previousStoresKept": false
     },
     {
       "code": "BT7",
       "status": "ok",
       "previousStatus": "ok",
-      "matches": 20,
-      "seconds": 62.6,
+      "matches": 22,
+      "seconds": 64.0,
       "error": null,
-      "lastSuccessfulRun": "2026-10-29T10:35:44.068696+00:00",
+      "lastSuccessfulRun": "2026-10-29T12:22:54.850335+00:00",
       "previousStoresKept": false
     },
     {
       "code": "BT8",
       "status": "ok",
       "previousStatus": "ok",
-      "matches": 10,
-      "seconds": 62.8,
+      "matches": 12,
+      "seconds": 62.7,
       "error": null,
-      "lastSuccessfulRun": "2026-10-29T10:36:46.833556+00:00",
+      "lastSuccessfulRun": "2026-10-29T12:23:57.575166+00:00",
       "previousStoresKept": false
     },
     {
       "code": "BT9",
       "status": "ok",
       "previousStatus": "ok",
-      "matches": 24,
-      "seconds": 63.2,
+      "matches": 26,
+      "seconds": 63.3,
       "error": null,
-      "lastSuccessfulRun": "2026-10-29T10:37:50.043494+00:00",
+      "lastSuccessfulRun": "2026-10-29T12:25:00.878098+00:00",
       "previousStoresKept": false
     },
     {
       "code": "BT10",
       "status": "ok",
       "previousStatus": "ok",
-      "matches": 22,
-      "seconds": 62.9,
+      "matches": 24,
+      "seconds": 63.2,
       "error": null,
-      "lastSuccessfulRun": "2026-10-29T10:38:52.980541+00:00",
+      "lastSuccessfulRun": "2026-10-29T12:26:04.118841+00:00",
       "previousStoresKept": false
     },
     {
       "code": "BT11",
       "status": "ok",
       "previousStatus": "ok",
-      "matches": 23,
-      "seconds": 62.8,
+      "matches": 25,
+      "seconds": 62.5,
       "error": null,
-      "lastSuccessfulRun": "2026-10-29T10:39:55.816072+00:00",
+      "lastSuccessfulRun": "2026-10-29T12:27:06.655111+00:00",
       "previousStoresKept": false
     },
     {
       "code": "BT12",
       "status": "ok",
       "previousStatus": "ok",
-      "matches": 31,
-      "seconds": 62.1,
+      "matches": 36,
+      "seconds": 63.5,
       "error": null,
-      "lastSuccessfulRun": "2026-10-29T10:40:57.811217+00:00",
+      "lastSuccessfulRun": "2026-10-29T12:28:10.202031+00:00",
       "previousStoresKept": false
     },
     {
       "code": "BT13",
       "status": "ok",
       "previousStatus": "ok",
-      "matches": 25,
-      "seconds": 62.6,
+      "matches": 30,
+      "seconds": 64.4,
       "error": null,
-      "lastSuccessfulRun": "2026-10-29T10:42:00.486328+00:00",
+      "lastSuccessfulRun": "2026-10-29T12:29:14.602770+00:00",
       "previousStoresKept": false
     },
     {
       "code": "BT14",
       "status": "ok",
       "previousStatus": "ok",
-      "matches": 24,
-      "seconds": 62.2,
+      "matches": 27,
+      "seconds": 63.3,
       "error": null,
-      "lastSuccessfulRun": "2026-10-29T10:43:02.717600+00:00",
+      "lastSuccessfulRun": "2026-10-29T12:30:17.936108+00:00",
       "previousStoresKept": false
     },
     {
       "code": "BT15",
       "status": "ok",
       "previousStatus": "ok",
-      "matches": 24,
-      "seconds": 62.8,
+      "matches": 28,
+      "seconds": 63.9,
       "error": null,
-      "lastSuccessfulRun": "2026-10-29T10:44:05.560533+00:00",
+      "lastSuccessfulRun": "2026-10-29T12:31:21.814733+00:00",
       "previousStoresKept": false
     },
     {
@@ -195,19 +195,19 @@
       "status": "ok",
       "previousStatus": "ok",
       "matches": 7,
-      "seconds": 62.1,
+      "seconds": 63.3,
       "error": null,
-      "lastSuccessfulRun": "2026-10-29T10:45:07.640775+00:00",
+      "lastSuccessfulRun": "2026-10-29T12:32:25.147480+00:00",
       "previousStoresKept": false
     },
     {
       "code": "BT17",
       "status": "ok",
       "previousStatus": "ok",
-      "matches": 22,
-      "seconds": 63.1,
+      "matches": 24,
+      "seconds": 63.8,
       "error": null,
-      "lastSuccessfulRun": "2026-10-29T10:46:10.758553+00:00",
+      "lastSuccessfulRun": "2026-10-29T12:33:28.953541+00:00",
       "previousStoresKept": false
     },
     {
@@ -215,29 +215,29 @@
       "status": "ok",
       "previousStatus": "ok",
       "matches": 9,
-      "seconds": 63.0,
+      "seconds": 63.3,
       "error": null,
-      "lastSuccessfulRun": "2026-10-29T10:47:13.741333+00:00",
+      "lastSuccessfulRun": "2026-10-29T12:34:32.225441+00:00",
       "previousStoresKept": false
     },
     {
       "code": "BT19",
       "status": "ok",
       "previousStatus": "ok",
-      "matches": 6,
-      "seconds": 62.6,
+      "matches": 7,
+      "seconds": 64.4,
       "error": null,
-      "lastSuccessfulRun": "2026-10-29T10:48:16.331054+00:00",
+      "lastSuccessfulRun": "2026-10-29T12:35:36.605078+00:00",
       "previousStoresKept": false
     },
     {
       "code": "BT20",
       "status": "ok",
       "previousStatus": "ok",
-      "matches": 6,
-      "seconds": 62.2,
+      "matches": 7,
+      "seconds": 62.5,
       "error": null,
-      "lastSuccessfulRun": "2026-10-29T10:49:18.564966+00:00",
+      "lastSuccessfulRun": "2026-10-29T12:36:39.133901+00:00",
       "previousStoresKept": false
     },
     {
@@ -245,9 +245,9 @@
       "status": "ok",
       "previousStatus": "ok",
       "matches": 3,
-      "seconds": 63.0,
+      "seconds": 63.6,
       "error": null,
-      "lastSuccessfulRun": "2026-10-29T10:50:21.516917+00:00",
+      "lastSuccessfulRun": "2026-10-29T12:37:42.703891+00:00",
       "previousStoresKept": false
     },
     {
@@ -255,9 +255,9 @@
       "status": "ok",
       "previousStatus": "ok",
       "matches": 0,
-      "seconds": 60.3,
+      "seconds": 60.6,
       "error": null,
-      "lastSuccessfulRun": "2026-10-29T10:51:21.798743+00:00",
+      "lastSuccessfulRun": "2026-10-29T12:38:43.296037+00:00",
       "previousStoresKept": false
     },
     {
@@ -265,9 +265,9 @@
       "status": "ok",
       "previousStatus": "ok",
       "matches": 7,
-      "seconds": 63.4,
+      "seconds": 64.3,
       "error": null,
-      "lastSuccessfulRun": "2026-10-29T10:52:25.161757+00:00",
+      "lastSuccessfulRun": "2026-10-29T12:39:47.590354+00:00",
       "previousStoresKept": false
     },
     {
@@ -275,9 +275,9 @@
       "status": "ok",
       "previousStatus": "ok",
       "matches": 0,
-      "seconds": 59.8,
+      "seconds": 60.5,
       "error": null,
-      "lastSuccessfulRun": "2026-10-29T10:53:24.920356+00:00",
+      "lastSuccessfulRun": "2026-10-29T12:40:48.072979+00:00",
       "previousStoresKept": false
     },
     {
@@ -285,39 +285,39 @@
       "status": "ok",
       "previousStatus": "ok",
       "matches": 0,
-      "seconds": 60.0,
+      "seconds": 61.4,
       "error": null,
-      "lastSuccessfulRun": "2026-10-29T10:54:24.903118+00:00",
+      "lastSuccessfulRun": "2026-10-29T12:41:49.478254+00:00",
       "previousStoresKept": false
     },
     {
       "code": "BT26",
       "status": "ok",
       "previousStatus": "ok",
-      "matches": 3,
-      "seconds": 62.7,
+      "matches": 4,
+      "seconds": 63.0,
       "error": null,
-      "lastSuccessfulRun": "2026-10-29T10:55:27.589738+00:00",
+      "lastSuccessfulRun": "2026-10-29T12:42:52.442668+00:00",
       "previousStoresKept": false
     },
     {
       "code": "BT27",
       "status": "ok",
       "previousStatus": "ok",
-      "matches": 16,
-      "seconds": 62.7,
+      "matches": 18,
+      "seconds": 63.7,
       "error": null,
-      "lastSuccessfulRun": "2026-10-29T10:56:30.331746+00:00",
+      "lastSuccessfulRun": "2026-10-29T12:43:56.160851+00:00",
       "previousStoresKept": false
     },
     {
       "code": "BT28",
       "status": "ok",
       "previousStatus": "ok",
-      "matches": 11,
-      "seconds": 62.2,
+      "matches": 12,
+      "seconds": 62.5,
       "error": null,
-      "lastSuccessfulRun": "2026-10-29T10:57:32.563740+00:00",
+      "lastSuccessfulRun": "2026-10-29T12:44:58.625033+00:00",
       "previousStoresKept": false
     },
     {
@@ -325,9 +325,9 @@
       "status": "ok",
       "previousStatus": "ok",
       "matches": 0,
-      "seconds": 59.9,
+      "seconds": 61.9,
       "error": null,
-      "lastSuccessfulRun": "2026-10-29T10:58:32.416327+00:00",
+      "lastSuccessfulRun": "2026-10-29T12:46:00.525930+00:00",
       "previousStoresKept": false
     },
     {
@@ -335,9 +335,9 @@
       "status": "ok",
       "previousStatus": "ok",
       "matches": 0,
-      "seconds": 60.0,
+      "seconds": 59.6,
       "error": null,
-      "lastSuccessfulRun": "2026-10-29T10:59:32.408709+00:00",
+      "lastSuccessfulRun": "2026-10-29T12:47:00.081232+00:00",
       "previousStoresKept": false
     },
     {
@@ -345,9 +345,9 @@
       "status": "ok",
       "previousStatus": "ok",
       "matches": 0,
-      "seconds": 60.0,
+      "seconds": 61.2,
       "error": null,
-      "lastSuccessfulRun": "2026-10-29T11:00:32.442228+00:00",
+      "lastSuccessfulRun": "2026-10-29T12:48:01.321551+00:00",
       "previousStoresKept": false
     },
     {
@@ -355,9 +355,9 @@
       "status": "ok",
       "previousStatus": "ok",
       "matches": 1,
-      "seconds": 62.6,
+      "seconds": 63.5,
       "error": null,
-      "lastSuccessfulRun": "2026-10-29T11:01:35.080776+00:00",
+      "lastSuccessfulRun": "2026-10-29T12:49:04.855680+00:00",
       "previousStoresKept": false
     },
     {
@@ -365,9 +365,9 @@
       "status": "ok",
       "previousStatus": "ok",
       "matches": 0,
-      "seconds": 59.8,
+      "seconds": 60.8,
       "error": null,
-      "lastSuccessfulRun": "2026-10-29T11:02:34.898351+00:00",
+      "lastSuccessfulRun": "2026-10-29T12:50:05.657878+00:00",
       "previousStoresKept": false
     },
     {
@@ -375,9 +375,9 @@
       "status": "ok",
       "previousStatus": "ok",
       "matches": 0,
-      "seconds": 60.2,
+      "seconds": 60.9,
       "error": null,
-      "lastSuccessfulRun": "2026-10-29T11:03:35.110232+00:00",
+      "lastSuccessfulRun": "2026-10-29T12:51:06.574617+00:00",
       "previousStoresKept": false
     },
     {
@@ -385,9 +385,9 @@
       "status": "ok",
       "previousStatus": "ok",
       "matches": 1,
-      "seconds": 62.6,
+      "seconds": 63.6,
       "error": null,
-      "lastSuccessfulRun": "2026-10-29T11:04:37.758346+00:00",
+      "lastSuccessfulRun": "2026-10-29T12:52:10.142507+00:00",
       "previousStoresKept": false
     },
     {
@@ -397,7 +397,7 @@
       "matches": 17,
       "seconds": 62.8,
       "error": null,
-      "lastSuccessfulRun": "2026-10-29T11:05:40.559227+00:00",
+      "lastSuccessfulRun": "2026-10-29T12:53:12.912542+00:00",
       "previousStoresKept": false
     },
     {
@@ -405,9 +405,9 @@
       "status": "ok",
       "previousStatus": "ok",
       "matches": 20,
-      "seconds": 62.5,
+      "seconds": 63.6,
       "error": null,
-      "lastSuccessfulRun": "2026-10-29T11:06:43.083306+00:00",
+      "lastSuccessfulRun": "2026-10-29T12:54:16.475516+00:00",
       "previousStoresKept": false
     },
     {
@@ -415,9 +415,9 @@
       "status": "ok",
       "previousStatus": "ok",
       "matches": 2,
-      "seconds": 62.2,
+      "seconds": 63.4,
       "error": null,
-      "lastSuccessfulRun": "2026-10-29T11:07:45.277863+00:00",
+      "lastSuccessfulRun": "2026-10-29T12:55:19.862444+00:00",
       "previousStoresKept": false
     },
     {
@@ -425,9 +425,9 @@
       "status": "ok",
       "previousStatus": "ok",
       "matches": 3,
-      "seconds": 62.6,
+      "seconds": 62.7,
       "error": null,
-      "lastSuccessfulRun": "2026-10-29T11:08:47.896127+00:00",
+      "lastSuccessfulRun": "2026-10-29T12:56:22.536001+00:00",
       "previousStoresKept": false
     },
     {
@@ -435,9 +435,9 @@
       "status": "ok",
       "previousStatus": "ok",
       "matches": 0,
-      "seconds": 60.2,
+      "seconds": 61.2,
       "error": null,
-      "lastSuccessfulRun": "2026-10-29T11:09:48.107396+00:00",
+      "lastSuccessfulRun": "2026-10-29T12:57:23.756905+00:00",
       "previousStoresKept": false
     },
     {
@@ -445,9 +445,9 @@
       "status": "ok",
       "previousStatus": "ok",
       "matches": 1,
-      "seconds": 62.7,
+      "seconds": 64.2,
       "error": null,
-      "lastSuccessfulRun": "2026-10-29T11:10:50.774054+00:00",
+      "lastSuccessfulRun": "2026-10-29T12:58:27.737588+00:00",
       "previousStoresKept": false
     },
     {
@@ -455,9 +455,9 @@
       "status": "ok",
       "previousStatus": "ok",
       "matches": 3,
-      "seconds": 62.9,
+      "seconds": 63.1,
       "error": null,
-      "lastSuccessfulRun": "2026-10-29T11:11:53.667313+00:00",
+      "lastSuccessfulRun": "2026-10-29T12:59:31.042564+00:00",
       "previousStoresKept": false
     },
     {
@@ -465,9 +465,9 @@
       "status": "ok",
       "previousStatus": "ok",
       "matches": 3,
-      "seconds": 62.5,
+      "seconds": 63.0,
       "error": null,
-      "lastSuccessfulRun": "2026-10-29T11:12:56.143394+00:00",
+      "lastSuccessfulRun": "2026-10-29T13:00:34.082929+00:00",
       "previousStoresKept": false
     },
     {
@@ -475,9 +475,9 @@
       "status": "ok",
       "previousStatus": "ok",
       "matches": 0,
-      "seconds": 59.8,
+      "seconds": 60.8,
       "error": null,
-      "lastSuccessfulRun": "2026-10-29T11:13:55.980302+00:00",
+      "lastSuccessfulRun": "2026-10-29T13:01:34.841575+00:00",
       "previousStoresKept": false
     },
     {
@@ -485,9 +485,9 @@
       "status": "ok",
       "previousStatus": "ok",
       "matches": 0,
-      "seconds": 60.0,
+      "seconds": 60.7,
       "error": null,
-      "lastSuccessfulRun": "2026-10-29T11:14:55.988217+00:00",
+      "lastSuccessfulRun": "2026-10-29T13:02:35.499564+00:00",
       "previousStoresKept": false
     },
     {
@@ -495,9 +495,9 @@
       "status": "ok",
       "previousStatus": "ok",
       "matches": 0,
-      "seconds": 60.0,
+      "seconds": 61.4,
       "error": null,
-      "lastSuccessfulRun": "2026-10-29T11:15:55.996292+00:00",
+      "lastSuccessfulRun": "2026-10-29T13:03:36.871691+00:00",
       "previousStoresKept": false
     },
     {
@@ -505,9 +505,9 @@
       "status": "ok",
       "previousStatus": "ok",
       "matches": 0,
-      "seconds": 60.5,
+      "seconds": 60.0,
       "error": null,
-      "lastSuccessfulRun": "2026-10-29T11:16:56.457082+00:00",
+      "lastSuccessfulRun": "2026-10-29T13:04:36.874734+00:00",
       "previousStoresKept": false
     },
     {
@@ -515,9 +515,9 @@
       "status": "ok",
       "previousStatus": "ok",
       "matches": 5,
-      "seconds": 62.8,
+      "seconds": 63.8,
       "error": null,
-      "lastSuccessfulRun": "2026-10-29T11:17:59.254493+00:00",
+      "lastSuccessfulRun": "2026-10-29T13:05:40.660497+00:00",
       "previousStoresKept": false
     },
     {
@@ -525,9 +525,9 @@
       "status": "ok",
       "previousStatus": "ok",
       "matches": 1,
-      "seconds": 63.1,
+      "seconds": 62.5,
       "error": null,
-      "lastSuccessfulRun": "2026-10-29T11:19:02.315098+00:00",
+      "lastSuccessfulRun": "2026-10-29T13:06:43.178355+00:00",
       "previousStoresKept": false
     },
     {
@@ -535,9 +535,9 @@
       "status": "ok",
       "previousStatus": "ok",
       "matches": 3,
-      "seconds": 62.4,
+      "seconds": 64.4,
       "error": null,
-      "lastSuccessfulRun": "2026-10-29T11:20:04.695528+00:00",
+      "lastSuccessfulRun": "2026-10-29T13:07:47.627896+00:00",
       "previousStoresKept": false
     },
     {
@@ -547,7 +547,7 @@
       "matches": 5,
       "seconds": 63.2,
       "error": null,
-      "lastSuccessfulRun": "2026-10-29T11:21:07.917374+00:00",
+      "lastSuccessfulRun": "2026-10-29T13:08:50.845477+00:00",
       "previousStoresKept": false
     },
     {
@@ -555,9 +555,9 @@
       "status": "ok",
       "previousStatus": "ok",
       "matches": 0,
-      "seconds": 59.8,
+      "seconds": 59.9,
       "error": null,
-      "lastSuccessfulRun": "2026-10-29T11:22:07.682216+00:00",
+      "lastSuccessfulRun": "2026-10-29T13:09:50.784930+00:00",
       "previousStoresKept": false
     },
     {
@@ -565,9 +565,9 @@
       "status": "ok",
       "previousStatus": "ok",
       "matches": 0,
-      "seconds": 60.0,
+      "seconds": 60.2,
       "error": null,
-      "lastSuccessfulRun": "2026-10-29T11:23:07.658645+00:00",
+      "lastSuccessfulRun": "2026-10-29T13:10:50.958763+00:00",
       "previousStoresKept": false
     },
     {
@@ -575,9 +575,9 @@
       "status": "ok",
       "previousStatus": "ok",
       "matches": 4,
-      "seconds": 62.8,
+      "seconds": 64.2,
       "error": null,
-      "lastSuccessfulRun": "2026-10-29T11:24:10.463428+00:00",
+      "lastSuccessfulRun": "2026-10-29T13:11:55.195877+00:00",
       "previousStoresKept": false
     },
     {
@@ -585,9 +585,9 @@
       "status": "ok",
       "previousStatus": "ok",
       "matches": 4,
-      "seconds": 62.5,
+      "seconds": 63.5,
       "error": null,
-      "lastSuccessfulRun": "2026-10-29T11:25:12.989079+00:00",
+      "lastSuccessfulRun": "2026-10-29T13:12:58.735851+00:00",
       "previousStoresKept": false
     },
     {
@@ -595,9 +595,9 @@
       "status": "ok",
       "previousStatus": "ok",
       "matches": 0,
-      "seconds": 59.8,
+      "seconds": 61.0,
       "error": null,
-      "lastSuccessfulRun": "2026-10-29T11:26:12.794622+00:00",
+      "lastSuccessfulRun": "2026-10-29T13:13:59.733646+00:00",
       "previousStoresKept": false
     },
     {
@@ -607,17 +607,17 @@
       "matches": 0,
       "seconds": 60.0,
       "error": null,
-      "lastSuccessfulRun": "2026-10-29T11:27:12.823122+00:00",
+      "lastSuccessfulRun": "2026-10-29T13:14:59.762748+00:00",
       "previousStoresKept": false
     },
     {
       "code": "BT61",
       "status": "ok",
       "previousStatus": "ok",
-      "matches": 0,
-      "seconds": 60.5,
+      "matches": 1,
+      "seconds": 63.8,
       "error": null,
-      "lastSuccessfulRun": "2026-10-29T11:28:13.315640+00:00",
+      "lastSuccessfulRun": "2026-10-29T13:16:03.549447+00:00",
       "previousStoresKept": false
     },
     {
@@ -625,9 +625,9 @@
       "status": "ok",
       "previousStatus": "ok",
       "matches": 4,
-      "seconds": 62.7,
+      "seconds": 63.7,
       "error": null,
-      "lastSuccessfulRun": "2026-10-29T11:29:16.064773+00:00",
+      "lastSuccessfulRun": "2026-10-29T13:17:07.287388+00:00",
       "previousStoresKept": false
     },
     {
@@ -635,9 +635,9 @@
       "status": "ok",
       "previousStatus": "ok",
       "matches": 5,
-      "seconds": 62.5,
+      "seconds": 62.8,
       "error": null,
-      "lastSuccessfulRun": "2026-10-29T11:30:18.567497+00:00",
+      "lastSuccessfulRun": "2026-10-29T13:18:10.082917+00:00",
       "previousStoresKept": false
     },
     {
@@ -645,9 +645,9 @@
       "status": "ok",
       "previousStatus": "ok",
       "matches": 6,
-      "seconds": 62.7,
+      "seconds": 63.7,
       "error": null,
-      "lastSuccessfulRun": "2026-10-29T11:31:21.303343+00:00",
+      "lastSuccessfulRun": "2026-10-29T13:19:13.788105+00:00",
       "previousStoresKept": false
     },
     {
@@ -655,9 +655,9 @@
       "status": "ok",
       "previousStatus": "ok",
       "matches": 7,
-      "seconds": 62.5,
+      "seconds": 63.5,
       "error": null,
-      "lastSuccessfulRun": "2026-10-29T11:32:23.814224+00:00",
+      "lastSuccessfulRun": "2026-10-29T13:20:17.270536+00:00",
       "previousStoresKept": false
     },
     {
@@ -665,9 +665,9 @@
       "status": "ok",
       "previousStatus": "ok",
       "matches": 5,
-      "seconds": 62.5,
+      "seconds": 63.8,
       "error": null,
-      "lastSuccessfulRun": "2026-10-29T11:33:26.331602+00:00",
+      "lastSuccessfulRun": "2026-10-29T13:21:21.084244+00:00",
       "previousStoresKept": false
     },
     {
@@ -675,9 +675,9 @@
       "status": "ok",
       "previousStatus": "ok",
       "matches": 3,
-      "seconds": 62.6,
+      "seconds": 63.8,
       "error": null,
-      "lastSuccessfulRun": "2026-10-29T11:34:28.903313+00:00",
+      "lastSuccessfulRun": "2026-10-29T13:22:24.915461+00:00",
       "previousStoresKept": false
     },
     {
@@ -685,9 +685,9 @@
       "status": "ok",
       "previousStatus": "ok",
       "matches": 0,
-      "seconds": 59.8,
+      "seconds": 60.8,
       "error": null,
-      "lastSuccessfulRun": "2026-10-29T11:35:28.665175+00:00",
+      "lastSuccessfulRun": "2026-10-29T13:23:25.756331+00:00",
       "previousStoresKept": false
     },
     {
@@ -695,9 +695,9 @@
       "status": "ok",
       "previousStatus": "ok",
       "matches": 0,
-      "seconds": 60.0,
+      "seconds": 61.2,
       "error": null,
-      "lastSuccessfulRun": "2026-10-29T11:36:28.669004+00:00",
+      "lastSuccessfulRun": "2026-10-29T13:24:26.959778+00:00",
       "previousStoresKept": false
     },
     {
@@ -705,9 +705,9 @@
       "status": "ok",
       "previousStatus": "ok",
       "matches": 0,
-      "seconds": 60.3,
+      "seconds": 60.8,
       "error": null,
-      "lastSuccessfulRun": "2026-10-29T11:37:29.009650+00:00",
+      "lastSuccessfulRun": "2026-10-29T13:25:27.768745+00:00",
       "previousStoresKept": false
     },
     {
@@ -717,7 +717,7 @@
       "matches": 0,
       "seconds": 60.0,
       "error": null,
-      "lastSuccessfulRun": "2026-10-29T11:38:29.024136+00:00",
+      "lastSuccessfulRun": "2026-10-29T13:26:27.774904+00:00",
       "previousStoresKept": false
     },
     {
@@ -725,9 +725,9 @@
       "status": "ok",
       "previousStatus": "ok",
       "matches": 0,
-      "seconds": 60.0,
+      "seconds": 60.7,
       "error": null,
-      "lastSuccessfulRun": "2026-10-29T11:39:29.029874+00:00",
+      "lastSuccessfulRun": "2026-10-29T13:27:28.513856+00:00",
       "previousStoresKept": false
     },
     {
@@ -735,9 +735,9 @@
       "status": "ok",
       "previousStatus": "ok",
       "matches": 0,
-      "seconds": 60.0,
+      "seconds": 60.7,
       "error": null,
-      "lastSuccessfulRun": "2026-10-29T11:40:29.016518+00:00",
+      "lastSuccessfulRun": "2026-10-29T13:28:29.240819+00:00",
       "previousStoresKept": false
     },
     {
@@ -745,9 +745,9 @@
       "status": "ok",
       "previousStatus": "ok",
       "matches": 0,
-      "seconds": 60.3,
+      "seconds": 60.0,
       "error": null,
-      "lastSuccessfulRun": "2026-10-29T11:41:29.313964+00:00",
+      "lastSuccessfulRun": "2026-10-29T13:29:29.287489+00:00",
       "previousStoresKept": false
     },
     {
@@ -755,9 +755,9 @@
       "status": "ok",
       "previousStatus": "ok",
       "matches": 0,
-      "seconds": 60.2,
+      "seconds": 61.2,
       "error": null,
-      "lastSuccessfulRun": "2026-10-29T11:42:29.518188+00:00",
+      "lastSuccessfulRun": "2026-10-29T13:30:30.474039+00:00",
       "previousStoresKept": false
     },
     {
@@ -765,9 +765,9 @@
       "status": "ok",
       "previousStatus": "ok",
       "matches": 1,
-      "seconds": 62.7,
+      "seconds": 64.0,
       "error": null,
-      "lastSuccessfulRun": "2026-10-29T11:43:32.185516+00:00",
+      "lastSuccessfulRun": "2026-10-29T13:31:34.431299+00:00",
       "previousStoresKept": false
     },
     {
@@ -775,9 +775,9 @@
       "status": "ok",
       "previousStatus": "ok",
       "matches": 1,
-      "seconds": 62.4,
+      "seconds": 64.0,
       "error": null,
-      "lastSuccessfulRun": "2026-10-29T11:44:34.633597+00:00",
+      "lastSuccessfulRun": "2026-10-29T13:32:38.359230+00:00",
       "previousStoresKept": false
     },
     {
@@ -785,9 +785,9 @@
       "status": "ok",
       "previousStatus": "ok",
       "matches": 0,
-      "seconds": 59.9,
+      "seconds": 61.0,
       "error": null,
-      "lastSuccessfulRun": "2026-10-29T11:45:34.531329+00:00",
+      "lastSuccessfulRun": "2026-10-29T13:33:39.432604+00:00",
       "previousStoresKept": false
     },
     {
@@ -795,9 +795,9 @@
       "status": "ok",
       "previousStatus": "ok",
       "matches": 0,
-      "seconds": 60.0,
+      "seconds": 61.4,
       "error": null,
-      "lastSuccessfulRun": "2026-10-29T11:46:34.528365+00:00",
+      "lastSuccessfulRun": "2026-10-29T13:34:40.826555+00:00",
       "previousStoresKept": false
     },
     {
@@ -805,9 +805,9 @@
       "status": "ok",
       "previousStatus": "ok",
       "matches": 0,
-      "seconds": 60.0,
+      "seconds": 61.3,
       "error": null,
-      "lastSuccessfulRun": "2026-10-29T11:47:34.540374+00:00",
+      "lastSuccessfulRun": "2026-10-29T13:35:42.152884+00:00",
       "previousStoresKept": false
     },
     {
@@ -815,9 +815,9 @@
       "status": "ok",
       "previousStatus": "ok",
       "matches": 0,
-      "seconds": 60.0,
+      "seconds": 61.3,
       "error": null,
-      "lastSuccessfulRun": "2026-10-29T11:48:34.530058+00:00",
+      "lastSuccessfulRun": "2026-10-29T13:36:43.487964+00:00",
       "previousStoresKept": false
     },
     {
@@ -827,7 +827,7 @@
       "matches": 0,
       "seconds": 60.0,
       "error": null,
-      "lastSuccessfulRun": "2026-10-29T11:49:34.530964+00:00",
+      "lastSuccessfulRun": "2026-10-29T13:37:43.484151+00:00",
       "previousStoresKept": false
     },
     {
@@ -835,9 +835,9 @@
       "status": "ok",
       "previousStatus": "ok",
       "matches": 0,
-      "seconds": 60.3,
+      "seconds": 61.3,
       "error": null,
-      "lastSuccessfulRun": "2026-10-29T11:50:34.787519+00:00",
+      "lastSuccessfulRun": "2026-10-29T13:38:44.797838+00:00",
       "previousStoresKept": false
     }
   ]
