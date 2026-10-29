@@ -1,25 +1,5 @@
 [
   {
-    "id": "290685",
-    "name": "Just Eat store 290685",
-    "uniqueName": "",
-    "address": "",
-    "postalCode": "",
-    "lat": null,
-    "lng": null,
-    "url": "",
-    "items": [
-      {
-        "name": "Christmas Chip",
-        "pricePence": 1404
-      }
-    ],
-    "foundIn": [
-      "BT51"
-    ],
-    "located": false
-  },
-  {
     "id": "436678",
     "name": "The Chip Inn",
     "uniqueName": "the-chip-inn-coleraine",
@@ -38,6 +18,26 @@
       "BT51"
     ],
     "located": true
+  },
+  {
+    "id": "290685",
+    "name": "Just Eat store 290685",
+    "uniqueName": "",
+    "address": "",
+    "postalCode": "",
+    "lat": null,
+    "lng": null,
+    "url": "",
+    "items": [
+      {
+        "name": "Christmas Chip",
+        "pricePence": 1404
+      }
+    ],
+    "foundIn": [
+      "BT51"
+    ],
+    "located": false
   },
   {
     "id": "42440",

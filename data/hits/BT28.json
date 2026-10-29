@@ -40,8 +40,8 @@
     "located": false
   },
   {
-    "id": "153399",
-    "name": "Just Eat store 153399",
+    "id": "114072",
+    "name": "Just Eat store 114072",
     "uniqueName": "",
     "address": "",
     "postalCode": "",
@@ -51,7 +51,7 @@
     "items": [
       {
         "name": "Christmas Chip",
-        "pricePence": 895
+        "pricePence": 750
       }
     ],
     "foundIn": [
@@ -112,8 +112,8 @@
     "located": false
   },
   {
-    "id": "114072",
-    "name": "Just Eat store 114072",
+    "id": "153399",
+    "name": "Just Eat store 153399",
     "uniqueName": "",
     "address": "",
     "postalCode": "",
@@ -123,7 +123,7 @@
     "items": [
       {
         "name": "Christmas Chip",
-        "pricePence": 750
+        "pricePence": 895
       }
     ],
     "foundIn": [
@@ -192,26 +192,6 @@
     "located": false
   },
   {
-    "id": "236394",
-    "name": "Just Eat store 236394",
-    "uniqueName": "",
-    "address": "",
-    "postalCode": "",
-    "lat": null,
-    "lng": null,
-    "url": "",
-    "items": [
-      {
-        "name": "Festive Fries",
-        "pricePence": 1450
-      }
-    ],
-    "foundIn": [
-      "BT28"
-    ],
-    "located": false
-  },
-  {
     "id": "176765",
     "name": "Just Eat store 176765",
     "uniqueName": "",
@@ -224,6 +204,26 @@
       {
         "name": "Festive Chip",
         "pricePence": 850
+      }
+    ],
+    "foundIn": [
+      "BT28"
+    ],
+    "located": false
+  },
+  {
+    "id": "236394",
+    "name": "Just Eat store 236394",
+    "uniqueName": "",
+    "address": "",
+    "postalCode": "",
+    "lat": null,
+    "lng": null,
+    "url": "",
+    "items": [
+      {
+        "name": "Festive Fries",
+        "pricePence": 1450
       }
     ],
     "foundIn": [

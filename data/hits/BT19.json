@@ -1,45 +1,5 @@
 [
   {
-    "id": "443145",
-    "name": "The Snack Shack- Bangor",
-    "uniqueName": "the-snack-shack-ballymagee",
-    "address": "14 Gray's Hill, Bangor, BT20 3BB",
-    "postalCode": "BT20 3BB",
-    "lat": 54.661876,
-    "lng": -5.672979,
-    "url": "https://www.just-eat.co.uk/restaurants-the-snack-shack-ballymagee/menu",
-    "items": [
-      {
-        "name": "Christmas Chips",
-        "pricePence": 850
-      }
-    ],
-    "foundIn": [
-      "BT19"
-    ],
-    "located": true
-  },
-  {
-    "id": "441516",
-    "name": "Hotstuff",
-    "uniqueName": "hotstuff-balloo",
-    "address": "17 ashbury avenue, Bangor, BT19 6TH",
-    "postalCode": "BT19 6TH",
-    "lat": 54.648437,
-    "lng": -5.635735,
-    "url": "https://www.just-eat.co.uk/restaurants-hotstuff-balloo/menu",
-    "items": [
-      {
-        "name": "Christmas Chip",
-        "pricePence": 1000
-      }
-    ],
-    "foundIn": [
-      "BT19"
-    ],
-    "located": true
-  },
-  {
     "id": "319177",
     "name": "Colin's Hot Food",
     "uniqueName": "colins-hot-food-ballymagee",
@@ -72,6 +32,46 @@
       {
         "name": "Christmas Chip",
         "pricePence": 1195
+      }
+    ],
+    "foundIn": [
+      "BT19"
+    ],
+    "located": true
+  },
+  {
+    "id": "441516",
+    "name": "Hotstuff",
+    "uniqueName": "hotstuff-balloo",
+    "address": "17 ashbury avenue, Bangor, BT19 6TH",
+    "postalCode": "BT19 6TH",
+    "lat": 54.648437,
+    "lng": -5.635735,
+    "url": "https://www.just-eat.co.uk/restaurants-hotstuff-balloo/menu",
+    "items": [
+      {
+        "name": "Christmas Chip",
+        "pricePence": 1000
+      }
+    ],
+    "foundIn": [
+      "BT19"
+    ],
+    "located": true
+  },
+  {
+    "id": "443145",
+    "name": "The Snack Shack- Bangor",
+    "uniqueName": "the-snack-shack-ballymagee",
+    "address": "14 Gray's Hill, Bangor, BT20 3BB",
+    "postalCode": "BT20 3BB",
+    "lat": 54.661876,
+    "lng": -5.672979,
+    "url": "https://www.just-eat.co.uk/restaurants-the-snack-shack-ballymagee/menu",
+    "items": [
+      {
+        "name": "Christmas Chips",
+        "pricePence": 850
       }
     ],
     "foundIn": [
