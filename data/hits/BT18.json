@@ -80,26 +80,6 @@
     "located": false
   },
   {
-    "id": "139653",
-    "name": "Just Eat store 139653",
-    "uniqueName": "",
-    "address": "",
-    "postalCode": "",
-    "lat": null,
-    "lng": null,
-    "url": "",
-    "items": [
-      {
-        "name": "Festive Fries",
-        "pricePence": 879
-      }
-    ],
-    "foundIn": [
-      "BT18"
-    ],
-    "located": false
-  },
-  {
     "id": "72732",
     "name": "Arnold's",
     "uniqueName": "arnolds-belfast",
@@ -142,6 +122,26 @@
       "BT18"
     ],
     "located": true
+  },
+  {
+    "id": "139653",
+    "name": "Just Eat store 139653",
+    "uniqueName": "",
+    "address": "",
+    "postalCode": "",
+    "lat": null,
+    "lng": null,
+    "url": "",
+    "items": [
+      {
+        "name": "Festive Fries",
+        "pricePence": 879
+      }
+    ],
+    "foundIn": [
+      "BT18"
+    ],
+    "located": false
   },
   {
     "id": "151033",

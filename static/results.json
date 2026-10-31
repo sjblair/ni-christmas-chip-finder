@@ -1400,6 +1400,28 @@
       "located": false
     },
     {
+      "id": "193547",
+      "name": "Katie's Kitchen",
+      "uniqueName": "katies-kitchen-tom-of-the-tae-end",
+      "address": "154B Upper Dunmurry Lane, Belfast, BT17 0HE",
+      "postalCode": "BT17 0HE",
+      "lat": 54.562625,
+      "lng": -6.017892,
+      "url": "https://www.just-eat.co.uk/restaurants-katies-kitchen-tom-of-the-tae-end/menu",
+      "items": [
+        {
+          "name": "Christmas Chip",
+          "pricePence": 1095
+        }
+      ],
+      "foundIn": [
+        "BT10",
+        "BT11",
+        "BT17"
+      ],
+      "located": true
+    },
+    {
       "id": "246993",
       "name": "Kebab Master",
       "uniqueName": "kebab-master-ballysillan-lower",
@@ -1422,6 +1444,26 @@
         "BT14",
         "BT15",
         "BT36"
+      ],
+      "located": true
+    },
+    {
+      "id": "318515",
+      "name": "Kennedy's",
+      "uniqueName": "kennedys-edenballymore-bt48",
+      "address": "2 Ballynagard Road, Londonderry, BT48 8JJ",
+      "postalCode": "BT48 8JJ",
+      "lat": 55.04237,
+      "lng": -7.276189,
+      "url": "https://www.just-eat.co.uk/restaurants-kennedys-edenballymore-bt48/menu",
+      "items": [
+        {
+          "name": "Xmas Chip And Small Box",
+          "pricePence": 803
+        }
+      ],
+      "foundIn": [
+        "BT48"
       ],
       "located": true
     },
@@ -1612,7 +1654,7 @@
       "items": [
         {
           "name": "Christmas Chip \ud83c\udf85",
-          "pricePence": 920
+          "pricePence": 970
         }
       ],
       "foundIn": [
@@ -1959,10 +2001,6 @@
         {
           "name": "Christmas Chip",
           "pricePence": 1500
-        },
-        {
-          "name": "Gravy Stuffing Chip",
-          "pricePence": 750
         }
       ],
       "foundIn": [
@@ -2212,6 +2250,28 @@
       "located": true
     },
     {
+      "id": "150422",
+      "name": "The Burger Club",
+      "uniqueName": "the-burger-club-ballysillan-lower",
+      "address": "164 Cliftonville Road, Belfast, BT14 6LA",
+      "postalCode": "BT14 6LA",
+      "lat": 54.615804,
+      "lng": -5.94676,
+      "url": "https://www.just-eat.co.uk/restaurants-the-burger-club-ballysillan-lower/menu",
+      "items": [
+        {
+          "name": "Festive Loaded Fries",
+          "pricePence": 1195
+        }
+      ],
+      "foundIn": [
+        "BT13",
+        "BT14",
+        "BT15"
+      ],
+      "located": true
+    },
+    {
       "id": "46914",
       "name": "The Captains Table",
       "uniqueName": "thecaptainstable-bt36",
@@ -2367,7 +2427,7 @@
         },
         {
           "name": "Christmas Chip",
-          "pricePence": 1150
+          "pricePence": 1195
         }
       ],
       "foundIn": [
@@ -2444,7 +2504,6 @@
         }
       ],
       "foundIn": [
-        "BT63",
         "BT64",
         "BT65",
         "BT66"
@@ -2575,23 +2634,27 @@
       "located": true
     },
     {
-      "id": "85600",
-      "name": "The Station Diner",
-      "uniqueName": "the-station-diner-new-ballymagee",
-      "address": "42-44 Abbey Street, Bangor, BT20 4JA",
-      "postalCode": "BT20 4JA",
-      "lat": 54.65754,
-      "lng": -5.672577,
-      "url": "https://www.just-eat.co.uk/restaurants-the-station-diner-new-ballymagee/menu",
+      "id": "315864",
+      "name": "The sugar shack",
+      "uniqueName": "thr-sugar-shack-silverwood",
+      "address": "50 Union Street Lurgan, Craigavon, BT66 8EB",
+      "postalCode": "BT66 8EB",
+      "lat": 54.460013,
+      "lng": -6.332809,
+      "url": "https://www.just-eat.co.uk/restaurants-thr-sugar-shack-silverwood/menu",
       "items": [
         {
           "name": "Christmas Chip",
-          "pricePence": 1000
+          "pricePence": 800
         }
       ],
       "foundIn": [
-        "BT19",
-        "BT20"
+        "BT62",
+        "BT63",
+        "BT64",
+        "BT65",
+        "BT66",
+        "BT67"
       ],
       "located": true
     },

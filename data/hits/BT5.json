@@ -100,26 +100,6 @@
     "located": true
   },
   {
-    "id": "139653",
-    "name": "Just Eat store 139653",
-    "uniqueName": "",
-    "address": "",
-    "postalCode": "",
-    "lat": null,
-    "lng": null,
-    "url": "",
-    "items": [
-      {
-        "name": "Festive Fries",
-        "pricePence": 879
-      }
-    ],
-    "foundIn": [
-      "BT5"
-    ],
-    "located": false
-  },
-  {
     "id": "297410",
     "name": "Market Cafe",
     "uniqueName": "market-cafe-ballylesson",
@@ -182,6 +162,26 @@
       "BT5"
     ],
     "located": true
+  },
+  {
+    "id": "139653",
+    "name": "Just Eat store 139653",
+    "uniqueName": "",
+    "address": "",
+    "postalCode": "",
+    "lat": null,
+    "lng": null,
+    "url": "",
+    "items": [
+      {
+        "name": "Festive Fries",
+        "pricePence": 879
+      }
+    ],
+    "foundIn": [
+      "BT5"
+    ],
+    "located": false
   },
   {
     "id": "151033",
@@ -314,12 +314,12 @@
     "url": "https://www.just-eat.co.uk/restaurants-centra-deli-bradbury-place-ballynafoy/menu",
     "items": [
       {
-        "name": "Festive Fries (Small)",
-        "pricePence": 905
-      },
-      {
         "name": "Festive Fries (Large)",
         "pricePence": 1030
+      },
+      {
+        "name": "Festive Fries (Small)",
+        "pricePence": 905
       }
     ],
     "foundIn": [

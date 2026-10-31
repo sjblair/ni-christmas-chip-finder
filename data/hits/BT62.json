@@ -64,6 +64,26 @@
     "located": true
   },
   {
+    "id": "315864",
+    "name": "Just Eat store 315864",
+    "uniqueName": "",
+    "address": "",
+    "postalCode": "",
+    "lat": null,
+    "lng": null,
+    "url": "",
+    "items": [
+      {
+        "name": "Christmas Chip",
+        "pricePence": 800
+      }
+    ],
+    "foundIn": [
+      "BT62"
+    ],
+    "located": false
+  },
+  {
     "id": "436437",
     "name": "Just Eat store 436437",
     "uniqueName": "",

@@ -31,7 +31,7 @@
     "items": [
       {
         "name": "Christmas Chip",
-        "pricePence": 1150
+        "pricePence": 1195
       },
       {
         "name": "Chip Stuffing Gravy / Curry / Super",
@@ -40,26 +40,6 @@
       {
         "name": "Chip Stuffing Chicken (Plain) Gravy / Curry / Supe",
         "pricePence": 950
-      }
-    ],
-    "foundIn": [
-      "BT28"
-    ],
-    "located": false
-  },
-  {
-    "id": "153399",
-    "name": "Just Eat store 153399",
-    "uniqueName": "",
-    "address": "",
-    "postalCode": "",
-    "lat": null,
-    "lng": null,
-    "url": "",
-    "items": [
-      {
-        "name": "Christmas Chip",
-        "pricePence": 895
       }
     ],
     "foundIn": [
@@ -80,6 +60,26 @@
       {
         "name": "Festive Chip",
         "pricePence": 895
+      }
+    ],
+    "foundIn": [
+      "BT28"
+    ],
+    "located": false
+  },
+  {
+    "id": "114072",
+    "name": "Just Eat store 114072",
+    "uniqueName": "",
+    "address": "",
+    "postalCode": "",
+    "lat": null,
+    "lng": null,
+    "url": "",
+    "items": [
+      {
+        "name": "Christmas Chip",
+        "pricePence": 750
       }
     ],
     "foundIn": [
@@ -112,8 +112,8 @@
     "located": false
   },
   {
-    "id": "114072",
-    "name": "Just Eat store 114072",
+    "id": "153399",
+    "name": "Just Eat store 153399",
     "uniqueName": "",
     "address": "",
     "postalCode": "",
@@ -123,7 +123,7 @@
     "items": [
       {
         "name": "Christmas Chip",
-        "pricePence": 750
+        "pricePence": 895
       }
     ],
     "foundIn": [

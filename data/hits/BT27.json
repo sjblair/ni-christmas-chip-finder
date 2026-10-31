@@ -1,25 +1,5 @@
 [
   {
-    "id": "153399",
-    "name": "Castle 12",
-    "uniqueName": "castle-12-duneight",
-    "address": "12 Castle Street, Lisburn, BT27 4XD",
-    "postalCode": "BT27 4XD",
-    "lat": 54.511822,
-    "lng": -6.041928,
-    "url": "https://www.just-eat.co.uk/restaurants-castle-12-duneight/menu",
-    "items": [
-      {
-        "name": "Christmas Chip",
-        "pricePence": 895
-      }
-    ],
-    "foundIn": [
-      "BT27"
-    ],
-    "located": true
-  },
-  {
     "id": "119090",
     "name": "The Galley Lisburn",
     "uniqueName": "the-galley-lisburn-duneight",
@@ -31,7 +11,7 @@
     "items": [
       {
         "name": "Christmas Chip",
-        "pricePence": 1150
+        "pricePence": 1195
       },
       {
         "name": "Chip Stuffing Gravy / Curry / Super",
@@ -80,6 +60,26 @@
       {
         "name": "Festive Chip",
         "pricePence": 895
+      }
+    ],
+    "foundIn": [
+      "BT27"
+    ],
+    "located": true
+  },
+  {
+    "id": "114072",
+    "name": "Gilly G's",
+    "uniqueName": "gilly-gs-ballynadolly",
+    "address": "3 Haslems Lane, Lisburn, BT28 1TW",
+    "postalCode": "BT28 1TW",
+    "lat": 54.510844,
+    "lng": -6.046715,
+    "url": "https://www.just-eat.co.uk/restaurants-gilly-gs-ballynadolly/menu",
+    "items": [
+      {
+        "name": "Christmas Chip",
+        "pricePence": 750
       }
     ],
     "foundIn": [
@@ -188,18 +188,18 @@
     "located": true
   },
   {
-    "id": "114072",
-    "name": "Gilly G's",
-    "uniqueName": "gilly-gs-ballynadolly",
-    "address": "3 Haslems Lane, Lisburn, BT28 1TW",
-    "postalCode": "BT28 1TW",
-    "lat": 54.510844,
-    "lng": -6.046715,
-    "url": "https://www.just-eat.co.uk/restaurants-gilly-gs-ballynadolly/menu",
+    "id": "153399",
+    "name": "Castle 12",
+    "uniqueName": "castle-12-duneight",
+    "address": "12 Castle Street, Lisburn, BT27 4XD",
+    "postalCode": "BT27 4XD",
+    "lat": 54.511822,
+    "lng": -6.041928,
+    "url": "https://www.just-eat.co.uk/restaurants-castle-12-duneight/menu",
     "items": [
       {
         "name": "Christmas Chip",
-        "pricePence": 750
+        "pricePence": 895
       }
     ],
     "foundIn": [
@@ -342,12 +342,12 @@
     "url": "https://www.just-eat.co.uk/restaurants-centra-deli-bradbury-place-ballynafoy/menu",
     "items": [
       {
-        "name": "Festive Fries (Small)",
-        "pricePence": 905
-      },
-      {
         "name": "Festive Fries (Large)",
         "pricePence": 1030
+      },
+      {
+        "name": "Festive Fries (Small)",
+        "pricePence": 905
       }
     ],
     "foundIn": [

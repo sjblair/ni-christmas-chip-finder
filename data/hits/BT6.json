@@ -20,26 +20,6 @@
     "located": true
   },
   {
-    "id": "112089",
-    "name": "Treat Street",
-    "uniqueName": "treatstreetballyrushboy",
-    "address": "Unit 6 Library Court, 402 Upper Newtownards Road, Belfast, BT4 3GE",
-    "postalCode": "BT4 3GE",
-    "lat": 54.595169,
-    "lng": -5.865838,
-    "url": "https://www.just-eat.co.uk/restaurants-treatstreetballyrushboy/menu",
-    "items": [
-      {
-        "name": "Christmas Chip",
-        "pricePence": 1295
-      }
-    ],
-    "foundIn": [
-      "BT6"
-    ],
-    "located": true
-  },
-  {
     "id": "322166",
     "name": "Joshie\u2019s Munch Box",
     "uniqueName": "joshies-munch-box-ballyrushboy",
@@ -52,6 +32,26 @@
       {
         "name": "Christmas Chip",
         "pricePence": 1150
+      }
+    ],
+    "foundIn": [
+      "BT6"
+    ],
+    "located": true
+  },
+  {
+    "id": "112089",
+    "name": "Treat Street",
+    "uniqueName": "treatstreetballyrushboy",
+    "address": "Unit 6 Library Court, 402 Upper Newtownards Road, Belfast, BT4 3GE",
+    "postalCode": "BT4 3GE",
+    "lat": 54.595169,
+    "lng": -5.865838,
+    "url": "https://www.just-eat.co.uk/restaurants-treatstreetballyrushboy/menu",
+    "items": [
+      {
+        "name": "Christmas Chip",
+        "pricePence": 1295
       }
     ],
     "foundIn": [
@@ -100,26 +100,6 @@
     "located": true
   },
   {
-    "id": "139653",
-    "name": "Centra Great Victoria Street",
-    "uniqueName": "centraquickstop-belfast",
-    "address": "2-4 Great Victoria Street, Belfast, BT2 7BA",
-    "postalCode": "BT2 7BA",
-    "lat": 54.59595,
-    "lng": -5.9343983,
-    "url": "https://www.just-eat.co.uk/restaurants-centraquickstop-belfast/menu",
-    "items": [
-      {
-        "name": "Festive Fries",
-        "pricePence": 879
-      }
-    ],
-    "foundIn": [
-      "BT6"
-    ],
-    "located": true
-  },
-  {
     "id": "72732",
     "name": "Arnold's",
     "uniqueName": "arnolds-belfast",
@@ -156,6 +136,26 @@
       {
         "name": "New!! Christmas Chips \ud83c\udf84\ud83c\udf84\ud83c\udf81\ud83c\udf81",
         "pricePence": 1455
+      }
+    ],
+    "foundIn": [
+      "BT6"
+    ],
+    "located": true
+  },
+  {
+    "id": "139653",
+    "name": "Centra Great Victoria Street",
+    "uniqueName": "centraquickstop-belfast",
+    "address": "2-4 Great Victoria Street, Belfast, BT2 7BA",
+    "postalCode": "BT2 7BA",
+    "lat": 54.59595,
+    "lng": -5.9343983,
+    "url": "https://www.just-eat.co.uk/restaurants-centraquickstop-belfast/menu",
+    "items": [
+      {
+        "name": "Festive Fries",
+        "pricePence": 879
       }
     ],
     "foundIn": [
