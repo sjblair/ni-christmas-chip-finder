@@ -144,26 +144,6 @@
     "located": true
   },
   {
-    "id": "139653",
-    "name": "Centra Great Victoria Street",
-    "uniqueName": "centraquickstop-belfast",
-    "address": "2-4 Great Victoria Street, Belfast, BT2 7BA",
-    "postalCode": "BT2 7BA",
-    "lat": 54.59595,
-    "lng": -5.9343983,
-    "url": "https://www.just-eat.co.uk/restaurants-centraquickstop-belfast/menu",
-    "items": [
-      {
-        "name": "Festive Fries",
-        "pricePence": 879
-      }
-    ],
-    "foundIn": [
-      "BT6"
-    ],
-    "located": true
-  },
-  {
     "id": "151033",
     "name": "The Bridge",
     "uniqueName": "thebridge-londoncity",
@@ -264,6 +244,26 @@
     "located": true
   },
   {
+    "id": "139653",
+    "name": "Centra Great Victoria Street",
+    "uniqueName": "centraquickstop-belfast",
+    "address": "2-4 Great Victoria Street, Belfast, BT2 7BA",
+    "postalCode": "BT2 7BA",
+    "lat": 54.59595,
+    "lng": -5.9343983,
+    "url": "https://www.just-eat.co.uk/restaurants-centraquickstop-belfast/menu",
+    "items": [
+      {
+        "name": "Festive Fries",
+        "pricePence": 879
+      }
+    ],
+    "foundIn": [
+      "BT6"
+    ],
+    "located": true
+  },
+  {
     "id": "30057",
     "name": "Bella Pizza",
     "uniqueName": "bellapizza-bt4",
@@ -316,30 +316,6 @@
       {
         "name": "Festive Chips",
         "pricePence": 1600
-      }
-    ],
-    "foundIn": [
-      "BT6"
-    ],
-    "located": true
-  },
-  {
-    "id": "269635",
-    "name": "CENTRA DELI BRADBURY PLACE",
-    "uniqueName": "centra-deli-bradbury-place-ballynafoy",
-    "address": "2-6 BRADBURY PLACE, BELFAST, BT7 1RX",
-    "postalCode": "BT7 1RX",
-    "lat": 54.589189,
-    "lng": -5.934214,
-    "url": "https://www.just-eat.co.uk/restaurants-centra-deli-bradbury-place-ballynafoy/menu",
-    "items": [
-      {
-        "name": "Festive Fries (Large)",
-        "pricePence": 1030
-      },
-      {
-        "name": "Festive Fries (Small)",
-        "pricePence": 905
       }
     ],
     "foundIn": [

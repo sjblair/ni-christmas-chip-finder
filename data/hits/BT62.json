@@ -1,5 +1,29 @@
 [
   {
+    "id": "242613",
+    "name": "Danny's Chippy",
+    "uniqueName": "dannys-chippy-ballynaghty",
+    "address": "160 Park Road\nPortadown, Craigavon, BT62 1BH",
+    "postalCode": "BT62 1BH",
+    "lat": 54.424313,
+    "lng": -6.44741,
+    "url": "https://www.just-eat.co.uk/restaurants-dannys-chippy-ballynaghty/menu",
+    "items": [
+      {
+        "name": "Christmas Menu - Turkey & Ham Christmas Chip",
+        "pricePence": 1345
+      },
+      {
+        "name": "Christmas Menu - Chicken & Bacon Christmas Chip",
+        "pricePence": 1345
+      }
+    ],
+    "foundIn": [
+      "BT62"
+    ],
+    "located": true
+  },
+  {
     "id": "249534",
     "name": "Just Eat store 249534",
     "uniqueName": "",
@@ -38,30 +62,6 @@
       "BT62"
     ],
     "located": false
-  },
-  {
-    "id": "242613",
-    "name": "Danny's Chippy",
-    "uniqueName": "dannys-chippy-ballynaghty",
-    "address": "160 Park Road\nPortadown, Craigavon, BT62 1BH",
-    "postalCode": "BT62 1BH",
-    "lat": 54.424313,
-    "lng": -6.44741,
-    "url": "https://www.just-eat.co.uk/restaurants-dannys-chippy-ballynaghty/menu",
-    "items": [
-      {
-        "name": "Christmas Menu - Turkey & Ham Christmas Chip",
-        "pricePence": 1345
-      },
-      {
-        "name": "Christmas Menu - Chicken & Bacon Christmas Chip",
-        "pricePence": 1345
-      }
-    ],
-    "foundIn": [
-      "BT62"
-    ],
-    "located": true
   },
   {
     "id": "315864",

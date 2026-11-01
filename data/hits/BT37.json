@@ -36,26 +36,6 @@
     "located": true
   },
   {
-    "id": "47531",
-    "name": "The Cod House",
-    "uniqueName": "thecodhouse-bt36",
-    "address": "337 Antrim Road, Glengormley, BT36 5DZ",
-    "postalCode": "BT36 5DZ",
-    "lat": 54.672338,
-    "lng": -5.959806,
-    "url": "https://www.just-eat.co.uk/restaurants-thecodhouse-bt36/menu",
-    "items": [
-      {
-        "name": "Christmas Chip",
-        "pricePence": 1095
-      }
-    ],
-    "foundIn": [
-      "BT37"
-    ],
-    "located": true
-  },
-  {
     "id": "118824",
     "name": "Peppercorn Cafe",
     "uniqueName": "peppercorn-cafe-castlereagh",
@@ -88,70 +68,6 @@
       {
         "name": "Christmas Chip",
         "pricePence": 1450
-      }
-    ],
-    "foundIn": [
-      "BT37"
-    ],
-    "located": true
-  },
-  {
-    "id": "51401",
-    "name": "New Mossley Chippy",
-    "uniqueName": "new--mossley-chippy-newtownabbey",
-    "address": "Unit 2-3 New Mossley Centre, Ballyearl Drive, Newtownabbey, BT36 5BZ",
-    "postalCode": "BT36 5BZ",
-    "lat": 54.691365,
-    "lng": -5.961978,
-    "url": "https://www.just-eat.co.uk/restaurants-new--mossley-chippy-newtownabbey/menu",
-    "items": [
-      {
-        "name": "Christmas Chip",
-        "pricePence": 1150
-      }
-    ],
-    "foundIn": [
-      "BT37"
-    ],
-    "located": true
-  },
-  {
-    "id": "180908",
-    "name": "Asda Superstore - Shore Road",
-    "uniqueName": "asda-shore-road-low-wood",
-    "address": "219 Shore Road, Belfast, BT15 3PR",
-    "postalCode": "BT15 3PR",
-    "lat": 54.6278284,
-    "lng": -5.9213653,
-    "url": "https://www.just-eat.co.uk/restaurants-asda-shore-road-low-wood/menu",
-    "items": [
-      {
-        "name": "ASDA Festive Tortilla Chip Christmas Trees 150G",
-        "pricePence": 155
-      }
-    ],
-    "foundIn": [
-      "BT37"
-    ],
-    "located": true
-  },
-  {
-    "id": "159506",
-    "name": "Ballyduff Chippy",
-    "uniqueName": "ballyduff-chippy-newtownabbey",
-    "address": "70 Fairview Road, Newtownabbey, BT36 6QN",
-    "postalCode": "BT36 6QN",
-    "lat": 54.689173,
-    "lng": -5.938302,
-    "url": "https://www.just-eat.co.uk/restaurants-ballyduff-chippy-newtownabbey/menu",
-    "items": [
-      {
-        "name": "Christmas Chip - With Stuffing",
-        "pricePence": 1195
-      },
-      {
-        "name": "Christmas Chip - Without Stuffing",
-        "pricePence": 1195
       }
     ],
     "foundIn": [
@@ -220,26 +136,6 @@
     "located": true
   },
   {
-    "id": "141398",
-    "name": "Speedy Bites",
-    "uniqueName": "speedy-bites-newtownabbey",
-    "address": "611 Shore Road, Newtownabbey, BT37 0ST",
-    "postalCode": "BT37 0ST",
-    "lat": 54.67692,
-    "lng": -5.89193,
-    "url": "https://www.just-eat.co.uk/restaurants-speedy-bites-newtownabbey/menu",
-    "items": [
-      {
-        "name": "Christmas Chips",
-        "pricePence": 1300
-      }
-    ],
-    "foundIn": [
-      "BT37"
-    ],
-    "located": true
-  },
-  {
     "id": "151028",
     "name": "ChippyHut",
     "uniqueName": "chippyhut-croghfern",
@@ -260,18 +156,42 @@
     "located": true
   },
   {
-    "id": "84078",
-    "name": "Greenisland Chippy",
-    "uniqueName": "greenisland-chippy-carrickfergus",
-    "address": "6 Glassillan Court, Greenisland, BT38 8TD",
-    "postalCode": "BT38 8TD",
-    "lat": 54.69608,
-    "lng": -5.870247,
-    "url": "https://www.just-eat.co.uk/restaurants-greenisland-chippy-carrickfergus/menu",
+    "id": "51401",
+    "name": "New Mossley Chippy",
+    "uniqueName": "new--mossley-chippy-newtownabbey",
+    "address": "Unit 2-3 New Mossley Centre, Ballyearl Drive, Newtownabbey, BT36 5BZ",
+    "postalCode": "BT36 5BZ",
+    "lat": 54.691365,
+    "lng": -5.961978,
+    "url": "https://www.just-eat.co.uk/restaurants-new--mossley-chippy-newtownabbey/menu",
     "items": [
       {
         "name": "Christmas Chip",
-        "pricePence": 900
+        "pricePence": 1150
+      }
+    ],
+    "foundIn": [
+      "BT37"
+    ],
+    "located": true
+  },
+  {
+    "id": "159506",
+    "name": "Ballyduff Chippy",
+    "uniqueName": "ballyduff-chippy-newtownabbey",
+    "address": "70 Fairview Road, Newtownabbey, BT36 6QN",
+    "postalCode": "BT36 6QN",
+    "lat": 54.689173,
+    "lng": -5.938302,
+    "url": "https://www.just-eat.co.uk/restaurants-ballyduff-chippy-newtownabbey/menu",
+    "items": [
+      {
+        "name": "Christmas Chip - With Stuffing",
+        "pricePence": 1195
+      },
+      {
+        "name": "Christmas Chip - Without Stuffing",
+        "pricePence": 1195
       }
     ],
     "foundIn": [
@@ -300,18 +220,78 @@
     "located": true
   },
   {
-    "id": "139653",
-    "name": "Centra Great Victoria Street",
-    "uniqueName": "centraquickstop-belfast",
-    "address": "2-4 Great Victoria Street, Belfast, BT2 7BA",
-    "postalCode": "BT2 7BA",
-    "lat": 54.59595,
-    "lng": -5.9343983,
-    "url": "https://www.just-eat.co.uk/restaurants-centraquickstop-belfast/menu",
+    "id": "141398",
+    "name": "Speedy Bites",
+    "uniqueName": "speedy-bites-newtownabbey",
+    "address": "611 Shore Road, Newtownabbey, BT37 0ST",
+    "postalCode": "BT37 0ST",
+    "lat": 54.67692,
+    "lng": -5.89193,
+    "url": "https://www.just-eat.co.uk/restaurants-speedy-bites-newtownabbey/menu",
     "items": [
       {
-        "name": "Festive Fries",
-        "pricePence": 879
+        "name": "Christmas Chips",
+        "pricePence": 1300
+      }
+    ],
+    "foundIn": [
+      "BT37"
+    ],
+    "located": true
+  },
+  {
+    "id": "47531",
+    "name": "The Cod House",
+    "uniqueName": "thecodhouse-bt36",
+    "address": "337 Antrim Road, Glengormley, BT36 5DZ",
+    "postalCode": "BT36 5DZ",
+    "lat": 54.672338,
+    "lng": -5.959806,
+    "url": "https://www.just-eat.co.uk/restaurants-thecodhouse-bt36/menu",
+    "items": [
+      {
+        "name": "Christmas Chip",
+        "pricePence": 1095
+      }
+    ],
+    "foundIn": [
+      "BT37"
+    ],
+    "located": true
+  },
+  {
+    "id": "180908",
+    "name": "Asda Superstore - Shore Road",
+    "uniqueName": "asda-shore-road-low-wood",
+    "address": "219 Shore Road, Belfast, BT15 3PR",
+    "postalCode": "BT15 3PR",
+    "lat": 54.6278284,
+    "lng": -5.9213653,
+    "url": "https://www.just-eat.co.uk/restaurants-asda-shore-road-low-wood/menu",
+    "items": [
+      {
+        "name": "ASDA Festive Tortilla Chip Christmas Trees 150G",
+        "pricePence": 155
+      }
+    ],
+    "foundIn": [
+      "BT37"
+    ],
+    "located": true
+  },
+  {
+    "id": "84078",
+    "name": "Greenisland Chippy",
+    "uniqueName": "greenisland-chippy-carrickfergus",
+    "address": "6 Glassillan Court, Greenisland, BT38 8TD",
+    "postalCode": "BT38 8TD",
+    "lat": 54.69608,
+    "lng": -5.870247,
+    "url": "https://www.just-eat.co.uk/restaurants-greenisland-chippy-carrickfergus/menu",
+    "items": [
+      {
+        "name": "Christmas Chip",
+        "pricePence": 900
       }
     ],
     "foundIn": [
@@ -360,6 +340,26 @@
     "located": true
   },
   {
+    "id": "139653",
+    "name": "Centra Great Victoria Street",
+    "uniqueName": "centraquickstop-belfast",
+    "address": "2-4 Great Victoria Street, Belfast, BT2 7BA",
+    "postalCode": "BT2 7BA",
+    "lat": 54.59595,
+    "lng": -5.9343983,
+    "url": "https://www.just-eat.co.uk/restaurants-centraquickstop-belfast/menu",
+    "items": [
+      {
+        "name": "Festive Fries",
+        "pricePence": 879
+      }
+    ],
+    "foundIn": [
+      "BT37"
+    ],
+    "located": true
+  },
+  {
     "id": "248579",
     "name": "Shellys Deli (Vivo Mossley)",
     "uniqueName": "shellys-deli-newtownabbey",
@@ -392,30 +392,6 @@
       {
         "name": "Pablos Festive Fries",
         "pricePence": 1250
-      }
-    ],
-    "foundIn": [
-      "BT37"
-    ],
-    "located": true
-  },
-  {
-    "id": "269635",
-    "name": "CENTRA DELI BRADBURY PLACE",
-    "uniqueName": "centra-deli-bradbury-place-ballynafoy",
-    "address": "2-6 BRADBURY PLACE, BELFAST, BT7 1RX",
-    "postalCode": "BT7 1RX",
-    "lat": 54.589189,
-    "lng": -5.934214,
-    "url": "https://www.just-eat.co.uk/restaurants-centra-deli-bradbury-place-ballynafoy/menu",
-    "items": [
-      {
-        "name": "Festive Fries (Large)",
-        "pricePence": 1030
-      },
-      {
-        "name": "Festive Fries (Small)",
-        "pricePence": 905
       }
     ],
     "foundIn": [

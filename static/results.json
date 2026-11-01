@@ -140,34 +140,6 @@
       "located": true
     },
     {
-      "id": "180920",
-      "name": "Asda Superstore - Westwood",
-      "uniqueName": "asda-westwood-andersonstown",
-      "address": "Unit 1 , Westwood Centre , Kennedy Way, Belfast, BT11 9AP",
-      "postalCode": "BT11 9AP",
-      "lat": 54.577684,
-      "lng": -5.977838,
-      "url": "https://www.just-eat.co.uk/restaurants-asda-westwood-andersonstown/menu",
-      "items": [
-        {
-          "name": "ASDA Festive Tortilla Chip Christmas Trees 150G",
-          "pricePence": 155
-        }
-      ],
-      "foundIn": [
-        "BT1",
-        "BT2",
-        "BT9",
-        "BT10",
-        "BT11",
-        "BT12",
-        "BT13",
-        "BT17",
-        "BT27"
-      ],
-      "located": true
-    },
-    {
       "id": "221559",
       "name": "Backyard Bites",
       "uniqueName": "backyard-bites-castlereagh",
@@ -358,26 +330,6 @@
       "located": true
     },
     {
-      "id": "22368",
-      "name": "Cafollas",
-      "uniqueName": "cafollas-bt61",
-      "address": "33-35 Lower English Street, Armagh, BT61 7LJ",
-      "postalCode": "BT61 7LJ",
-      "lat": 54.35142,
-      "lng": -6.655582,
-      "url": "https://www.just-eat.co.uk/restaurants-cafollas-bt61/menu",
-      "items": [
-        {
-          "name": "Christmas Chips",
-          "pricePence": 900
-        }
-      ],
-      "foundIn": [
-        "BT61"
-      ],
-      "located": true
-    },
-    {
       "id": "295254",
       "name": "Caf\u00e9 Roo",
       "uniqueName": "cafe-roo-doagh",
@@ -420,46 +372,6 @@
       "located": true
     },
     {
-      "id": "269635",
-      "name": "CENTRA DELI BRADBURY PLACE",
-      "uniqueName": "centra-deli-bradbury-place-ballynafoy",
-      "address": "2-6 BRADBURY PLACE, BELFAST, BT7 1RX",
-      "postalCode": "BT7 1RX",
-      "lat": 54.589189,
-      "lng": -5.934214,
-      "url": "https://www.just-eat.co.uk/restaurants-centra-deli-bradbury-place-ballynafoy/menu",
-      "items": [
-        {
-          "name": "Festive Fries (Large)",
-          "pricePence": 1030
-        },
-        {
-          "name": "Festive Fries (Small)",
-          "pricePence": 905
-        }
-      ],
-      "foundIn": [
-        "BT1",
-        "BT2",
-        "BT4",
-        "BT5",
-        "BT6",
-        "BT7",
-        "BT8",
-        "BT9",
-        "BT10",
-        "BT11",
-        "BT12",
-        "BT13",
-        "BT14",
-        "BT15",
-        "BT17",
-        "BT27",
-        "BT37"
-      ],
-      "located": true
-    },
-    {
       "id": "139653",
       "name": "Centra Great Victoria Street",
       "uniqueName": "centraquickstop-belfast",
@@ -493,41 +405,6 @@
         "BT27",
         "BT36",
         "BT37"
-      ],
-      "located": true
-    },
-    {
-      "id": "422768",
-      "name": "Centra Lisburn Deli",
-      "uniqueName": "centra-lisburn-deli-duneight",
-      "address": "2 Ballynahinch Road, Lisburn, BT27 5EY",
-      "postalCode": "BT27 5EY",
-      "lat": 54.507254,
-      "lng": -6.037523,
-      "url": "https://www.just-eat.co.uk/restaurants-centra-lisburn-deli-duneight/menu",
-      "items": [
-        {
-          "name": "Festive Fries (Large)",
-          "pricePence": 1030
-        },
-        {
-          "name": "Festive Fries (Small)",
-          "pricePence": 905
-        }
-      ],
-      "foundIn": [
-        "BT1",
-        "BT2",
-        "BT8",
-        "BT9",
-        "BT10",
-        "BT11",
-        "BT12",
-        "BT13",
-        "BT17",
-        "BT26",
-        "BT27",
-        "BT28"
       ],
       "located": true
     },
@@ -1259,6 +1136,26 @@
       "located": false
     },
     {
+      "id": "180920",
+      "name": "Just Eat store 180920",
+      "uniqueName": "",
+      "address": "",
+      "postalCode": "",
+      "lat": null,
+      "lng": null,
+      "url": "",
+      "items": [
+        {
+          "name": "ASDA Festive Tortilla Chip Christmas Trees 150G",
+          "pricePence": 155
+        }
+      ],
+      "foundIn": [
+        "BT27"
+      ],
+      "located": false
+    },
+    {
       "id": "230626",
       "name": "Just Eat store 230626",
       "uniqueName": "",
@@ -1444,26 +1341,6 @@
         "BT14",
         "BT15",
         "BT36"
-      ],
-      "located": true
-    },
-    {
-      "id": "318515",
-      "name": "Kennedy's",
-      "uniqueName": "kennedys-edenballymore-bt48",
-      "address": "2 Ballynagard Road, Londonderry, BT48 8JJ",
-      "postalCode": "BT48 8JJ",
-      "lat": 55.04237,
-      "lng": -7.276189,
-      "url": "https://www.just-eat.co.uk/restaurants-kennedys-edenballymore-bt48/menu",
-      "items": [
-        {
-          "name": "Xmas Chip And Small Box",
-          "pricePence": 803
-        }
-      ],
-      "foundIn": [
-        "BT48"
       ],
       "located": true
     },
@@ -1655,6 +1532,10 @@
         {
           "name": "Christmas Chip \ud83c\udf85",
           "pricePence": 970
+        },
+        {
+          "name": "Small Christmas Chip",
+          "pricePence": 700
         }
       ],
       "foundIn": [
@@ -2001,6 +1882,10 @@
         {
           "name": "Christmas Chip",
           "pricePence": 1500
+        },
+        {
+          "name": "Gravy Stuffing Chip",
+          "pricePence": 750
         }
       ],
       "foundIn": [
@@ -2630,6 +2515,27 @@
         "BT20",
         "BT21",
         "BT23"
+      ],
+      "located": true
+    },
+    {
+      "id": "85600",
+      "name": "The Station Diner",
+      "uniqueName": "the-station-diner-new-ballymagee",
+      "address": "42-44 Abbey Street, Bangor, BT20 4JA",
+      "postalCode": "BT20 4JA",
+      "lat": 54.65754,
+      "lng": -5.672577,
+      "url": "https://www.just-eat.co.uk/restaurants-the-station-diner-new-ballymagee/menu",
+      "items": [
+        {
+          "name": "Christmas Chip",
+          "pricePence": 1000
+        }
+      ],
+      "foundIn": [
+        "BT19",
+        "BT20"
       ],
       "located": true
     },

@@ -1,17 +1,17 @@
 [
   {
-    "id": "318515",
-    "name": "Kennedy's",
-    "uniqueName": "kennedys-edenballymore-bt48",
-    "address": "2 Ballynagard Road, Londonderry, BT48 8JJ",
-    "postalCode": "BT48 8JJ",
-    "lat": 55.04237,
-    "lng": -7.276189,
-    "url": "https://www.just-eat.co.uk/restaurants-kennedys-edenballymore-bt48/menu",
+    "id": "439791",
+    "name": "Urban Fuel",
+    "uniqueName": "urban-fuel-edenballymore",
+    "address": "Strand Road Derry/Londonderry,, Londonderry, BT48 7PX",
+    "postalCode": "BT48 7PX",
+    "lat": 55.000073,
+    "lng": -7.321789,
+    "url": "https://www.just-eat.co.uk/restaurants-urban-fuel-edenballymore/menu",
     "items": [
       {
-        "name": "Xmas Chip And Small Box",
-        "pricePence": 803
+        "name": "Festive Fries",
+        "pricePence": 750
       }
     ],
     "foundIn": [
@@ -36,26 +36,6 @@
       {
         "name": "Large Chips, Gravy & Stuffing",
         "pricePence": 515
-      }
-    ],
-    "foundIn": [
-      "BT48"
-    ],
-    "located": true
-  },
-  {
-    "id": "439791",
-    "name": "Urban Fuel",
-    "uniqueName": "urban-fuel-edenballymore",
-    "address": "Strand Road Derry/Londonderry,, Londonderry, BT48 7PX",
-    "postalCode": "BT48 7PX",
-    "lat": 55.000073,
-    "lng": -7.321789,
-    "url": "https://www.just-eat.co.uk/restaurants-urban-fuel-edenballymore/menu",
-    "items": [
-      {
-        "name": "Festive Fries",
-        "pricePence": 750
       }
     ],
     "foundIn": [
