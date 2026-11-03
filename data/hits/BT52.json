@@ -40,26 +40,6 @@
     "located": false
   },
   {
-    "id": "110303",
-    "name": "Just Eat store 110303",
-    "uniqueName": "",
-    "address": "",
-    "postalCode": "",
-    "lat": null,
-    "lng": null,
-    "url": "",
-    "items": [
-      {
-        "name": "Christmas Loaded Chips",
-        "pricePence": 1090
-      }
-    ],
-    "foundIn": [
-      "BT52"
-    ],
-    "located": false
-  },
-  {
     "id": "436678",
     "name": "The Chip Inn",
     "uniqueName": "the-chip-inn-coleraine",
@@ -98,5 +78,45 @@
       "BT52"
     ],
     "located": true
+  },
+  {
+    "id": "175058",
+    "name": "Fyred Pizza",
+    "uniqueName": "fryed-pizza-coleraine",
+    "address": "17 Waterside, Coleraine, BT51 3DP",
+    "postalCode": "BT51 3DP",
+    "lat": 55.131699,
+    "lng": -6.676187,
+    "url": "https://www.just-eat.co.uk/restaurants-fryed-pizza-coleraine/menu",
+    "items": [
+      {
+        "name": "Christmas Fries",
+        "pricePence": 1200
+      }
+    ],
+    "foundIn": [
+      "BT52"
+    ],
+    "located": true
+  },
+  {
+    "id": "110303",
+    "name": "Just Eat store 110303",
+    "uniqueName": "",
+    "address": "",
+    "postalCode": "",
+    "lat": null,
+    "lng": null,
+    "url": "",
+    "items": [
+      {
+        "name": "Christmas Loaded Chips",
+        "pricePence": 1090
+      }
+    ],
+    "foundIn": [
+      "BT52"
+    ],
+    "located": false
   }
 ]

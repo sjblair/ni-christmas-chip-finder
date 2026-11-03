@@ -24,26 +24,6 @@
     "located": false
   },
   {
-    "id": "135191",
-    "name": "Just Eat store 135191",
-    "uniqueName": "",
-    "address": "",
-    "postalCode": "",
-    "lat": null,
-    "lng": null,
-    "url": "",
-    "items": [
-      {
-        "name": "Christmas Chip",
-        "pricePence": 1175
-      }
-    ],
-    "foundIn": [
-      "BT23"
-    ],
-    "located": false
-  },
-  {
     "id": "197652",
     "name": "J's Plaice",
     "uniqueName": "js-plaice-comber",
@@ -84,6 +64,26 @@
     "located": false
   },
   {
+    "id": "135191",
+    "name": "Just Eat store 135191",
+    "uniqueName": "",
+    "address": "",
+    "postalCode": "",
+    "lat": null,
+    "lng": null,
+    "url": "",
+    "items": [
+      {
+        "name": "Christmas Chip",
+        "pricePence": 1175
+      }
+    ],
+    "foundIn": [
+      "BT23"
+    ],
+    "located": false
+  },
+  {
     "id": "226433",
     "name": "The Ranch",
     "uniqueName": "the-ranch-comber",
@@ -96,6 +96,26 @@
       {
         "name": "Xmas Chip",
         "pricePence": 900
+      }
+    ],
+    "foundIn": [
+      "BT23"
+    ],
+    "located": true
+  },
+  {
+    "id": "446764",
+    "name": "Ards Fish & Chip Co",
+    "uniqueName": "ards-fish-and-chip-co-comber-bt23",
+    "address": "5-7 Old Cross St,, Newtownards, BT23 7NW",
+    "postalCode": "BT23 7NW",
+    "lat": 54.591472,
+    "lng": -5.69311,
+    "url": "https://www.just-eat.co.uk/restaurants-ards-fish-and-chip-co-comber-bt23/menu",
+    "items": [
+      {
+        "name": "Festive Chip",
+        "pricePence": 1095
       }
     ],
     "foundIn": [
@@ -122,25 +142,5 @@
       "BT23"
     ],
     "located": false
-  },
-  {
-    "id": "446764",
-    "name": "Ards Fish & Chip Co",
-    "uniqueName": "ards-fish-and-chip-co-comber-bt23",
-    "address": "5-7 Old Cross St,, Newtownards, BT23 7NW",
-    "postalCode": "BT23 7NW",
-    "lat": 54.591472,
-    "lng": -5.69311,
-    "url": "https://www.just-eat.co.uk/restaurants-ards-fish-and-chip-co-comber-bt23/menu",
-    "items": [
-      {
-        "name": "Festive Chip",
-        "pricePence": 1095
-      }
-    ],
-    "foundIn": [
-      "BT23"
-    ],
-    "located": true
   }
 ]

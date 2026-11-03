@@ -140,6 +140,34 @@
       "located": true
     },
     {
+      "id": "180920",
+      "name": "Asda Superstore - Westwood",
+      "uniqueName": "asda-westwood-andersonstown",
+      "address": "Unit 1 , Westwood Centre , Kennedy Way, Belfast, BT11 9AP",
+      "postalCode": "BT11 9AP",
+      "lat": 54.577684,
+      "lng": -5.977838,
+      "url": "https://www.just-eat.co.uk/restaurants-asda-westwood-andersonstown/menu",
+      "items": [
+        {
+          "name": "ASDA Festive Tortilla Chip Christmas Trees 150G",
+          "pricePence": 155
+        }
+      ],
+      "foundIn": [
+        "BT1",
+        "BT2",
+        "BT9",
+        "BT10",
+        "BT11",
+        "BT12",
+        "BT13",
+        "BT17",
+        "BT27"
+      ],
+      "located": true
+    },
+    {
       "id": "221559",
       "name": "Backyard Bites",
       "uniqueName": "backyard-bites-castlereagh",
@@ -162,6 +190,28 @@
         "BT6",
         "BT7",
         "BT9"
+      ],
+      "located": true
+    },
+    {
+      "id": "251115",
+      "name": "Bally Busters",
+      "uniqueName": "bally-busters-doagh",
+      "address": "22-26 The Square, Ballyclare, BT39 9BB",
+      "postalCode": "BT39 9BB",
+      "lat": 54.75308,
+      "lng": -6.001239,
+      "url": "https://www.just-eat.co.uk/restaurants-bally-busters-doagh/menu",
+      "items": [
+        {
+          "name": "Christmas Chip",
+          "pricePence": 1300
+        }
+      ],
+      "foundIn": [
+        "BT36",
+        "BT37",
+        "BT39"
       ],
       "located": true
     },
@@ -238,7 +288,7 @@
       "items": [
         {
           "name": "Xmas Chip",
-          "pricePence": 930
+          "pricePence": 1090
         }
       ],
       "foundIn": [
@@ -326,6 +376,26 @@
         "BT11",
         "BT12",
         "BT17"
+      ],
+      "located": true
+    },
+    {
+      "id": "22368",
+      "name": "Cafollas",
+      "uniqueName": "cafollas-bt61",
+      "address": "33-35 Lower English Street, Armagh, BT61 7LJ",
+      "postalCode": "BT61 7LJ",
+      "lat": 54.35142,
+      "lng": -6.655582,
+      "url": "https://www.just-eat.co.uk/restaurants-cafollas-bt61/menu",
+      "items": [
+        {
+          "name": "Christmas Chips",
+          "pricePence": 900
+        }
+      ],
+      "foundIn": [
+        "BT61"
       ],
       "located": true
     },
@@ -766,6 +836,27 @@
       "located": true
     },
     {
+      "id": "175058",
+      "name": "Fyred Pizza",
+      "uniqueName": "fryed-pizza-coleraine",
+      "address": "17 Waterside, Coleraine, BT51 3DP",
+      "postalCode": "BT51 3DP",
+      "lat": 55.131699,
+      "lng": -6.676187,
+      "url": "https://www.just-eat.co.uk/restaurants-fryed-pizza-coleraine/menu",
+      "items": [
+        {
+          "name": "Christmas Fries",
+          "pricePence": 1200
+        }
+      ],
+      "foundIn": [
+        "BT52",
+        "BT55"
+      ],
+      "located": true
+    },
+    {
       "id": "114072",
       "name": "Gilly G's",
       "uniqueName": "gilly-gs-ballynadolly",
@@ -1136,26 +1227,6 @@
       "located": false
     },
     {
-      "id": "180920",
-      "name": "Just Eat store 180920",
-      "uniqueName": "",
-      "address": "",
-      "postalCode": "",
-      "lat": null,
-      "lng": null,
-      "url": "",
-      "items": [
-        {
-          "name": "ASDA Festive Tortilla Chip Christmas Trees 150G",
-          "pricePence": 155
-        }
-      ],
-      "foundIn": [
-        "BT27"
-      ],
-      "located": false
-    },
-    {
       "id": "230626",
       "name": "Just Eat store 230626",
       "uniqueName": "",
@@ -1341,6 +1412,30 @@
         "BT14",
         "BT15",
         "BT36"
+      ],
+      "located": true
+    },
+    {
+      "id": "318515",
+      "name": "Kennedy's",
+      "uniqueName": "kennedys-edenballymore-bt48",
+      "address": "2 Ballynagard Road, Londonderry, BT48 8JJ",
+      "postalCode": "BT48 8JJ",
+      "lat": 55.04237,
+      "lng": -7.276189,
+      "url": "https://www.just-eat.co.uk/restaurants-kennedys-edenballymore-bt48/menu",
+      "items": [
+        {
+          "name": "Chicken Festive Chip",
+          "pricePence": 1155
+        },
+        {
+          "name": "Turkey & Ham Festive Chips",
+          "pricePence": 1210
+        }
+      ],
+      "foundIn": [
+        "BT48"
       ],
       "located": true
     },
@@ -1545,6 +1640,27 @@
         "BT12",
         "BT13",
         "BT14"
+      ],
+      "located": true
+    },
+    {
+      "id": "50273",
+      "name": "Milano's",
+      "uniqueName": "milanos-tom-of-the-tae-end",
+      "address": "222 Stewartstown Road, Belfast, BT17 0LB",
+      "postalCode": "BT17 0LB",
+      "lat": 54.556624,
+      "lng": -6.026541,
+      "url": "https://www.just-eat.co.uk/restaurants-milanos-tom-of-the-tae-end/menu",
+      "items": [
+        {
+          "name": "Christmas Chip",
+          "pricePence": 1095
+        }
+      ],
+      "foundIn": [
+        "BT10",
+        "BT17"
       ],
       "located": true
     },
@@ -1939,6 +2055,29 @@
       "located": true
     },
     {
+      "id": "181636",
+      "name": "Scrumchies",
+      "uniqueName": "scrumchies-ballymagarry-bt12",
+      "address": "Unit 3 111-129 Springfield Road, Belfast, BT12 7AE",
+      "postalCode": "BT12 7AE",
+      "lat": 54.59801,
+      "lng": -5.95804,
+      "url": "https://www.just-eat.co.uk/restaurants-scrumchies-ballymagarry-bt12/menu",
+      "items": [
+        {
+          "name": "Xmas Chip",
+          "pricePence": 1195
+        }
+      ],
+      "foundIn": [
+        "BT11",
+        "BT12",
+        "BT13",
+        "BT14"
+      ],
+      "located": true
+    },
+    {
       "id": "248579",
       "name": "Shellys Deli (Vivo Mossley)",
       "uniqueName": "shellys-deli-newtownabbey",
@@ -2046,6 +2185,27 @@
         "BT9",
         "BT12",
         "BT15"
+      ],
+      "located": true
+    },
+    {
+      "id": "73681",
+      "name": "Super Chippy Super Pizza",
+      "uniqueName": "super-chippy-super-pizza-balloo",
+      "address": "Units 5-6 Rathgael Exchange, 104 Rathgael Road, Bangor, BT19 1RS",
+      "postalCode": "BT19 1RS",
+      "lat": 54.642731,
+      "lng": -5.693489,
+      "url": "https://www.just-eat.co.uk/restaurants-super-chippy-super-pizza-balloo/menu",
+      "items": [
+        {
+          "name": "Chips Stuffing Gravy",
+          "pricePence": 750
+        }
+      ],
+      "foundIn": [
+        "BT19",
+        "BT20"
       ],
       "located": true
     },
@@ -2442,6 +2602,27 @@
         "BT52",
         "BT55",
         "BT56"
+      ],
+      "located": true
+    },
+    {
+      "id": "198265",
+      "name": "The Railway Fryer - Burger Bar & Kebabs",
+      "uniqueName": "the-railway-fryer-newtownabbey",
+      "address": "1 Crescent Corner, Newtownabbey, BT36 5PB",
+      "postalCode": "BT36 5PB",
+      "lat": 54.696042,
+      "lng": -5.950338,
+      "url": "https://www.just-eat.co.uk/restaurants-the-railway-fryer-newtownabbey/menu",
+      "items": [
+        {
+          "name": "Christmas Chip",
+          "pricePence": 1290
+        }
+      ],
+      "foundIn": [
+        "BT36",
+        "BT37"
       ],
       "located": true
     },

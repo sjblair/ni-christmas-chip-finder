@@ -20,6 +20,26 @@
     "located": true
   },
   {
+    "id": "251115",
+    "name": "Bally Busters",
+    "uniqueName": "bally-busters-doagh",
+    "address": "22-26 The Square, Ballyclare, BT39 9BB",
+    "postalCode": "BT39 9BB",
+    "lat": 54.75308,
+    "lng": -6.001239,
+    "url": "https://www.just-eat.co.uk/restaurants-bally-busters-doagh/menu",
+    "items": [
+      {
+        "name": "Christmas Chip",
+        "pricePence": 1300
+      }
+    ],
+    "foundIn": [
+      "BT39"
+    ],
+    "located": true
+  },
+  {
     "id": "51401",
     "name": "New Mossley Chippy",
     "uniqueName": "new--mossley-chippy-newtownabbey",

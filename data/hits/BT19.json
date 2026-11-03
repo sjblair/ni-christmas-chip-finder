@@ -138,5 +138,25 @@
       "BT19"
     ],
     "located": true
+  },
+  {
+    "id": "73681",
+    "name": "Super Chippy Super Pizza",
+    "uniqueName": "super-chippy-super-pizza-balloo",
+    "address": "Units 5-6 Rathgael Exchange, 104 Rathgael Road, Bangor, BT19 1RS",
+    "postalCode": "BT19 1RS",
+    "lat": 54.642731,
+    "lng": -5.693489,
+    "url": "https://www.just-eat.co.uk/restaurants-super-chippy-super-pizza-balloo/menu",
+    "items": [
+      {
+        "name": "Chips Stuffing Gravy",
+        "pricePence": 750
+      }
+    ],
+    "foundIn": [
+      "BT19"
+    ],
+    "located": true
   }
 ]
