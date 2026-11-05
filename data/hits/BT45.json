@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "125700",
+    "name": "Just Eat store 125700",
+    "uniqueName": "",
+    "address": "",
+    "postalCode": "",
+    "lat": null,
+    "lng": null,
+    "url": "",
+    "items": [
+      {
+        "name": "Festive Loaded Fries",
+        "pricePence": 1345
+      }
+    ],
+    "foundIn": [
+      "BT45"
+    ],
+    "located": false
+  }
+]

@@ -1,29 +1,5 @@
 [
   {
-    "id": "246712",
-    "name": "McMullan Foods @ Avenue 17",
-    "uniqueName": "mcmullan-foods--avenue-17-edenballymore",
-    "address": "17 Rosemount Avenue, Londonderry, BT48 0HQ",
-    "postalCode": "BT48 0HQ",
-    "lat": 55.004724,
-    "lng": -7.331876,
-    "url": "https://www.just-eat.co.uk/restaurants-mcmullan-foods--avenue-17-edenballymore/menu",
-    "items": [
-      {
-        "name": "Festive Chips Meal Deal",
-        "pricePence": 1195
-      },
-      {
-        "name": "Large Chips, Gravy & Stuffing",
-        "pricePence": 515
-      }
-    ],
-    "foundIn": [
-      "BT48"
-    ],
-    "located": true
-  },
-  {
     "id": "439791",
     "name": "Urban Fuel",
     "uniqueName": "urban-fuel-edenballymore",
@@ -36,6 +12,26 @@
       {
         "name": "Festive Fries",
         "pricePence": 750
+      }
+    ],
+    "foundIn": [
+      "BT48"
+    ],
+    "located": true
+  },
+  {
+    "id": "188213",
+    "name": "Red Barrel Street Food",
+    "uniqueName": "red-barrel-street-food-edenballymore",
+    "address": "Unit M15A Northside Village, London Derry, BT48 8NN",
+    "postalCode": "BT48 8NN",
+    "lat": 55.028233,
+    "lng": -7.316237,
+    "url": "https://www.just-eat.co.uk/restaurants-red-barrel-street-food-edenballymore/menu",
+    "items": [
+      {
+        "name": "Festive Fries",
+        "pricePence": 1200
       }
     ],
     "foundIn": [
@@ -60,6 +56,30 @@
       {
         "name": "Turkey & Ham Festive Chips",
         "pricePence": 1210
+      }
+    ],
+    "foundIn": [
+      "BT48"
+    ],
+    "located": true
+  },
+  {
+    "id": "246712",
+    "name": "McMullan Foods @ Avenue 17",
+    "uniqueName": "mcmullan-foods--avenue-17-edenballymore",
+    "address": "17 Rosemount Avenue, Londonderry, BT48 0HQ",
+    "postalCode": "BT48 0HQ",
+    "lat": 55.004724,
+    "lng": -7.331876,
+    "url": "https://www.just-eat.co.uk/restaurants-mcmullan-foods--avenue-17-edenballymore/menu",
+    "items": [
+      {
+        "name": "Festive Chips Meal Deal",
+        "pricePence": 1195
+      },
+      {
+        "name": "Large Chips, Gravy & Stuffing",
+        "pricePence": 515
       }
     ],
     "foundIn": [

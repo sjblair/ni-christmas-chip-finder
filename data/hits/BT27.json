@@ -68,6 +68,26 @@
     "located": true
   },
   {
+    "id": "182493",
+    "name": "The Highway Inn Bar",
+    "uniqueName": "the-highway-inn-bar-duneight",
+    "address": "8 Hillhall Road, Lisburn, BT27 5BU",
+    "postalCode": "BT27 5BU",
+    "lat": 54.509592,
+    "lng": -6.031042,
+    "url": "https://www.just-eat.co.uk/restaurants-the-highway-inn-bar-duneight/menu",
+    "items": [
+      {
+        "name": "Christmas Chip",
+        "pricePence": 1095
+      }
+    ],
+    "foundIn": [
+      "BT27"
+    ],
+    "located": true
+  },
+  {
     "id": "288982",
     "name": "Simply Fish & Chips",
     "uniqueName": "simply-fish-and-chips-ballynadolly-bt28",
@@ -108,8 +128,8 @@
     "located": true
   },
   {
-    "id": "180920",
-    "name": "Just Eat store 180920",
+    "id": "165036",
+    "name": "Just Eat store 165036",
     "uniqueName": "",
     "address": "",
     "postalCode": "",
@@ -118,8 +138,28 @@
     "url": "",
     "items": [
       {
-        "name": "ASDA Festive Tortilla Chip Christmas Trees 150G",
-        "pricePence": 155
+        "name": "Christmas Chip",
+        "pricePence": 1345
+      }
+    ],
+    "foundIn": [
+      "BT27"
+    ],
+    "located": false
+  },
+  {
+    "id": "210923",
+    "name": "Just Eat store 210923",
+    "uniqueName": "",
+    "address": "",
+    "postalCode": "",
+    "lat": null,
+    "lng": null,
+    "url": "",
+    "items": [
+      {
+        "name": "Christmas Chip",
+        "pricePence": 1150
       }
     ],
     "foundIn": [
@@ -188,26 +228,6 @@
     "located": true
   },
   {
-    "id": "210923",
-    "name": "Just Eat store 210923",
-    "uniqueName": "",
-    "address": "",
-    "postalCode": "",
-    "lat": null,
-    "lng": null,
-    "url": "",
-    "items": [
-      {
-        "name": "Christmas Chip",
-        "pricePence": 1150
-      }
-    ],
-    "foundIn": [
-      "BT27"
-    ],
-    "located": false
-  },
-  {
     "id": "166665",
     "name": "Beatties",
     "uniqueName": "beatties-ballymagarry",
@@ -220,6 +240,26 @@
       {
         "name": "Christmas Chip",
         "pricePence": 1200
+      }
+    ],
+    "foundIn": [
+      "BT27"
+    ],
+    "located": true
+  },
+  {
+    "id": "125702",
+    "name": "Bob and Berts - Lisburn",
+    "uniqueName": "bobandberts-lisburn",
+    "address": "31-33 Bow Street, Lisburn, BT28 1BJ",
+    "postalCode": "BT28 1BJ",
+    "lat": 54.511091,
+    "lng": -6.046227,
+    "url": "https://www.just-eat.co.uk/restaurants-bobandberts-lisburn/menu",
+    "items": [
+      {
+        "name": "Festive Loaded Fries",
+        "pricePence": 1395
       }
     ],
     "foundIn": [
@@ -268,26 +308,6 @@
     "located": true
   },
   {
-    "id": "236394",
-    "name": "Toki express",
-    "uniqueName": "toki-express-ballynadolly",
-    "address": "30 Longstone Street, Lisburn, BT28 1TP",
-    "postalCode": "BT28 1TP",
-    "lat": 54.510175,
-    "lng": -6.053466,
-    "url": "https://www.just-eat.co.uk/restaurants-toki-express-ballynadolly/menu",
-    "items": [
-      {
-        "name": "Festive Fries",
-        "pricePence": 1450
-      }
-    ],
-    "foundIn": [
-      "BT27"
-    ],
-    "located": true
-  },
-  {
     "id": "176765",
     "name": "Just Eat store 176765",
     "uniqueName": "",
@@ -306,6 +326,26 @@
       "BT27"
     ],
     "located": false
+  },
+  {
+    "id": "236394",
+    "name": "Toki express",
+    "uniqueName": "toki-express-ballynadolly",
+    "address": "30 Longstone Street, Lisburn, BT28 1TP",
+    "postalCode": "BT28 1TP",
+    "lat": 54.510175,
+    "lng": -6.053466,
+    "url": "https://www.just-eat.co.uk/restaurants-toki-express-ballynadolly/menu",
+    "items": [
+      {
+        "name": "Festive Fries",
+        "pricePence": 1450
+      }
+    ],
+    "foundIn": [
+      "BT27"
+    ],
+    "located": true
   },
   {
     "id": "139986",

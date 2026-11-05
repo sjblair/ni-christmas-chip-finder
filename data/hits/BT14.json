@@ -100,8 +100,8 @@
     "located": false
   },
   {
-    "id": "118824",
-    "name": "Just Eat store 118824",
+    "id": "129568",
+    "name": "Just Eat store 129568",
     "uniqueName": "",
     "address": "",
     "postalCode": "",
@@ -111,7 +111,7 @@
     "items": [
       {
         "name": "Christmas Chip",
-        "pricePence": 1195
+        "pricePence": 1295
       }
     ],
     "foundIn": [
@@ -144,8 +144,8 @@
     "located": false
   },
   {
-    "id": "180908",
-    "name": "Just Eat store 180908",
+    "id": "118824",
+    "name": "Just Eat store 118824",
     "uniqueName": "",
     "address": "",
     "postalCode": "",
@@ -154,8 +154,8 @@
     "url": "",
     "items": [
       {
-        "name": "ASDA Festive Tortilla Chip Christmas Trees 150G",
-        "pricePence": 155
+        "name": "Christmas Chip",
+        "pricePence": 1195
       }
     ],
     "foundIn": [
@@ -224,6 +224,26 @@
     "located": true
   },
   {
+    "id": "266593",
+    "name": "Just Eat store 266593",
+    "uniqueName": "",
+    "address": "",
+    "postalCode": "",
+    "lat": null,
+    "lng": null,
+    "url": "",
+    "items": [
+      {
+        "name": "Christmas Chips \ud83c\udf84",
+        "pricePence": 1600
+      }
+    ],
+    "foundIn": [
+      "BT14"
+    ],
+    "located": false
+  },
+  {
     "id": "194693",
     "name": "Just Eat store 194693",
     "uniqueName": "",
@@ -254,20 +274,20 @@
     "url": "",
     "items": [
       {
-        "name": "Large Christmas Chips - With Cranberry",
-        "pricePence": 1099
-      },
-      {
-        "name": "Regular Christmas Chips - No Cranberry",
-        "pricePence": 999
-      },
-      {
         "name": "Regular Christmas Chips - With Cranberry",
         "pricePence": 999
       },
       {
         "name": "Large Christmas Chips - No Cranberry",
         "pricePence": 1099
+      },
+      {
+        "name": "Large Christmas Chips - With Cranberry",
+        "pricePence": 1099
+      },
+      {
+        "name": "Regular Christmas Chips - No Cranberry",
+        "pricePence": 999
       }
     ],
     "foundIn": [
@@ -316,46 +336,6 @@
     "located": false
   },
   {
-    "id": "129568",
-    "name": "Just Eat store 129568",
-    "uniqueName": "",
-    "address": "",
-    "postalCode": "",
-    "lat": null,
-    "lng": null,
-    "url": "",
-    "items": [
-      {
-        "name": "Christmas Chip",
-        "pricePence": 1295
-      }
-    ],
-    "foundIn": [
-      "BT14"
-    ],
-    "located": false
-  },
-  {
-    "id": "266593",
-    "name": "Just Eat store 266593",
-    "uniqueName": "",
-    "address": "",
-    "postalCode": "",
-    "lat": null,
-    "lng": null,
-    "url": "",
-    "items": [
-      {
-        "name": "Christmas Chips \ud83c\udf84",
-        "pricePence": 1600
-      }
-    ],
-    "foundIn": [
-      "BT14"
-    ],
-    "located": false
-  },
-  {
     "id": "150422",
     "name": "The Burger Club",
     "uniqueName": "the-burger-club-ballysillan-lower",
@@ -388,6 +368,26 @@
       {
         "name": "Festive Fries",
         "pricePence": 879
+      }
+    ],
+    "foundIn": [
+      "BT14"
+    ],
+    "located": false
+  },
+  {
+    "id": "180908",
+    "name": "Just Eat store 180908",
+    "uniqueName": "",
+    "address": "",
+    "postalCode": "",
+    "lat": null,
+    "lng": null,
+    "url": "",
+    "items": [
+      {
+        "name": "ASDA Festive Tortilla Chip Christmas Trees 150G",
+        "pricePence": 155
       }
     ],
     "foundIn": [

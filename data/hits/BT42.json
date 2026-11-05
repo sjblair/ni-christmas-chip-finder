@@ -20,6 +20,26 @@
     "located": true
   },
   {
+    "id": "125705",
+    "name": "Bob and Berts - Ballymena",
+    "uniqueName": "bobandberts-ballymena",
+    "address": "39-41 Ballymoney Street, Ballymena, BT43 6AN",
+    "postalCode": "BT43 6AN",
+    "lat": 54.86734,
+    "lng": -6.27471,
+    "url": "https://www.just-eat.co.uk/restaurants-bobandberts-ballymena/menu",
+    "items": [
+      {
+        "name": "Festive Loaded Fries",
+        "pricePence": 1345
+      }
+    ],
+    "foundIn": [
+      "BT42"
+    ],
+    "located": true
+  },
+  {
     "id": "243954",
     "name": "Just Eat store 243954",
     "uniqueName": "",

@@ -20,26 +20,6 @@
     "located": true
   },
   {
-    "id": "122134",
-    "name": "Millars Fish & Chips Bangor",
-    "uniqueName": "millars-fish-and-chips-bangor-ballymagee",
-    "address": "117 High Street, Bangor, BT20 5BD",
-    "postalCode": "BT20 5BD",
-    "lat": 54.663435,
-    "lng": -5.662285,
-    "url": "https://www.just-eat.co.uk/restaurants-millars-fish-and-chips-bangor-ballymagee/menu",
-    "items": [
-      {
-        "name": "Christmas Chip",
-        "pricePence": 1195
-      }
-    ],
-    "foundIn": [
-      "BT20"
-    ],
-    "located": true
-  },
-  {
     "id": "319177",
     "name": "Colin's Hot Food",
     "uniqueName": "colins-hot-food-ballymagee",
@@ -52,6 +32,26 @@
       {
         "name": "Christmas Chip",
         "pricePence": 860
+      }
+    ],
+    "foundIn": [
+      "BT20"
+    ],
+    "located": true
+  },
+  {
+    "id": "122134",
+    "name": "Millars Fish & Chips Bangor",
+    "uniqueName": "millars-fish-and-chips-bangor-ballymagee",
+    "address": "117 High Street, Bangor, BT20 5BD",
+    "postalCode": "BT20 5BD",
+    "lat": 54.663435,
+    "lng": -5.662285,
+    "url": "https://www.just-eat.co.uk/restaurants-millars-fish-and-chips-bangor-ballymagee/menu",
+    "items": [
+      {
+        "name": "Christmas Chip",
+        "pricePence": 1195
       }
     ],
     "foundIn": [

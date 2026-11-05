@@ -20,24 +20,24 @@
     "located": true
   },
   {
-    "id": "234889",
-    "name": "Just Eat store 234889",
-    "uniqueName": "",
-    "address": "",
-    "postalCode": "",
-    "lat": null,
-    "lng": null,
-    "url": "",
+    "id": "125703",
+    "name": "Bob and Berts - Coleraine",
+    "uniqueName": "bobandberts-coleraine",
+    "address": "32A The Diamond, Coleraine, BT52 1DP",
+    "postalCode": "BT52 1DP",
+    "lat": 55.131898,
+    "lng": -6.670875,
+    "url": "https://www.just-eat.co.uk/restaurants-bobandberts-coleraine/menu",
     "items": [
       {
-        "name": "ASDA Festive Tortilla Chip Christmas Trees 150G",
-        "pricePence": 155
+        "name": "Festive Loaded Fries",
+        "pricePence": 1345
       }
     ],
     "foundIn": [
       "BT52"
     ],
-    "located": false
+    "located": true
   },
   {
     "id": "436678",
