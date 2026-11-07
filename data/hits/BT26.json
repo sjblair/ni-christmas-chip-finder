@@ -78,5 +78,29 @@
       "BT26"
     ],
     "located": true
+  },
+  {
+    "id": "422768",
+    "name": "Centra Lisburn Deli",
+    "uniqueName": "centra-lisburn-deli-duneight",
+    "address": "2 Ballynahinch Road, Lisburn, BT27 5EY",
+    "postalCode": "BT27 5EY",
+    "lat": 54.507254,
+    "lng": -6.037523,
+    "url": "https://www.just-eat.co.uk/restaurants-centra-lisburn-deli-duneight/menu",
+    "items": [
+      {
+        "name": "Festive Fries (Large)",
+        "pricePence": 1030
+      },
+      {
+        "name": "Festive Fries (Small)",
+        "pricePence": 905
+      }
+    ],
+    "foundIn": [
+      "BT26"
+    ],
+    "located": true
   }
 ]

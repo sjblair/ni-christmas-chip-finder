@@ -18,25 +18,5 @@
       "BT38"
     ],
     "located": true
-  },
-  {
-    "id": "151028",
-    "name": "Just Eat store 151028",
-    "uniqueName": "",
-    "address": "",
-    "postalCode": "",
-    "lat": null,
-    "lng": null,
-    "url": "",
-    "items": [
-      {
-        "name": "Christmas Chips",
-        "pricePence": 1050
-      }
-    ],
-    "foundIn": [
-      "BT38"
-    ],
-    "located": false
   }
 ]
