@@ -559,46 +559,6 @@
       "located": true
     },
     {
-      "id": "269635",
-      "name": "CENTRA DELI BRADBURY PLACE",
-      "uniqueName": "centra-deli-bradbury-place-ballynafoy",
-      "address": "2-6 BRADBURY PLACE, BELFAST, BT7 1RX",
-      "postalCode": "BT7 1RX",
-      "lat": 54.589189,
-      "lng": -5.934214,
-      "url": "https://www.just-eat.co.uk/restaurants-centra-deli-bradbury-place-ballynafoy/menu",
-      "items": [
-        {
-          "name": "Festive Fries (Large)",
-          "pricePence": 1030
-        },
-        {
-          "name": "Festive Fries (Small)",
-          "pricePence": 905
-        }
-      ],
-      "foundIn": [
-        "BT1",
-        "BT2",
-        "BT4",
-        "BT5",
-        "BT6",
-        "BT7",
-        "BT8",
-        "BT9",
-        "BT10",
-        "BT11",
-        "BT12",
-        "BT13",
-        "BT14",
-        "BT15",
-        "BT17",
-        "BT27",
-        "BT37"
-      ],
-      "located": true
-    },
-    {
       "id": "139653",
       "name": "Centra Great Victoria Street",
       "uniqueName": "centraquickstop-belfast",
@@ -632,41 +592,6 @@
         "BT27",
         "BT36",
         "BT37"
-      ],
-      "located": true
-    },
-    {
-      "id": "422768",
-      "name": "Centra Lisburn Deli",
-      "uniqueName": "centra-lisburn-deli-duneight",
-      "address": "2 Ballynahinch Road, Lisburn, BT27 5EY",
-      "postalCode": "BT27 5EY",
-      "lat": 54.507254,
-      "lng": -6.037523,
-      "url": "https://www.just-eat.co.uk/restaurants-centra-lisburn-deli-duneight/menu",
-      "items": [
-        {
-          "name": "Festive Fries (Large)",
-          "pricePence": 1030
-        },
-        {
-          "name": "Festive Fries (Small)",
-          "pricePence": 905
-        }
-      ],
-      "foundIn": [
-        "BT1",
-        "BT2",
-        "BT8",
-        "BT9",
-        "BT10",
-        "BT11",
-        "BT12",
-        "BT13",
-        "BT17",
-        "BT26",
-        "BT27",
-        "BT28"
       ],
       "located": true
     },
@@ -955,6 +880,30 @@
       "located": true
     },
     {
+      "id": "422733",
+      "name": "Fish & Chicken House",
+      "uniqueName": "fish-and-chicken-house-ballyrushboy",
+      "address": "346 Upper Newtownards Road, Belfast, BT4 3EX",
+      "postalCode": "BT4 3EX",
+      "lat": 54.5954,
+      "lng": -5.869036,
+      "url": "https://www.just-eat.co.uk/restaurants-fish-and-chicken-house-ballyrushboy/menu",
+      "items": [
+        {
+          "name": "Christmas Chips With Can Of Coke",
+          "pricePence": 1399
+        }
+      ],
+      "foundIn": [
+        "BT4",
+        "BT5",
+        "BT6",
+        "BT16",
+        "BT18"
+      ],
+      "located": true
+    },
+    {
       "id": "106995",
       "name": "Fresh Fish and Chip Company",
       "uniqueName": "fresh-fish-and-chip-company-tom-of-the-tae-end",
@@ -1208,6 +1157,32 @@
         "BT15",
         "BT17",
         "BT27"
+      ],
+      "located": true
+    },
+    {
+      "id": "125134",
+      "name": "Hatch and Wolf",
+      "uniqueName": "hatchandwolf-lisnasharragh",
+      "address": "25 Bloomfield Avenue, Belfast, BT5 5AA",
+      "postalCode": "BT5 5AA",
+      "lat": 54.5970977,
+      "lng": -5.8894246,
+      "url": "https://www.just-eat.co.uk/restaurants-hatchandwolf-lisnasharragh/menu",
+      "items": [
+        {
+          "name": "Christmas Chips",
+          "pricePence": 1195
+        }
+      ],
+      "foundIn": [
+        "BT1",
+        "BT2",
+        "BT3",
+        "BT4",
+        "BT5",
+        "BT6",
+        "BT7"
       ],
       "located": true
     },
@@ -1523,6 +1498,46 @@
       "located": false
     },
     {
+      "id": "236435",
+      "name": "Just Eat store 236435",
+      "uniqueName": "",
+      "address": "",
+      "postalCode": "",
+      "lat": null,
+      "lng": null,
+      "url": "",
+      "items": [
+        {
+          "name": "Festive Loaded Fries",
+          "pricePence": 499
+        }
+      ],
+      "foundIn": [
+        "BT52"
+      ],
+      "located": false
+    },
+    {
+      "id": "239810",
+      "name": "Just Eat store 239810",
+      "uniqueName": "",
+      "address": "",
+      "postalCode": "",
+      "lat": null,
+      "lng": null,
+      "url": "",
+      "items": [
+        {
+          "name": "Festive Loaded Fries",
+          "pricePence": 499
+        }
+      ],
+      "foundIn": [
+        "BT42"
+      ],
+      "located": false
+    },
+    {
       "id": "243954",
       "name": "Just Eat store 243954",
       "uniqueName": "",
@@ -1643,6 +1658,26 @@
       "located": false
     },
     {
+      "id": "317647",
+      "name": "Just Eat store 317647",
+      "uniqueName": "",
+      "address": "",
+      "postalCode": "",
+      "lat": null,
+      "lng": null,
+      "url": "",
+      "items": [
+        {
+          "name": "Xmas Chip",
+          "pricePence": 995
+        }
+      ],
+      "foundIn": [
+        "BT32"
+      ],
+      "located": false
+    },
+    {
       "id": "193547",
       "name": "Katie's Kitchen",
       "uniqueName": "katies-kitchen-tom-of-the-tae-end",
@@ -1707,14 +1742,495 @@
         {
           "name": "Turkey & Ham Festive Chips",
           "pricePence": 1210
-        },
-        {
-          "name": "Xmas Chip And Small Box",
-          "pricePence": 803
         }
       ],
       "foundIn": [
         "BT48"
+      ],
+      "located": true
+    },
+    {
+      "id": "191168",
+      "name": "KFC - Abbey Shopping Centre",
+      "uniqueName": "kfc---abbey-shopping-centre-croghfern",
+      "address": "Longwood Road\r\nDrumnadrough\r\nNewtownabbey\r\nAntrim, Belfast, BT37 9UH",
+      "postalCode": "BT37 9UH",
+      "lat": 54.655165,
+      "lng": -5.918632,
+      "url": "https://www.just-eat.co.uk/restaurants-kfc---abbey-shopping-centre-croghfern/menu",
+      "items": [
+        {
+          "name": "Festive Loaded Fries",
+          "pricePence": 499
+        }
+      ],
+      "foundIn": [
+        "BT1",
+        "BT2",
+        "BT14",
+        "BT15",
+        "BT36",
+        "BT37"
+      ],
+      "located": true
+    },
+    {
+      "id": "184581",
+      "name": "KFC - Carrickfergus",
+      "uniqueName": "kfc--carrickfergus",
+      "address": "75a Belfast Road \r\nCarrickfergus \r\nCounty Antrim, Belfast, BT38 3BX",
+      "postalCode": "BT38 3BX",
+      "lat": 54.711438,
+      "lng": -5.823555,
+      "url": "https://www.just-eat.co.uk/restaurants-kfc--carrickfergus/menu",
+      "items": [
+        {
+          "name": "Festive Loaded Fries",
+          "pricePence": 499
+        }
+      ],
+      "foundIn": [
+        "BT37",
+        "BT38"
+      ],
+      "located": true
+    },
+    {
+      "id": "99983",
+      "name": "KFC - Newtonabbey",
+      "uniqueName": "kfc-newtonabbey",
+      "address": "51 Church Road, Newtownabbey, BT36 7LG",
+      "postalCode": "BT36 7LG",
+      "lat": 54.6595,
+      "lng": -5.924458,
+      "url": "https://www.just-eat.co.uk/restaurants-kfc-newtonabbey/menu",
+      "items": [
+        {
+          "name": "Festive Loaded Fries",
+          "pricePence": 499
+        }
+      ],
+      "foundIn": [
+        "BT1",
+        "BT15",
+        "BT36",
+        "BT37"
+      ],
+      "located": true
+    },
+    {
+      "id": "161209",
+      "name": "KFC - Portadown",
+      "uniqueName": "kfcportadown-ballymacanallen",
+      "address": "146 Bridge Street, Portadown, BT63 5AP",
+      "postalCode": "BT63 5AP",
+      "lat": 54.427543,
+      "lng": -6.432884,
+      "url": "https://www.just-eat.co.uk/restaurants-kfcportadown-ballymacanallen/menu",
+      "items": [
+        {
+          "name": "Festive Loaded Fries",
+          "pricePence": 499
+        }
+      ],
+      "foundIn": [
+        "BT62",
+        "BT63",
+        "BT64",
+        "BT65"
+      ],
+      "located": true
+    },
+    {
+      "id": "72480",
+      "name": "KFC Ballyhackmore",
+      "uniqueName": "kfc-ballyhackmore",
+      "address": "327-329 Upper Newtownards Road, Belfast, BT5 6HX",
+      "postalCode": "BT5 6HX",
+      "lat": 54.594755,
+      "lng": -5.86314,
+      "url": "https://www.just-eat.co.uk/restaurants-kfc-ballyhackmore/menu",
+      "items": [
+        {
+          "name": "Festive Loaded Fries",
+          "pricePence": 499
+        }
+      ],
+      "foundIn": [
+        "BT4",
+        "BT5",
+        "BT6",
+        "BT16",
+        "BT18"
+      ],
+      "located": true
+    },
+    {
+      "id": "111584",
+      "name": "KFC Bangor County Down - South Circular Road",
+      "uniqueName": "kfc-bangorcountydown-southcircularroad",
+      "address": "South Circular Road, Balloo Link, Bangor, BT19 7HJ",
+      "postalCode": "BT19 7HJ",
+      "lat": 54.645756,
+      "lng": -5.669385,
+      "url": "https://www.just-eat.co.uk/restaurants-kfc-bangorcountydown-southcircularroad/menu",
+      "items": [
+        {
+          "name": "Festive Loaded Fries",
+          "pricePence": 499
+        }
+      ],
+      "foundIn": [
+        "BT19",
+        "BT20"
+      ],
+      "located": true
+    },
+    {
+      "id": "129706",
+      "name": "KFC Belfast - Castle Court",
+      "uniqueName": "kfc-belfastcastlecourt",
+      "address": "Unit 1 Castle Court 12-56 Royal Avenue, Belfast, BT1 1DD",
+      "postalCode": "BT1 1DD",
+      "lat": 54.600848,
+      "lng": -5.933382,
+      "url": "https://www.just-eat.co.uk/restaurants-kfc-belfastcastlecourt/menu",
+      "items": [
+        {
+          "name": "Festive Loaded Fries",
+          "pricePence": 499
+        }
+      ],
+      "foundIn": [
+        "BT1",
+        "BT2",
+        "BT12",
+        "BT13",
+        "BT14",
+        "BT15"
+      ],
+      "located": true
+    },
+    {
+      "id": "72483",
+      "name": "KFC Belfast Boucher Road",
+      "uniqueName": "kfcbelfast-boucherroad",
+      "address": "38 Boucher Road, Belfast, BT12 6HR",
+      "postalCode": "BT12 6HR",
+      "lat": 54.580191,
+      "lng": -5.962191,
+      "url": "https://www.just-eat.co.uk/restaurants-kfcbelfast-boucherroad/menu",
+      "items": [
+        {
+          "name": "Festive Loaded Fries",
+          "pricePence": 499
+        }
+      ],
+      "foundIn": [
+        "BT9",
+        "BT10",
+        "BT12"
+      ],
+      "located": true
+    },
+    {
+      "id": "81410",
+      "name": "KFC Belfast Donegall",
+      "uniqueName": "kfc-belfastdonegallbelfast",
+      "address": "15 Donegall Place, Belfast, BT1 5AA",
+      "postalCode": "BT1 5AA",
+      "lat": 54.598589,
+      "lng": -5.930531,
+      "url": "https://www.just-eat.co.uk/restaurants-kfc-belfastdonegallbelfast/menu",
+      "items": [
+        {
+          "name": "Festive Loaded Fries",
+          "pricePence": 499
+        }
+      ],
+      "foundIn": [
+        "BT1",
+        "BT2",
+        "BT7"
+      ],
+      "located": true
+    },
+    {
+      "id": "72482",
+      "name": "KFC Bradbury Place",
+      "uniqueName": "kfcbradburyplace-ballynafoy",
+      "address": "1-6 Bradbury Place, Shaftesbury Square, Belfast, BT7 1RS",
+      "postalCode": "BT7 1RS",
+      "lat": 54.5893738,
+      "lng": -5.9345827,
+      "url": "https://www.just-eat.co.uk/restaurants-kfcbradburyplace-ballynafoy/menu",
+      "items": [
+        {
+          "name": "Festive Loaded Fries",
+          "pricePence": 499
+        }
+      ],
+      "foundIn": [
+        "BT1",
+        "BT2",
+        "BT7",
+        "BT9",
+        "BT12",
+        "BT13"
+      ],
+      "located": true
+    },
+    {
+      "id": "72478",
+      "name": "KFC Connswater",
+      "uniqueName": "kfc-connswater",
+      "address": "Arches Retail Park, Connswater, Belfast, BT4 1AL",
+      "postalCode": "BT4 1AL",
+      "lat": 54.59673,
+      "lng": -5.892918,
+      "url": "https://www.just-eat.co.uk/restaurants-kfc-connswater/menu",
+      "items": [
+        {
+          "name": "Festive Loaded Fries",
+          "pricePence": 499
+        }
+      ],
+      "foundIn": [
+        "BT1",
+        "BT2",
+        "BT4",
+        "BT5",
+        "BT6",
+        "BT7",
+        "BT12",
+        "BT13",
+        "BT15",
+        "BT18"
+      ],
+      "located": true
+    },
+    {
+      "id": "127458",
+      "name": "KFC County Down - Saintfield Road",
+      "uniqueName": "kfccountydownsaintfieldroad-ballylesson",
+      "address": "495 Saintfield Road, Carryduff, BT8 8ER",
+      "postalCode": "BT8 8ER",
+      "lat": 54.533037,
+      "lng": -5.896368,
+      "url": "https://www.just-eat.co.uk/restaurants-kfccountydownsaintfieldroad-ballylesson/menu",
+      "items": [
+        {
+          "name": "Festive Loaded Fries",
+          "pricePence": 499
+        }
+      ],
+      "foundIn": [
+        "BT6",
+        "BT8"
+      ],
+      "located": true
+    },
+    {
+      "id": "81744",
+      "name": "KFC Donegal Road",
+      "uniqueName": "kfc-donegal-road",
+      "address": "428 - 444 Donegall Road, Belfast, BT12 6HS",
+      "postalCode": "BT12 6HS",
+      "lat": 54.5878,
+      "lng": -5.961227,
+      "url": "https://www.just-eat.co.uk/restaurants-kfc-donegal-road/menu",
+      "items": [
+        {
+          "name": "Festive Loaded Fries",
+          "pricePence": 499
+        }
+      ],
+      "foundIn": [
+        "BT1",
+        "BT2",
+        "BT7",
+        "BT9",
+        "BT10",
+        "BT11",
+        "BT12",
+        "BT13",
+        "BT15",
+        "BT17",
+        "BT27"
+      ],
+      "located": true
+    },
+    {
+      "id": "77493",
+      "name": "KFC Finaghy",
+      "uniqueName": "kfcfinaghy-finaghy",
+      "address": "141-143 Upper Lisburn Road, Belfast, BT10 0LH",
+      "postalCode": "BT10 0LH",
+      "lat": 54.561558,
+      "lng": -5.984662,
+      "url": "https://www.just-eat.co.uk/restaurants-kfcfinaghy-finaghy/menu",
+      "items": [
+        {
+          "name": "Festive Loaded Fries",
+          "pricePence": 499
+        }
+      ],
+      "foundIn": [
+        "BT2",
+        "BT7",
+        "BT8",
+        "BT9",
+        "BT10",
+        "BT11",
+        "BT12",
+        "BT13",
+        "BT17",
+        "BT27",
+        "BT28"
+      ],
+      "located": true
+    },
+    {
+      "id": "72487",
+      "name": "KFC Glengormley",
+      "uniqueName": "kfcglengormley-newtownabbey",
+      "address": "376 Antrim Road, Glengormley, BT36 5EB",
+      "postalCode": "BT36 5EB",
+      "lat": 54.673059,
+      "lng": -5.961835,
+      "url": "https://www.just-eat.co.uk/restaurants-kfcglengormley-newtownabbey/menu",
+      "items": [
+        {
+          "name": "Festive Loaded Fries",
+          "pricePence": 499
+        }
+      ],
+      "foundIn": [
+        "BT36",
+        "BT37"
+      ],
+      "located": true
+    },
+    {
+      "id": "72486",
+      "name": "KFC Lisburn",
+      "uniqueName": "kfc-lisburn",
+      "address": "Lisburn Omniplex Centre,Grosvenor Road, Lisburn, BT28 1LP",
+      "postalCode": "BT28 1LP",
+      "lat": 54.50767,
+      "lng": -6.050808,
+      "url": "https://www.just-eat.co.uk/restaurants-kfc-lisburn/menu",
+      "items": [
+        {
+          "name": "Festive Loaded Fries",
+          "pricePence": 499
+        }
+      ],
+      "foundIn": [
+        "BT10",
+        "BT12",
+        "BT17",
+        "BT26",
+        "BT27",
+        "BT28"
+      ],
+      "located": true
+    },
+    {
+      "id": "99289",
+      "name": "KFC Londonderry - Lesley Retail Park",
+      "uniqueName": "kfclesleyretailpark-edenballymore",
+      "address": "Strand Road, Londonderry, BT48 7PB",
+      "postalCode": "BT48 7PB",
+      "lat": 55.008954,
+      "lng": -7.316989,
+      "url": "https://www.just-eat.co.uk/restaurants-kfclesleyretailpark-edenballymore/menu",
+      "items": [
+        {
+          "name": "Festive Loaded Fries",
+          "pricePence": 499
+        }
+      ],
+      "foundIn": [
+        "BT48"
+      ],
+      "located": true
+    },
+    {
+      "id": "170595",
+      "name": "KFC Newtownards",
+      "uniqueName": "kfc-newtownards-comber",
+      "address": "1 Belfast Road\r\nCorporation South\r\nNewtownards, Down, BT23 4BJ",
+      "postalCode": "BT23 4BJ",
+      "lat": 54.591413,
+      "lng": -5.711116,
+      "url": "https://www.just-eat.co.uk/restaurants-kfc-newtownards-comber/menu",
+      "items": [
+        {
+          "name": "Festive Loaded Fries",
+          "pricePence": 499
+        }
+      ],
+      "foundIn": [
+        "BT16"
+      ],
+      "located": true
+    },
+    {
+      "id": "81390",
+      "name": "KFC Shankill",
+      "uniqueName": "kfc-shankhill",
+      "address": "2-16 Shankill Road, Belfast, BT13 1DS",
+      "postalCode": "BT13 1DS",
+      "lat": 54.603387,
+      "lng": -5.940924,
+      "url": "https://www.just-eat.co.uk/restaurants-kfc-shankhill/menu",
+      "items": [
+        {
+          "name": "Festive Loaded Fries",
+          "pricePence": 499
+        }
+      ],
+      "foundIn": [
+        "BT1",
+        "BT2",
+        "BT4",
+        "BT6",
+        "BT7",
+        "BT9",
+        "BT10",
+        "BT11",
+        "BT12",
+        "BT13",
+        "BT14",
+        "BT15",
+        "BT17",
+        "BT27",
+        "BT37"
+      ],
+      "located": true
+    },
+    {
+      "id": "81415",
+      "name": "KFC Yorkgate - Belfast",
+      "uniqueName": "kfcyorkgate-belfast",
+      "address": "Brougham Street, Belfast, BT15 1WA",
+      "postalCode": "BT15 1WA",
+      "lat": 54.610453,
+      "lng": -5.924902,
+      "url": "https://www.just-eat.co.uk/restaurants-kfcyorkgate-belfast/menu",
+      "items": [
+        {
+          "name": "Festive Loaded Fries",
+          "pricePence": 499
+        }
+      ],
+      "foundIn": [
+        "BT1",
+        "BT2",
+        "BT14",
+        "BT15",
+        "BT37"
       ],
       "located": true
     },
@@ -2153,30 +2669,6 @@
       "located": true
     },
     {
-      "id": "87203",
-      "name": "Papa G's Pizza",
-      "uniqueName": "papa-gs-pizza-omagh",
-      "address": "48A Brookmount Road, Omagh, BT78 5HY",
-      "postalCode": "BT78 5HY",
-      "lat": 54.600444,
-      "lng": -7.317604,
-      "url": "https://www.just-eat.co.uk/restaurants-papa-gs-pizza-omagh/menu",
-      "items": [
-        {
-          "name": "Chip, Stuffing And Gravy",
-          "pricePence": 700
-        },
-        {
-          "name": "Christmas Chips",
-          "pricePence": 1080
-        }
-      ],
-      "foundIn": [
-        "BT78"
-      ],
-      "located": true
-    },
-    {
       "id": "236027",
       "name": "Park Avenue Takeaway",
       "uniqueName": "park-avenue-takeaway-silverwood-bt66",
@@ -2474,8 +2966,6 @@
         "BT11",
         "BT12",
         "BT13",
-        "BT14",
-        "BT15",
         "BT16",
         "BT17",
         "BT18"
@@ -2812,6 +3302,26 @@
         "BT17",
         "BT27",
         "BT28"
+      ],
+      "located": true
+    },
+    {
+      "id": "117243",
+      "name": "The Friary Carrickfergus",
+      "uniqueName": "the-friary-carrickfergus",
+      "address": "78 Prince Andrew Way, Carrickfergus, BT38 7TU",
+      "postalCode": "BT38 7TU",
+      "lat": 54.728884,
+      "lng": -5.798813,
+      "url": "https://www.just-eat.co.uk/restaurants-the-friary-carrickfergus/menu",
+      "items": [
+        {
+          "name": "Xmas Chip",
+          "pricePence": 995
+        }
+      ],
+      "foundIn": [
+        "BT38"
       ],
       "located": true
     },

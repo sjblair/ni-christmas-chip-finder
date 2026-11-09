@@ -18,5 +18,45 @@
       "BT38"
     ],
     "located": true
+  },
+  {
+    "id": "117243",
+    "name": "The Friary Carrickfergus",
+    "uniqueName": "the-friary-carrickfergus",
+    "address": "78 Prince Andrew Way, Carrickfergus, BT38 7TU",
+    "postalCode": "BT38 7TU",
+    "lat": 54.728884,
+    "lng": -5.798813,
+    "url": "https://www.just-eat.co.uk/restaurants-the-friary-carrickfergus/menu",
+    "items": [
+      {
+        "name": "Xmas Chip",
+        "pricePence": 995
+      }
+    ],
+    "foundIn": [
+      "BT38"
+    ],
+    "located": true
+  },
+  {
+    "id": "184581",
+    "name": "Just Eat store 184581",
+    "uniqueName": "",
+    "address": "",
+    "postalCode": "",
+    "lat": null,
+    "lng": null,
+    "url": "",
+    "items": [
+      {
+        "name": "Festive Loaded Fries",
+        "pricePence": 499
+      }
+    ],
+    "foundIn": [
+      "BT38"
+    ],
+    "located": false
   }
 ]

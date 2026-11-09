@@ -80,22 +80,18 @@
     "located": true
   },
   {
-    "id": "422768",
-    "name": "Centra Lisburn Deli",
-    "uniqueName": "centra-lisburn-deli-duneight",
-    "address": "2 Ballynahinch Road, Lisburn, BT27 5EY",
-    "postalCode": "BT27 5EY",
-    "lat": 54.507254,
-    "lng": -6.037523,
-    "url": "https://www.just-eat.co.uk/restaurants-centra-lisburn-deli-duneight/menu",
+    "id": "72486",
+    "name": "KFC Lisburn",
+    "uniqueName": "kfc-lisburn",
+    "address": "Lisburn Omniplex Centre,Grosvenor Road, Lisburn, BT28 1LP",
+    "postalCode": "BT28 1LP",
+    "lat": 54.50767,
+    "lng": -6.050808,
+    "url": "https://www.just-eat.co.uk/restaurants-kfc-lisburn/menu",
     "items": [
       {
-        "name": "Festive Fries (Large)",
-        "pricePence": 1030
-      },
-      {
-        "name": "Festive Fries (Small)",
-        "pricePence": 905
+        "name": "Festive Loaded Fries",
+        "pricePence": 499
       }
     ],
     "foundIn": [

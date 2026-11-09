@@ -60,6 +60,26 @@
     "located": false
   },
   {
+    "id": "239810",
+    "name": "Just Eat store 239810",
+    "uniqueName": "",
+    "address": "",
+    "postalCode": "",
+    "lat": null,
+    "lng": null,
+    "url": "",
+    "items": [
+      {
+        "name": "Festive Loaded Fries",
+        "pricePence": 499
+      }
+    ],
+    "foundIn": [
+      "BT42"
+    ],
+    "located": false
+  },
+  {
     "id": "163651",
     "name": "The Hungry House",
     "uniqueName": "the-hungry-house-rathkenny",
