@@ -20,26 +20,6 @@
     "located": true
   },
   {
-    "id": "436678",
-    "name": "The Chip Inn",
-    "uniqueName": "the-chip-inn-coleraine",
-    "address": "2 The Rope Walk, Coleraine, BT51 3HA",
-    "postalCode": "BT51 3HA",
-    "lat": 55.125383,
-    "lng": -6.679381,
-    "url": "https://www.just-eat.co.uk/restaurants-the-chip-inn-coleraine/menu",
-    "items": [
-      {
-        "name": "Christmas Chip",
-        "pricePence": 1404
-      }
-    ],
-    "foundIn": [
-      "BT56"
-    ],
-    "located": true
-  },
-  {
     "id": "125703",
     "name": "Bob and Berts - Coleraine",
     "uniqueName": "bobandberts-coleraine",
@@ -72,6 +52,26 @@
       {
         "name": "Christmas Chip",
         "pricePence": 1095
+      }
+    ],
+    "foundIn": [
+      "BT56"
+    ],
+    "located": true
+  },
+  {
+    "id": "436678",
+    "name": "The Chip Inn",
+    "uniqueName": "the-chip-inn-coleraine",
+    "address": "2 The Rope Walk, Coleraine, BT51 3HA",
+    "postalCode": "BT51 3HA",
+    "lat": 55.125383,
+    "lng": -6.679381,
+    "url": "https://www.just-eat.co.uk/restaurants-the-chip-inn-coleraine/menu",
+    "items": [
+      {
+        "name": "Christmas Chip",
+        "pricePence": 1404
       }
     ],
     "foundIn": [

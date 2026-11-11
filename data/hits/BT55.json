@@ -20,26 +20,6 @@
     "located": true
   },
   {
-    "id": "436678",
-    "name": "The Chip Inn",
-    "uniqueName": "the-chip-inn-coleraine",
-    "address": "2 The Rope Walk, Coleraine, BT51 3HA",
-    "postalCode": "BT51 3HA",
-    "lat": 55.125383,
-    "lng": -6.679381,
-    "url": "https://www.just-eat.co.uk/restaurants-the-chip-inn-coleraine/menu",
-    "items": [
-      {
-        "name": "Christmas Chip",
-        "pricePence": 1404
-      }
-    ],
-    "foundIn": [
-      "BT55"
-    ],
-    "located": true
-  },
-  {
     "id": "125703",
     "name": "Bob and Berts - Coleraine",
     "uniqueName": "bobandberts-coleraine",
@@ -80,26 +60,6 @@
     "located": true
   },
   {
-    "id": "110303",
-    "name": "The Prom Chippy",
-    "uniqueName": "the-prom-chippy-new-portstewart",
-    "address": "31A The Promenade, Portstewart, BT55 7AE",
-    "postalCode": "BT55 7AE",
-    "lat": 55.18535,
-    "lng": -6.718389,
-    "url": "https://www.just-eat.co.uk/restaurants-the-prom-chippy-new-portstewart/menu",
-    "items": [
-      {
-        "name": "Christmas Loaded Chips",
-        "pricePence": 1090
-      }
-    ],
-    "foundIn": [
-      "BT55"
-    ],
-    "located": true
-  },
-  {
     "id": "175058",
     "name": "Fyred Pizza",
     "uniqueName": "fryed-pizza-coleraine",
@@ -112,6 +72,46 @@
       {
         "name": "Christmas Fries",
         "pricePence": 1200
+      }
+    ],
+    "foundIn": [
+      "BT55"
+    ],
+    "located": true
+  },
+  {
+    "id": "436678",
+    "name": "The Chip Inn",
+    "uniqueName": "the-chip-inn-coleraine",
+    "address": "2 The Rope Walk, Coleraine, BT51 3HA",
+    "postalCode": "BT51 3HA",
+    "lat": 55.125383,
+    "lng": -6.679381,
+    "url": "https://www.just-eat.co.uk/restaurants-the-chip-inn-coleraine/menu",
+    "items": [
+      {
+        "name": "Christmas Chip",
+        "pricePence": 1404
+      }
+    ],
+    "foundIn": [
+      "BT55"
+    ],
+    "located": true
+  },
+  {
+    "id": "110303",
+    "name": "The Prom Chippy",
+    "uniqueName": "the-prom-chippy-new-portstewart",
+    "address": "31A The Promenade, Portstewart, BT55 7AE",
+    "postalCode": "BT55 7AE",
+    "lat": 55.18535,
+    "lng": -6.718389,
+    "url": "https://www.just-eat.co.uk/restaurants-the-prom-chippy-new-portstewart/menu",
+    "items": [
+      {
+        "name": "Christmas Loaded Chips",
+        "pricePence": 1090
       }
     ],
     "foundIn": [

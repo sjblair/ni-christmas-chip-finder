@@ -20,26 +20,6 @@
     "located": true
   },
   {
-    "id": "141222",
-    "name": "Grub Shack",
-    "uniqueName": "grubshack-ballymagee",
-    "address": "3 Bridge Street, Bangor, BT20 5AW",
-    "postalCode": "BT20 5AW",
-    "lat": 54.663456,
-    "lng": -5.667426,
-    "url": "https://www.just-eat.co.uk/restaurants-grubshack-ballymagee/menu",
-    "items": [
-      {
-        "name": "Christmas Chips",
-        "pricePence": 945
-      }
-    ],
-    "foundIn": [
-      "BT21"
-    ],
-    "located": true
-  },
-  {
     "id": "443145",
     "name": "The Snack Shack- Bangor",
     "uniqueName": "the-snack-shack-ballymagee",
@@ -52,6 +32,26 @@
       {
         "name": "Christmas Chips",
         "pricePence": 850
+      }
+    ],
+    "foundIn": [
+      "BT21"
+    ],
+    "located": true
+  },
+  {
+    "id": "141222",
+    "name": "Grub Shack",
+    "uniqueName": "grubshack-ballymagee",
+    "address": "3 Bridge Street, Bangor, BT20 5AW",
+    "postalCode": "BT20 5AW",
+    "lat": 54.663456,
+    "lng": -5.667426,
+    "url": "https://www.just-eat.co.uk/restaurants-grubshack-ballymagee/menu",
+    "items": [
+      {
+        "name": "Christmas Chips",
+        "pricePence": 945
       }
     ],
     "foundIn": [
