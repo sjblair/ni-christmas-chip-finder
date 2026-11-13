@@ -56,6 +56,46 @@
     "located": true
   },
   {
+    "id": "51401",
+    "name": "New Mossley Chippy",
+    "uniqueName": "new--mossley-chippy-newtownabbey",
+    "address": "Unit 2-3 New Mossley Centre, Ballyearl Drive, Newtownabbey, BT36 5BZ",
+    "postalCode": "BT36 5BZ",
+    "lat": 54.691365,
+    "lng": -5.961978,
+    "url": "https://www.just-eat.co.uk/restaurants-new--mossley-chippy-newtownabbey/menu",
+    "items": [
+      {
+        "name": "Christmas Chip",
+        "pricePence": 1150
+      }
+    ],
+    "foundIn": [
+      "BT36"
+    ],
+    "located": true
+  },
+  {
+    "id": "23695",
+    "name": "Mannys",
+    "uniqueName": "Mannys-BT36",
+    "address": "290 Antrim Road, Glenformley, BT36 7QT",
+    "postalCode": "BT36 7QT",
+    "lat": 54.669195,
+    "lng": -5.956117,
+    "url": "https://www.just-eat.co.uk/restaurants-Mannys-BT36/menu",
+    "items": [
+      {
+        "name": "Christmas Chip",
+        "pricePence": 1195
+      }
+    ],
+    "foundIn": [
+      "BT36"
+    ],
+    "located": true
+  },
+  {
     "id": "198265",
     "name": "The Railway Fryer - Burger Bar & Kebabs",
     "uniqueName": "the-railway-fryer-newtownabbey",
@@ -240,46 +280,6 @@
     "located": false
   },
   {
-    "id": "51401",
-    "name": "New Mossley Chippy",
-    "uniqueName": "new--mossley-chippy-newtownabbey",
-    "address": "Unit 2-3 New Mossley Centre, Ballyearl Drive, Newtownabbey, BT36 5BZ",
-    "postalCode": "BT36 5BZ",
-    "lat": 54.691365,
-    "lng": -5.961978,
-    "url": "https://www.just-eat.co.uk/restaurants-new--mossley-chippy-newtownabbey/menu",
-    "items": [
-      {
-        "name": "Christmas Chip",
-        "pricePence": 1150
-      }
-    ],
-    "foundIn": [
-      "BT36"
-    ],
-    "located": true
-  },
-  {
-    "id": "23695",
-    "name": "Mannys",
-    "uniqueName": "Mannys-BT36",
-    "address": "290 Antrim Road, Glenformley, BT36 7QT",
-    "postalCode": "BT36 7QT",
-    "lat": 54.669195,
-    "lng": -5.956117,
-    "url": "https://www.just-eat.co.uk/restaurants-Mannys-BT36/menu",
-    "items": [
-      {
-        "name": "Christmas Chip",
-        "pricePence": 1195
-      }
-    ],
-    "foundIn": [
-      "BT36"
-    ],
-    "located": true
-  },
-  {
     "id": "251115",
     "name": "Bally Busters",
     "uniqueName": "bally-busters-doagh",
@@ -291,6 +291,26 @@
     "items": [
       {
         "name": "Christmas Chip",
+        "pricePence": 1300
+      }
+    ],
+    "foundIn": [
+      "BT36"
+    ],
+    "located": true
+  },
+  {
+    "id": "141398",
+    "name": "Speedy Bites",
+    "uniqueName": "speedy-bites-newtownabbey",
+    "address": "611 Shore Road, Newtownabbey, BT37 0ST",
+    "postalCode": "BT37 0ST",
+    "lat": 54.67692,
+    "lng": -5.89193,
+    "url": "https://www.just-eat.co.uk/restaurants-speedy-bites-newtownabbey/menu",
+    "items": [
+      {
+        "name": "Christmas Chips",
         "pricePence": 1300
       }
     ],
@@ -332,26 +352,6 @@
       {
         "name": "Christmas Chips With Turkey/Ham/Stuffing And Cocktail Sausages Smothered In Gravy",
         "pricePence": 995
-      }
-    ],
-    "foundIn": [
-      "BT36"
-    ],
-    "located": true
-  },
-  {
-    "id": "141398",
-    "name": "Speedy Bites",
-    "uniqueName": "speedy-bites-newtownabbey",
-    "address": "611 Shore Road, Newtownabbey, BT37 0ST",
-    "postalCode": "BT37 0ST",
-    "lat": 54.67692,
-    "lng": -5.89193,
-    "url": "https://www.just-eat.co.uk/restaurants-speedy-bites-newtownabbey/menu",
-    "items": [
-      {
-        "name": "Christmas Chips",
-        "pricePence": 1300
       }
     ],
     "foundIn": [

@@ -1,5 +1,33 @@
 [
   {
+    "id": "318515",
+    "name": "Kennedy's",
+    "uniqueName": "kennedys-edenballymore-bt48",
+    "address": "2 Ballynagard Road, Londonderry, BT48 8JJ",
+    "postalCode": "BT48 8JJ",
+    "lat": 55.04237,
+    "lng": -7.276189,
+    "url": "https://www.just-eat.co.uk/restaurants-kennedys-edenballymore-bt48/menu",
+    "items": [
+      {
+        "name": "Xmas Chip And Small Box",
+        "pricePence": 803
+      },
+      {
+        "name": "Chicken Festive Chip",
+        "pricePence": 1155
+      },
+      {
+        "name": "Turkey & Ham Festive Chips",
+        "pricePence": 1210
+      }
+    ],
+    "foundIn": [
+      "BT48"
+    ],
+    "located": true
+  },
+  {
     "id": "99289",
     "name": "KFC Londonderry - Lesley Retail Park",
     "uniqueName": "kfclesleyretailpark-edenballymore",
@@ -12,30 +40,6 @@
       {
         "name": "Festive Loaded Fries",
         "pricePence": 499
-      }
-    ],
-    "foundIn": [
-      "BT48"
-    ],
-    "located": true
-  },
-  {
-    "id": "246712",
-    "name": "McMullan Foods @ Avenue 17",
-    "uniqueName": "mcmullan-foods--avenue-17-edenballymore",
-    "address": "17 Rosemount Avenue, Londonderry, BT48 0HQ",
-    "postalCode": "BT48 0HQ",
-    "lat": 55.004724,
-    "lng": -7.331876,
-    "url": "https://www.just-eat.co.uk/restaurants-mcmullan-foods--avenue-17-edenballymore/menu",
-    "items": [
-      {
-        "name": "Festive Chips Meal Deal",
-        "pricePence": 1195
-      },
-      {
-        "name": "Large Chips, Gravy & Stuffing",
-        "pricePence": 515
       }
     ],
     "foundIn": [
@@ -84,22 +88,22 @@
     "located": true
   },
   {
-    "id": "318515",
-    "name": "Kennedy's",
-    "uniqueName": "kennedys-edenballymore-bt48",
-    "address": "2 Ballynagard Road, Londonderry, BT48 8JJ",
-    "postalCode": "BT48 8JJ",
-    "lat": 55.04237,
-    "lng": -7.276189,
-    "url": "https://www.just-eat.co.uk/restaurants-kennedys-edenballymore-bt48/menu",
+    "id": "246712",
+    "name": "McMullan Foods @ Avenue 17",
+    "uniqueName": "mcmullan-foods--avenue-17-edenballymore",
+    "address": "17 Rosemount Avenue, Londonderry, BT48 0HQ",
+    "postalCode": "BT48 0HQ",
+    "lat": 55.004724,
+    "lng": -7.331876,
+    "url": "https://www.just-eat.co.uk/restaurants-mcmullan-foods--avenue-17-edenballymore/menu",
     "items": [
       {
-        "name": "Chicken Festive Chip",
-        "pricePence": 1155
+        "name": "Festive Chips Meal Deal",
+        "pricePence": 1195
       },
       {
-        "name": "Turkey & Ham Festive Chips",
-        "pricePence": 1210
+        "name": "Large Chips, Gravy & Stuffing",
+        "pricePence": 515
       }
     ],
     "foundIn": [

@@ -160,6 +160,30 @@
     "located": true
   },
   {
+    "id": "446861",
+    "name": "JJ's CHIPPY",
+    "uniqueName": "jjs-chippy-ltd-ballymagee",
+    "address": "19 Clandeboye Road, Bangor, BT20 3LB",
+    "postalCode": "BT20 3LB",
+    "lat": 54.654089,
+    "lng": -5.679814,
+    "url": "https://www.just-eat.co.uk/restaurants-jjs-chippy-ltd-ballymagee/menu",
+    "items": [
+      {
+        "name": "Festive Chip",
+        "pricePence": 1095
+      },
+      {
+        "name": "Stuffing Gravy Chip",
+        "pricePence": 795
+      }
+    ],
+    "foundIn": [
+      "BT19"
+    ],
+    "located": true
+  },
+  {
     "id": "73681",
     "name": "Super Chippy Super Pizza",
     "uniqueName": "super-chippy-super-pizza-balloo",

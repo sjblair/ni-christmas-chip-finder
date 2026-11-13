@@ -180,26 +180,6 @@
     "located": true
   },
   {
-    "id": "30057",
-    "name": "Bella Pizza",
-    "uniqueName": "bellapizza-bt4",
-    "address": "74 Holywood Road, Belfast, BT4 1NT",
-    "postalCode": "BT4 1NT",
-    "lat": 54.598555,
-    "lng": -5.886507,
-    "url": "https://www.just-eat.co.uk/restaurants-bellapizza-bt4/menu",
-    "items": [
-      {
-        "name": "Xmas Chip",
-        "pricePence": 1090
-      }
-    ],
-    "foundIn": [
-      "BT3"
-    ],
-    "located": true
-  },
-  {
     "id": "63645",
     "name": "Fallones",
     "uniqueName": "fallones-low-wood",
@@ -212,6 +192,26 @@
       {
         "name": "Fallone\u2019S Xmas Chips",
         "pricePence": 1495
+      }
+    ],
+    "foundIn": [
+      "BT3"
+    ],
+    "located": true
+  },
+  {
+    "id": "30057",
+    "name": "Bella Pizza",
+    "uniqueName": "bellapizza-bt4",
+    "address": "74 Holywood Road, Belfast, BT4 1NT",
+    "postalCode": "BT4 1NT",
+    "lat": 54.598555,
+    "lng": -5.886507,
+    "url": "https://www.just-eat.co.uk/restaurants-bellapizza-bt4/menu",
+    "items": [
+      {
+        "name": "Xmas Chip",
+        "pricePence": 1090
       }
     ],
     "foundIn": [

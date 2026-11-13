@@ -60,26 +60,6 @@
     "located": true
   },
   {
-    "id": "112089",
-    "name": "Treat Street",
-    "uniqueName": "treatstreetballyrushboy",
-    "address": "Unit 6 Library Court, 402 Upper Newtownards Road, Belfast, BT4 3GE",
-    "postalCode": "BT4 3GE",
-    "lat": 54.595169,
-    "lng": -5.865838,
-    "url": "https://www.just-eat.co.uk/restaurants-treatstreetballyrushboy/menu",
-    "items": [
-      {
-        "name": "Christmas Chip",
-        "pricePence": 1295
-      }
-    ],
-    "foundIn": [
-      "BT6"
-    ],
-    "located": true
-  },
-  {
     "id": "322166",
     "name": "Joshie\u2019s Munch Box",
     "uniqueName": "joshies-munch-box-ballyrushboy",
@@ -120,18 +100,18 @@
     "located": false
   },
   {
-    "id": "139653",
-    "name": "Centra Great Victoria Street",
-    "uniqueName": "centraquickstop-belfast",
-    "address": "2-4 Great Victoria Street, Belfast, BT2 7BA",
-    "postalCode": "BT2 7BA",
-    "lat": 54.59595,
-    "lng": -5.9343983,
-    "url": "https://www.just-eat.co.uk/restaurants-centraquickstop-belfast/menu",
+    "id": "67958",
+    "name": "Kings Chippy",
+    "uniqueName": "kings-chippy-ballynafoy",
+    "address": "351 Ormeau Road, Belfast, BT7 3GL",
+    "postalCode": "BT7 3GL",
+    "lat": 54.578915,
+    "lng": -5.919805,
+    "url": "https://www.just-eat.co.uk/restaurants-kings-chippy-ballynafoy/menu",
     "items": [
       {
-        "name": "Festive Fries",
-        "pricePence": 879
+        "name": "Christmas Chip",
+        "pricePence": 1090
       }
     ],
     "foundIn": [
@@ -172,26 +152,6 @@
       {
         "name": "Jumbo Christmas Chips",
         "pricePence": 999
-      }
-    ],
-    "foundIn": [
-      "BT6"
-    ],
-    "located": true
-  },
-  {
-    "id": "125706",
-    "name": "Bob and Berts - Stranmillis",
-    "uniqueName": "bobandberts-stranmillis-ballymurphy",
-    "address": "46-48 Stranmillis Road, Belfast, BT9 5AH",
-    "postalCode": "BT9 5AH",
-    "lat": 54.579711,
-    "lng": -5.934841,
-    "url": "https://www.just-eat.co.uk/restaurants-bobandberts-stranmillis-ballymurphy/menu",
-    "items": [
-      {
-        "name": "Festive Loaded Fries",
-        "pricePence": 1345
       }
     ],
     "foundIn": [
@@ -304,6 +264,46 @@
     "located": true
   },
   {
+    "id": "139653",
+    "name": "Centra Great Victoria Street",
+    "uniqueName": "centraquickstop-belfast",
+    "address": "2-4 Great Victoria Street, Belfast, BT2 7BA",
+    "postalCode": "BT2 7BA",
+    "lat": 54.59595,
+    "lng": -5.9343983,
+    "url": "https://www.just-eat.co.uk/restaurants-centraquickstop-belfast/menu",
+    "items": [
+      {
+        "name": "Festive Fries",
+        "pricePence": 879
+      }
+    ],
+    "foundIn": [
+      "BT6"
+    ],
+    "located": true
+  },
+  {
+    "id": "112089",
+    "name": "Treat Street",
+    "uniqueName": "treatstreetballyrushboy",
+    "address": "Unit 6 Library Court, 402 Upper Newtownards Road, Belfast, BT4 3GE",
+    "postalCode": "BT4 3GE",
+    "lat": 54.595169,
+    "lng": -5.865838,
+    "url": "https://www.just-eat.co.uk/restaurants-treatstreetballyrushboy/menu",
+    "items": [
+      {
+        "name": "Christmas Chip",
+        "pricePence": 1295
+      }
+    ],
+    "foundIn": [
+      "BT6"
+    ],
+    "located": true
+  },
+  {
     "id": "245207",
     "name": "Just Eat store 245207",
     "uniqueName": "",
@@ -404,18 +404,18 @@
     "located": true
   },
   {
-    "id": "30057",
-    "name": "Bella Pizza",
-    "uniqueName": "bellapizza-bt4",
-    "address": "74 Holywood Road, Belfast, BT4 1NT",
-    "postalCode": "BT4 1NT",
-    "lat": 54.598555,
-    "lng": -5.886507,
-    "url": "https://www.just-eat.co.uk/restaurants-bellapizza-bt4/menu",
+    "id": "125706",
+    "name": "Bob and Berts - Stranmillis",
+    "uniqueName": "bobandberts-stranmillis-ballymurphy",
+    "address": "46-48 Stranmillis Road, Belfast, BT9 5AH",
+    "postalCode": "BT9 5AH",
+    "lat": 54.579711,
+    "lng": -5.934841,
+    "url": "https://www.just-eat.co.uk/restaurants-bobandberts-stranmillis-ballymurphy/menu",
     "items": [
       {
-        "name": "Xmas Chip",
-        "pricePence": 1090
+        "name": "Festive Loaded Fries",
+        "pricePence": 1345
       }
     ],
     "foundIn": [
@@ -442,6 +442,26 @@
       "BT6"
     ],
     "located": false
+  },
+  {
+    "id": "30057",
+    "name": "Bella Pizza",
+    "uniqueName": "bellapizza-bt4",
+    "address": "74 Holywood Road, Belfast, BT4 1NT",
+    "postalCode": "BT4 1NT",
+    "lat": 54.598555,
+    "lng": -5.886507,
+    "url": "https://www.just-eat.co.uk/restaurants-bellapizza-bt4/menu",
+    "items": [
+      {
+        "name": "Xmas Chip",
+        "pricePence": 1090
+      }
+    ],
+    "foundIn": [
+      "BT6"
+    ],
+    "located": true
   },
   {
     "id": "72478",

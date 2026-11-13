@@ -80,26 +80,6 @@
     "located": false
   },
   {
-    "id": "112089",
-    "name": "Just Eat store 112089",
-    "uniqueName": "",
-    "address": "",
-    "postalCode": "",
-    "lat": null,
-    "lng": null,
-    "url": "",
-    "items": [
-      {
-        "name": "Christmas Chip",
-        "pricePence": 1295
-      }
-    ],
-    "foundIn": [
-      "BT8"
-    ],
-    "located": false
-  },
-  {
     "id": "110685",
     "name": "The Atlantic Saintfield Road",
     "uniqueName": "the-atlantic--new-ballylesson",
@@ -172,6 +152,26 @@
       {
         "name": "New!! Christmas Chips \ud83c\udf84\ud83c\udf84\ud83c\udf81\ud83c\udf81",
         "pricePence": 1455
+      }
+    ],
+    "foundIn": [
+      "BT8"
+    ],
+    "located": false
+  },
+  {
+    "id": "112089",
+    "name": "Just Eat store 112089",
+    "uniqueName": "",
+    "address": "",
+    "postalCode": "",
+    "lat": null,
+    "lng": null,
+    "url": "",
+    "items": [
+      {
+        "name": "Christmas Chip",
+        "pricePence": 1295
       }
     ],
     "foundIn": [

@@ -20,8 +20,8 @@
     "located": false
   },
   {
-    "id": "249534",
-    "name": "Just Eat store 249534",
+    "id": "232598",
+    "name": "Just Eat store 232598",
     "uniqueName": "",
     "address": "",
     "postalCode": "",
@@ -30,8 +30,8 @@
     "url": "",
     "items": [
       {
-        "name": "Christmas Loaded Chip",
-        "pricePence": 1295
+        "name": "Christmas Chips",
+        "pricePence": 1400
       }
     ],
     "foundIn": [
@@ -84,6 +84,26 @@
     "located": true
   },
   {
+    "id": "249534",
+    "name": "Just Eat store 249534",
+    "uniqueName": "",
+    "address": "",
+    "postalCode": "",
+    "lat": null,
+    "lng": null,
+    "url": "",
+    "items": [
+      {
+        "name": "Christmas Loaded Chip",
+        "pricePence": 1295
+      }
+    ],
+    "foundIn": [
+      "BT63"
+    ],
+    "located": false
+  },
+  {
     "id": "315864",
     "name": "The sugar shack",
     "uniqueName": "thr-sugar-shack-silverwood",
@@ -102,26 +122,6 @@
       "BT63"
     ],
     "located": true
-  },
-  {
-    "id": "232598",
-    "name": "Just Eat store 232598",
-    "uniqueName": "",
-    "address": "",
-    "postalCode": "",
-    "lat": null,
-    "lng": null,
-    "url": "",
-    "items": [
-      {
-        "name": "Christmas Chips",
-        "pricePence": 1400
-      }
-    ],
-    "foundIn": [
-      "BT63"
-    ],
-    "located": false
   },
   {
     "id": "436437",

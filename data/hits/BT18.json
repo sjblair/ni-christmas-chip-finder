@@ -40,46 +40,6 @@
     "located": true
   },
   {
-    "id": "112089",
-    "name": "Treat Street",
-    "uniqueName": "treatstreetballyrushboy",
-    "address": "Unit 6 Library Court, 402 Upper Newtownards Road, Belfast, BT4 3GE",
-    "postalCode": "BT4 3GE",
-    "lat": 54.595169,
-    "lng": -5.865838,
-    "url": "https://www.just-eat.co.uk/restaurants-treatstreetballyrushboy/menu",
-    "items": [
-      {
-        "name": "Christmas Chip",
-        "pricePence": 1295
-      }
-    ],
-    "foundIn": [
-      "BT18"
-    ],
-    "located": true
-  },
-  {
-    "id": "322166",
-    "name": "Just Eat store 322166",
-    "uniqueName": "",
-    "address": "",
-    "postalCode": "",
-    "lat": null,
-    "lng": null,
-    "url": "",
-    "items": [
-      {
-        "name": "Christmas Chip",
-        "pricePence": 1150
-      }
-    ],
-    "foundIn": [
-      "BT18"
-    ],
-    "located": false
-  },
-  {
     "id": "118782",
     "name": "Binky\u2019s",
     "uniqueName": "binkys-ballyrushboy",
@@ -122,6 +82,26 @@
       "BT18"
     ],
     "located": true
+  },
+  {
+    "id": "322166",
+    "name": "Just Eat store 322166",
+    "uniqueName": "",
+    "address": "",
+    "postalCode": "",
+    "lat": null,
+    "lng": null,
+    "url": "",
+    "items": [
+      {
+        "name": "Christmas Chip",
+        "pricePence": 1150
+      }
+    ],
+    "foundIn": [
+      "BT18"
+    ],
+    "located": false
   },
   {
     "id": "318375",
@@ -204,6 +184,26 @@
     "located": false
   },
   {
+    "id": "112089",
+    "name": "Treat Street",
+    "uniqueName": "treatstreetballyrushboy",
+    "address": "Unit 6 Library Court, 402 Upper Newtownards Road, Belfast, BT4 3GE",
+    "postalCode": "BT4 3GE",
+    "lat": 54.595169,
+    "lng": -5.865838,
+    "url": "https://www.just-eat.co.uk/restaurants-treatstreetballyrushboy/menu",
+    "items": [
+      {
+        "name": "Christmas Chip",
+        "pricePence": 1295
+      }
+    ],
+    "foundIn": [
+      "BT18"
+    ],
+    "located": true
+  },
+  {
     "id": "199846",
     "name": "Asda Superstore - Dundonald",
     "uniqueName": "asda---dundonald-dundonald",
@@ -222,6 +222,26 @@
       "BT18"
     ],
     "located": true
+  },
+  {
+    "id": "72480",
+    "name": "Just Eat store 72480",
+    "uniqueName": "",
+    "address": "",
+    "postalCode": "",
+    "lat": null,
+    "lng": null,
+    "url": "",
+    "items": [
+      {
+        "name": "Festive Loaded Fries",
+        "pricePence": 499
+      }
+    ],
+    "foundIn": [
+      "BT18"
+    ],
+    "located": false
   },
   {
     "id": "72478",
@@ -262,25 +282,5 @@
       "BT18"
     ],
     "located": true
-  },
-  {
-    "id": "72480",
-    "name": "Just Eat store 72480",
-    "uniqueName": "",
-    "address": "",
-    "postalCode": "",
-    "lat": null,
-    "lng": null,
-    "url": "",
-    "items": [
-      {
-        "name": "Festive Loaded Fries",
-        "pricePence": 499
-      }
-    ],
-    "foundIn": [
-      "BT18"
-    ],
-    "located": false
   }
 ]

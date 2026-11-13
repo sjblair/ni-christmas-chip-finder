@@ -164,18 +164,18 @@
     "located": true
   },
   {
-    "id": "112089",
-    "name": "Treat Street",
-    "uniqueName": "treatstreetballyrushboy",
-    "address": "Unit 6 Library Court, 402 Upper Newtownards Road, Belfast, BT4 3GE",
-    "postalCode": "BT4 3GE",
-    "lat": 54.595169,
-    "lng": -5.865838,
-    "url": "https://www.just-eat.co.uk/restaurants-treatstreetballyrushboy/menu",
+    "id": "67958",
+    "name": "Kings Chippy",
+    "uniqueName": "kings-chippy-ballynafoy",
+    "address": "351 Ormeau Road, Belfast, BT7 3GL",
+    "postalCode": "BT7 3GL",
+    "lat": 54.578915,
+    "lng": -5.919805,
+    "url": "https://www.just-eat.co.uk/restaurants-kings-chippy-ballynafoy/menu",
     "items": [
       {
         "name": "Christmas Chip",
-        "pricePence": 1295
+        "pricePence": 1090
       }
     ],
     "foundIn": [
@@ -196,26 +196,6 @@
       {
         "name": "ASDA Festive Tortilla Chip Christmas Trees 150G",
         "pricePence": 155
-      }
-    ],
-    "foundIn": [
-      "BT1"
-    ],
-    "located": true
-  },
-  {
-    "id": "139653",
-    "name": "Centra Great Victoria Street",
-    "uniqueName": "centraquickstop-belfast",
-    "address": "2-4 Great Victoria Street, Belfast, BT2 7BA",
-    "postalCode": "BT2 7BA",
-    "lat": 54.59595,
-    "lng": -5.9343983,
-    "url": "https://www.just-eat.co.uk/restaurants-centraquickstop-belfast/menu",
-    "items": [
-      {
-        "name": "Festive Fries",
-        "pricePence": 879
       }
     ],
     "foundIn": [
@@ -264,26 +244,6 @@
     "located": true
   },
   {
-    "id": "266593",
-    "name": "Murphy Browns",
-    "uniqueName": "murphy-browns-low-wood",
-    "address": "186 Cavehill Road, Belfast, BT15 5EX",
-    "postalCode": "BT15 5EX",
-    "lat": 54.632701,
-    "lng": -5.94791,
-    "url": "https://www.just-eat.co.uk/restaurants-murphy-browns-low-wood/menu",
-    "items": [
-      {
-        "name": "Christmas Chips \ud83c\udf84",
-        "pricePence": 1600
-      }
-    ],
-    "foundIn": [
-      "BT1"
-    ],
-    "located": true
-  },
-  {
     "id": "109620",
     "name": "Hatch",
     "uniqueName": "hatch-ballymagarry",
@@ -296,6 +256,26 @@
       {
         "name": "Christmas Fries",
         "pricePence": 1400
+      }
+    ],
+    "foundIn": [
+      "BT1"
+    ],
+    "located": true
+  },
+  {
+    "id": "266593",
+    "name": "Murphy Browns",
+    "uniqueName": "murphy-browns-low-wood",
+    "address": "186 Cavehill Road, Belfast, BT15 5EX",
+    "postalCode": "BT15 5EX",
+    "lat": 54.632701,
+    "lng": -5.94791,
+    "url": "https://www.just-eat.co.uk/restaurants-murphy-browns-low-wood/menu",
+    "items": [
+      {
+        "name": "Christmas Chips \ud83c\udf84",
+        "pricePence": 1600
       }
     ],
     "foundIn": [
@@ -444,6 +424,26 @@
     "located": true
   },
   {
+    "id": "139653",
+    "name": "Centra Great Victoria Street",
+    "uniqueName": "centraquickstop-belfast",
+    "address": "2-4 Great Victoria Street, Belfast, BT2 7BA",
+    "postalCode": "BT2 7BA",
+    "lat": 54.59595,
+    "lng": -5.9343983,
+    "url": "https://www.just-eat.co.uk/restaurants-centraquickstop-belfast/menu",
+    "items": [
+      {
+        "name": "Festive Fries",
+        "pricePence": 879
+      }
+    ],
+    "foundIn": [
+      "BT1"
+    ],
+    "located": true
+  },
+  {
     "id": "283219",
     "name": "Code15 Pizza",
     "uniqueName": "code15-pizza-low-wood",
@@ -456,6 +456,26 @@
       {
         "name": "Christmas Chip",
         "pricePence": 1000
+      }
+    ],
+    "foundIn": [
+      "BT1"
+    ],
+    "located": true
+  },
+  {
+    "id": "112089",
+    "name": "Treat Street",
+    "uniqueName": "treatstreetballyrushboy",
+    "address": "Unit 6 Library Court, 402 Upper Newtownards Road, Belfast, BT4 3GE",
+    "postalCode": "BT4 3GE",
+    "lat": 54.595169,
+    "lng": -5.865838,
+    "url": "https://www.just-eat.co.uk/restaurants-treatstreetballyrushboy/menu",
+    "items": [
+      {
+        "name": "Christmas Chip",
+        "pricePence": 1295
       }
     ],
     "foundIn": [
@@ -568,6 +588,26 @@
     "located": true
   },
   {
+    "id": "63645",
+    "name": "Fallones",
+    "uniqueName": "fallones-low-wood",
+    "address": "127 Antrim Road, Belfast, BT15 2BL",
+    "postalCode": "BT15 2BL",
+    "lat": 54.611973,
+    "lng": -5.935627,
+    "url": "https://www.just-eat.co.uk/restaurants-fallones-low-wood/menu",
+    "items": [
+      {
+        "name": "Fallone\u2019S Xmas Chips",
+        "pricePence": 1495
+      }
+    ],
+    "foundIn": [
+      "BT1"
+    ],
+    "located": true
+  },
+  {
     "id": "303077",
     "name": "The Coffee House Bistro - Belfast",
     "uniqueName": "the-coffee-house-andersonstown",
@@ -600,26 +640,6 @@
       {
         "name": "Xmas Chip",
         "pricePence": 1090
-      }
-    ],
-    "foundIn": [
-      "BT1"
-    ],
-    "located": true
-  },
-  {
-    "id": "63645",
-    "name": "Fallones",
-    "uniqueName": "fallones-low-wood",
-    "address": "127 Antrim Road, Belfast, BT15 2BL",
-    "postalCode": "BT15 2BL",
-    "lat": 54.611973,
-    "lng": -5.935627,
-    "url": "https://www.just-eat.co.uk/restaurants-fallones-low-wood/menu",
-    "items": [
-      {
-        "name": "Fallone\u2019S Xmas Chips",
-        "pricePence": 1495
       }
     ],
     "foundIn": [
