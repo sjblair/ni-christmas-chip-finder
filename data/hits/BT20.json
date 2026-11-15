@@ -140,26 +140,6 @@
     "located": true
   },
   {
-    "id": "111584",
-    "name": "KFC Bangor County Down - South Circular Road",
-    "uniqueName": "kfc-bangorcountydown-southcircularroad",
-    "address": "South Circular Road, Balloo Link, Bangor, BT19 7HJ",
-    "postalCode": "BT19 7HJ",
-    "lat": 54.645756,
-    "lng": -5.669385,
-    "url": "https://www.just-eat.co.uk/restaurants-kfc-bangorcountydown-southcircularroad/menu",
-    "items": [
-      {
-        "name": "Festive Loaded Fries",
-        "pricePence": 499
-      }
-    ],
-    "foundIn": [
-      "BT20"
-    ],
-    "located": true
-  },
-  {
     "id": "446861",
     "name": "JJ's CHIPPY",
     "uniqueName": "jjs-chippy-ltd-ballymagee",
@@ -176,6 +156,26 @@
       {
         "name": "Stuffing Gravy Chip",
         "pricePence": 795
+      }
+    ],
+    "foundIn": [
+      "BT20"
+    ],
+    "located": true
+  },
+  {
+    "id": "111584",
+    "name": "KFC Bangor County Down - South Circular Road",
+    "uniqueName": "kfc-bangorcountydown-southcircularroad",
+    "address": "South Circular Road, Balloo Link, Bangor, BT19 7HJ",
+    "postalCode": "BT19 7HJ",
+    "lat": 54.645756,
+    "lng": -5.669385,
+    "url": "https://www.just-eat.co.uk/restaurants-kfc-bangorcountydown-southcircularroad/menu",
+    "items": [
+      {
+        "name": "Festive Loaded Fries",
+        "pricePence": 499
       }
     ],
     "foundIn": [

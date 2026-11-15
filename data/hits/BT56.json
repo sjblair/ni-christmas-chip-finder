@@ -20,18 +20,18 @@
     "located": true
   },
   {
-    "id": "92736",
-    "name": "Gareth's Takeaway",
-    "uniqueName": "gareths-takeaway-ballylintagh",
-    "address": "17 Bushmills Road, Coleraine, BT52 2BN",
-    "postalCode": "BT52 2BN",
-    "lat": 55.135762,
-    "lng": -6.662269,
-    "url": "https://www.just-eat.co.uk/restaurants-gareths-takeaway-ballylintagh/menu",
+    "id": "436678",
+    "name": "The Chip Inn",
+    "uniqueName": "the-chip-inn-coleraine",
+    "address": "2 The Rope Walk, Coleraine, BT51 3HA",
+    "postalCode": "BT51 3HA",
+    "lat": 55.125383,
+    "lng": -6.679381,
+    "url": "https://www.just-eat.co.uk/restaurants-the-chip-inn-coleraine/menu",
     "items": [
       {
-        "name": "Festive Chips",
-        "pricePence": 1000
+        "name": "Christmas Chip",
+        "pricePence": 1404
       }
     ],
     "foundIn": [
@@ -60,46 +60,6 @@
     "located": true
   },
   {
-    "id": "125703",
-    "name": "Bob and Berts - Coleraine",
-    "uniqueName": "bobandberts-coleraine",
-    "address": "32A The Diamond, Coleraine, BT52 1DP",
-    "postalCode": "BT52 1DP",
-    "lat": 55.131898,
-    "lng": -6.670875,
-    "url": "https://www.just-eat.co.uk/restaurants-bobandberts-coleraine/menu",
-    "items": [
-      {
-        "name": "Festive Loaded Fries",
-        "pricePence": 1345
-      }
-    ],
-    "foundIn": [
-      "BT56"
-    ],
-    "located": true
-  },
-  {
-    "id": "436678",
-    "name": "The Chip Inn",
-    "uniqueName": "the-chip-inn-coleraine",
-    "address": "2 The Rope Walk, Coleraine, BT51 3HA",
-    "postalCode": "BT51 3HA",
-    "lat": 55.125383,
-    "lng": -6.679381,
-    "url": "https://www.just-eat.co.uk/restaurants-the-chip-inn-coleraine/menu",
-    "items": [
-      {
-        "name": "Christmas Chip",
-        "pricePence": 1404
-      }
-    ],
-    "foundIn": [
-      "BT56"
-    ],
-    "located": true
-  },
-  {
     "id": "42440",
     "name": "Turf 'n' Surf",
     "uniqueName": "turfandsurf-bt51",
@@ -112,6 +72,46 @@
       {
         "name": "Christmas Chip",
         "pricePence": 1095
+      }
+    ],
+    "foundIn": [
+      "BT56"
+    ],
+    "located": true
+  },
+  {
+    "id": "92736",
+    "name": "Gareth's Takeaway",
+    "uniqueName": "gareths-takeaway-ballylintagh",
+    "address": "17 Bushmills Road, Coleraine, BT52 2BN",
+    "postalCode": "BT52 2BN",
+    "lat": 55.135762,
+    "lng": -6.662269,
+    "url": "https://www.just-eat.co.uk/restaurants-gareths-takeaway-ballylintagh/menu",
+    "items": [
+      {
+        "name": "Festive Chips",
+        "pricePence": 1000
+      }
+    ],
+    "foundIn": [
+      "BT56"
+    ],
+    "located": true
+  },
+  {
+    "id": "125703",
+    "name": "Bob and Berts - Coleraine",
+    "uniqueName": "bobandberts-coleraine",
+    "address": "32A The Diamond, Coleraine, BT52 1DP",
+    "postalCode": "BT52 1DP",
+    "lat": 55.131898,
+    "lng": -6.670875,
+    "url": "https://www.just-eat.co.uk/restaurants-bobandberts-coleraine/menu",
+    "items": [
+      {
+        "name": "Festive Loaded Fries",
+        "pricePence": 1345
       }
     ],
     "foundIn": [
