@@ -140,6 +140,66 @@
     "located": true
   },
   {
+    "id": "111584",
+    "name": "KFC Bangor County Down - South Circular Road",
+    "uniqueName": "kfc-bangorcountydown-southcircularroad",
+    "address": "South Circular Road, Balloo Link, Bangor, BT19 7HJ",
+    "postalCode": "BT19 7HJ",
+    "lat": 54.645756,
+    "lng": -5.669385,
+    "url": "https://www.just-eat.co.uk/restaurants-kfc-bangorcountydown-southcircularroad/menu",
+    "items": [
+      {
+        "name": "Festive Loaded Fries",
+        "pricePence": 499
+      }
+    ],
+    "foundIn": [
+      "BT20"
+    ],
+    "located": true
+  },
+  {
+    "id": "183306",
+    "name": "Domino's - Bangor (Northern Ireland)",
+    "uniqueName": "dominos-bangor-northern-ireland-ballymagee",
+    "address": "96 Abbey Street, BANGOR, BT20 4JB",
+    "postalCode": "BT20 4JB",
+    "lat": 54.656962,
+    "lng": -5.674036,
+    "url": "https://www.just-eat.co.uk/restaurants-dominos-bangor-northern-ireland-ballymagee/menu",
+    "items": [
+      {
+        "name": "Loaded Fries - Festive",
+        "pricePence": 699
+      }
+    ],
+    "foundIn": [
+      "BT20"
+    ],
+    "located": true
+  },
+  {
+    "id": "300279",
+    "name": "CHICK \u2018N\u2019 DIP from Domino\u2019s - Bangor (NI)",
+    "uniqueName": "chick-n-dip-from-dominos---bangor-ni-ballymagee",
+    "address": "Dominos, 96 Abbey Street, BANGOR, BT20 4JB",
+    "postalCode": "BT20 4JB",
+    "lat": 54.656958,
+    "lng": -5.674096,
+    "url": "https://www.just-eat.co.uk/restaurants-chick-n-dip-from-dominos---bangor-ni-ballymagee/menu",
+    "items": [
+      {
+        "name": "Loaded Fries - Festive",
+        "pricePence": 699
+      }
+    ],
+    "foundIn": [
+      "BT20"
+    ],
+    "located": true
+  },
+  {
     "id": "446861",
     "name": "JJ's CHIPPY",
     "uniqueName": "jjs-chippy-ltd-ballymagee",
@@ -156,26 +216,6 @@
       {
         "name": "Stuffing Gravy Chip",
         "pricePence": 795
-      }
-    ],
-    "foundIn": [
-      "BT20"
-    ],
-    "located": true
-  },
-  {
-    "id": "111584",
-    "name": "KFC Bangor County Down - South Circular Road",
-    "uniqueName": "kfc-bangorcountydown-southcircularroad",
-    "address": "South Circular Road, Balloo Link, Bangor, BT19 7HJ",
-    "postalCode": "BT19 7HJ",
-    "lat": 54.645756,
-    "lng": -5.669385,
-    "url": "https://www.just-eat.co.uk/restaurants-kfc-bangorcountydown-southcircularroad/menu",
-    "items": [
-      {
-        "name": "Festive Loaded Fries",
-        "pricePence": 499
       }
     ],
     "foundIn": [

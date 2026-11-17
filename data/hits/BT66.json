@@ -1,29 +1,5 @@
 [
   {
-    "id": "242613",
-    "name": "Danny's Chippy",
-    "uniqueName": "dannys-chippy-ballynaghty",
-    "address": "160 Park Road\nPortadown, Craigavon, BT62 1BH",
-    "postalCode": "BT62 1BH",
-    "lat": 54.424313,
-    "lng": -6.44741,
-    "url": "https://www.just-eat.co.uk/restaurants-dannys-chippy-ballynaghty/menu",
-    "items": [
-      {
-        "name": "Christmas Menu - Turkey & Ham Christmas Chip",
-        "pricePence": 1345
-      },
-      {
-        "name": "Christmas Menu - Chicken & Bacon Christmas Chip",
-        "pricePence": 1345
-      }
-    ],
-    "foundIn": [
-      "BT66"
-    ],
-    "located": true
-  },
-  {
     "id": "104575",
     "name": "D. Town Diner",
     "uniqueName": "d-town-diner-silverwood",
@@ -84,6 +60,30 @@
     "located": true
   },
   {
+    "id": "242613",
+    "name": "Danny's Chippy",
+    "uniqueName": "dannys-chippy-ballynaghty",
+    "address": "160 Park Road\nPortadown, Craigavon, BT62 1BH",
+    "postalCode": "BT62 1BH",
+    "lat": 54.424313,
+    "lng": -6.44741,
+    "url": "https://www.just-eat.co.uk/restaurants-dannys-chippy-ballynaghty/menu",
+    "items": [
+      {
+        "name": "Christmas Menu - Turkey & Ham Christmas Chip",
+        "pricePence": 1345
+      },
+      {
+        "name": "Christmas Menu - Chicken & Bacon Christmas Chip",
+        "pricePence": 1345
+      }
+    ],
+    "foundIn": [
+      "BT66"
+    ],
+    "located": true
+  },
+  {
     "id": "436437",
     "name": "The Snack Shack",
     "uniqueName": "the-snack-shack-silverwood",
@@ -104,6 +104,26 @@
     "located": true
   },
   {
+    "id": "183288",
+    "name": "Domino's - Lurgan",
+    "uniqueName": "dominoslurgan-silverwood",
+    "address": "Unit 2 2 Gilpinstown Road, Lurgan, CRAIGAVON, BT66 8RL",
+    "postalCode": "BT66 8RL",
+    "lat": 54.457374,
+    "lng": -6.356394,
+    "url": "https://www.just-eat.co.uk/restaurants-dominoslurgan-silverwood/menu",
+    "items": [
+      {
+        "name": "Loaded Fries - Festive",
+        "pricePence": 699
+      }
+    ],
+    "foundIn": [
+      "BT66"
+    ],
+    "located": true
+  },
+  {
     "id": "177714",
     "name": "The Mill Cafe And Bagel Bar",
     "uniqueName": "the-mill-cafe-and-bagel-bar-silverwood",
@@ -116,6 +136,46 @@
       {
         "name": "Festive Fries",
         "pricePence": 1350
+      }
+    ],
+    "foundIn": [
+      "BT66"
+    ],
+    "located": true
+  },
+  {
+    "id": "300160",
+    "name": "CHICK \u2018N\u2019 DIP from Domino\u2019s - Lurgan",
+    "uniqueName": "chick-n-dip-from-dominos---lurgan-silverwood",
+    "address": "Dominos, Unit 2 2 Gilpinstown Road, Lurgan, CRAIGAVON, BT66 8RL",
+    "postalCode": "BT66 8RL",
+    "lat": 54.457393,
+    "lng": -6.356335,
+    "url": "https://www.just-eat.co.uk/restaurants-chick-n-dip-from-dominos---lurgan-silverwood/menu",
+    "items": [
+      {
+        "name": "Loaded Fries - Festive",
+        "pricePence": 699
+      }
+    ],
+    "foundIn": [
+      "BT66"
+    ],
+    "located": true
+  },
+  {
+    "id": "160887",
+    "name": "Apache Pizza (Lurgan)",
+    "uniqueName": "apache-pizza-lurgan-silverwood-bt66",
+    "address": "35A Church Place, Craigavon, Lurgan, BT66 6EU",
+    "postalCode": "BT66 6EU",
+    "lat": 54.462692,
+    "lng": -6.335183,
+    "url": "https://www.just-eat.co.uk/restaurants-apache-pizza-lurgan-silverwood-bt66/menu",
+    "items": [
+      {
+        "name": "Ham Hock And Stuffing Loaded Fries",
+        "pricePence": 799
       }
     ],
     "foundIn": [

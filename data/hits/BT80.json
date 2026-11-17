@@ -18,5 +18,25 @@
       "BT80"
     ],
     "located": false
+  },
+  {
+    "id": "183260",
+    "name": "Domino's - Cookstown",
+    "uniqueName": "dominos-cookstown-coolreaghs",
+    "address": "33 William Street, Cookstown, COOKSTOWN, BT80 8AX",
+    "postalCode": "BT80 8AX",
+    "lat": 54.647379,
+    "lng": -6.745584,
+    "url": "https://www.just-eat.co.uk/restaurants-dominos-cookstown-coolreaghs/menu",
+    "items": [
+      {
+        "name": "Loaded Fries - Festive",
+        "pricePence": 699
+      }
+    ],
+    "foundIn": [
+      "BT80"
+    ],
+    "located": true
   }
 ]

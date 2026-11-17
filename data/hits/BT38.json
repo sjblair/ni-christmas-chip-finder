@@ -58,5 +58,65 @@
       "BT38"
     ],
     "located": false
+  },
+  {
+    "id": "177469",
+    "name": "Domino's - Carrickfergus",
+    "uniqueName": "dominos--carrickfergus",
+    "address": "6 Woodburn Road, Carrickfergus, BT38 8HQ",
+    "postalCode": "BT38 8HQ",
+    "lat": 54.718022,
+    "lng": -5.820438,
+    "url": "https://www.just-eat.co.uk/restaurants-dominos--carrickfergus/menu",
+    "items": [
+      {
+        "name": "Loaded Fries - Festive",
+        "pricePence": 699
+      }
+    ],
+    "foundIn": [
+      "BT38"
+    ],
+    "located": true
+  },
+  {
+    "id": "300252",
+    "name": "CHICK \u2018N\u2019 DIP from Domino\u2019s - Carrickfergus",
+    "uniqueName": "chick-n-dip-from-dominos---carrickfergus-carrickfergus",
+    "address": "Dominos, 6 Woodburn Road, Carrickfergus, BT38 8HQ",
+    "postalCode": "BT38 8HQ",
+    "lat": 54.71811,
+    "lng": -5.820563,
+    "url": "https://www.just-eat.co.uk/restaurants-chick-n-dip-from-dominos---carrickfergus-carrickfergus/menu",
+    "items": [
+      {
+        "name": "Loaded Fries - Festive",
+        "pricePence": 699
+      }
+    ],
+    "foundIn": [
+      "BT38"
+    ],
+    "located": true
+  },
+  {
+    "id": "295695",
+    "name": "Apache Pizza Carrickfergus",
+    "uniqueName": "apache-pizza-carrickfergus-carrickfergus",
+    "address": "43a Victoria Road, Carrickfergus, BT38 7JE",
+    "postalCode": "BT38 7JE",
+    "lat": 54.722275,
+    "lng": -5.790633,
+    "url": "https://www.just-eat.co.uk/restaurants-apache-pizza-carrickfergus-carrickfergus/menu",
+    "items": [
+      {
+        "name": "Ham Hock And Stuffing Loaded Fries",
+        "pricePence": 799
+      }
+    ],
+    "foundIn": [
+      "BT38"
+    ],
+    "located": true
   }
 ]

@@ -80,6 +80,46 @@
     "located": false
   },
   {
+    "id": "183229",
+    "name": "Just Eat store 183229",
+    "uniqueName": "",
+    "address": "",
+    "postalCode": "",
+    "lat": null,
+    "lng": null,
+    "url": "",
+    "items": [
+      {
+        "name": "Loaded Fries - Festive",
+        "pricePence": 699
+      }
+    ],
+    "foundIn": [
+      "BT42"
+    ],
+    "located": false
+  },
+  {
+    "id": "300175",
+    "name": "CHICK \u2018N\u2019 DIP from Domino\u2019s - Ballymena",
+    "uniqueName": "chick-n-dip-from-dominos---ballymena-rathkenny",
+    "address": "Dominos, 1 Smithfield Place, BALLYMENA, BT43 5HB",
+    "postalCode": "BT43 5HB",
+    "lat": 54.865363,
+    "lng": -6.280839,
+    "url": "https://www.just-eat.co.uk/restaurants-chick-n-dip-from-dominos---ballymena-rathkenny/menu",
+    "items": [
+      {
+        "name": "Loaded Fries - Festive",
+        "pricePence": 699
+      }
+    ],
+    "foundIn": [
+      "BT42"
+    ],
+    "located": true
+  },
+  {
     "id": "163651",
     "name": "The Hungry House",
     "uniqueName": "the-hungry-house-rathkenny",

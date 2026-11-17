@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "300139",
+    "name": "CHICK \u2018N\u2019 DIP from Domino\u2019s - Coalisland",
+    "uniqueName": "chick-n-dip-from-dominos---coalisland-ballynakilly",
+    "address": "Dominos, 44 The Square, Coalisland, BT71 4LN",
+    "postalCode": "BT71 4LN",
+    "lat": 54.540184,
+    "lng": -6.701985,
+    "url": "https://www.just-eat.co.uk/restaurants-chick-n-dip-from-dominos---coalisland-ballynakilly/menu",
+    "items": [
+      {
+        "name": "Loaded Fries - Festive",
+        "pricePence": 699
+      }
+    ],
+    "foundIn": [
+      "BT71"
+    ],
+    "located": true
+  }
+]

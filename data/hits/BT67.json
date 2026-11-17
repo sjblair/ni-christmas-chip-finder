@@ -78,5 +78,65 @@
       "BT67"
     ],
     "located": true
+  },
+  {
+    "id": "300115",
+    "name": "CHICK \u2018N\u2019 DIP from Domino\u2019s - Moira",
+    "uniqueName": "chick-n-dip-from-dominos---moira-aghalee",
+    "address": "Dominos, 1 Glenavy Road, Craigavon, BT67 0JW",
+    "postalCode": "BT67 0JW",
+    "lat": 54.495128,
+    "lng": -6.209918,
+    "url": "https://www.just-eat.co.uk/restaurants-chick-n-dip-from-dominos---moira-aghalee/menu",
+    "items": [
+      {
+        "name": "Loaded Fries - Festive",
+        "pricePence": 699
+      }
+    ],
+    "foundIn": [
+      "BT67"
+    ],
+    "located": true
+  },
+  {
+    "id": "249446",
+    "name": "Domino's - Moira",
+    "uniqueName": "dominos---moira-aghalee",
+    "address": "Glenavy Road, Craigavon, BT67 0JW",
+    "postalCode": "BT67 0JW",
+    "lat": 54.497268,
+    "lng": -6.209971,
+    "url": "https://www.just-eat.co.uk/restaurants-dominos---moira-aghalee/menu",
+    "items": [
+      {
+        "name": "Loaded Fries - Festive",
+        "pricePence": 699
+      }
+    ],
+    "foundIn": [
+      "BT67"
+    ],
+    "located": true
+  },
+  {
+    "id": "160887",
+    "name": "Apache Pizza (Lurgan)",
+    "uniqueName": "apache-pizza-lurgan-silverwood-bt66",
+    "address": "35A Church Place, Craigavon, Lurgan, BT66 6EU",
+    "postalCode": "BT66 6EU",
+    "lat": 54.462692,
+    "lng": -6.335183,
+    "url": "https://www.just-eat.co.uk/restaurants-apache-pizza-lurgan-silverwood-bt66/menu",
+    "items": [
+      {
+        "name": "Ham Hock And Stuffing Loaded Fries",
+        "pricePence": 799
+      }
+    ],
+    "foundIn": [
+      "BT67"
+    ],
+    "located": true
   }
 ]

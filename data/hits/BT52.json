@@ -60,6 +60,26 @@
     "located": true
   },
   {
+    "id": "92736",
+    "name": "Gareth's Takeaway",
+    "uniqueName": "gareths-takeaway-ballylintagh",
+    "address": "17 Bushmills Road, Coleraine, BT52 2BN",
+    "postalCode": "BT52 2BN",
+    "lat": 55.135762,
+    "lng": -6.662269,
+    "url": "https://www.just-eat.co.uk/restaurants-gareths-takeaway-ballylintagh/menu",
+    "items": [
+      {
+        "name": "Festive Chips",
+        "pricePence": 1000
+      }
+    ],
+    "foundIn": [
+      "BT52"
+    ],
+    "located": true
+  },
+  {
     "id": "125703",
     "name": "Bob and Berts - Coleraine",
     "uniqueName": "bobandberts-coleraine",
@@ -80,26 +100,6 @@
     "located": true
   },
   {
-    "id": "110303",
-    "name": "Just Eat store 110303",
-    "uniqueName": "",
-    "address": "",
-    "postalCode": "",
-    "lat": null,
-    "lng": null,
-    "url": "",
-    "items": [
-      {
-        "name": "Christmas Loaded Chips",
-        "pricePence": 1090
-      }
-    ],
-    "foundIn": [
-      "BT52"
-    ],
-    "located": false
-  },
-  {
     "id": "42440",
     "name": "Turf 'n' Surf",
     "uniqueName": "turfandsurf-bt51",
@@ -112,26 +112,6 @@
       {
         "name": "Christmas Chip",
         "pricePence": 1095
-      }
-    ],
-    "foundIn": [
-      "BT52"
-    ],
-    "located": true
-  },
-  {
-    "id": "92736",
-    "name": "Gareth's Takeaway",
-    "uniqueName": "gareths-takeaway-ballylintagh",
-    "address": "17 Bushmills Road, Coleraine, BT52 2BN",
-    "postalCode": "BT52 2BN",
-    "lat": 55.135762,
-    "lng": -6.662269,
-    "url": "https://www.just-eat.co.uk/restaurants-gareths-takeaway-ballylintagh/menu",
-    "items": [
-      {
-        "name": "Festive Chips",
-        "pricePence": 1000
       }
     ],
     "foundIn": [
@@ -160,6 +140,26 @@
     "located": true
   },
   {
+    "id": "110303",
+    "name": "Just Eat store 110303",
+    "uniqueName": "",
+    "address": "",
+    "postalCode": "",
+    "lat": null,
+    "lng": null,
+    "url": "",
+    "items": [
+      {
+        "name": "Christmas Loaded Chips",
+        "pricePence": 1090
+      }
+    ],
+    "foundIn": [
+      "BT52"
+    ],
+    "located": false
+  },
+  {
     "id": "236435",
     "name": "Just Eat store 236435",
     "uniqueName": "",
@@ -178,5 +178,65 @@
       "BT52"
     ],
     "located": false
+  },
+  {
+    "id": "183228",
+    "name": "Domino's - Coleraine",
+    "uniqueName": "dominos-coleraine-ballylintagh",
+    "address": "3 Dunmore Street, COLERAINE, BT52 1EL",
+    "postalCode": "BT52 1EL",
+    "lat": 55.129252,
+    "lng": -6.670828,
+    "url": "https://www.just-eat.co.uk/restaurants-dominos-coleraine-ballylintagh/menu",
+    "items": [
+      {
+        "name": "Loaded Fries - Festive",
+        "pricePence": 699
+      }
+    ],
+    "foundIn": [
+      "BT52"
+    ],
+    "located": true
+  },
+  {
+    "id": "300276",
+    "name": "CHICK \u2018N\u2019 DIP from Domino\u2019s - Coleraine",
+    "uniqueName": "chick-n-dip-from-dominos---coleraine-ballylintagh",
+    "address": "Dominos, 3 Dunmore Street, COLERAINE, BT52 1EL",
+    "postalCode": "BT52 1EL",
+    "lat": 55.129252,
+    "lng": -6.670828,
+    "url": "https://www.just-eat.co.uk/restaurants-chick-n-dip-from-dominos---coleraine-ballylintagh/menu",
+    "items": [
+      {
+        "name": "Loaded Fries - Festive",
+        "pricePence": 699
+      }
+    ],
+    "foundIn": [
+      "BT52"
+    ],
+    "located": true
+  },
+  {
+    "id": "185300",
+    "name": "Apache Pizza (Coleraine)",
+    "uniqueName": "apache-pizza-coleraine-ballylintagh",
+    "address": "9 Railway Road, Coleraine, BT52 1PD",
+    "postalCode": "BT52 1PD",
+    "lat": 55.131998,
+    "lng": -6.665762,
+    "url": "https://www.just-eat.co.uk/restaurants-apache-pizza-coleraine-ballylintagh/menu",
+    "items": [
+      {
+        "name": "Ham Hock And Stuffing Loaded Fries",
+        "pricePence": 799
+      }
+    ],
+    "foundIn": [
+      "BT52"
+    ],
+    "located": true
   }
 ]

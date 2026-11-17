@@ -1,5 +1,29 @@
 [
   {
+    "id": "318515",
+    "name": "Kennedy's",
+    "uniqueName": "kennedys-edenballymore-bt48",
+    "address": "2 Ballynagard Road, Londonderry, BT48 8JJ",
+    "postalCode": "BT48 8JJ",
+    "lat": 55.04237,
+    "lng": -7.276189,
+    "url": "https://www.just-eat.co.uk/restaurants-kennedys-edenballymore-bt48/menu",
+    "items": [
+      {
+        "name": "Chicken Festive Chip",
+        "pricePence": 1155
+      },
+      {
+        "name": "Turkey & Ham Festive Chips",
+        "pricePence": 1210
+      }
+    ],
+    "foundIn": [
+      "BT48"
+    ],
+    "located": true
+  },
+  {
     "id": "99289",
     "name": "KFC Londonderry - Lesley Retail Park",
     "uniqueName": "kfclesleyretailpark-edenballymore",
@@ -60,22 +84,38 @@
     "located": true
   },
   {
-    "id": "318515",
-    "name": "Kennedy's",
-    "uniqueName": "kennedys-edenballymore-bt48",
-    "address": "2 Ballynagard Road, Londonderry, BT48 8JJ",
-    "postalCode": "BT48 8JJ",
-    "lat": 55.04237,
-    "lng": -7.276189,
-    "url": "https://www.just-eat.co.uk/restaurants-kennedys-edenballymore-bt48/menu",
+    "id": "300287",
+    "name": "CHICK \u2018N\u2019 DIP from Domino\u2019s - Derry  - Cityside",
+    "uniqueName": "chick-n-dip-from-dominos---derry----cityside-edenballymore",
+    "address": "Dominos, 124 Strand Road, Derry, Derry, BT48 7PB",
+    "postalCode": "BT48 7PB",
+    "lat": 55.007701,
+    "lng": -7.319376,
+    "url": "https://www.just-eat.co.uk/restaurants-chick-n-dip-from-dominos---derry----cityside-edenballymore/menu",
     "items": [
       {
-        "name": "Chicken Festive Chip",
-        "pricePence": 1155
-      },
+        "name": "Loaded Fries - Festive",
+        "pricePence": 699
+      }
+    ],
+    "foundIn": [
+      "BT48"
+    ],
+    "located": true
+  },
+  {
+    "id": "175647",
+    "name": "Domino's - Derry - Londonderry - Strand Road",
+    "uniqueName": "dominos-derry-londonderry-cityside-edenballymore",
+    "address": "124 Strand Road, Derry, Derry, BT48 7PB",
+    "postalCode": "BT48 7PB",
+    "lat": 55.007324,
+    "lng": -7.319314,
+    "url": "https://www.just-eat.co.uk/restaurants-dominos-derry-londonderry-cityside-edenballymore/menu",
+    "items": [
       {
-        "name": "Turkey & Ham Festive Chips",
-        "pricePence": 1210
+        "name": "Loaded Fries - Festive",
+        "pricePence": 699
       }
     ],
     "foundIn": [
@@ -140,6 +180,26 @@
       {
         "name": "Stuffing Gravy Chips",
         "pricePence": 600
+      }
+    ],
+    "foundIn": [
+      "BT48"
+    ],
+    "located": true
+  },
+  {
+    "id": "83485",
+    "name": "Apache Pizza (Cityside)",
+    "uniqueName": "apache-pizza-edenballymore",
+    "address": "12 Waterloo Place, Londonderry, BT48 6BU",
+    "postalCode": "BT48 6BU",
+    "lat": 54.997978,
+    "lng": -7.321187,
+    "url": "https://www.just-eat.co.uk/restaurants-apache-pizza-edenballymore/menu",
+    "items": [
+      {
+        "name": "Ham Hock And Stuffing Loaded Fries",
+        "pricePence": 799
       }
     ],
     "foundIn": [
