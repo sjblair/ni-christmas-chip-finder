@@ -58,7 +58,6 @@
         }
       ],
       "foundIn": [
-        "BT32",
         "BT63"
       ],
       "located": true
@@ -162,26 +161,6 @@
       "foundIn": [
         "BT36",
         "BT37"
-      ],
-      "located": true
-    },
-    {
-      "id": "270323",
-      "name": "Apache pizza (Larne)",
-      "uniqueName": "apache-pizza-larne-inver-bt40",
-      "address": "1 Main Street, Larne, BT40 1JQ",
-      "postalCode": "BT40 1JQ",
-      "lat": 54.851325,
-      "lng": -5.821406,
-      "url": "https://www.just-eat.co.uk/restaurants-apache-pizza-larne-inver-bt40/menu",
-      "items": [
-        {
-          "name": "Ham Hock And Stuffing Loaded Fries",
-          "pricePence": 799
-        }
-      ],
-      "foundIn": [
-        "BT40"
       ],
       "located": true
     },
@@ -625,6 +604,33 @@
       "located": true
     },
     {
+      "id": "432999",
+      "name": "Berlin Gemuse Kebap Haus",
+      "uniqueName": "berlin-gemuse-kebap-haus-ballysillan-lower",
+      "address": "Unit 2 hillview retail park , crumlin road, Belfast, BT14 7EL",
+      "postalCode": "BT14 7EL",
+      "lat": 54.6121089,
+      "lng": -5.9539494,
+      "url": "https://www.just-eat.co.uk/restaurants-berlin-gemuse-kebap-haus-ballysillan-lower/menu",
+      "items": [
+        {
+          "name": "Christmas Chips",
+          "pricePence": 1200
+        }
+      ],
+      "foundIn": [
+        "BT1",
+        "BT2",
+        "BT10",
+        "BT12",
+        "BT13",
+        "BT14",
+        "BT15",
+        "BT37"
+      ],
+      "located": true
+    },
+    {
       "id": "304293",
       "name": "Big John's Traditional Fish & Chips",
       "uniqueName": "big-johns-traditional-fish-and-chips-flax-centre-bt13-1",
@@ -987,7 +993,7 @@
       "items": [
         {
           "name": "Christmas Chip",
-          "pricePence": 895
+          "pricePence": 995
         }
       ],
       "foundIn": [
@@ -1028,9 +1034,7 @@
         "BT15",
         "BT17",
         "BT18",
-        "BT27",
-        "BT36",
-        "BT37"
+        "BT27"
       ],
       "located": true
     },
@@ -1656,26 +1660,6 @@
       ],
       "foundIn": [
         "BT67"
-      ],
-      "located": true
-    },
-    {
-      "id": "300284",
-      "name": "CHICK \u2018N\u2019 DIP from Domino\u2019s - Newcastle (NI)",
-      "uniqueName": "chick-n-dip-from-dominos---newcastle-ni-the-spa",
-      "address": "Dominos, 4 Railway Street, Newcastle, BT33 0AL",
-      "postalCode": "BT33 0AL",
-      "lat": 54.214397,
-      "lng": -5.887302,
-      "url": "https://www.just-eat.co.uk/restaurants-chick-n-dip-from-dominos---newcastle-ni-the-spa/menu",
-      "items": [
-        {
-          "name": "Loaded Fries - Festive",
-          "pricePence": 699
-        }
-      ],
-      "foundIn": [
-        "BT33"
       ],
       "located": true
     },
@@ -2505,26 +2489,6 @@
       "located": true
     },
     {
-      "id": "269094",
-      "name": "Domino's - Newcastle (Northern Ireland)",
-      "uniqueName": "dominos---newcastle-northern-ireland-the-spa",
-      "address": "4 Railway Street, Newcastle, BT33 0AL",
-      "postalCode": "BT33 0AL",
-      "lat": 54.214413,
-      "lng": -5.88736,
-      "url": "https://www.just-eat.co.uk/restaurants-dominos---newcastle-northern-ireland-the-spa/menu",
-      "items": [
-        {
-          "name": "Loaded Fries - Festive",
-          "pricePence": 699
-        }
-      ],
-      "foundIn": [
-        "BT33"
-      ],
-      "located": true
-    },
-    {
       "id": "183249",
       "name": "Domino's - Portadown",
       "uniqueName": "dominos-portadown-ballynaghty",
@@ -3072,8 +3036,7 @@
         "BT13",
         "BT14",
         "BT15",
-        "BT17",
-        "BT27"
+        "BT17"
       ],
       "located": true
     },
@@ -3189,9 +3152,6 @@
         }
       ],
       "foundIn": [
-        "BT1",
-        "BT2",
-        "BT7",
         "BT9",
         "BT10",
         "BT11",
@@ -3786,26 +3746,6 @@
       "located": false
     },
     {
-      "id": "272527",
-      "name": "Just Eat store 272527",
-      "uniqueName": "",
-      "address": "",
-      "postalCode": "",
-      "lat": null,
-      "lng": null,
-      "url": "",
-      "items": [
-        {
-          "name": "Ham Hock And Stuffing Loaded Fries",
-          "pricePence": 799
-        }
-      ],
-      "foundIn": [
-        "BT35"
-      ],
-      "located": false
-    },
-    {
       "id": "281947",
       "name": "Just Eat store 281947",
       "uniqueName": "",
@@ -3947,46 +3887,6 @@
       ],
       "foundIn": [
         "BT32"
-      ],
-      "located": false
-    },
-    {
-      "id": "432437",
-      "name": "Just Eat store 432437",
-      "uniqueName": "",
-      "address": "",
-      "postalCode": "",
-      "lat": null,
-      "lng": null,
-      "url": "",
-      "items": [
-        {
-          "name": "Loaded Fries - Festive",
-          "pricePence": 699
-        }
-      ],
-      "foundIn": [
-        "BT34"
-      ],
-      "located": false
-    },
-    {
-      "id": "434212",
-      "name": "Just Eat store 434212",
-      "uniqueName": "",
-      "address": "",
-      "postalCode": "",
-      "lat": null,
-      "lng": null,
-      "url": "",
-      "items": [
-        {
-          "name": "Ham Hock And Stuffing Loaded Fries",
-          "pricePence": 799
-        }
-      ],
-      "foundIn": [
-        "BT41"
       ],
       "located": false
     },
@@ -4288,7 +4188,8 @@
       "foundIn": [
         "BT9",
         "BT10",
-        "BT12"
+        "BT12",
+        "BT27"
       ],
       "located": true
     },
@@ -4364,7 +4265,8 @@
         "BT12",
         "BT13",
         "BT15",
-        "BT18"
+        "BT18",
+        "BT37"
       ],
       "located": true
     },
@@ -4641,8 +4543,7 @@
         "BT14",
         "BT15",
         "BT36",
-        "BT37",
-        "BT39"
+        "BT37"
       ],
       "located": true
     },
@@ -5008,15 +4909,12 @@
         "BT7",
         "BT9",
         "BT10",
-        "BT11",
         "BT12",
         "BT13",
         "BT14",
         "BT15",
-        "BT17",
         "BT18",
         "BT27",
-        "BT36",
         "BT37"
       ],
       "located": true
@@ -5073,9 +4971,7 @@
         "BT13",
         "BT14",
         "BT15",
-        "BT18",
-        "BT36",
-        "BT37"
+        "BT18"
       ],
       "located": true
     },
@@ -5320,8 +5216,7 @@
         "BT12",
         "BT13",
         "BT16",
-        "BT17",
-        "BT18"
+        "BT17"
       ],
       "located": true
     },

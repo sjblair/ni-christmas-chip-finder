@@ -40,8 +40,8 @@
     "located": false
   },
   {
-    "id": "92736",
-    "name": "Just Eat store 92736",
+    "id": "42440",
+    "name": "Just Eat store 42440",
     "uniqueName": "",
     "address": "",
     "postalCode": "",
@@ -50,8 +50,8 @@
     "url": "",
     "items": [
       {
-        "name": "Festive Chips",
-        "pricePence": 1000
+        "name": "Christmas Chip",
+        "pricePence": 1095
       }
     ],
     "foundIn": [
@@ -80,8 +80,8 @@
     "located": false
   },
   {
-    "id": "42440",
-    "name": "Just Eat store 42440",
+    "id": "92736",
+    "name": "Just Eat store 92736",
     "uniqueName": "",
     "address": "",
     "postalCode": "",
@@ -90,8 +90,8 @@
     "url": "",
     "items": [
       {
-        "name": "Christmas Chip",
-        "pricePence": 1095
+        "name": "Festive Chips",
+        "pricePence": 1000
       }
     ],
     "foundIn": [

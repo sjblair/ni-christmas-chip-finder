@@ -62,25 +62,5 @@
       "BT41"
     ],
     "located": true
-  },
-  {
-    "id": "434212",
-    "name": "Just Eat store 434212",
-    "uniqueName": "",
-    "address": "",
-    "postalCode": "",
-    "lat": null,
-    "lng": null,
-    "url": "",
-    "items": [
-      {
-        "name": "Ham Hock And Stuffing Loaded Fries",
-        "pricePence": 799
-      }
-    ],
-    "foundIn": [
-      "BT41"
-    ],
-    "located": false
   }
 ]

@@ -40,26 +40,6 @@
     "located": true
   },
   {
-    "id": "184581",
-    "name": "Just Eat store 184581",
-    "uniqueName": "",
-    "address": "",
-    "postalCode": "",
-    "lat": null,
-    "lng": null,
-    "url": "",
-    "items": [
-      {
-        "name": "Festive Loaded Fries",
-        "pricePence": 499
-      }
-    ],
-    "foundIn": [
-      "BT38"
-    ],
-    "located": false
-  },
-  {
     "id": "177469",
     "name": "Domino's - Carrickfergus",
     "uniqueName": "dominos--carrickfergus",
@@ -78,6 +58,26 @@
       "BT38"
     ],
     "located": true
+  },
+  {
+    "id": "184581",
+    "name": "Just Eat store 184581",
+    "uniqueName": "",
+    "address": "",
+    "postalCode": "",
+    "lat": null,
+    "lng": null,
+    "url": "",
+    "items": [
+      {
+        "name": "Festive Loaded Fries",
+        "pricePence": 499
+      }
+    ],
+    "foundIn": [
+      "BT38"
+    ],
+    "located": false
   },
   {
     "id": "300252",

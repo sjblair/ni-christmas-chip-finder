@@ -1,5 +1,29 @@
 [
   {
+    "id": "242613",
+    "name": "Danny's Chippy",
+    "uniqueName": "dannys-chippy-ballynaghty",
+    "address": "160 Park Road\nPortadown, Craigavon, BT62 1BH",
+    "postalCode": "BT62 1BH",
+    "lat": 54.424313,
+    "lng": -6.44741,
+    "url": "https://www.just-eat.co.uk/restaurants-dannys-chippy-ballynaghty/menu",
+    "items": [
+      {
+        "name": "Christmas Menu - Turkey & Ham Christmas Chip",
+        "pricePence": 1345
+      },
+      {
+        "name": "Christmas Menu - Chicken & Bacon Christmas Chip",
+        "pricePence": 1345
+      }
+    ],
+    "foundIn": [
+      "BT64"
+    ],
+    "located": true
+  },
+  {
     "id": "180894",
     "name": "Asda Superstore - Portadown",
     "uniqueName": "asda-portadown-ballymacanallen",
@@ -80,22 +104,18 @@
     "located": true
   },
   {
-    "id": "242613",
-    "name": "Danny's Chippy",
-    "uniqueName": "dannys-chippy-ballynaghty",
-    "address": "160 Park Road\nPortadown, Craigavon, BT62 1BH",
-    "postalCode": "BT62 1BH",
-    "lat": 54.424313,
-    "lng": -6.44741,
-    "url": "https://www.just-eat.co.uk/restaurants-dannys-chippy-ballynaghty/menu",
+    "id": "249534",
+    "name": "Unch Portadown",
+    "uniqueName": "unch-portadown-ballynaghty",
+    "address": "31-33 High Street\nPortadown, Craigavon, BT62 1HY",
+    "postalCode": "BT62 1HY",
+    "lat": 54.423832,
+    "lng": -6.442357,
+    "url": "https://www.just-eat.co.uk/restaurants-unch-portadown-ballynaghty/menu",
     "items": [
       {
-        "name": "Christmas Menu - Turkey & Ham Christmas Chip",
-        "pricePence": 1345
-      },
-      {
-        "name": "Christmas Menu - Chicken & Bacon Christmas Chip",
-        "pricePence": 1345
+        "name": "Christmas Loaded Chip",
+        "pricePence": 1295
       }
     ],
     "foundIn": [
@@ -116,26 +136,6 @@
       {
         "name": "Christmas Chip",
         "pricePence": 800
-      }
-    ],
-    "foundIn": [
-      "BT64"
-    ],
-    "located": true
-  },
-  {
-    "id": "249534",
-    "name": "Unch Portadown",
-    "uniqueName": "unch-portadown-ballynaghty",
-    "address": "31-33 High Street\nPortadown, Craigavon, BT62 1HY",
-    "postalCode": "BT62 1HY",
-    "lat": 54.423832,
-    "lng": -6.442357,
-    "url": "https://www.just-eat.co.uk/restaurants-unch-portadown-ballynaghty/menu",
-    "items": [
-      {
-        "name": "Christmas Loaded Chip",
-        "pricePence": 1295
       }
     ],
     "foundIn": [
@@ -184,26 +184,6 @@
     "located": true
   },
   {
-    "id": "183288",
-    "name": "Domino's - Lurgan",
-    "uniqueName": "dominoslurgan-silverwood",
-    "address": "Unit 2 2 Gilpinstown Road, Lurgan, CRAIGAVON, BT66 8RL",
-    "postalCode": "BT66 8RL",
-    "lat": 54.457374,
-    "lng": -6.356394,
-    "url": "https://www.just-eat.co.uk/restaurants-dominoslurgan-silverwood/menu",
-    "items": [
-      {
-        "name": "Loaded Fries - Festive",
-        "pricePence": 699
-      }
-    ],
-    "foundIn": [
-      "BT64"
-    ],
-    "located": true
-  },
-  {
     "id": "161209",
     "name": "KFC - Portadown",
     "uniqueName": "kfcportadown-ballymacanallen",
@@ -216,6 +196,26 @@
       {
         "name": "Festive Loaded Fries",
         "pricePence": 499
+      }
+    ],
+    "foundIn": [
+      "BT64"
+    ],
+    "located": true
+  },
+  {
+    "id": "183288",
+    "name": "Domino's - Lurgan",
+    "uniqueName": "dominoslurgan-silverwood",
+    "address": "Unit 2 2 Gilpinstown Road, Lurgan, CRAIGAVON, BT66 8RL",
+    "postalCode": "BT66 8RL",
+    "lat": 54.457374,
+    "lng": -6.356394,
+    "url": "https://www.just-eat.co.uk/restaurants-dominoslurgan-silverwood/menu",
+    "items": [
+      {
+        "name": "Loaded Fries - Festive",
+        "pricePence": 699
       }
     ],
     "foundIn": [

@@ -44,6 +44,26 @@
     "located": true
   },
   {
+    "id": "175647",
+    "name": "Domino's - Derry - Londonderry - Strand Road",
+    "uniqueName": "dominos-derry-londonderry-cityside-edenballymore",
+    "address": "124 Strand Road, Derry, Derry, BT48 7PB",
+    "postalCode": "BT48 7PB",
+    "lat": 55.007324,
+    "lng": -7.319314,
+    "url": "https://www.just-eat.co.uk/restaurants-dominos-derry-londonderry-cityside-edenballymore/menu",
+    "items": [
+      {
+        "name": "Loaded Fries - Festive",
+        "pricePence": 699
+      }
+    ],
+    "foundIn": [
+      "BT48"
+    ],
+    "located": true
+  },
+  {
     "id": "188213",
     "name": "Red Barrel Street Food",
     "uniqueName": "red-barrel-street-food-edenballymore",
@@ -92,26 +112,6 @@
     "lat": 55.007701,
     "lng": -7.319376,
     "url": "https://www.just-eat.co.uk/restaurants-chick-n-dip-from-dominos---derry----cityside-edenballymore/menu",
-    "items": [
-      {
-        "name": "Loaded Fries - Festive",
-        "pricePence": 699
-      }
-    ],
-    "foundIn": [
-      "BT48"
-    ],
-    "located": true
-  },
-  {
-    "id": "175647",
-    "name": "Domino's - Derry - Londonderry - Strand Road",
-    "uniqueName": "dominos-derry-londonderry-cityside-edenballymore",
-    "address": "124 Strand Road, Derry, Derry, BT48 7PB",
-    "postalCode": "BT48 7PB",
-    "lat": 55.007324,
-    "lng": -7.319314,
-    "url": "https://www.just-eat.co.uk/restaurants-dominos-derry-londonderry-cityside-edenballymore/menu",
     "items": [
       {
         "name": "Loaded Fries - Festive",
