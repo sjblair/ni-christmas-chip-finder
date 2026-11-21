@@ -40,6 +40,30 @@
     "located": true
   },
   {
+    "id": "210823",
+    "name": "Marciano\u2019s Plus",
+    "uniqueName": "marcianos-plus-ballymagee",
+    "address": "9 Belfast Road, Bangor, BT20 3PN",
+    "postalCode": "BT20 3PN",
+    "lat": 54.656403,
+    "lng": -5.675965,
+    "url": "https://www.just-eat.co.uk/restaurants-marcianos-plus-ballymagee/menu",
+    "items": [
+      {
+        "name": "Christmas Dinner Loaded Chips - Regular Size",
+        "pricePence": 1170
+      },
+      {
+        "name": "Christmas Dinner Loaded Chips - Large Size",
+        "pricePence": 1755
+      }
+    ],
+    "foundIn": [
+      "BT21"
+    ],
+    "located": true
+  },
+  {
     "id": "141222",
     "name": "Grub Shack",
     "uniqueName": "grubshack-ballymagee",

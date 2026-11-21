@@ -60,26 +60,6 @@
     "located": false
   },
   {
-    "id": "269563",
-    "name": "Domino's - Ballymena - Herbison Square",
-    "uniqueName": "dominos---ballymena---herbison-square-rathkenny",
-    "address": "3 Herbison Square, Ballymena, BT43 6HS",
-    "postalCode": "BT43 6HS",
-    "lat": 54.877071,
-    "lng": -6.270458,
-    "url": "https://www.just-eat.co.uk/restaurants-dominos---ballymena---herbison-square-rathkenny/menu",
-    "items": [
-      {
-        "name": "Loaded Fries - Festive",
-        "pricePence": 699
-      }
-    ],
-    "foundIn": [
-      "BT43"
-    ],
-    "located": true
-  },
-  {
     "id": "300131",
     "name": "CHICK \u2018N\u2019 DIP from Domino\u2019s - Ballymena - Herbison",
     "uniqueName": "chick-n-dip-from-dominos---ballymena---herbison-rathkenny",
@@ -108,6 +88,26 @@
     "lat": 54.865363,
     "lng": -6.280839,
     "url": "https://www.just-eat.co.uk/restaurants-chick-n-dip-from-dominos---ballymena-rathkenny/menu",
+    "items": [
+      {
+        "name": "Loaded Fries - Festive",
+        "pricePence": 699
+      }
+    ],
+    "foundIn": [
+      "BT43"
+    ],
+    "located": true
+  },
+  {
+    "id": "269563",
+    "name": "Domino's - Ballymena - Herbison Square",
+    "uniqueName": "dominos---ballymena---herbison-square-rathkenny",
+    "address": "3 Herbison Square, Ballymena, BT43 6HS",
+    "postalCode": "BT43 6HS",
+    "lat": 54.877071,
+    "lng": -6.270458,
+    "url": "https://www.just-eat.co.uk/restaurants-dominos---ballymena---herbison-square-rathkenny/menu",
     "items": [
       {
         "name": "Loaded Fries - Festive",

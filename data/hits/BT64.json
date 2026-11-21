@@ -1,29 +1,5 @@
 [
   {
-    "id": "242613",
-    "name": "Danny's Chippy",
-    "uniqueName": "dannys-chippy-ballynaghty",
-    "address": "160 Park Road\nPortadown, Craigavon, BT62 1BH",
-    "postalCode": "BT62 1BH",
-    "lat": 54.424313,
-    "lng": -6.44741,
-    "url": "https://www.just-eat.co.uk/restaurants-dannys-chippy-ballynaghty/menu",
-    "items": [
-      {
-        "name": "Christmas Menu - Turkey & Ham Christmas Chip",
-        "pricePence": 1345
-      },
-      {
-        "name": "Christmas Menu - Chicken & Bacon Christmas Chip",
-        "pricePence": 1345
-      }
-    ],
-    "foundIn": [
-      "BT64"
-    ],
-    "located": true
-  },
-  {
     "id": "180894",
     "name": "Asda Superstore - Portadown",
     "uniqueName": "asda-portadown-ballymacanallen",
@@ -95,6 +71,30 @@
     "items": [
       {
         "name": "Festive Loaded Fries",
+        "pricePence": 1345
+      }
+    ],
+    "foundIn": [
+      "BT64"
+    ],
+    "located": true
+  },
+  {
+    "id": "242613",
+    "name": "Danny's Chippy",
+    "uniqueName": "dannys-chippy-ballynaghty",
+    "address": "160 Park Road\nPortadown, Craigavon, BT62 1BH",
+    "postalCode": "BT62 1BH",
+    "lat": 54.424313,
+    "lng": -6.44741,
+    "url": "https://www.just-eat.co.uk/restaurants-dannys-chippy-ballynaghty/menu",
+    "items": [
+      {
+        "name": "Christmas Menu - Turkey & Ham Christmas Chip",
+        "pricePence": 1345
+      },
+      {
+        "name": "Christmas Menu - Chicken & Bacon Christmas Chip",
         "pricePence": 1345
       }
     ],
@@ -184,26 +184,6 @@
     "located": true
   },
   {
-    "id": "161209",
-    "name": "KFC - Portadown",
-    "uniqueName": "kfcportadown-ballymacanallen",
-    "address": "146 Bridge Street, Portadown, BT63 5AP",
-    "postalCode": "BT63 5AP",
-    "lat": 54.427543,
-    "lng": -6.432884,
-    "url": "https://www.just-eat.co.uk/restaurants-kfcportadown-ballymacanallen/menu",
-    "items": [
-      {
-        "name": "Festive Loaded Fries",
-        "pricePence": 499
-      }
-    ],
-    "foundIn": [
-      "BT64"
-    ],
-    "located": true
-  },
-  {
     "id": "183288",
     "name": "Domino's - Lurgan",
     "uniqueName": "dominoslurgan-silverwood",
@@ -216,6 +196,26 @@
       {
         "name": "Loaded Fries - Festive",
         "pricePence": 699
+      }
+    ],
+    "foundIn": [
+      "BT64"
+    ],
+    "located": true
+  },
+  {
+    "id": "161209",
+    "name": "KFC - Portadown",
+    "uniqueName": "kfcportadown-ballymacanallen",
+    "address": "146 Bridge Street, Portadown, BT63 5AP",
+    "postalCode": "BT63 5AP",
+    "lat": 54.427543,
+    "lng": -6.432884,
+    "url": "https://www.just-eat.co.uk/restaurants-kfcportadown-ballymacanallen/menu",
+    "items": [
+      {
+        "name": "Festive Loaded Fries",
+        "pricePence": 499
       }
     ],
     "foundIn": [
@@ -256,26 +256,6 @@
       {
         "name": "Festive Fries",
         "pricePence": 1350
-      }
-    ],
-    "foundIn": [
-      "BT64"
-    ],
-    "located": true
-  },
-  {
-    "id": "160887",
-    "name": "Apache Pizza (Lurgan)",
-    "uniqueName": "apache-pizza-lurgan-silverwood-bt66",
-    "address": "35A Church Place, Craigavon, Lurgan, BT66 6EU",
-    "postalCode": "BT66 6EU",
-    "lat": 54.462692,
-    "lng": -6.335183,
-    "url": "https://www.just-eat.co.uk/restaurants-apache-pizza-lurgan-silverwood-bt66/menu",
-    "items": [
-      {
-        "name": "Ham Hock And Stuffing Loaded Fries",
-        "pricePence": 799
       }
     ],
     "foundIn": [

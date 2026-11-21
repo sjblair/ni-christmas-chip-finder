@@ -38,25 +38,5 @@
       "BT30"
     ],
     "located": true
-  },
-  {
-    "id": "299450",
-    "name": "Apache Pizza (Downpatrick)",
-    "uniqueName": "apache-pizza-downpatrick-quoile-park",
-    "address": "112 B Market Street, Downpatrick, BT30 6LZ",
-    "postalCode": "BT30 6LZ",
-    "lat": 54.326467,
-    "lng": -5.718182,
-    "url": "https://www.just-eat.co.uk/restaurants-apache-pizza-downpatrick-quoile-park/menu",
-    "items": [
-      {
-        "name": "Ham Hock And Stuffing Loaded Fries",
-        "pricePence": 799
-      }
-    ],
-    "foundIn": [
-      "BT30"
-    ],
-    "located": true
   }
 ]

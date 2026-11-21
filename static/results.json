@@ -23,46 +23,6 @@
       "located": true
     },
     {
-      "id": "269554",
-      "name": "Apache Pizza (Ballymoney)",
-      "uniqueName": "apache-pizza-ballymoney-kilraghts",
-      "address": "3 Charles St, Ballymoney, Ballymoney, BT53 6DX",
-      "postalCode": "BT53 6DX",
-      "lat": 55.073498,
-      "lng": -6.519026,
-      "url": "https://www.just-eat.co.uk/restaurants-apache-pizza-ballymoney-kilraghts/menu",
-      "items": [
-        {
-          "name": "Ham Hock And Stuffing Loaded Fries",
-          "pricePence": 799
-        }
-      ],
-      "foundIn": [
-        "BT53"
-      ],
-      "located": true
-    },
-    {
-      "id": "77216",
-      "name": "Apache Pizza (Banbridge)",
-      "uniqueName": "apache-pizza-banbridge-annahilt",
-      "address": "80 Newry Street, Banbridge, BT32 3HA",
-      "postalCode": "BT32 3HA",
-      "lat": 54.347585,
-      "lng": -6.270339,
-      "url": "https://www.just-eat.co.uk/restaurants-apache-pizza-banbridge-annahilt/menu",
-      "items": [
-        {
-          "name": "Ham Hock And Stuffing Loaded Fries",
-          "pricePence": 799
-        }
-      ],
-      "foundIn": [
-        "BT63"
-      ],
-      "located": true
-    },
-    {
       "id": "83485",
       "name": "Apache Pizza (Cityside)",
       "uniqueName": "apache-pizza-edenballymore",
@@ -79,46 +39,6 @@
       ],
       "foundIn": [
         "BT48"
-      ],
-      "located": true
-    },
-    {
-      "id": "185300",
-      "name": "Apache Pizza (Coleraine)",
-      "uniqueName": "apache-pizza-coleraine-ballylintagh",
-      "address": "9 Railway Road, Coleraine, BT52 1PD",
-      "postalCode": "BT52 1PD",
-      "lat": 55.131998,
-      "lng": -6.665762,
-      "url": "https://www.just-eat.co.uk/restaurants-apache-pizza-coleraine-ballylintagh/menu",
-      "items": [
-        {
-          "name": "Ham Hock And Stuffing Loaded Fries",
-          "pricePence": 799
-        }
-      ],
-      "foundIn": [
-        "BT52"
-      ],
-      "located": true
-    },
-    {
-      "id": "299450",
-      "name": "Apache Pizza (Downpatrick)",
-      "uniqueName": "apache-pizza-downpatrick-quoile-park",
-      "address": "112 B Market Street, Downpatrick, BT30 6LZ",
-      "postalCode": "BT30 6LZ",
-      "lat": 54.326467,
-      "lng": -5.718182,
-      "url": "https://www.just-eat.co.uk/restaurants-apache-pizza-downpatrick-quoile-park/menu",
-      "items": [
-        {
-          "name": "Ham Hock And Stuffing Loaded Fries",
-          "pricePence": 799
-        }
-      ],
-      "foundIn": [
-        "BT30"
       ],
       "located": true
     },
@@ -144,70 +64,6 @@
       "located": true
     },
     {
-      "id": "180839",
-      "name": "Apache Pizza (Glengormley)",
-      "uniqueName": "apache-pizza-glengormley-newtownabbey",
-      "address": "8 Portland Avenue\nGlengormley, Newtownabbey, BT36 5EY",
-      "postalCode": "BT36 5EY",
-      "lat": 54.672195,
-      "lng": -5.958506,
-      "url": "https://www.just-eat.co.uk/restaurants-apache-pizza-glengormley-newtownabbey/menu",
-      "items": [
-        {
-          "name": "Ham Hock And Stuffing Loaded Fries",
-          "pricePence": 799
-        }
-      ],
-      "foundIn": [
-        "BT36",
-        "BT37"
-      ],
-      "located": true
-    },
-    {
-      "id": "281548",
-      "name": "Apache Pizza (Limavady)",
-      "uniqueName": "apache-pizza-artikelly",
-      "address": "21 Catherine Street, Limavady, BT49 9DA",
-      "postalCode": "BT49 9DA",
-      "lat": 55.050094,
-      "lng": -6.952273,
-      "url": "https://www.just-eat.co.uk/restaurants-apache-pizza-artikelly/menu",
-      "items": [
-        {
-          "name": "Ham Hock And Stuffing Loaded Fries",
-          "pricePence": 799
-        }
-      ],
-      "foundIn": [
-        "BT49"
-      ],
-      "located": true
-    },
-    {
-      "id": "160887",
-      "name": "Apache Pizza (Lurgan)",
-      "uniqueName": "apache-pizza-lurgan-silverwood-bt66",
-      "address": "35A Church Place, Craigavon, Lurgan, BT66 6EU",
-      "postalCode": "BT66 6EU",
-      "lat": 54.462692,
-      "lng": -6.335183,
-      "url": "https://www.just-eat.co.uk/restaurants-apache-pizza-lurgan-silverwood-bt66/menu",
-      "items": [
-        {
-          "name": "Ham Hock And Stuffing Loaded Fries",
-          "pricePence": 799
-        }
-      ],
-      "foundIn": [
-        "BT64",
-        "BT65",
-        "BT66",
-        "BT67"
-      ],
-      "located": true
-    },
-    {
       "id": "106962",
       "name": "Apache Pizza (Portadown)",
       "uniqueName": "apache-pizza-portadown-new-ballynaghty",
@@ -226,67 +82,6 @@
         "BT62",
         "BT63",
         "BT64"
-      ],
-      "located": true
-    },
-    {
-      "id": "241219",
-      "name": "Apache Pizza (Portrush)",
-      "uniqueName": "apache-pizza-portrush-aghadowey",
-      "address": "13a Main Street, Portrush, BT56 8BL",
-      "postalCode": "BT56 8BL",
-      "lat": 55.206302,
-      "lng": -6.652773,
-      "url": "https://www.just-eat.co.uk/restaurants-apache-pizza-portrush-aghadowey/menu",
-      "items": [
-        {
-          "name": "Ham Hock And Stuffing Loaded Fries",
-          "pricePence": 799
-        }
-      ],
-      "foundIn": [
-        "BT55",
-        "BT56"
-      ],
-      "located": true
-    },
-    {
-      "id": "295695",
-      "name": "Apache Pizza Carrickfergus",
-      "uniqueName": "apache-pizza-carrickfergus-carrickfergus",
-      "address": "43a Victoria Road, Carrickfergus, BT38 7JE",
-      "postalCode": "BT38 7JE",
-      "lat": 54.722275,
-      "lng": -5.790633,
-      "url": "https://www.just-eat.co.uk/restaurants-apache-pizza-carrickfergus-carrickfergus/menu",
-      "items": [
-        {
-          "name": "Ham Hock And Stuffing Loaded Fries",
-          "pricePence": 799
-        }
-      ],
-      "foundIn": [
-        "BT38"
-      ],
-      "located": true
-    },
-    {
-      "id": "299925",
-      "name": "Apache Pizza Newcastle",
-      "uniqueName": "apache-pizza-newcastle-the-spa",
-      "address": "1 Main Street, Newcastle, BT33 0AD",
-      "postalCode": "BT33 0AD",
-      "lat": 54.213854,
-      "lng": -5.889025,
-      "url": "https://www.just-eat.co.uk/restaurants-apache-pizza-newcastle-the-spa/menu",
-      "items": [
-        {
-          "name": "Ham Hock And Stuffing Loaded Fries",
-          "pricePence": 799
-        }
-      ],
-      "foundIn": [
-        "BT33"
       ],
       "located": true
     },
@@ -578,6 +373,27 @@
       "located": true
     },
     {
+      "id": "121309",
+      "name": "Beatties Fish Bar",
+      "uniqueName": "beatties-fish-bar-new-flax-centre",
+      "address": "220 Shankill Road, Belfast, BT13 2BJ",
+      "postalCode": "BT13 2BJ",
+      "lat": 54.604035,
+      "lng": -5.950179,
+      "url": "https://www.just-eat.co.uk/restaurants-beatties-fish-bar-new-flax-centre/menu",
+      "items": [
+        {
+          "name": "Christmas Chips \ud83c\udf85\ud83c\udffd",
+          "pricePence": 1095
+        }
+      ],
+      "foundIn": [
+        "BT13",
+        "BT14"
+      ],
+      "located": true
+    },
+    {
       "id": "30057",
       "name": "Bella Pizza",
       "uniqueName": "bellapizza-bt4",
@@ -865,10 +681,13 @@
         }
       ],
       "foundIn": [
+        "BT1",
         "BT2",
         "BT6",
         "BT7",
-        "BT9"
+        "BT9",
+        "BT10",
+        "BT12"
       ],
       "located": true
     },
@@ -1021,8 +840,6 @@
       "foundIn": [
         "BT1",
         "BT2",
-        "BT4",
-        "BT5",
         "BT6",
         "BT7",
         "BT9",
@@ -1033,7 +850,6 @@
         "BT14",
         "BT15",
         "BT17",
-        "BT18",
         "BT27"
       ],
       "located": true
@@ -1664,6 +1480,26 @@
       "located": true
     },
     {
+      "id": "300284",
+      "name": "CHICK \u2018N\u2019 DIP from Domino\u2019s - Newcastle (NI)",
+      "uniqueName": "chick-n-dip-from-dominos---newcastle-ni-the-spa",
+      "address": "Dominos, 4 Railway Street, Newcastle, BT33 0AL",
+      "postalCode": "BT33 0AL",
+      "lat": 54.214397,
+      "lng": -5.887302,
+      "url": "https://www.just-eat.co.uk/restaurants-chick-n-dip-from-dominos---newcastle-ni-the-spa/menu",
+      "items": [
+        {
+          "name": "Loaded Fries - Festive",
+          "pricePence": 699
+        }
+      ],
+      "foundIn": [
+        "BT33"
+      ],
+      "located": true
+    },
+    {
       "id": "300150",
       "name": "CHICK \u2018N\u2019 DIP from Domino\u2019s - Portadown",
       "uniqueName": "chick-n-dip-from-dominos---portadown-ballynaghty",
@@ -1761,6 +1597,32 @@
         "BT12",
         "BT13",
         "BT14"
+      ],
+      "located": true
+    },
+    {
+      "id": "239438",
+      "name": "City Picnic",
+      "uniqueName": "city-picnic-belfast-bt1",
+      "address": "2- 6 Castle Street, Belfast, BT1 1HB",
+      "postalCode": "BT1 1HB",
+      "lat": 54.599046,
+      "lng": -5.931348,
+      "url": "https://www.just-eat.co.uk/restaurants-city-picnic-belfast-bt1/menu",
+      "items": [
+        {
+          "name": "Christmas Chip",
+          "pricePence": 1300
+        }
+      ],
+      "foundIn": [
+        "BT1",
+        "BT2",
+        "BT7",
+        "BT10",
+        "BT12",
+        "BT13",
+        "BT15"
       ],
       "located": true
     },
@@ -2489,6 +2351,26 @@
       "located": true
     },
     {
+      "id": "269094",
+      "name": "Domino's - Newcastle (Northern Ireland)",
+      "uniqueName": "dominos---newcastle-northern-ireland-the-spa",
+      "address": "4 Railway Street, Newcastle, BT33 0AL",
+      "postalCode": "BT33 0AL",
+      "lat": 54.214413,
+      "lng": -5.88736,
+      "url": "https://www.just-eat.co.uk/restaurants-dominos---newcastle-northern-ireland-the-spa/menu",
+      "items": [
+        {
+          "name": "Loaded Fries - Festive",
+          "pricePence": 699
+        }
+      ],
+      "foundIn": [
+        "BT33"
+      ],
+      "located": true
+    },
+    {
       "id": "183249",
       "name": "Domino's - Portadown",
       "uniqueName": "dominos-portadown-ballynaghty",
@@ -3028,15 +2910,10 @@
       "foundIn": [
         "BT1",
         "BT2",
-        "BT7",
-        "BT9",
         "BT10",
-        "BT11",
         "BT12",
         "BT13",
-        "BT14",
-        "BT15",
-        "BT17"
+        "BT14"
       ],
       "located": true
     },
@@ -3228,8 +3105,11 @@
         "BT5",
         "BT6",
         "BT7",
+        "BT9",
+        "BT10",
         "BT12",
         "BT13",
+        "BT14",
         "BT15",
         "BT18",
         "BT37"
@@ -3345,26 +3225,6 @@
       "located": false
     },
     {
-      "id": "157962",
-      "name": "Just Eat store 157962",
-      "uniqueName": "",
-      "address": "",
-      "postalCode": "",
-      "lat": null,
-      "lng": null,
-      "url": "",
-      "items": [
-        {
-          "name": "Ham Hock And Stuffing Loaded Fries",
-          "pricePence": 799
-        }
-      ],
-      "foundIn": [
-        "BT47"
-      ],
-      "located": false
-    },
-    {
       "id": "165036",
       "name": "Just Eat store 165036",
       "uniqueName": "",
@@ -3442,6 +3302,27 @@
       ],
       "foundIn": [
         "BT79"
+      ],
+      "located": false
+    },
+    {
+      "id": "175857",
+      "name": "Just Eat store 175857",
+      "uniqueName": "",
+      "address": "",
+      "postalCode": "",
+      "lat": null,
+      "lng": null,
+      "url": "",
+      "items": [
+        {
+          "name": "Lunch Specials - Loaded Festive Fries",
+          "pricePence": 1294
+        }
+      ],
+      "foundIn": [
+        "BT27",
+        "BT28"
       ],
       "located": false
     },
@@ -3891,6 +3772,26 @@
       "located": false
     },
     {
+      "id": "432437",
+      "name": "Just Eat store 432437",
+      "uniqueName": "",
+      "address": "",
+      "postalCode": "",
+      "lat": null,
+      "lng": null,
+      "url": "",
+      "items": [
+        {
+          "name": "Loaded Fries - Festive",
+          "pricePence": 699
+        }
+      ],
+      "foundIn": [
+        "BT34"
+      ],
+      "located": false
+    },
+    {
       "id": "448774",
       "name": "Just Eat store 448774",
       "uniqueName": "",
@@ -4001,6 +3902,10 @@
         {
           "name": "Turkey & Ham Festive Chips",
           "pricePence": 1210
+        },
+        {
+          "name": "Xmas Chip And Small Box",
+          "pricePence": 803
         }
       ],
       "foundIn": [
@@ -4071,6 +3976,8 @@
       ],
       "foundIn": [
         "BT1",
+        "BT2",
+        "BT14",
         "BT15",
         "BT36",
         "BT37"
@@ -4116,9 +4023,12 @@
         }
       ],
       "foundIn": [
+        "BT1",
+        "BT2",
         "BT4",
         "BT5",
         "BT6",
+        "BT7",
         "BT16",
         "BT18"
       ],
@@ -4163,6 +4073,8 @@
       "foundIn": [
         "BT1",
         "BT2",
+        "BT7",
+        "BT10",
         "BT12",
         "BT13",
         "BT14",
@@ -4186,9 +4098,14 @@
         }
       ],
       "foundIn": [
+        "BT2",
+        "BT7",
         "BT9",
         "BT10",
+        "BT11",
         "BT12",
+        "BT13",
+        "BT17",
         "BT27"
       ],
       "located": true
@@ -4262,8 +4179,10 @@
         "BT5",
         "BT6",
         "BT7",
+        "BT9",
         "BT12",
         "BT13",
+        "BT14",
         "BT15",
         "BT18",
         "BT37"
@@ -4367,6 +4286,8 @@
         }
       ],
       "foundIn": [
+        "BT14",
+        "BT15",
         "BT36",
         "BT37"
       ],
@@ -4455,12 +4376,9 @@
       "foundIn": [
         "BT1",
         "BT2",
-        "BT4",
-        "BT6",
         "BT7",
         "BT9",
         "BT10",
-        "BT11",
         "BT12",
         "BT13",
         "BT14",
@@ -4489,6 +4407,11 @@
       "foundIn": [
         "BT1",
         "BT2",
+        "BT4",
+        "BT6",
+        "BT7",
+        "BT12",
+        "BT13",
         "BT14",
         "BT15",
         "BT37"
@@ -4537,9 +4460,6 @@
         }
       ],
       "foundIn": [
-        "BT1",
-        "BT2",
-        "BT13",
         "BT14",
         "BT15",
         "BT36",
@@ -4611,6 +4531,33 @@
       "foundIn": [
         "BT36",
         "BT37"
+      ],
+      "located": true
+    },
+    {
+      "id": "210823",
+      "name": "Marciano\u2019s Plus",
+      "uniqueName": "marcianos-plus-ballymagee",
+      "address": "9 Belfast Road, Bangor, BT20 3PN",
+      "postalCode": "BT20 3PN",
+      "lat": 54.656403,
+      "lng": -5.675965,
+      "url": "https://www.just-eat.co.uk/restaurants-marcianos-plus-ballymagee/menu",
+      "items": [
+        {
+          "name": "Christmas Dinner Loaded Chips - Large Size",
+          "pricePence": 1755
+        },
+        {
+          "name": "Christmas Dinner Loaded Chips - Regular Size",
+          "pricePence": 1170
+        }
+      ],
+      "foundIn": [
+        "BT18",
+        "BT19",
+        "BT20",
+        "BT21"
       ],
       "located": true
     },
@@ -4752,6 +4699,8 @@
       ],
       "foundIn": [
         "BT1",
+        "BT2",
+        "BT12",
         "BT13",
         "BT14",
         "BT15",
@@ -4920,6 +4869,30 @@
       "located": true
     },
     {
+      "id": "87203",
+      "name": "Papa G's Pizza",
+      "uniqueName": "papa-gs-pizza-omagh",
+      "address": "48A Brookmount Road, Omagh, BT78 5HY",
+      "postalCode": "BT78 5HY",
+      "lat": 54.600444,
+      "lng": -7.317604,
+      "url": "https://www.just-eat.co.uk/restaurants-papa-gs-pizza-omagh/menu",
+      "items": [
+        {
+          "name": "Chip, Stuffing And Gravy",
+          "pricePence": 700
+        },
+        {
+          "name": "Christmas Chips",
+          "pricePence": 1080
+        }
+      ],
+      "foundIn": [
+        "BT78"
+      ],
+      "located": true
+    },
+    {
       "id": "236027",
       "name": "Park Avenue Takeaway",
       "uniqueName": "park-avenue-takeaway-silverwood-bt66",
@@ -4964,14 +4937,10 @@
         "BT5",
         "BT6",
         "BT7",
-        "BT8",
         "BT9",
-        "BT10",
         "BT12",
         "BT13",
-        "BT14",
-        "BT15",
-        "BT18"
+        "BT15"
       ],
       "located": true
     },
@@ -5215,8 +5184,11 @@
         "BT11",
         "BT12",
         "BT13",
+        "BT14",
+        "BT15",
         "BT16",
-        "BT17"
+        "BT17",
+        "BT18"
       ],
       "located": true
     },
@@ -5311,6 +5283,27 @@
       "located": true
     },
     {
+      "id": "308947",
+      "name": "Tasto",
+      "uniqueName": "tasto-silverwood",
+      "address": "33 Church Place,Lurgan, Craigavon, BT66 6EU",
+      "postalCode": "BT66 6EU",
+      "lat": 54.462939,
+      "lng": -6.334476,
+      "url": "https://www.just-eat.co.uk/restaurants-tasto-silverwood/menu",
+      "items": [
+        {
+          "name": "Christmas Chip",
+          "pricePence": 1150
+        }
+      ],
+      "foundIn": [
+        "BT65",
+        "BT66"
+      ],
+      "located": true
+    },
+    {
       "id": "258528",
       "name": "Tasty Nosh West",
       "uniqueName": "tasty-nosh-west-andersonstown",
@@ -5385,13 +5378,7 @@
         "BT4",
         "BT5",
         "BT6",
-        "BT7",
-        "BT8",
-        "BT9",
-        "BT12",
-        "BT13",
-        "BT15",
-        "BT18"
+        "BT7"
       ],
       "located": true
     },

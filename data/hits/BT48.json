@@ -10,6 +10,10 @@
     "url": "https://www.just-eat.co.uk/restaurants-kennedys-edenballymore-bt48/menu",
     "items": [
       {
+        "name": "Xmas Chip And Small Box",
+        "pricePence": 803
+      },
+      {
         "name": "Chicken Festive Chip",
         "pricePence": 1155
       },
@@ -56,26 +60,6 @@
       {
         "name": "Loaded Fries - Festive",
         "pricePence": 699
-      }
-    ],
-    "foundIn": [
-      "BT48"
-    ],
-    "located": true
-  },
-  {
-    "id": "188213",
-    "name": "Red Barrel Street Food",
-    "uniqueName": "red-barrel-street-food-edenballymore",
-    "address": "Unit M15A Northside Village, London Derry, BT48 8NN",
-    "postalCode": "BT48 8NN",
-    "lat": 55.028233,
-    "lng": -7.316237,
-    "url": "https://www.just-eat.co.uk/restaurants-red-barrel-street-food-edenballymore/menu",
-    "items": [
-      {
-        "name": "Festive Fries",
-        "pricePence": 1200
       }
     ],
     "foundIn": [
@@ -148,6 +132,46 @@
     "located": true
   },
   {
+    "id": "188213",
+    "name": "Red Barrel Street Food",
+    "uniqueName": "red-barrel-street-food-edenballymore",
+    "address": "Unit M15A Northside Village, London Derry, BT48 8NN",
+    "postalCode": "BT48 8NN",
+    "lat": 55.028233,
+    "lng": -7.316237,
+    "url": "https://www.just-eat.co.uk/restaurants-red-barrel-street-food-edenballymore/menu",
+    "items": [
+      {
+        "name": "Festive Fries",
+        "pricePence": 1200
+      }
+    ],
+    "foundIn": [
+      "BT48"
+    ],
+    "located": true
+  },
+  {
+    "id": "83485",
+    "name": "Apache Pizza (Cityside)",
+    "uniqueName": "apache-pizza-edenballymore",
+    "address": "12 Waterloo Place, Londonderry, BT48 6BU",
+    "postalCode": "BT48 6BU",
+    "lat": 54.997978,
+    "lng": -7.321187,
+    "url": "https://www.just-eat.co.uk/restaurants-apache-pizza-edenballymore/menu",
+    "items": [
+      {
+        "name": "Ham Hock And Stuffing Loaded Fries",
+        "pricePence": 799
+      }
+    ],
+    "foundIn": [
+      "BT48"
+    ],
+    "located": true
+  },
+  {
     "id": "305767",
     "name": "Golden Chippy",
     "uniqueName": "golden-chippy-edenballymore",
@@ -180,26 +204,6 @@
       {
         "name": "Stuffing Gravy Chips",
         "pricePence": 600
-      }
-    ],
-    "foundIn": [
-      "BT48"
-    ],
-    "located": true
-  },
-  {
-    "id": "83485",
-    "name": "Apache Pizza (Cityside)",
-    "uniqueName": "apache-pizza-edenballymore",
-    "address": "12 Waterloo Place, Londonderry, BT48 6BU",
-    "postalCode": "BT48 6BU",
-    "lat": 54.997978,
-    "lng": -7.321187,
-    "url": "https://www.just-eat.co.uk/restaurants-apache-pizza-edenballymore/menu",
-    "items": [
-      {
-        "name": "Ham Hock And Stuffing Loaded Fries",
-        "pricePence": 799
       }
     ],
     "foundIn": [

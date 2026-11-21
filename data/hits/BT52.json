@@ -160,26 +160,6 @@
     "located": false
   },
   {
-    "id": "236435",
-    "name": "Just Eat store 236435",
-    "uniqueName": "",
-    "address": "",
-    "postalCode": "",
-    "lat": null,
-    "lng": null,
-    "url": "",
-    "items": [
-      {
-        "name": "Festive Loaded Fries",
-        "pricePence": 499
-      }
-    ],
-    "foundIn": [
-      "BT52"
-    ],
-    "located": false
-  },
-  {
     "id": "183228",
     "name": "Domino's - Coleraine",
     "uniqueName": "dominos-coleraine-ballylintagh",
@@ -200,6 +180,26 @@
     "located": true
   },
   {
+    "id": "236435",
+    "name": "Just Eat store 236435",
+    "uniqueName": "",
+    "address": "",
+    "postalCode": "",
+    "lat": null,
+    "lng": null,
+    "url": "",
+    "items": [
+      {
+        "name": "Festive Loaded Fries",
+        "pricePence": 499
+      }
+    ],
+    "foundIn": [
+      "BT52"
+    ],
+    "located": false
+  },
+  {
     "id": "300276",
     "name": "CHICK \u2018N\u2019 DIP from Domino\u2019s - Coleraine",
     "uniqueName": "chick-n-dip-from-dominos---coleraine-ballylintagh",
@@ -212,26 +212,6 @@
       {
         "name": "Loaded Fries - Festive",
         "pricePence": 699
-      }
-    ],
-    "foundIn": [
-      "BT52"
-    ],
-    "located": true
-  },
-  {
-    "id": "185300",
-    "name": "Apache Pizza (Coleraine)",
-    "uniqueName": "apache-pizza-coleraine-ballylintagh",
-    "address": "9 Railway Road, Coleraine, BT52 1PD",
-    "postalCode": "BT52 1PD",
-    "lat": 55.131998,
-    "lng": -6.665762,
-    "url": "https://www.just-eat.co.uk/restaurants-apache-pizza-coleraine-ballylintagh/menu",
-    "items": [
-      {
-        "name": "Ham Hock And Stuffing Loaded Fries",
-        "pricePence": 799
       }
     ],
     "foundIn": [

@@ -80,6 +80,26 @@
     "located": true
   },
   {
+    "id": "125134",
+    "name": "Hatch and Wolf",
+    "uniqueName": "hatchandwolf-lisnasharragh",
+    "address": "25 Bloomfield Avenue, Belfast, BT5 5AA",
+    "postalCode": "BT5 5AA",
+    "lat": 54.5970977,
+    "lng": -5.8894246,
+    "url": "https://www.just-eat.co.uk/restaurants-hatchandwolf-lisnasharragh/menu",
+    "items": [
+      {
+        "name": "Christmas Chips",
+        "pricePence": 1195
+      }
+    ],
+    "foundIn": [
+      "BT3"
+    ],
+    "located": true
+  },
+  {
     "id": "299470",
     "name": "The Pharaoh",
     "uniqueName": "the-pharaoh-castlereagh",
@@ -92,30 +112,6 @@
       {
         "name": "New!! Christmas Chips \ud83c\udf84\ud83c\udf84\ud83c\udf81\ud83c\udf81",
         "pricePence": 1455
-      }
-    ],
-    "foundIn": [
-      "BT3"
-    ],
-    "located": true
-  },
-  {
-    "id": "63645",
-    "name": "Fallones",
-    "uniqueName": "fallones-low-wood",
-    "address": "127 Antrim Road, Belfast, BT15 2BL",
-    "postalCode": "BT15 2BL",
-    "lat": 54.611973,
-    "lng": -5.935627,
-    "url": "https://www.just-eat.co.uk/restaurants-fallones-low-wood/menu",
-    "items": [
-      {
-        "name": "Fallones Christmas Chips",
-        "pricePence": 1500
-      },
-      {
-        "name": "Fallone\u2019S Xmas Chips",
-        "pricePence": 1495
       }
     ],
     "foundIn": [
@@ -184,18 +180,22 @@
     "located": false
   },
   {
-    "id": "125134",
-    "name": "Hatch and Wolf",
-    "uniqueName": "hatchandwolf-lisnasharragh",
-    "address": "25 Bloomfield Avenue, Belfast, BT5 5AA",
-    "postalCode": "BT5 5AA",
-    "lat": 54.5970977,
-    "lng": -5.8894246,
-    "url": "https://www.just-eat.co.uk/restaurants-hatchandwolf-lisnasharragh/menu",
+    "id": "63645",
+    "name": "Fallones",
+    "uniqueName": "fallones-low-wood",
+    "address": "127 Antrim Road, Belfast, BT15 2BL",
+    "postalCode": "BT15 2BL",
+    "lat": 54.611973,
+    "lng": -5.935627,
+    "url": "https://www.just-eat.co.uk/restaurants-fallones-low-wood/menu",
     "items": [
       {
-        "name": "Christmas Chips",
-        "pricePence": 1195
+        "name": "Fallones Christmas Chips",
+        "pricePence": 1500
+      },
+      {
+        "name": "Fallone\u2019S Xmas Chips",
+        "pricePence": 1495
       }
     ],
     "foundIn": [

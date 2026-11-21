@@ -1,29 +1,5 @@
 [
   {
-    "id": "242613",
-    "name": "Danny's Chippy",
-    "uniqueName": "dannys-chippy-ballynaghty",
-    "address": "160 Park Road\nPortadown, Craigavon, BT62 1BH",
-    "postalCode": "BT62 1BH",
-    "lat": 54.424313,
-    "lng": -6.44741,
-    "url": "https://www.just-eat.co.uk/restaurants-dannys-chippy-ballynaghty/menu",
-    "items": [
-      {
-        "name": "Christmas Menu - Turkey & Ham Christmas Chip",
-        "pricePence": 1345
-      },
-      {
-        "name": "Christmas Menu - Chicken & Bacon Christmas Chip",
-        "pricePence": 1345
-      }
-    ],
-    "foundIn": [
-      "BT63"
-    ],
-    "located": true
-  },
-  {
     "id": "180894",
     "name": "Just Eat store 180894",
     "uniqueName": "",
@@ -82,6 +58,30 @@
       "BT63"
     ],
     "located": false
+  },
+  {
+    "id": "242613",
+    "name": "Danny's Chippy",
+    "uniqueName": "dannys-chippy-ballynaghty",
+    "address": "160 Park Road\nPortadown, Craigavon, BT62 1BH",
+    "postalCode": "BT62 1BH",
+    "lat": 54.424313,
+    "lng": -6.44741,
+    "url": "https://www.just-eat.co.uk/restaurants-dannys-chippy-ballynaghty/menu",
+    "items": [
+      {
+        "name": "Christmas Menu - Turkey & Ham Christmas Chip",
+        "pricePence": 1345
+      },
+      {
+        "name": "Christmas Menu - Chicken & Bacon Christmas Chip",
+        "pricePence": 1345
+      }
+    ],
+    "foundIn": [
+      "BT63"
+    ],
+    "located": true
   },
   {
     "id": "249534",
@@ -232,26 +232,6 @@
     "lat": 54.422896,
     "lng": -6.44299,
     "url": "https://www.just-eat.co.uk/restaurants-apache-pizza-portadown-new-ballynaghty/menu",
-    "items": [
-      {
-        "name": "Ham Hock And Stuffing Loaded Fries",
-        "pricePence": 799
-      }
-    ],
-    "foundIn": [
-      "BT63"
-    ],
-    "located": true
-  },
-  {
-    "id": "77216",
-    "name": "Apache Pizza (Banbridge)",
-    "uniqueName": "apache-pizza-banbridge-annahilt",
-    "address": "80 Newry Street, Banbridge, BT32 3HA",
-    "postalCode": "BT32 3HA",
-    "lat": 54.347585,
-    "lng": -6.270339,
-    "url": "https://www.just-eat.co.uk/restaurants-apache-pizza-banbridge-annahilt/menu",
     "items": [
       {
         "name": "Ham Hock And Stuffing Loaded Fries",

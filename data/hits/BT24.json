@@ -1,13 +1,13 @@
 [
   {
-    "id": "262214",
-    "name": "Domino's - Ballynahinch",
-    "uniqueName": "dominos---ballynahinch-ballynahinch",
-    "address": "16 Dromore Street, Ballynahinch, BT24 8AG",
+    "id": "300178",
+    "name": "CHICK \u2018N\u2019 DIP from Domino\u2019s - Ballynahinch",
+    "uniqueName": "chick-n-dip-from-dominos---ballynahinch-ballynahinch",
+    "address": "Dominos, 16 Dromore Street, Ballynahinch, BT24 8AG",
     "postalCode": "BT24 8AG",
-    "lat": 54.400122,
-    "lng": -5.898562,
-    "url": "https://www.just-eat.co.uk/restaurants-dominos---ballynahinch-ballynahinch/menu",
+    "lat": 54.399916,
+    "lng": -5.898664,
+    "url": "https://www.just-eat.co.uk/restaurants-chick-n-dip-from-dominos---ballynahinch-ballynahinch/menu",
     "items": [
       {
         "name": "Loaded Fries - Festive",
@@ -20,14 +20,14 @@
     "located": true
   },
   {
-    "id": "300178",
-    "name": "CHICK \u2018N\u2019 DIP from Domino\u2019s - Ballynahinch",
-    "uniqueName": "chick-n-dip-from-dominos---ballynahinch-ballynahinch",
-    "address": "Dominos, 16 Dromore Street, Ballynahinch, BT24 8AG",
+    "id": "262214",
+    "name": "Domino's - Ballynahinch",
+    "uniqueName": "dominos---ballynahinch-ballynahinch",
+    "address": "16 Dromore Street, Ballynahinch, BT24 8AG",
     "postalCode": "BT24 8AG",
-    "lat": 54.399916,
-    "lng": -5.898664,
-    "url": "https://www.just-eat.co.uk/restaurants-chick-n-dip-from-dominos---ballynahinch-ballynahinch/menu",
+    "lat": 54.400122,
+    "lng": -5.898562,
+    "url": "https://www.just-eat.co.uk/restaurants-dominos---ballynahinch-ballynahinch/menu",
     "items": [
       {
         "name": "Loaded Fries - Festive",

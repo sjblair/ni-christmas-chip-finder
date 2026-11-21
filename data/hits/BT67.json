@@ -118,25 +118,5 @@
       "BT67"
     ],
     "located": true
-  },
-  {
-    "id": "160887",
-    "name": "Apache Pizza (Lurgan)",
-    "uniqueName": "apache-pizza-lurgan-silverwood-bt66",
-    "address": "35A Church Place, Craigavon, Lurgan, BT66 6EU",
-    "postalCode": "BT66 6EU",
-    "lat": 54.462692,
-    "lng": -6.335183,
-    "url": "https://www.just-eat.co.uk/restaurants-apache-pizza-lurgan-silverwood-bt66/menu",
-    "items": [
-      {
-        "name": "Ham Hock And Stuffing Loaded Fries",
-        "pricePence": 799
-      }
-    ],
-    "foundIn": [
-      "BT67"
-    ],
-    "located": true
   }
 ]
