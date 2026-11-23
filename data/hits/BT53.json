@@ -20,26 +20,6 @@
     "located": true
   },
   {
-    "id": "125704",
-    "name": "Just Eat store 125704",
-    "uniqueName": "",
-    "address": "",
-    "postalCode": "",
-    "lat": null,
-    "lng": null,
-    "url": "",
-    "items": [
-      {
-        "name": "Festive Loaded Fries",
-        "pricePence": 1345
-      }
-    ],
-    "foundIn": [
-      "BT53"
-    ],
-    "located": false
-  },
-  {
     "id": "266716",
     "name": "Domino's - Ballymoney",
     "uniqueName": "dominos---ballymoney-kilraghts",
@@ -72,6 +52,26 @@
       {
         "name": "Loaded Fries - Festive",
         "pricePence": 699
+      }
+    ],
+    "foundIn": [
+      "BT53"
+    ],
+    "located": true
+  },
+  {
+    "id": "269554",
+    "name": "Apache Pizza (Ballymoney)",
+    "uniqueName": "apache-pizza-ballymoney-kilraghts",
+    "address": "3 Charles St, Ballymoney, Ballymoney, BT53 6DX",
+    "postalCode": "BT53 6DX",
+    "lat": 55.073498,
+    "lng": -6.519026,
+    "url": "https://www.just-eat.co.uk/restaurants-apache-pizza-ballymoney-kilraghts/menu",
+    "items": [
+      {
+        "name": "Ham Hock And Stuffing Loaded Fries",
+        "pricePence": 799
       }
     ],
     "foundIn": [

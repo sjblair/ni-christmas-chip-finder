@@ -40,26 +40,6 @@
     "located": true
   },
   {
-    "id": "42440",
-    "name": "Turf 'n' Surf",
-    "uniqueName": "turfandsurf-bt51",
-    "address": "11 Waterside, Colraine, BT51 3DP",
-    "postalCode": "BT51 3DP",
-    "lat": 55.131778,
-    "lng": -6.67651,
-    "url": "https://www.just-eat.co.uk/restaurants-turfandsurf-bt51/menu",
-    "items": [
-      {
-        "name": "Christmas Chip",
-        "pricePence": 1095
-      }
-    ],
-    "foundIn": [
-      "BT56"
-    ],
-    "located": true
-  },
-  {
     "id": "92736",
     "name": "Gareth's Takeaway",
     "uniqueName": "gareths-takeaway-ballylintagh",
@@ -80,18 +60,18 @@
     "located": true
   },
   {
-    "id": "125703",
-    "name": "Bob and Berts - Coleraine",
-    "uniqueName": "bobandberts-coleraine",
-    "address": "32A The Diamond, Coleraine, BT52 1DP",
-    "postalCode": "BT52 1DP",
-    "lat": 55.131898,
-    "lng": -6.670875,
-    "url": "https://www.just-eat.co.uk/restaurants-bobandberts-coleraine/menu",
+    "id": "42440",
+    "name": "Turf 'n' Surf",
+    "uniqueName": "turfandsurf-bt51",
+    "address": "11 Waterside, Colraine, BT51 3DP",
+    "postalCode": "BT51 3DP",
+    "lat": 55.131778,
+    "lng": -6.67651,
+    "url": "https://www.just-eat.co.uk/restaurants-turfandsurf-bt51/menu",
     "items": [
       {
-        "name": "Festive Loaded Fries",
-        "pricePence": 1345
+        "name": "Christmas Chip",
+        "pricePence": 1095
       }
     ],
     "foundIn": [
@@ -152,6 +132,26 @@
       {
         "name": "Loaded Fries - Festive",
         "pricePence": 699
+      }
+    ],
+    "foundIn": [
+      "BT56"
+    ],
+    "located": true
+  },
+  {
+    "id": "241219",
+    "name": "Apache Pizza (Portrush)",
+    "uniqueName": "apache-pizza-portrush-aghadowey",
+    "address": "13a Main Street, Portrush, BT56 8BL",
+    "postalCode": "BT56 8BL",
+    "lat": 55.206302,
+    "lng": -6.652773,
+    "url": "https://www.just-eat.co.uk/restaurants-apache-pizza-portrush-aghadowey/menu",
+    "items": [
+      {
+        "name": "Ham Hock And Stuffing Loaded Fries",
+        "pricePence": 799
       }
     ],
     "foundIn": [

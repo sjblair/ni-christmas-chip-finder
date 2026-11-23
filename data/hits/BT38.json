@@ -98,5 +98,25 @@
       "BT38"
     ],
     "located": true
+  },
+  {
+    "id": "295695",
+    "name": "Apache Pizza Carrickfergus",
+    "uniqueName": "apache-pizza-carrickfergus-carrickfergus",
+    "address": "43a Victoria Road, Carrickfergus, BT38 7JE",
+    "postalCode": "BT38 7JE",
+    "lat": 54.722275,
+    "lng": -5.790633,
+    "url": "https://www.just-eat.co.uk/restaurants-apache-pizza-carrickfergus-carrickfergus/menu",
+    "items": [
+      {
+        "name": "Ham Hock And Stuffing Loaded Fries",
+        "pricePence": 799
+      }
+    ],
+    "foundIn": [
+      "BT38"
+    ],
+    "located": true
   }
 ]

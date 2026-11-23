@@ -38,5 +38,25 @@
       "BT33"
     ],
     "located": true
+  },
+  {
+    "id": "299925",
+    "name": "Apache Pizza Newcastle",
+    "uniqueName": "apache-pizza-newcastle-the-spa",
+    "address": "1 Main Street, Newcastle, BT33 0AD",
+    "postalCode": "BT33 0AD",
+    "lat": 54.213854,
+    "lng": -5.889025,
+    "url": "https://www.just-eat.co.uk/restaurants-apache-pizza-newcastle-the-spa/menu",
+    "items": [
+      {
+        "name": "Ham Hock And Stuffing Loaded Fries",
+        "pricePence": 799
+      }
+    ],
+    "foundIn": [
+      "BT33"
+    ],
+    "located": true
   }
 ]

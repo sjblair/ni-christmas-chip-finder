@@ -38,5 +38,25 @@
       "BT40"
     ],
     "located": true
+  },
+  {
+    "id": "270323",
+    "name": "Apache pizza (Larne)",
+    "uniqueName": "apache-pizza-larne-inver-bt40",
+    "address": "1 Main Street, Larne, BT40 1JQ",
+    "postalCode": "BT40 1JQ",
+    "lat": 54.851325,
+    "lng": -5.821406,
+    "url": "https://www.just-eat.co.uk/restaurants-apache-pizza-larne-inver-bt40/menu",
+    "items": [
+      {
+        "name": "Ham Hock And Stuffing Loaded Fries",
+        "pricePence": 799
+      }
+    ],
+    "foundIn": [
+      "BT40"
+    ],
+    "located": true
   }
 ]

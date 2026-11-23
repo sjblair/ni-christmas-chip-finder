@@ -58,5 +58,25 @@
       "BT61"
     ],
     "located": true
+  },
+  {
+    "id": "202291",
+    "name": "Apache Pizza (Armagh)",
+    "uniqueName": "apache-pizza-armagh-salters-grange-bt61",
+    "address": "13 Lower English Street, Armagh, BT61 7LJ",
+    "postalCode": "BT61 7LJ",
+    "lat": 54.351256,
+    "lng": -6.6555,
+    "url": "https://www.just-eat.co.uk/restaurants-apache-pizza-armagh-salters-grange-bt61/menu",
+    "items": [
+      {
+        "name": "Ham Hock And Stuffing Loaded Fries",
+        "pricePence": 799
+      }
+    ],
+    "foundIn": [
+      "BT61"
+    ],
+    "located": true
   }
 ]

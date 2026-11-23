@@ -20,26 +20,6 @@
     "located": true
   },
   {
-    "id": "443145",
-    "name": "The Snack Shack- Bangor",
-    "uniqueName": "the-snack-shack-ballymagee",
-    "address": "14 Gray's Hill, Bangor, BT20 3BB",
-    "postalCode": "BT20 3BB",
-    "lat": 54.661876,
-    "lng": -5.672979,
-    "url": "https://www.just-eat.co.uk/restaurants-the-snack-shack-ballymagee/menu",
-    "items": [
-      {
-        "name": "Christmas Chips",
-        "pricePence": 850
-      }
-    ],
-    "foundIn": [
-      "BT21"
-    ],
-    "located": true
-  },
-  {
     "id": "210823",
     "name": "Marciano\u2019s Plus",
     "uniqueName": "marcianos-plus-ballymagee",
@@ -56,6 +36,26 @@
       {
         "name": "Christmas Dinner Loaded Chips - Large Size",
         "pricePence": 1755
+      }
+    ],
+    "foundIn": [
+      "BT21"
+    ],
+    "located": true
+  },
+  {
+    "id": "443145",
+    "name": "The Snack Shack- Bangor",
+    "uniqueName": "the-snack-shack-ballymagee",
+    "address": "14 Gray's Hill, Bangor, BT20 3BB",
+    "postalCode": "BT20 3BB",
+    "lat": 54.661876,
+    "lng": -5.672979,
+    "url": "https://www.just-eat.co.uk/restaurants-the-snack-shack-ballymagee/menu",
+    "items": [
+      {
+        "name": "Christmas Chips",
+        "pricePence": 850
       }
     ],
     "foundIn": [
@@ -136,6 +136,26 @@
       {
         "name": "Loaded Fries - Festive",
         "pricePence": 699
+      }
+    ],
+    "foundIn": [
+      "BT21"
+    ],
+    "located": true
+  },
+  {
+    "id": "441841",
+    "name": "Apache Pizza - Bangor",
+    "uniqueName": "apache-pizza---bangor-ballymagee",
+    "address": "53-53A High Street, bangor, BT20 5BE",
+    "postalCode": "BT20 5BE",
+    "lat": 54.663628,
+    "lng": -5.664996,
+    "url": "https://www.just-eat.co.uk/restaurants-apache-pizza---bangor-ballymagee/menu",
+    "items": [
+      {
+        "name": "Ham Hock And Stuffing Loaded Fries",
+        "pricePence": 799
       }
     ],
     "foundIn": [

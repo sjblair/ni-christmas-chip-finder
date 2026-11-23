@@ -80,6 +80,30 @@
     "located": true
   },
   {
+    "id": "210823",
+    "name": "Marciano\u2019s Plus",
+    "uniqueName": "marcianos-plus-ballymagee",
+    "address": "9 Belfast Road, Bangor, BT20 3PN",
+    "postalCode": "BT20 3PN",
+    "lat": 54.656403,
+    "lng": -5.675965,
+    "url": "https://www.just-eat.co.uk/restaurants-marcianos-plus-ballymagee/menu",
+    "items": [
+      {
+        "name": "Christmas Dinner Loaded Chips - Regular Size",
+        "pricePence": 1170
+      },
+      {
+        "name": "Christmas Dinner Loaded Chips - Large Size",
+        "pricePence": 1755
+      }
+    ],
+    "foundIn": [
+      "BT20"
+    ],
+    "located": true
+  },
+  {
     "id": "443145",
     "name": "The Snack Shack- Bangor",
     "uniqueName": "the-snack-shack-ballymagee",
@@ -92,30 +116,6 @@
       {
         "name": "Christmas Chips",
         "pricePence": 850
-      }
-    ],
-    "foundIn": [
-      "BT20"
-    ],
-    "located": true
-  },
-  {
-    "id": "210823",
-    "name": "Marciano\u2019s Plus",
-    "uniqueName": "marcianos-plus-ballymagee",
-    "address": "9 Belfast Road, Bangor, BT20 3PN",
-    "postalCode": "BT20 3PN",
-    "lat": 54.656403,
-    "lng": -5.675965,
-    "url": "https://www.just-eat.co.uk/restaurants-marcianos-plus-ballymagee/menu",
-    "items": [
-      {
-        "name": "Christmas Dinner Loaded Chips - Large Size",
-        "pricePence": 1755
-      },
-      {
-        "name": "Christmas Dinner Loaded Chips - Regular Size",
-        "pricePence": 1170
       }
     ],
     "foundIn": [
@@ -164,22 +164,18 @@
     "located": true
   },
   {
-    "id": "446861",
-    "name": "JJ's CHIPPY",
-    "uniqueName": "jjs-chippy-ltd-ballymagee",
-    "address": "19 Clandeboye Road, Bangor, BT20 3LB",
-    "postalCode": "BT20 3LB",
-    "lat": 54.654089,
-    "lng": -5.679814,
-    "url": "https://www.just-eat.co.uk/restaurants-jjs-chippy-ltd-ballymagee/menu",
+    "id": "183306",
+    "name": "Domino's - Bangor (Northern Ireland)",
+    "uniqueName": "dominos-bangor-northern-ireland-ballymagee",
+    "address": "96 Abbey Street, BANGOR, BT20 4JB",
+    "postalCode": "BT20 4JB",
+    "lat": 54.656962,
+    "lng": -5.674036,
+    "url": "https://www.just-eat.co.uk/restaurants-dominos-bangor-northern-ireland-ballymagee/menu",
     "items": [
       {
-        "name": "Festive Chip",
-        "pricePence": 1095
-      },
-      {
-        "name": "Stuffing Gravy Chip",
-        "pricePence": 795
+        "name": "Loaded Fries - Festive",
+        "pricePence": 699
       }
     ],
     "foundIn": [
@@ -208,26 +204,6 @@
     "located": true
   },
   {
-    "id": "183306",
-    "name": "Domino's - Bangor (Northern Ireland)",
-    "uniqueName": "dominos-bangor-northern-ireland-ballymagee",
-    "address": "96 Abbey Street, BANGOR, BT20 4JB",
-    "postalCode": "BT20 4JB",
-    "lat": 54.656962,
-    "lng": -5.674036,
-    "url": "https://www.just-eat.co.uk/restaurants-dominos-bangor-northern-ireland-ballymagee/menu",
-    "items": [
-      {
-        "name": "Loaded Fries - Festive",
-        "pricePence": 699
-      }
-    ],
-    "foundIn": [
-      "BT20"
-    ],
-    "located": true
-  },
-  {
     "id": "300279",
     "name": "CHICK \u2018N\u2019 DIP from Domino\u2019s - Bangor (NI)",
     "uniqueName": "chick-n-dip-from-dominos---bangor-ni-ballymagee",
@@ -240,6 +216,50 @@
       {
         "name": "Loaded Fries - Festive",
         "pricePence": 699
+      }
+    ],
+    "foundIn": [
+      "BT20"
+    ],
+    "located": true
+  },
+  {
+    "id": "446861",
+    "name": "JJ's CHIPPY",
+    "uniqueName": "jjs-chippy-ltd-ballymagee",
+    "address": "19 Clandeboye Road, Bangor, BT20 3LB",
+    "postalCode": "BT20 3LB",
+    "lat": 54.654089,
+    "lng": -5.679814,
+    "url": "https://www.just-eat.co.uk/restaurants-jjs-chippy-ltd-ballymagee/menu",
+    "items": [
+      {
+        "name": "Festive Chip",
+        "pricePence": 1095
+      },
+      {
+        "name": "Stuffing Gravy Chip",
+        "pricePence": 795
+      }
+    ],
+    "foundIn": [
+      "BT20"
+    ],
+    "located": true
+  },
+  {
+    "id": "441841",
+    "name": "Apache Pizza - Bangor",
+    "uniqueName": "apache-pizza---bangor-ballymagee",
+    "address": "53-53A High Street, bangor, BT20 5BE",
+    "postalCode": "BT20 5BE",
+    "lat": 54.663628,
+    "lng": -5.664996,
+    "url": "https://www.just-eat.co.uk/restaurants-apache-pizza---bangor-ballymagee/menu",
+    "items": [
+      {
+        "name": "Ham Hock And Stuffing Loaded Fries",
+        "pricePence": 799
       }
     ],
     "foundIn": [

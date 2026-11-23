@@ -40,6 +40,26 @@
     "located": false
   },
   {
+    "id": "281548",
+    "name": "Apache Pizza (Limavady)",
+    "uniqueName": "apache-pizza-artikelly",
+    "address": "21 Catherine Street, Limavady, BT49 9DA",
+    "postalCode": "BT49 9DA",
+    "lat": 55.050094,
+    "lng": -6.952273,
+    "url": "https://www.just-eat.co.uk/restaurants-apache-pizza-artikelly/menu",
+    "items": [
+      {
+        "name": "Ham Hock And Stuffing Loaded Fries",
+        "pricePence": 799
+      }
+    ],
+    "foundIn": [
+      "BT49"
+    ],
+    "located": true
+  },
+  {
     "id": "63865",
     "name": "Roe Chippy & Pizza",
     "uniqueName": "roe-chippy-and-pizza-artikelly",

@@ -24,24 +24,24 @@
     "located": false
   },
   {
-    "id": "135191",
-    "name": "Just Eat store 135191",
-    "uniqueName": "",
-    "address": "",
-    "postalCode": "",
-    "lat": null,
-    "lng": null,
-    "url": "",
+    "id": "197652",
+    "name": "J's Plaice",
+    "uniqueName": "js-plaice-comber",
+    "address": "43 South Street, Newtownards, BT23 4JT",
+    "postalCode": "BT23 4JT",
+    "lat": 54.591755,
+    "lng": -5.696792,
+    "url": "https://www.just-eat.co.uk/restaurants-js-plaice-comber/menu",
     "items": [
       {
-        "name": "Christmas Chip",
-        "pricePence": 1175
+        "name": "Christmas Chips",
+        "pricePence": 1045
       }
     ],
     "foundIn": [
       "BT23"
     ],
-    "located": false
+    "located": true
   },
   {
     "id": "448774",
@@ -68,26 +68,6 @@
     "located": false
   },
   {
-    "id": "197652",
-    "name": "J's Plaice",
-    "uniqueName": "js-plaice-comber",
-    "address": "43 South Street, Newtownards, BT23 4JT",
-    "postalCode": "BT23 4JT",
-    "lat": 54.591755,
-    "lng": -5.696792,
-    "url": "https://www.just-eat.co.uk/restaurants-js-plaice-comber/menu",
-    "items": [
-      {
-        "name": "Christmas Chips",
-        "pricePence": 1045
-      }
-    ],
-    "foundIn": [
-      "BT23"
-    ],
-    "located": true
-  },
-  {
     "id": "443145",
     "name": "Just Eat store 443145",
     "uniqueName": "",
@@ -100,6 +80,26 @@
       {
         "name": "Christmas Chips",
         "pricePence": 850
+      }
+    ],
+    "foundIn": [
+      "BT23"
+    ],
+    "located": false
+  },
+  {
+    "id": "135191",
+    "name": "Just Eat store 135191",
+    "uniqueName": "",
+    "address": "",
+    "postalCode": "",
+    "lat": null,
+    "lng": null,
+    "url": "",
+    "items": [
+      {
+        "name": "Christmas Chip",
+        "pricePence": 1175
       }
     ],
     "foundIn": [
