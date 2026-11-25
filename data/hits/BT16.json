@@ -44,26 +44,6 @@
     "located": true
   },
   {
-    "id": "422733",
-    "name": "Fish & Chicken House",
-    "uniqueName": "fish-and-chicken-house-ballyrushboy",
-    "address": "346 Upper Newtownards Road, Belfast, BT4 3EX",
-    "postalCode": "BT4 3EX",
-    "lat": 54.5954,
-    "lng": -5.869036,
-    "url": "https://www.just-eat.co.uk/restaurants-fish-and-chicken-house-ballyrushboy/menu",
-    "items": [
-      {
-        "name": "Christmas Chips With Can Of Coke",
-        "pricePence": 1399
-      }
-    ],
-    "foundIn": [
-      "BT16"
-    ],
-    "located": true
-  },
-  {
     "id": "318375",
     "name": "Smyths Fish and Chips",
     "uniqueName": "smyths-fish-and-chips-castlereagh-bt6",
@@ -76,6 +56,30 @@
       {
         "name": "Christmas Chip",
         "pricePence": 1200
+      }
+    ],
+    "foundIn": [
+      "BT16"
+    ],
+    "located": true
+  },
+  {
+    "id": "118590",
+    "name": "No.36",
+    "uniqueName": "no36-ballyrushboy",
+    "address": "36a Belmont Road, Belfast, BT4 2AN",
+    "postalCode": "BT4 2AN",
+    "lat": 54.6005136,
+    "lng": -5.8761627,
+    "url": "https://www.just-eat.co.uk/restaurants-no36-ballyrushboy/menu",
+    "items": [
+      {
+        "name": "Christmas Chip",
+        "pricePence": 1475
+      },
+      {
+        "name": "Crinkle Cut Fries Loaded With Stuffing & Gravy",
+        "pricePence": 700
       }
     ],
     "foundIn": [
@@ -102,26 +106,6 @@
       "BT16"
     ],
     "located": true
-  },
-  {
-    "id": "118782",
-    "name": "Just Eat store 118782",
-    "uniqueName": "",
-    "address": "",
-    "postalCode": "",
-    "lat": null,
-    "lng": null,
-    "url": "",
-    "items": [
-      {
-        "name": "Festive Fries",
-        "pricePence": 1650
-      }
-    ],
-    "foundIn": [
-      "BT16"
-    ],
-    "located": false
   },
   {
     "id": "443145",
@@ -164,28 +148,44 @@
     "located": true
   },
   {
-    "id": "118590",
-    "name": "No.36",
-    "uniqueName": "no36-ballyrushboy",
-    "address": "36a Belmont Road, Belfast, BT4 2AN",
-    "postalCode": "BT4 2AN",
-    "lat": 54.6005136,
-    "lng": -5.8761627,
-    "url": "https://www.just-eat.co.uk/restaurants-no36-ballyrushboy/menu",
+    "id": "422733",
+    "name": "Fish & Chicken House",
+    "uniqueName": "fish-and-chicken-house-ballyrushboy",
+    "address": "346 Upper Newtownards Road, Belfast, BT4 3EX",
+    "postalCode": "BT4 3EX",
+    "lat": 54.5954,
+    "lng": -5.869036,
+    "url": "https://www.just-eat.co.uk/restaurants-fish-and-chicken-house-ballyrushboy/menu",
     "items": [
       {
-        "name": "Christmas Chip",
-        "pricePence": 1475
-      },
-      {
-        "name": "Crinkle Cut Fries Loaded With Stuffing & Gravy",
-        "pricePence": 700
+        "name": "Christmas Chips With Can Of Coke",
+        "pricePence": 1399
       }
     ],
     "foundIn": [
       "BT16"
     ],
     "located": true
+  },
+  {
+    "id": "118782",
+    "name": "Just Eat store 118782",
+    "uniqueName": "",
+    "address": "",
+    "postalCode": "",
+    "lat": null,
+    "lng": null,
+    "url": "",
+    "items": [
+      {
+        "name": "Festive Fries",
+        "pricePence": 1650
+      }
+    ],
+    "foundIn": [
+      "BT16"
+    ],
+    "located": false
   },
   {
     "id": "196189",
@@ -306,26 +306,6 @@
       "BT16"
     ],
     "located": false
-  },
-  {
-    "id": "170595",
-    "name": "KFC Newtownards",
-    "uniqueName": "kfc-newtownards-comber",
-    "address": "1 Belfast Road\r\nCorporation South\r\nNewtownards, Down, BT23 4BJ",
-    "postalCode": "BT23 4BJ",
-    "lat": 54.591413,
-    "lng": -5.711116,
-    "url": "https://www.just-eat.co.uk/restaurants-kfc-newtownards-comber/menu",
-    "items": [
-      {
-        "name": "Festive Loaded Fries",
-        "pricePence": 499
-      }
-    ],
-    "foundIn": [
-      "BT16"
-    ],
-    "located": true
   },
   {
     "id": "228830",

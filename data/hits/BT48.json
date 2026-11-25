@@ -64,26 +64,6 @@
     "located": true
   },
   {
-    "id": "439791",
-    "name": "Urban Fuel",
-    "uniqueName": "urban-fuel-edenballymore",
-    "address": "Strand Road Derry/Londonderry,, Londonderry, BT48 7PX",
-    "postalCode": "BT48 7PX",
-    "lat": 55.000073,
-    "lng": -7.321789,
-    "url": "https://www.just-eat.co.uk/restaurants-urban-fuel-edenballymore/menu",
-    "items": [
-      {
-        "name": "Festive Fries",
-        "pricePence": 750
-      }
-    ],
-    "foundIn": [
-      "BT48"
-    ],
-    "located": true
-  },
-  {
     "id": "300287",
     "name": "CHICK \u2018N\u2019 DIP from Domino\u2019s - Derry  - Cityside",
     "uniqueName": "chick-n-dip-from-dominos---derry----cityside-edenballymore",
@@ -96,6 +76,46 @@
       {
         "name": "Loaded Fries - Festive",
         "pricePence": 699
+      }
+    ],
+    "foundIn": [
+      "BT48"
+    ],
+    "located": true
+  },
+  {
+    "id": "188213",
+    "name": "Red Barrel Street Food",
+    "uniqueName": "red-barrel-street-food-edenballymore",
+    "address": "Unit M15A Northside Village, London Derry, BT48 8NN",
+    "postalCode": "BT48 8NN",
+    "lat": 55.028233,
+    "lng": -7.316237,
+    "url": "https://www.just-eat.co.uk/restaurants-red-barrel-street-food-edenballymore/menu",
+    "items": [
+      {
+        "name": "Festive Fries",
+        "pricePence": 1200
+      }
+    ],
+    "foundIn": [
+      "BT48"
+    ],
+    "located": true
+  },
+  {
+    "id": "439791",
+    "name": "Urban Fuel",
+    "uniqueName": "urban-fuel-edenballymore",
+    "address": "Strand Road Derry/Londonderry,, Londonderry, BT48 7PX",
+    "postalCode": "BT48 7PX",
+    "lat": 55.000073,
+    "lng": -7.321789,
+    "url": "https://www.just-eat.co.uk/restaurants-urban-fuel-edenballymore/menu",
+    "items": [
+      {
+        "name": "Festive Fries",
+        "pricePence": 750
       }
     ],
     "foundIn": [
@@ -120,26 +140,6 @@
       {
         "name": "Large Chips, Gravy & Stuffing",
         "pricePence": 515
-      }
-    ],
-    "foundIn": [
-      "BT48"
-    ],
-    "located": true
-  },
-  {
-    "id": "188213",
-    "name": "Red Barrel Street Food",
-    "uniqueName": "red-barrel-street-food-edenballymore",
-    "address": "Unit M15A Northside Village, London Derry, BT48 8NN",
-    "postalCode": "BT48 8NN",
-    "lat": 55.028233,
-    "lng": -7.316237,
-    "url": "https://www.just-eat.co.uk/restaurants-red-barrel-street-food-edenballymore/menu",
-    "items": [
-      {
-        "name": "Festive Fries",
-        "pricePence": 1200
       }
     ],
     "foundIn": [

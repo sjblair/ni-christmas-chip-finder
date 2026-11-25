@@ -160,18 +160,18 @@
     "located": true
   },
   {
-    "id": "251115",
-    "name": "Bally Busters",
-    "uniqueName": "bally-busters-doagh",
-    "address": "22-26 The Square, Ballyclare, BT39 9BB",
-    "postalCode": "BT39 9BB",
-    "lat": 54.75308,
-    "lng": -6.001239,
-    "url": "https://www.just-eat.co.uk/restaurants-bally-busters-doagh/menu",
+    "id": "194693",
+    "name": "Knags Hot Food Deli",
+    "uniqueName": "knags-hot-food-deli-newtownabbey",
+    "address": "373 -375 Antrim Road\nGlengormley, Newtownabbey, BT36 5EB",
+    "postalCode": "BT36 5EB",
+    "lat": 54.6736,
+    "lng": -5.961867,
+    "url": "https://www.just-eat.co.uk/restaurants-knags-hot-food-deli-newtownabbey/menu",
     "items": [
       {
-        "name": "Christmas Chip",
-        "pricePence": 1300
+        "name": "Christmas Chips",
+        "pricePence": 1350
       }
     ],
     "foundIn": [
@@ -198,26 +198,6 @@
       "BT36"
     ],
     "located": false
-  },
-  {
-    "id": "194693",
-    "name": "Knags Hot Food Deli",
-    "uniqueName": "knags-hot-food-deli-newtownabbey",
-    "address": "373 -375 Antrim Road\nGlengormley, Newtownabbey, BT36 5EB",
-    "postalCode": "BT36 5EB",
-    "lat": 54.6736,
-    "lng": -5.961867,
-    "url": "https://www.just-eat.co.uk/restaurants-knags-hot-food-deli-newtownabbey/menu",
-    "items": [
-      {
-        "name": "Christmas Chips",
-        "pricePence": 1350
-      }
-    ],
-    "foundIn": [
-      "BT36"
-    ],
-    "located": true
   },
   {
     "id": "6537",
@@ -280,6 +260,26 @@
     "located": true
   },
   {
+    "id": "266593",
+    "name": "Murphy Browns",
+    "uniqueName": "murphy-browns-low-wood",
+    "address": "186 Cavehill Road, Belfast, BT15 5EX",
+    "postalCode": "BT15 5EX",
+    "lat": 54.632701,
+    "lng": -5.94791,
+    "url": "https://www.just-eat.co.uk/restaurants-murphy-browns-low-wood/menu",
+    "items": [
+      {
+        "name": "Christmas Chips \ud83c\udf84",
+        "pricePence": 1600
+      }
+    ],
+    "foundIn": [
+      "BT36"
+    ],
+    "located": true
+  },
+  {
     "id": "246993",
     "name": "Just Eat store 246993",
     "uniqueName": "",
@@ -300,6 +300,26 @@
     "located": false
   },
   {
+    "id": "251115",
+    "name": "Bally Busters",
+    "uniqueName": "bally-busters-doagh",
+    "address": "22-26 The Square, Ballyclare, BT39 9BB",
+    "postalCode": "BT39 9BB",
+    "lat": 54.75308,
+    "lng": -6.001239,
+    "url": "https://www.just-eat.co.uk/restaurants-bally-busters-doagh/menu",
+    "items": [
+      {
+        "name": "Christmas Chip",
+        "pricePence": 1300
+      }
+    ],
+    "foundIn": [
+      "BT36"
+    ],
+    "located": true
+  },
+  {
     "id": "243029",
     "name": "Gracie's Deli",
     "uniqueName": "gracies-deli-newtownabbey",
@@ -312,26 +332,6 @@
       {
         "name": "Christmas Chips With Turkey/Ham/Stuffing And Cocktail Sausages Smothered In Gravy",
         "pricePence": 995
-      }
-    ],
-    "foundIn": [
-      "BT36"
-    ],
-    "located": true
-  },
-  {
-    "id": "266593",
-    "name": "Murphy Browns",
-    "uniqueName": "murphy-browns-low-wood",
-    "address": "186 Cavehill Road, Belfast, BT15 5EX",
-    "postalCode": "BT15 5EX",
-    "lat": 54.632701,
-    "lng": -5.94791,
-    "url": "https://www.just-eat.co.uk/restaurants-murphy-browns-low-wood/menu",
-    "items": [
-      {
-        "name": "Christmas Chips \ud83c\udf84",
-        "pricePence": 1600
       }
     ],
     "foundIn": [
@@ -420,26 +420,6 @@
     "located": true
   },
   {
-    "id": "248579",
-    "name": "Shellys Deli (Vivo Mossley)",
-    "uniqueName": "shellys-deli-newtownabbey",
-    "address": "1-3 Crescent Corner, Newtownabbey, BT36 5PB",
-    "postalCode": "BT36 5PB",
-    "lat": 54.69654,
-    "lng": -5.952201,
-    "url": "https://www.just-eat.co.uk/restaurants-shellys-deli-newtownabbey/menu",
-    "items": [
-      {
-        "name": "Festive Fries",
-        "pricePence": 985
-      }
-    ],
-    "foundIn": [
-      "BT36"
-    ],
-    "located": true
-  },
-  {
     "id": "191168",
     "name": "KFC - Abbey Shopping Centre",
     "uniqueName": "kfc---abbey-shopping-centre-croghfern",
@@ -452,6 +432,26 @@
       {
         "name": "Festive Loaded Fries",
         "pricePence": 499
+      }
+    ],
+    "foundIn": [
+      "BT36"
+    ],
+    "located": true
+  },
+  {
+    "id": "248579",
+    "name": "Shellys Deli (Vivo Mossley)",
+    "uniqueName": "shellys-deli-newtownabbey",
+    "address": "1-3 Crescent Corner, Newtownabbey, BT36 5PB",
+    "postalCode": "BT36 5PB",
+    "lat": 54.69654,
+    "lng": -5.952201,
+    "url": "https://www.just-eat.co.uk/restaurants-shellys-deli-newtownabbey/menu",
+    "items": [
+      {
+        "name": "Festive Fries",
+        "pricePence": 985
       }
     ],
     "foundIn": [

@@ -1,13 +1,13 @@
 [
   {
-    "id": "175643",
-    "name": "Domino's - Downpatrick",
-    "uniqueName": "dominosdownpatrick-quoilepark",
-    "address": "32 St. Patricks Avenue, Downpatrick, BT30 6DW",
+    "id": "300249",
+    "name": "CHICK \u2018N\u2019 DIP from Domino\u2019s - Downpatrick",
+    "uniqueName": "chick-n-dip-from-dominos---downpatrick-quoile-park",
+    "address": "Dominos, 32 St. Patricks Avenue, Downpatrick, BT30 6DW",
     "postalCode": "BT30 6DW",
-    "lat": 54.326552,
-    "lng": -5.716517,
-    "url": "https://www.just-eat.co.uk/restaurants-dominosdownpatrick-quoilepark/menu",
+    "lat": 54.326485,
+    "lng": -5.716767,
+    "url": "https://www.just-eat.co.uk/restaurants-chick-n-dip-from-dominos---downpatrick-quoile-park/menu",
     "items": [
       {
         "name": "Loaded Fries - Festive",
@@ -20,14 +20,14 @@
     "located": true
   },
   {
-    "id": "300249",
-    "name": "CHICK \u2018N\u2019 DIP from Domino\u2019s - Downpatrick",
-    "uniqueName": "chick-n-dip-from-dominos---downpatrick-quoile-park",
-    "address": "Dominos, 32 St. Patricks Avenue, Downpatrick, BT30 6DW",
+    "id": "175643",
+    "name": "Domino's - Downpatrick",
+    "uniqueName": "dominosdownpatrick-quoilepark",
+    "address": "32 St. Patricks Avenue, Downpatrick, BT30 6DW",
     "postalCode": "BT30 6DW",
-    "lat": 54.326485,
-    "lng": -5.716767,
-    "url": "https://www.just-eat.co.uk/restaurants-chick-n-dip-from-dominos---downpatrick-quoile-park/menu",
+    "lat": 54.326552,
+    "lng": -5.716517,
+    "url": "https://www.just-eat.co.uk/restaurants-dominosdownpatrick-quoilepark/menu",
     "items": [
       {
         "name": "Loaded Fries - Festive",

@@ -1,25 +1,5 @@
 [
   {
-    "id": "315864",
-    "name": "The sugar shack",
-    "uniqueName": "thr-sugar-shack-silverwood",
-    "address": "50 Union Street Lurgan, Craigavon, BT66 8EB",
-    "postalCode": "BT66 8EB",
-    "lat": 54.460013,
-    "lng": -6.332809,
-    "url": "https://www.just-eat.co.uk/restaurants-thr-sugar-shack-silverwood/menu",
-    "items": [
-      {
-        "name": "Christmas Chip",
-        "pricePence": 800
-      }
-    ],
-    "foundIn": [
-      "BT67"
-    ],
-    "located": true
-  },
-  {
     "id": "104575",
     "name": "Just Eat store 104575",
     "uniqueName": "",
@@ -58,6 +38,26 @@
       "BT67"
     ],
     "located": false
+  },
+  {
+    "id": "315864",
+    "name": "The sugar shack",
+    "uniqueName": "thr-sugar-shack-silverwood",
+    "address": "50 Union Street Lurgan, Craigavon, BT66 8EB",
+    "postalCode": "BT66 8EB",
+    "lat": 54.460013,
+    "lng": -6.332809,
+    "url": "https://www.just-eat.co.uk/restaurants-thr-sugar-shack-silverwood/menu",
+    "items": [
+      {
+        "name": "Christmas Chip",
+        "pricePence": 800
+      }
+    ],
+    "foundIn": [
+      "BT67"
+    ],
+    "located": true
   },
   {
     "id": "436437",

@@ -148,6 +148,26 @@
     "located": true
   },
   {
+    "id": "230626",
+    "name": "Just Eat store 230626",
+    "uniqueName": "",
+    "address": "",
+    "postalCode": "",
+    "lat": null,
+    "lng": null,
+    "url": "",
+    "items": [
+      {
+        "name": "Festive Chip",
+        "pricePence": 950
+      }
+    ],
+    "foundIn": [
+      "BT23"
+    ],
+    "located": false
+  },
+  {
     "id": "309376",
     "name": "Domino's - Comber",
     "uniqueName": "dominos---comber-comber",
@@ -186,25 +206,5 @@
       "BT23"
     ],
     "located": true
-  },
-  {
-    "id": "230626",
-    "name": "Just Eat store 230626",
-    "uniqueName": "",
-    "address": "",
-    "postalCode": "",
-    "lat": null,
-    "lng": null,
-    "url": "",
-    "items": [
-      {
-        "name": "Festive Chip",
-        "pricePence": 950
-      }
-    ],
-    "foundIn": [
-      "BT23"
-    ],
-    "located": false
   }
 ]

@@ -230,17 +230,6 @@
         }
       ],
       "foundIn": [
-        "BT1",
-        "BT2",
-        "BT3",
-        "BT4",
-        "BT5",
-        "BT6",
-        "BT7",
-        "BT9",
-        "BT12",
-        "BT13",
-        "BT14",
         "BT15"
       ],
       "located": true
@@ -261,9 +250,6 @@
         }
       ],
       "foundIn": [
-        "BT4",
-        "BT5",
-        "BT6",
         "BT16",
         "BT18"
       ],
@@ -456,17 +442,6 @@
         }
       ],
       "foundIn": [
-        "BT1",
-        "BT2",
-        "BT3",
-        "BT6",
-        "BT7",
-        "BT9",
-        "BT10",
-        "BT11",
-        "BT12",
-        "BT13",
-        "BT14",
         "BT15"
       ],
       "located": true
@@ -1018,6 +993,27 @@
       "located": true
     },
     {
+      "id": "125705",
+      "name": "Bob and Berts - Ballymena",
+      "uniqueName": "bobandberts-ballymena",
+      "address": "39-41 Ballymoney Street, Ballymena, BT43 6AN",
+      "postalCode": "BT43 6AN",
+      "lat": 54.86734,
+      "lng": -6.27471,
+      "url": "https://www.just-eat.co.uk/restaurants-bobandberts-ballymena/menu",
+      "items": [
+        {
+          "name": "Festive Loaded Fries",
+          "pricePence": 1345
+        }
+      ],
+      "foundIn": [
+        "BT42",
+        "BT43"
+      ],
+      "located": true
+    },
+    {
       "id": "125708",
       "name": "Bob and Berts - Fountain Street",
       "uniqueName": "bobandberts-fountainstreet-belfast",
@@ -1088,7 +1084,8 @@
         "BT6",
         "BT7",
         "BT9",
-        "BT10"
+        "BT10",
+        "BT12"
       ],
       "located": true
     },
@@ -4799,26 +4796,6 @@
       "located": true
     },
     {
-      "id": "170595",
-      "name": "KFC Newtownards",
-      "uniqueName": "kfc-newtownards-comber",
-      "address": "1 Belfast Road\r\nCorporation South\r\nNewtownards, Down, BT23 4BJ",
-      "postalCode": "BT23 4BJ",
-      "lat": 54.591413,
-      "lng": -5.711116,
-      "url": "https://www.just-eat.co.uk/restaurants-kfc-newtownards-comber/menu",
-      "items": [
-        {
-          "name": "Festive Loaded Fries",
-          "pricePence": 499
-        }
-      ],
-      "foundIn": [
-        "BT16"
-      ],
-      "located": true
-    },
-    {
       "id": "81390",
       "name": "KFC Shankill",
       "uniqueName": "kfc-shankhill",
@@ -5210,8 +5187,7 @@
       ],
       "foundIn": [
         "BT36",
-        "BT37",
-        "BT39"
+        "BT37"
       ],
       "located": true
     },
@@ -5686,7 +5662,6 @@
       "foundIn": [
         "BT1",
         "BT2",
-        "BT3",
         "BT4",
         "BT5",
         "BT6",
@@ -5697,11 +5672,7 @@
         "BT11",
         "BT12",
         "BT13",
-        "BT14",
-        "BT15",
-        "BT16",
-        "BT17",
-        "BT18"
+        "BT16"
       ],
       "located": true
     },
