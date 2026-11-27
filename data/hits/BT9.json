@@ -132,26 +132,10 @@
       {
         "name": "Christmas Chip",
         "pricePence": 1200
-      }
-    ],
-    "foundIn": [
-      "BT9"
-    ],
-    "located": true
-  },
-  {
-    "id": "106995",
-    "name": "Fresh Fish and Chip Company",
-    "uniqueName": "fresh-fish-and-chip-company-tom-of-the-tae-end",
-    "address": "Unit 1, 128 Kingsway, Dunmurry, BT17 9NP",
-    "postalCode": "BT17 9NP",
-    "lat": 54.552601,
-    "lng": -5.99767,
-    "url": "https://www.just-eat.co.uk/restaurants-fresh-fish-and-chip-company-tom-of-the-tae-end/menu",
-    "items": [
+      },
       {
-        "name": "Christmas Chip",
-        "pricePence": 900
+        "name": "Festive Chip",
+        "pricePence": 1200
       }
     ],
     "foundIn": [
@@ -172,6 +156,26 @@
       {
         "name": "Christmas Chip",
         "pricePence": 1050
+      }
+    ],
+    "foundIn": [
+      "BT9"
+    ],
+    "located": true
+  },
+  {
+    "id": "106995",
+    "name": "Fresh Fish and Chip Company",
+    "uniqueName": "fresh-fish-and-chip-company-tom-of-the-tae-end",
+    "address": "Unit 1, 128 Kingsway, Dunmurry, BT17 9NP",
+    "postalCode": "BT17 9NP",
+    "lat": 54.552601,
+    "lng": -5.99767,
+    "url": "https://www.just-eat.co.uk/restaurants-fresh-fish-and-chip-company-tom-of-the-tae-end/menu",
+    "items": [
+      {
+        "name": "Christmas Chip",
+        "pricePence": 900
       }
     ],
     "foundIn": [
@@ -350,7 +354,7 @@
     "address": "2-4 Great Victoria Street, Belfast, BT2 7BA",
     "postalCode": "BT2 7BA",
     "lat": 54.59595,
-    "lng": -5.9343983,
+    "lng": -5.934398,
     "url": "https://www.just-eat.co.uk/restaurants-centraquickstop-belfast/menu",
     "items": [
       {
@@ -544,26 +548,6 @@
     "located": true
   },
   {
-    "id": "221559",
-    "name": "Backyard Bites",
-    "uniqueName": "backyard-bites-castlereagh",
-    "address": "36 My Ladys Road, Belfast, BT6 8FB",
-    "postalCode": "BT6 8FB",
-    "lat": 54.591727,
-    "lng": -5.909216,
-    "url": "https://www.just-eat.co.uk/restaurants-backyard-bites-castlereagh/menu",
-    "items": [
-      {
-        "name": "Festive Chips",
-        "pricePence": 1600
-      }
-    ],
-    "foundIn": [
-      "BT9"
-    ],
-    "located": true
-  },
-  {
     "id": "184377",
     "name": "Domino's - Belfast - South",
     "uniqueName": "dominos-belfast-south-ballymurphy",
@@ -576,6 +560,26 @@
       {
         "name": "Loaded Fries - Festive",
         "pricePence": 699
+      }
+    ],
+    "foundIn": [
+      "BT9"
+    ],
+    "located": true
+  },
+  {
+    "id": "221559",
+    "name": "Backyard Bites",
+    "uniqueName": "backyard-bites-castlereagh",
+    "address": "36 My Ladys Road, Belfast, BT6 8FB",
+    "postalCode": "BT6 8FB",
+    "lat": 54.591727,
+    "lng": -5.909216,
+    "url": "https://www.just-eat.co.uk/restaurants-backyard-bites-castlereagh/menu",
+    "items": [
+      {
+        "name": "Festive Chips",
+        "pricePence": 1600
       }
     ],
     "foundIn": [
@@ -709,7 +713,7 @@
     "uniqueName": "pablos-belfast",
     "address": "16 Church Lane, Belfast, BT1 4QN",
     "postalCode": "BT1 4QN",
-    "lat": 54.600013,
+    "lat": 54.600014,
     "lng": -5.925346,
     "url": "https://www.just-eat.co.uk/restaurants-pablos-belfast/menu",
     "items": [

@@ -60,26 +60,6 @@
     "located": true
   },
   {
-    "id": "184581",
-    "name": "Just Eat store 184581",
-    "uniqueName": "",
-    "address": "",
-    "postalCode": "",
-    "lat": null,
-    "lng": null,
-    "url": "",
-    "items": [
-      {
-        "name": "Festive Loaded Fries",
-        "pricePence": 499
-      }
-    ],
-    "foundIn": [
-      "BT38"
-    ],
-    "located": false
-  },
-  {
     "id": "300252",
     "name": "CHICK \u2018N\u2019 DIP from Domino\u2019s - Carrickfergus",
     "uniqueName": "chick-n-dip-from-dominos---carrickfergus-carrickfergus",
@@ -98,6 +78,26 @@
       "BT38"
     ],
     "located": true
+  },
+  {
+    "id": "184581",
+    "name": "Just Eat store 184581",
+    "uniqueName": "",
+    "address": "",
+    "postalCode": "",
+    "lat": null,
+    "lng": null,
+    "url": "",
+    "items": [
+      {
+        "name": "Festive Loaded Fries",
+        "pricePence": 499
+      }
+    ],
+    "foundIn": [
+      "BT38"
+    ],
+    "located": false
   },
   {
     "id": "295695",

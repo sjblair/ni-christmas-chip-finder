@@ -11,7 +11,7 @@
     "items": [
       {
         "name": "Festive  Fries",
-        "pricePence": 900
+        "pricePence": 990
       }
     ],
     "foundIn": [
@@ -105,7 +105,7 @@
     "uniqueName": "chick-n-dip-from-dominos---moira-aghalee",
     "address": "Dominos, 1 Glenavy Road, Craigavon, BT67 0JW",
     "postalCode": "BT67 0JW",
-    "lat": 54.495128,
+    "lat": 54.49513,
     "lng": -6.209918,
     "url": "https://www.just-eat.co.uk/restaurants-chick-n-dip-from-dominos---moira-aghalee/menu",
     "items": [

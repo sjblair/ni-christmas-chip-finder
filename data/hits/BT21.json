@@ -64,6 +64,46 @@
     "located": true
   },
   {
+    "id": "73807",
+    "name": "Bebe Adrianos Mexicanos",
+    "uniqueName": "bebe-adrianos-mexicanos-ballymagee",
+    "address": "9-11 High Street, Bangor, BT20 5BG",
+    "postalCode": "BT20 5BG",
+    "lat": 54.663677,
+    "lng": -5.666242,
+    "url": "https://www.just-eat.co.uk/restaurants-bebe-adrianos-mexicanos-ballymagee/menu",
+    "items": [
+      {
+        "name": "Festive Fries",
+        "pricePence": 1495
+      }
+    ],
+    "foundIn": [
+      "BT21"
+    ],
+    "located": true
+  },
+  {
+    "id": "292472",
+    "name": "Phat B Burger",
+    "uniqueName": "phat-b-burger-ballymagee-",
+    "address": "9 High St Bangor BT20 5BG United Kingdom, Bangor (NIR), BT20 5BG",
+    "postalCode": "BT20 5BG",
+    "lat": 54.663665,
+    "lng": -5.666689,
+    "url": "https://www.just-eat.co.uk/restaurants-phat-b-burger-ballymagee-/menu",
+    "items": [
+      {
+        "name": "Festive Fries",
+        "pricePence": 1495
+      }
+    ],
+    "foundIn": [
+      "BT21"
+    ],
+    "located": true
+  },
+  {
     "id": "141222",
     "name": "Grub Shack",
     "uniqueName": "grubshack-ballymagee",
@@ -109,7 +149,7 @@
     "uniqueName": "chick-n-dip-from-dominos---bangor-ni-ballymagee",
     "address": "Dominos, 96 Abbey Street, BANGOR, BT20 4JB",
     "postalCode": "BT20 4JB",
-    "lat": 54.656958,
+    "lat": 54.65696,
     "lng": -5.674096,
     "url": "https://www.just-eat.co.uk/restaurants-chick-n-dip-from-dominos---bangor-ni-ballymagee/menu",
     "items": [
@@ -129,7 +169,7 @@
     "uniqueName": "chick-n-dip-from-dominos---bangor---ashbury-balloo",
     "address": "Dominos, Unit 11, Ashbury Shopping Centre, Bangor, BT19 6TH",
     "postalCode": "BT19 6TH",
-    "lat": 54.648097,
+    "lat": 54.648098,
     "lng": -5.637247,
     "url": "https://www.just-eat.co.uk/restaurants-chick-n-dip-from-dominos---bangor---ashbury-balloo/menu",
     "items": [

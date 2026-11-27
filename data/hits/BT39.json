@@ -20,6 +20,26 @@
     "located": true
   },
   {
+    "id": "51401",
+    "name": "New Mossley Chippy",
+    "uniqueName": "new--mossley-chippy-newtownabbey",
+    "address": "Unit 2-3 New Mossley Centre, Ballyearl Drive, Newtownabbey, BT36 5BZ",
+    "postalCode": "BT36 5BZ",
+    "lat": 54.691365,
+    "lng": -5.961978,
+    "url": "https://www.just-eat.co.uk/restaurants-new--mossley-chippy-newtownabbey/menu",
+    "items": [
+      {
+        "name": "Christmas Chip",
+        "pricePence": 1150
+      }
+    ],
+    "foundIn": [
+      "BT39"
+    ],
+    "located": true
+  },
+  {
     "id": "295254",
     "name": "Caf\u00e9 Roo",
     "uniqueName": "cafe-roo-doagh",
@@ -65,7 +85,7 @@
     "uniqueName": "chick-n-dip-from-dominos---ballyclare-doagh",
     "address": "Dominos, 50 The Square, BALLYCLARE, BT39 9BB",
     "postalCode": "BT39 9BB",
-    "lat": 54.752824,
+    "lat": 54.752823,
     "lng": -6.002354,
     "url": "https://www.just-eat.co.uk/restaurants-chick-n-dip-from-dominos---ballyclare-doagh/menu",
     "items": [

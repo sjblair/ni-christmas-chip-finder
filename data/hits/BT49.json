@@ -1,25 +1,5 @@
 [
   {
-    "id": "300125",
-    "name": "CHICK \u2018N\u2019 DIP from Domino\u2019s - Limavady",
-    "uniqueName": "chick-n-dip-from-dominos---limavady-artikelly",
-    "address": "Dominos, 19 Ballyquin Road, Limavady, BT49 9EY",
-    "postalCode": "BT49 9EY",
-    "lat": 55.037073,
-    "lng": -6.94038,
-    "url": "https://www.just-eat.co.uk/restaurants-chick-n-dip-from-dominos---limavady-artikelly/menu",
-    "items": [
-      {
-        "name": "Loaded Fries - Festive",
-        "pricePence": 699
-      }
-    ],
-    "foundIn": [
-      "BT49"
-    ],
-    "located": true
-  },
-  {
     "id": "227174",
     "name": "Just Eat store 227174",
     "uniqueName": "",
@@ -40,12 +20,32 @@
     "located": false
   },
   {
+    "id": "300125",
+    "name": "CHICK \u2018N\u2019 DIP from Domino\u2019s - Limavady",
+    "uniqueName": "chick-n-dip-from-dominos---limavady-artikelly",
+    "address": "Dominos, 19 Ballyquin Road, Limavady, BT49 9EY",
+    "postalCode": "BT49 9EY",
+    "lat": 55.03707,
+    "lng": -6.94038,
+    "url": "https://www.just-eat.co.uk/restaurants-chick-n-dip-from-dominos---limavady-artikelly/menu",
+    "items": [
+      {
+        "name": "Loaded Fries - Festive",
+        "pricePence": 699
+      }
+    ],
+    "foundIn": [
+      "BT49"
+    ],
+    "located": true
+  },
+  {
     "id": "281548",
     "name": "Apache Pizza (Limavady)",
     "uniqueName": "apache-pizza-artikelly",
     "address": "21 Catherine Street, Limavady, BT49 9DA",
     "postalCode": "BT49 9DA",
-    "lat": 55.050094,
+    "lat": 55.050095,
     "lng": -6.952273,
     "url": "https://www.just-eat.co.uk/restaurants-apache-pizza-artikelly/menu",
     "items": [

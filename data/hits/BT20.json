@@ -60,6 +60,30 @@
     "located": true
   },
   {
+    "id": "210823",
+    "name": "Marciano\u2019s Plus",
+    "uniqueName": "marcianos-plus-ballymagee",
+    "address": "9 Belfast Road, Bangor, BT20 3PN",
+    "postalCode": "BT20 3PN",
+    "lat": 54.656403,
+    "lng": -5.675965,
+    "url": "https://www.just-eat.co.uk/restaurants-marcianos-plus-ballymagee/menu",
+    "items": [
+      {
+        "name": "Christmas Dinner Loaded Chips - Regular Size",
+        "pricePence": 1170
+      },
+      {
+        "name": "Christmas Dinner Loaded Chips - Large Size",
+        "pricePence": 1755
+      }
+    ],
+    "foundIn": [
+      "BT20"
+    ],
+    "located": true
+  },
+  {
     "id": "441516",
     "name": "Hotstuff",
     "uniqueName": "hotstuff-balloo",
@@ -80,30 +104,6 @@
     "located": true
   },
   {
-    "id": "210823",
-    "name": "Marciano\u2019s Plus",
-    "uniqueName": "marcianos-plus-ballymagee",
-    "address": "9 Belfast Road, Bangor, BT20 3PN",
-    "postalCode": "BT20 3PN",
-    "lat": 54.656403,
-    "lng": -5.675965,
-    "url": "https://www.just-eat.co.uk/restaurants-marcianos-plus-ballymagee/menu",
-    "items": [
-      {
-        "name": "Christmas Dinner Loaded Chips - Large Size",
-        "pricePence": 1755
-      },
-      {
-        "name": "Christmas Dinner Loaded Chips - Regular Size",
-        "pricePence": 1170
-      }
-    ],
-    "foundIn": [
-      "BT20"
-    ],
-    "located": true
-  },
-  {
     "id": "443145",
     "name": "The Snack Shack- Bangor",
     "uniqueName": "the-snack-shack-ballymagee",
@@ -116,6 +116,46 @@
       {
         "name": "Christmas Chips",
         "pricePence": 850
+      }
+    ],
+    "foundIn": [
+      "BT20"
+    ],
+    "located": true
+  },
+  {
+    "id": "73807",
+    "name": "Bebe Adrianos Mexicanos",
+    "uniqueName": "bebe-adrianos-mexicanos-ballymagee",
+    "address": "9-11 High Street, Bangor, BT20 5BG",
+    "postalCode": "BT20 5BG",
+    "lat": 54.663677,
+    "lng": -5.666242,
+    "url": "https://www.just-eat.co.uk/restaurants-bebe-adrianos-mexicanos-ballymagee/menu",
+    "items": [
+      {
+        "name": "Festive Fries",
+        "pricePence": 1495
+      }
+    ],
+    "foundIn": [
+      "BT20"
+    ],
+    "located": true
+  },
+  {
+    "id": "292472",
+    "name": "Phat B Burger",
+    "uniqueName": "phat-b-burger-ballymagee-",
+    "address": "9 High St Bangor BT20 5BG United Kingdom, Bangor (NIR), BT20 5BG",
+    "postalCode": "BT20 5BG",
+    "lat": 54.663665,
+    "lng": -5.666689,
+    "url": "https://www.just-eat.co.uk/restaurants-phat-b-burger-ballymagee-/menu",
+    "items": [
+      {
+        "name": "Festive Fries",
+        "pricePence": 1495
       }
     ],
     "foundIn": [
@@ -149,7 +189,7 @@
     "uniqueName": "the-ranch-comber",
     "address": "31 West Street, Newtownards, BT23 4EN",
     "postalCode": "BT23 4EN",
-    "lat": 54.595091,
+    "lat": 54.595093,
     "lng": -5.699492,
     "url": "https://www.just-eat.co.uk/restaurants-the-ranch-comber/menu",
     "items": [
@@ -208,6 +248,26 @@
     "located": true
   },
   {
+    "id": "300279",
+    "name": "CHICK \u2018N\u2019 DIP from Domino\u2019s - Bangor (NI)",
+    "uniqueName": "chick-n-dip-from-dominos---bangor-ni-ballymagee",
+    "address": "Dominos, 96 Abbey Street, BANGOR, BT20 4JB",
+    "postalCode": "BT20 4JB",
+    "lat": 54.65696,
+    "lng": -5.674096,
+    "url": "https://www.just-eat.co.uk/restaurants-chick-n-dip-from-dominos---bangor-ni-ballymagee/menu",
+    "items": [
+      {
+        "name": "Loaded Fries - Festive",
+        "pricePence": 699
+      }
+    ],
+    "foundIn": [
+      "BT20"
+    ],
+    "located": true
+  },
+  {
     "id": "111584",
     "name": "KFC Bangor County Down - South Circular Road",
     "uniqueName": "kfc-bangorcountydown-southcircularroad",
@@ -220,26 +280,6 @@
       {
         "name": "Festive Loaded Fries",
         "pricePence": 499
-      }
-    ],
-    "foundIn": [
-      "BT20"
-    ],
-    "located": true
-  },
-  {
-    "id": "300279",
-    "name": "CHICK \u2018N\u2019 DIP from Domino\u2019s - Bangor (NI)",
-    "uniqueName": "chick-n-dip-from-dominos---bangor-ni-ballymagee",
-    "address": "Dominos, 96 Abbey Street, BANGOR, BT20 4JB",
-    "postalCode": "BT20 4JB",
-    "lat": 54.656958,
-    "lng": -5.674096,
-    "url": "https://www.just-eat.co.uk/restaurants-chick-n-dip-from-dominos---bangor-ni-ballymagee/menu",
-    "items": [
-      {
-        "name": "Loaded Fries - Festive",
-        "pricePence": 699
       }
     ],
     "foundIn": [

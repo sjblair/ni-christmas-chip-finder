@@ -24,26 +24,6 @@
     "located": true
   },
   {
-    "id": "99289",
-    "name": "KFC Londonderry - Lesley Retail Park",
-    "uniqueName": "kfclesleyretailpark-edenballymore",
-    "address": "Strand Road, Londonderry, BT48 7PB",
-    "postalCode": "BT48 7PB",
-    "lat": 55.008954,
-    "lng": -7.316989,
-    "url": "https://www.just-eat.co.uk/restaurants-kfclesleyretailpark-edenballymore/menu",
-    "items": [
-      {
-        "name": "Festive Loaded Fries",
-        "pricePence": 499
-      }
-    ],
-    "foundIn": [
-      "BT48"
-    ],
-    "located": true
-  },
-  {
     "id": "175647",
     "name": "Domino's - Derry - Londonderry - Strand Road",
     "uniqueName": "dominos-derry-londonderry-cityside-edenballymore",
@@ -69,7 +49,7 @@
     "uniqueName": "chick-n-dip-from-dominos---derry----cityside-edenballymore",
     "address": "Dominos, 124 Strand Road, Derry, Derry, BT48 7PB",
     "postalCode": "BT48 7PB",
-    "lat": 55.007701,
+    "lat": 55.0077,
     "lng": -7.319376,
     "url": "https://www.just-eat.co.uk/restaurants-chick-n-dip-from-dominos---derry----cityside-edenballymore/menu",
     "items": [
@@ -148,12 +128,32 @@
     "located": true
   },
   {
+    "id": "99289",
+    "name": "KFC Londonderry - Lesley Retail Park",
+    "uniqueName": "kfclesleyretailpark-edenballymore",
+    "address": "Strand Road, Londonderry, BT48 7PB",
+    "postalCode": "BT48 7PB",
+    "lat": 55.008954,
+    "lng": -7.316989,
+    "url": "https://www.just-eat.co.uk/restaurants-kfclesleyretailpark-edenballymore/menu",
+    "items": [
+      {
+        "name": "Festive Loaded Fries",
+        "pricePence": 499
+      }
+    ],
+    "foundIn": [
+      "BT48"
+    ],
+    "located": true
+  },
+  {
     "id": "83485",
     "name": "Apache Pizza (Cityside)",
     "uniqueName": "apache-pizza-edenballymore",
     "address": "12 Waterloo Place, Londonderry, BT48 6BU",
     "postalCode": "BT48 6BU",
-    "lat": 54.997978,
+    "lat": 54.99798,
     "lng": -7.321187,
     "url": "https://www.just-eat.co.uk/restaurants-apache-pizza-edenballymore/menu",
     "items": [

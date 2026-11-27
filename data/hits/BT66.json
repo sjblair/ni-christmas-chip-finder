@@ -55,7 +55,7 @@
     "items": [
       {
         "name": "Festive  Fries",
-        "pricePence": 900
+        "pricePence": 990
       }
     ],
     "foundIn": [
@@ -149,7 +149,7 @@
     "uniqueName": "the-mill-cafe-and-bagel-bar-silverwood",
     "address": "21 High Street, Lurgan, BT66 8AH",
     "postalCode": "BT66 8AH",
-    "lat": 54.460473,
+    "lat": 54.460472,
     "lng": -6.328402,
     "url": "https://www.just-eat.co.uk/restaurants-the-mill-cafe-and-bagel-bar-silverwood/menu",
     "items": [
@@ -169,7 +169,7 @@
     "uniqueName": "chick-n-dip-from-dominos---lurgan-silverwood",
     "address": "Dominos, Unit 2 2 Gilpinstown Road, Lurgan, CRAIGAVON, BT66 8RL",
     "postalCode": "BT66 8RL",
-    "lat": 54.457393,
+    "lat": 54.457394,
     "lng": -6.356335,
     "url": "https://www.just-eat.co.uk/restaurants-chick-n-dip-from-dominos---lurgan-silverwood/menu",
     "items": [

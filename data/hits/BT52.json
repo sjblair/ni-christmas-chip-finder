@@ -45,7 +45,7 @@
     "uniqueName": "turfandsurf-bt51",
     "address": "11 Waterside, Colraine, BT51 3DP",
     "postalCode": "BT51 3DP",
-    "lat": 55.131778,
+    "lat": 55.13178,
     "lng": -6.67651,
     "url": "https://www.just-eat.co.uk/restaurants-turfandsurf-bt51/menu",
     "items": [
@@ -92,6 +92,26 @@
       {
         "name": "Festive Chips",
         "pricePence": 1000
+      }
+    ],
+    "foundIn": [
+      "BT52"
+    ],
+    "located": true
+  },
+  {
+    "id": "125703",
+    "name": "Bob and Berts - Coleraine",
+    "uniqueName": "bobandberts-coleraine",
+    "address": "32A The Diamond, Coleraine, BT52 1DP",
+    "postalCode": "BT52 1DP",
+    "lat": 55.131898,
+    "lng": -6.670875,
+    "url": "https://www.just-eat.co.uk/restaurants-bobandberts-coleraine/menu",
+    "items": [
+      {
+        "name": "Festive Loaded Fries",
+        "pricePence": 1345
       }
     ],
     "foundIn": [
@@ -160,26 +180,6 @@
     "located": true
   },
   {
-    "id": "300276",
-    "name": "CHICK \u2018N\u2019 DIP from Domino\u2019s - Coleraine",
-    "uniqueName": "chick-n-dip-from-dominos---coleraine-ballylintagh",
-    "address": "Dominos, 3 Dunmore Street, COLERAINE, BT52 1EL",
-    "postalCode": "BT52 1EL",
-    "lat": 55.129252,
-    "lng": -6.670828,
-    "url": "https://www.just-eat.co.uk/restaurants-chick-n-dip-from-dominos---coleraine-ballylintagh/menu",
-    "items": [
-      {
-        "name": "Loaded Fries - Festive",
-        "pricePence": 699
-      }
-    ],
-    "foundIn": [
-      "BT52"
-    ],
-    "located": true
-  },
-  {
     "id": "236435",
     "name": "Just Eat store 236435",
     "uniqueName": "",
@@ -200,12 +200,32 @@
     "located": false
   },
   {
+    "id": "300276",
+    "name": "CHICK \u2018N\u2019 DIP from Domino\u2019s - Coleraine",
+    "uniqueName": "chick-n-dip-from-dominos---coleraine-ballylintagh",
+    "address": "Dominos, 3 Dunmore Street, COLERAINE, BT52 1EL",
+    "postalCode": "BT52 1EL",
+    "lat": 55.129253,
+    "lng": -6.670828,
+    "url": "https://www.just-eat.co.uk/restaurants-chick-n-dip-from-dominos---coleraine-ballylintagh/menu",
+    "items": [
+      {
+        "name": "Loaded Fries - Festive",
+        "pricePence": 699
+      }
+    ],
+    "foundIn": [
+      "BT52"
+    ],
+    "located": true
+  },
+  {
     "id": "185300",
     "name": "Apache Pizza (Coleraine)",
     "uniqueName": "apache-pizza-coleraine-ballylintagh",
     "address": "9 Railway Road, Coleraine, BT52 1PD",
     "postalCode": "BT52 1PD",
-    "lat": 55.131998,
+    "lat": 55.131996,
     "lng": -6.665762,
     "url": "https://www.just-eat.co.uk/restaurants-apache-pizza-coleraine-ballylintagh/menu",
     "items": [

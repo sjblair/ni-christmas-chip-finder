@@ -24,26 +24,6 @@
     "located": false
   },
   {
-    "id": "197652",
-    "name": "J's Plaice",
-    "uniqueName": "js-plaice-comber",
-    "address": "43 South Street, Newtownards, BT23 4JT",
-    "postalCode": "BT23 4JT",
-    "lat": 54.591755,
-    "lng": -5.696792,
-    "url": "https://www.just-eat.co.uk/restaurants-js-plaice-comber/menu",
-    "items": [
-      {
-        "name": "Christmas Chips",
-        "pricePence": 1045
-      }
-    ],
-    "foundIn": [
-      "BT23"
-    ],
-    "located": true
-  },
-  {
     "id": "448774",
     "name": "Just Eat store 448774",
     "uniqueName": "",
@@ -66,6 +46,26 @@
       "BT23"
     ],
     "located": false
+  },
+  {
+    "id": "197652",
+    "name": "J's Plaice",
+    "uniqueName": "js-plaice-comber",
+    "address": "43 South Street, Newtownards, BT23 4JT",
+    "postalCode": "BT23 4JT",
+    "lat": 54.591755,
+    "lng": -5.696792,
+    "url": "https://www.just-eat.co.uk/restaurants-js-plaice-comber/menu",
+    "items": [
+      {
+        "name": "Christmas Chips",
+        "pricePence": 1045
+      }
+    ],
+    "foundIn": [
+      "BT23"
+    ],
+    "located": true
   },
   {
     "id": "443145",
@@ -113,7 +113,7 @@
     "uniqueName": "the-ranch-comber",
     "address": "31 West Street, Newtownards, BT23 4EN",
     "postalCode": "BT23 4EN",
-    "lat": 54.595091,
+    "lat": 54.595093,
     "lng": -5.699492,
     "url": "https://www.just-eat.co.uk/restaurants-the-ranch-comber/menu",
     "items": [
@@ -148,26 +148,6 @@
     "located": true
   },
   {
-    "id": "230626",
-    "name": "Just Eat store 230626",
-    "uniqueName": "",
-    "address": "",
-    "postalCode": "",
-    "lat": null,
-    "lng": null,
-    "url": "",
-    "items": [
-      {
-        "name": "Festive Chip",
-        "pricePence": 950
-      }
-    ],
-    "foundIn": [
-      "BT23"
-    ],
-    "located": false
-  },
-  {
     "id": "309376",
     "name": "Domino's - Comber",
     "uniqueName": "dominos---comber-comber",
@@ -193,7 +173,7 @@
     "uniqueName": "chick-n-dip-from-dominos---comber-comber",
     "address": "61 Castle Street, Comber, BT23 5DY",
     "postalCode": "BT23 5DY",
-    "lat": 54.551187,
+    "lat": 54.551186,
     "lng": -5.747308,
     "url": "https://www.just-eat.co.uk/restaurants-chick-n-dip-from-dominos---comber-comber/menu",
     "items": [
@@ -206,5 +186,25 @@
       "BT23"
     ],
     "located": true
+  },
+  {
+    "id": "230626",
+    "name": "Just Eat store 230626",
+    "uniqueName": "",
+    "address": "",
+    "postalCode": "",
+    "lat": null,
+    "lng": null,
+    "url": "",
+    "items": [
+      {
+        "name": "Festive Chip",
+        "pricePence": 950
+      }
+    ],
+    "foundIn": [
+      "BT23"
+    ],
+    "located": false
   }
 ]

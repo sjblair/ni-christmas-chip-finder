@@ -60,26 +60,6 @@
     "located": true
   },
   {
-    "id": "441516",
-    "name": "Hotstuff",
-    "uniqueName": "hotstuff-balloo",
-    "address": "17 ashbury avenue, Bangor, BT19 6TH",
-    "postalCode": "BT19 6TH",
-    "lat": 54.648437,
-    "lng": -5.635735,
-    "url": "https://www.just-eat.co.uk/restaurants-hotstuff-balloo/menu",
-    "items": [
-      {
-        "name": "Christmas Chip",
-        "pricePence": 1000
-      }
-    ],
-    "foundIn": [
-      "BT19"
-    ],
-    "located": true
-  },
-  {
     "id": "210823",
     "name": "Marciano\u2019s Plus",
     "uniqueName": "marcianos-plus-ballymagee",
@@ -104,6 +84,26 @@
     "located": true
   },
   {
+    "id": "441516",
+    "name": "Hotstuff",
+    "uniqueName": "hotstuff-balloo",
+    "address": "17 ashbury avenue, Bangor, BT19 6TH",
+    "postalCode": "BT19 6TH",
+    "lat": 54.648437,
+    "lng": -5.635735,
+    "url": "https://www.just-eat.co.uk/restaurants-hotstuff-balloo/menu",
+    "items": [
+      {
+        "name": "Christmas Chip",
+        "pricePence": 1000
+      }
+    ],
+    "foundIn": [
+      "BT19"
+    ],
+    "located": true
+  },
+  {
     "id": "443145",
     "name": "The Snack Shack- Bangor",
     "uniqueName": "the-snack-shack-ballymagee",
@@ -116,6 +116,46 @@
       {
         "name": "Christmas Chips",
         "pricePence": 850
+      }
+    ],
+    "foundIn": [
+      "BT19"
+    ],
+    "located": true
+  },
+  {
+    "id": "292472",
+    "name": "Phat B Burger",
+    "uniqueName": "phat-b-burger-ballymagee-",
+    "address": "9 High St Bangor BT20 5BG United Kingdom, Bangor (NIR), BT20 5BG",
+    "postalCode": "BT20 5BG",
+    "lat": 54.663665,
+    "lng": -5.666689,
+    "url": "https://www.just-eat.co.uk/restaurants-phat-b-burger-ballymagee-/menu",
+    "items": [
+      {
+        "name": "Festive Fries",
+        "pricePence": 1495
+      }
+    ],
+    "foundIn": [
+      "BT19"
+    ],
+    "located": true
+  },
+  {
+    "id": "73807",
+    "name": "Bebe Adrianos Mexicanos",
+    "uniqueName": "bebe-adrianos-mexicanos-ballymagee",
+    "address": "9-11 High Street, Bangor, BT20 5BG",
+    "postalCode": "BT20 5BG",
+    "lat": 54.663677,
+    "lng": -5.666242,
+    "url": "https://www.just-eat.co.uk/restaurants-bebe-adrianos-mexicanos-ballymagee/menu",
+    "items": [
+      {
+        "name": "Festive Fries",
+        "pricePence": 1495
       }
     ],
     "foundIn": [
@@ -149,7 +189,7 @@
     "uniqueName": "the-ranch-comber",
     "address": "31 West Street, Newtownards, BT23 4EN",
     "postalCode": "BT23 4EN",
-    "lat": 54.595091,
+    "lat": 54.595093,
     "lng": -5.699492,
     "url": "https://www.just-eat.co.uk/restaurants-the-ranch-comber/menu",
     "items": [
@@ -233,7 +273,7 @@
     "uniqueName": "chick-n-dip-from-dominos---bangor-ni-ballymagee",
     "address": "Dominos, 96 Abbey Street, BANGOR, BT20 4JB",
     "postalCode": "BT20 4JB",
-    "lat": 54.656958,
+    "lat": 54.65696,
     "lng": -5.674096,
     "url": "https://www.just-eat.co.uk/restaurants-chick-n-dip-from-dominos---bangor-ni-ballymagee/menu",
     "items": [
